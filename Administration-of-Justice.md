@@ -151,27 +151,27 @@
 
 #### Public nuisance
 
-a) Definition: Public nuisance is behaving in a manner which interferes with the rights of other people to use and/or enjoy public space.
+* a) Definition: Public nuisance is behaving in a manner which interferes with the rights of other people to use and/or enjoy public space.
 
-b) Sentencing: Restitution and Community work
+* b) Sentencing: Restitution and Community work
 
 #### Polluting environment
 
-a) Definition: Polluting environment is causing pollution of the green areas, water, air, ground, including underground, of the Free Republic of Liberland.
+* a) Definition: Polluting environment is causing pollution of the green areas, water, air, ground, including underground, of the Free Republic of Liberland.
 
-b) Sentencing: Restitution and Community work
+* b) Sentencing: Restitution and Community work
 
 #### Disregarding a court order
 
-a) Definition: Disregarding a court order is acting with intention or negligently in a manner which amounts to the breach of a court order affecting the defendant.
+* a) Definition: Disregarding a court order is acting with intention or negligently in a manner which amounts to the breach of a court order affecting the defendant.
 
-b) Sentencing: Restitution and Community work
+* b) Sentencing: Restitution and Community work
 
 #### Perjury
 
-a) Definition: Perjury is giving a testimony in a court of law, under oath, which is false with intention thereof or due to negligence.
+* a) Definition: Perjury is giving a testimony in a court of law, under oath, which is false with intention thereof or due to negligence.
 
-b) Sentencing: Restitution and Community work
+* b) Sentencing: Restitution and Community work
 
 
 ### Special Offences
