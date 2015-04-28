@@ -113,7 +113,7 @@
 
 #### Paedophilia
 
-* a) Definition: Paedophilia is engaging in a sexual intercourse with a person under the age of 16; or filming any person under the age of 18 during his or her sexual intercourse or any other sexual activity; or procuring any person under the age of 18 to engage in prostitution.
+* a) Definition: Paedophilia is engaging in a sexual intercourse with a person under the age of 14; or filming any person under the age of 18 during his or her sexual intercourse or any other sexual activity; or procuring any person under the age of 18 to engage in prostitution.
 
 
 #### Terrorism
