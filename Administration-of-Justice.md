@@ -18,7 +18,26 @@
 
 8. Any appointment made under this Part will expire 30 days after the first General Election.
 
-## Part II: Rights of the defendant
+## Part II: General provisions
+1.	Every person is criminally responsible according to his age and mental capability in comparison to an average person of the same age.
+2.	A felony or a misdemeanour may be fully or partly justified by circumstances under which the possible punishment would seem too harsh.
+3.	Subject to the provisions of this Code relating to the jurisdiction of particular courts, the following kinds of punishments may be imposed by a court on persons convicted of offences under this Code:
+*a.	imprisonment,
+*b.	fine,
+*c.	payment of compensation to injured party,
+*d.	restitution,
+*e.	community work,
+*f.	extradition.
+4.	Punishments in article 3 and can be charged separately or together depending on The Judge’s sense of justice and severity of the committed crime. The Judge specifies the length and the nature of the imprisonment or community work and the amount to be paid as fine or compensation or restitution to the victim
+5.	Committing a felony may be charged with any punishment in article 3 unless specified otherwise in this Code.
+6.	The Judge orders extradition where defendant’s country of origin recognises the authority of the Court.
+7.	The Judge orders imprisonment in lieu of extradition only where defendant’s country of origin does not recognise the authority of the Court or where the defendant might be subject to torture or other inhuman treatment.
+8.	Committing a misdemeanour may not be charged with imprisonment, unless the offender has been repeatedly convicted.
+9.	A person who is procuring, assisting and/or attempting to commit a criminal offence is to be charged as if he committed the particular crime. The punishment must be adequate according to his contribution to the crime.
+10.	Preparation of a felony is punishable according to a prepared felony.
+
+
+## Part III: Rights of the defendant
 
 1. No person shall be convicted, sentenced, or imprisoned without due process of law.
 
@@ -48,79 +67,69 @@
 
 * a) Definition: Murder is a killing of another person with intention thereof or with intention to cause bodily harm
 
-* b) Sentencing: Extradition or Imprisonment
 
 #### Manslaughter
 
 * a) Definition: Manslaughter is accidental killing of another person resulting from an act classified as another criminal offence under this Code other than inflicting bodily harm, or from negligence.
 
-* b) Sentencing: Extradition or Imprisonment
 
 #### Fraud
 
 * a) Definition: Fraud is deliberately deceiving another person in order to secure unfair or unlawful gain.
 
-* b) Sentencing: Extradition or Imprisonment
 
 #### Theft
 
 * a) Definition: Theft is appropriating the property of another natural and/or legal person without consent, with intention to keep it, knowing it does not belong to oneself or being negligent as to that.
 
-* b) Sentencing: Extradition or Imprisonment
+
+#### False Imprisonment
+
+* a) Definition: False imprisonment is substantially restricting the freedom of movement of another person with use of force or threat thereof.
 
 #### Burglary
 
 * a) Definition: Burglary is trespassing to the property of another natural and/or legal person for the purposes of committing an act which is classified as another criminal offence under this Code.
 
-* b) Sentencing: Extradition or Imprisonment
 
 #### Robbery
 
 * a) Definition: Robbery is appropriating the property of another natural and/or legal person without consent, with intention to keep it, and with the use of force or threat thereof, knowing it does not belong to oneself or being negligent as to that.
 
-* b) Sentencing: Extradition or Imprisonment
-
 #### Bribery
 
 * a) Definition: Bribery is offering a reward for a service where no payment is required, to any agent of the Public Administration.
 
-* b) Sentencing: Extradition or Imprisonment
 
 #### Accepting Bribery
 
 * a) Definition: Accepting Bribery is accepting a reward or an intention thereof and/or demanding a reward by any agent of the Public Administration in exchange for service where no payment is required.
 
-* b) Sentencing: Extradition or Imprisonment
 
 #### Rape
 
 * a) Definition: Rape is engaging in a sexual intercourse or any other sexual activity with another person without his or her consent.
 
-* b) Sentencing: Extradition or Imprisonment
 
 #### Paedophilia
 
 * a) Definition: Paedophilia is engaging in a sexual intercourse with a person under the age of 16; or filming any person under the age of 18 during his or her sexual intercourse or any other sexual activity; or procuring any person under the age of 18 to engage in prostitution.
 
-* b) Sentencing: Extradition or Imprisonment
 
 #### Terrorism
 
 * a) Definition: Terrorism is intentionally committing an act of terrorism which causes property damage, harm to persons, animals, causing deaths of persons, animals, with the use of explosive, biological, chemical, nuclear, digital weapon.
 
-* b) Sentencing: Extradition or Imprisonment
 
 #### Hijacking
 
 * a) Definition: Hijacking is intentionally hijacking the property of another for the purposes of committing an act classified as another criminal offence under this Code.
 
-* b) Sentencing: Extradition or Imprisonment
 
 #### Forgery
 
 * a) Definition: Forgery is forging an official document or any currency used as a medium of exchange.
 
-* b) Sentencing: Extradition or Imprisonment
 
 
 ### Misdemeanour
@@ -129,72 +138,37 @@
 
 * a) Definition: Damage to property is causing damage to the property of another natural and/or legal person with intention thereof or due to negligence.
 
-* b) Sentencing: Restitution and Community work
 
 #### Assault
 
 * a) Definition: Infliction of bodily harm is inflicting bodily harm, either physical or psychological, onto another person, with intention thereof or due to negligence.
 
-* b) Sentencing: Community Work
-
-#### False Imprisonment
-
-* a) Definition: False imprisonment is substantially restricting the freedom of movement of another person with use of force or threat thereof.
-
-* b) Sentencing: Restitution and Community work
 
 #### Cruelty to animals
 
 * a) Definition: Cruelty to animals is inflicting bodily harm onto any animal, exceeding the limits of disciplining, for the purposes of causing this animal to suffer, with intention thereof or due to negligence.
 
-* b) Sentencing: Restitution and Community work
 
 #### Public nuisance
 
 * a) Definition: Public nuisance is behaving in a manner which interferes with the rights of other people to use and/or enjoy public space.
 
-* b) Sentencing: Restitution and Community work
 
 #### Polluting environment
 
 * a) Definition: Polluting environment is causing pollution of the green areas, water, air, ground, including underground, of the Free Republic of Liberland.
 
-* b) Sentencing: Restitution and Community work
 
 #### Disregarding a court order
 
 * a) Definition: Disregarding a court order is acting with intention or negligently in a manner which amounts to the breach of a court order affecting the defendant.
 
-* b) Sentencing: Restitution and Community work
 
 #### Perjury
 
 * a) Definition: Perjury is giving a testimony in a court of law, under oath, which is false with intention thereof or due to negligence.
 
-* b) Sentencing: Restitution and Community work
-
-
-### Special Offences
-
-#### Procuring a person to commit a criminal offence
-
-* a) Definition: Procuring a person to commit a criminal offence is causing another person to commit another criminal offence under this Code by the use of force or threat thereof, blackmail, financial incentive.
-
-* b) Sentencing: Restitution and Community work OR Extradition or Imprisonment
-
-#### Assisting in committing a criminal offence
-
-* a) Definition: Assisting in committing a criminal offence is assisting another person in committing another criminal offence under this Code by aiding in committing this offence, counselling, abetting as to how to commit the offence.
-
-* b) Sentencing: Restitution and Community work OR Extradition or Imprisonment
-
-#### Attempting to commit a criminal offence
-
-* a) Definition: Attempting to commit a criminal offence is attempting to commit another criminal offence under this Code, whether it is possible or not, but failing for some reason at any stage before fully completing the offence intended.  
-
-* b) Sentencing: Restitution and Community work OR Extradition or Imprisonment
-
-## Part III: Procedures
+## Part IV: Procedures
 
 ### Before the Trial
 
@@ -237,15 +211,7 @@
 11. The verdict and sentence given in the Supreme Court are final.
 
 
-### Sentencing
-
-20. The Judge sentences the defendant to either extradition or imprisonment, or financial restitution and community work as provided by the Act.
-
-21. The Judge specifies the length and the nature of the community work and the amount to be paid as restitution to the victim.
-
-22. The Judge orders extradition where defendant’s country of origin recognises the authority of the Court.
-
-23. The Judge orders imprisonment in lieu of extradition only where defendant’s country of origin does not recognise the authority of the Court or where the defendant might be subject to torture or other inhuman treatment.
+### Execution
 
 24. The Sheriffs of the Free Republic of Liberland are responsible for ensuring that the verdict of the Court is complied with.
 
