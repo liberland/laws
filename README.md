@@ -5,6 +5,7 @@
 * [Provisional Administration of Justice](The-Articles-of-the-Preparatory-Committee.md)
 * [Adjudication of Civil Disputes](Adjudication-of-Civil-Disputes.md)
 * [The Articles of the Preparatory Committee](The-Articles-of-the-Preparatory-Committee.md)
+* [Land Ownership](Land-Ownership.md)
 
 ## Related documents
 

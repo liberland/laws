@@ -1,4 +1,4 @@
-# Land Ownership 
+# Land Ownership
 
 1. All land within the territory of the Free Republic of Liberland must be registered with the Land Register.
 
