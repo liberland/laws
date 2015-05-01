@@ -2,10 +2,12 @@
 
 # Liberland Laws and Provisions
 
-* [Provisional Administration of Justice](The-Articles-of-the-Preparatory-Committee.md)
-* [Adjudication of Civil Disputes](Adjudication-of-Civil-Disputes.md)
-* [The Articles of the Preparatory Committee](The-Articles-of-the-Preparatory-Committee.md)
-* [Land Ownership](Land-Ownership.md)
+## Drafts
+
+* [Provisional Administration of Justice](drafts/The_Articles_of_the_Preparatory_Committee.md)
+* [Adjudication of Civil Disputes](drafts/Adjudication_of_Civil_Disputes.md)
+* [The Articles of the Preparatory Committee](drafts/The_Articles_of_the_Preparatory_Committee.md)
+* [Land Ownership](drafts/Land_Ownership.md)
 
 ## Related documents
 
