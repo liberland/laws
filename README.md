@@ -12,3 +12,9 @@
 ## Related documents
 
 * [Constitution](https://github.com/liberland/constitution)
+
+## License
+
+The entire contents of the repository is open-source work licensed under [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/). For more info see [LICENSE](LICENSE).
+
+[![https://creativecommons.org/publicdomain/zero/1.0/](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
