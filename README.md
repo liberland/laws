@@ -8,6 +8,7 @@
 * [Adjudication of Civil Disputes](drafts/Adjudication_of_Civil_Disputes.md)
 * [The Articles of the Preparatory Committee](drafts/The_Articles_of_the_Preparatory_Committee.md)
 * [Land Ownership](drafts/Land_Ownership.md)
+* [Corporate Regulations](drafts/Corporate_Regulations.md)
 
 ## Related documents
 
