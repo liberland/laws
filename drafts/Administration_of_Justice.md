@@ -148,11 +148,6 @@
 * i) Definition: Public nuisance is behaving in a manner which interferes with the rights of other people to use and/or enjoy public space.
 * ii) Sentencing: c. 
 
-#### Polluting environment
-
-* i) Definition: Polluting environment is causing pollution of the green areas, water, air, ground, including underground, of the Free Republic of Liberland.
-* ii) Sentencing: c. 
-
 #### Disregarding a court order
 
 * i) Definition: Disregarding a court order is acting with intention or negligently in a manner which amounts to the breach of a court order affecting the defendant.
