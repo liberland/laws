@@ -20,23 +20,23 @@
 
 ## Part II: General provisions
 
-1.	Every person is criminally responsible according to his age and mental capability in comparison to an average person of the same age.
+1. Every person is criminally responsible according to his age and mental capability in comparison to an average person of the same age.
 
-2.	Subject to the provisions of this Code relating to the jurisdiction of particular courts, the following kinds of punishments may be imposed by a court on persons convicted of offences under this Code:
-*a.	imprisonment,
-*b.	financial restitution,
-*c.	community work,
-*d.	extradition.
+2. Subject to the provisions of this Code relating to the jurisdiction of particular courts, the following kinds of punishments may be imposed by a court on persons convicted of offences under this Code:
+  * a. imprisonment,
+  * b. financial restitution,
+  * c. community work,
+  * d. extradition.
 
-3.	Punishments listed in article 3 can be charged separately or together depending on the Judge’s sense of justice and severity of the committed crime. The Judge specifies the length and the nature of the imprisonment or community work and the amount to be paid as fine or compensation or restitution to the victim.
+3. Punishments listed in article 3 can be charged separately or together depending on the Judge’s sense of justice and severity of the committed crime. The Judge specifies the length and the nature of the imprisonment or community work and the amount to be paid as fine or compensation or restitution to the victim.
 
-4.	The Judge orders extradition where defendant’s country of origin recognises the authority of the Court.
+4. The Judge orders extradition where defendant’s country of origin recognises the authority of the Court.
 
-5.	The Judge orders imprisonment in lieu of extradition only where defendant’s country of origin does not recognise the authority of the Court or where the defendant might be subject to torture or other inhuman treatment.
+5. The Judge orders imprisonment in lieu of extradition only where defendant’s country of origin does not recognise the authority of the Court or where the defendant might be subject to torture or other inhuman treatment.
 
-6.	Person convicted of committing a misdemeanour may be charged with imprisonment if he or she committs the offence repeatedly.
+6. Person convicted of committing a misdemeanour may be charged with imprisonment if he or she committs the offence repeatedly.
 
-7.	A person who is procuring, assisting or attempting to commit a criminal offence is to be charged as if he committed the particular crime. The punishment must be adequate according to his contribution to the crime.
+7. A person who is procuring, assisting or attempting to commit a criminal offence is to be charged as if he committed the particular crime. The punishment must be adequate according to his contribution to the crime.
 
 
 ## Part III: Rights of the defendant
@@ -67,101 +67,101 @@
 
 #### Murder
 
-* i) Definition: Murder is a killing of another person with intention thereof or with intention to cause bodily harm
-* ii) Sentencing: a. or d.
+1. Definition: Murder is a killing of another person with intention thereof or with intention to cause bodily harm
+2. Sentencing: a. or d.
 
 #### Manslaughter
 
-* i) Definition: Manslaughter is accidental killing of another person resulting from an act classified as another criminal offence under this Code other than inflicting bodily harm, or from negligence.
-* ii) Sentencing: a. or d.
+1. Definition: Manslaughter is accidental killing of another person resulting from an act classified as another criminal offence under this Code other than inflicting bodily harm, or from negligence.
+2. Sentencing: a. or d.
 
 #### Fraud
 
-* i) Definition: Fraud is deliberately deceiving another person in order to secure unfair or unlawful gain.
-* ii) Sentencing: a. or d. and b.
+1. Definition: Fraud is deliberately deceiving another person in order to secure unfair or unlawful gain.
+2. Sentencing: a. or d. and b.
 
 #### Theft
 
-* i) Definition: Theft is appropriating the property of another natural and/or legal person without consent, with intention to keep it, knowing it does not belong to oneself or being negligent as to that.
-* ii) Sentencing: b. or c.
+1. Definition: Theft is appropriating the property of another natural and/or legal person without consent, with intention to keep it, knowing it does not belong to oneself or being negligent as to that.
+2. Sentencing: b. or c.
 
 #### False Imprisonment
 
-* i) Definition: False imprisonment is substantially restricting the freedom of movement of another person with use of force or threat thereof.
-* ii) Sentencing: a. or d.
+1. Definition: False imprisonment is substantially restricting the freedom of movement of another person with use of force or threat thereof.
+2. Sentencing: a. or d.
 
 #### Burglary
 
-* i) Definition: Burglary is trespassing to the property of another natural and/or legal person for the purposes of committing an act which is classified as another criminal offence under this Code.
-* ii) Sentencing: a. or d. and b.
+1. Definition: Burglary is trespassing to the property of another natural and/or legal person for the purposes of committing an act which is classified as another criminal offence under this Code.
+2. Sentencing: a. or d. and b.
 
 #### Robbery
 
-* i) Definition: Robbery is appropriating the property of another natural and/or legal person without consent, with intention to keep it, and with the use of force or threat thereof, knowing it does not belong to oneself or being negligent as to that.
-* ii) Sentencing: a. or d. and b.
+1. Definition: Robbery is appropriating the property of another natural and/or legal person without consent, with intention to keep it, and with the use of force or threat thereof, knowing it does not belong to oneself or being negligent as to that.
+2. Sentencing: a. or d. and b.
 
 #### Bribery
 
-* i) Definition: Bribery is offering a reward for a service where no payment is required, to any agent of the Public Administration.
-* ii) Sentencing: c. and b.
+1. Definition: Bribery is offering a reward for a service where no payment is required, to any agent of the Public Administration.
+2. Sentencing: c. and b.
 
 #### Accepting Bribery
 
-* i) Definition: Accepting Bribery is accepting a reward or an intention thereof and/or demanding a reward by any agent of the Public Administration in exchange for service where no payment is required.
-* ii) Sentencing: a. or d.
+1. Definition: Accepting Bribery is accepting a reward or an intention thereof and/or demanding a reward by any agent of the Public Administration in exchange for service where no payment is required.
+2. Sentencing: a. or d.
 
 #### Rape
 
-* i) Definition: Rape is engaging in a sexual intercourse or any other sexual activity with another person without his or her consent.
-* ii) Sentencing: a. or d.
+1. Definition: Rape is engaging in a sexual intercourse or any other sexual activity with another person without his or her consent.
+2. Sentencing: a. or d.
 
 #### Paedophilia
 
-* i) Definition: Paedophilia is engaging in a sexual intercourse with a person under the age of 14; or filming any person under the age of 18 during his or her sexual intercourse or any other sexual activity; or procuring any person under the age of 18 to engage in prostitution.
-* ii) Sentencing: a. or d.
+1. Definition: Paedophilia is engaging in a sexual intercourse with a person under the age of 14; or filming any person under the age of 18 during his or her sexual intercourse or any other sexual activity; or procuring any person under the age of 18 to engage in prostitution.
+2. Sentencing: a. or d.
 
 #### Hijacking
 
-* a) Definition: Hijacking is intentionally hijacking the property of another for the purposes of committing an act classified as another criminal offence under this Code.
-* ii) Sentencing: a. or d.
+1. Definition: Hijacking is intentionally hijacking the property of another for the purposes of committing an act classified as another criminal offence under this Code.
+2. Sentencing: a. or d.
 
 
 ### Misdemeanour
 
 #### Damage to property
 
-* i) Definition: Damage to property is causing damage to the property of another natural and/or legal person with intention thereof or due to negligence.
-* ii) Sentencing: c. and b.
+1. Definition: Damage to property is causing damage to the property of another natural and/or legal person with intention thereof or due to negligence.
+2. Sentencing: c. and b.
 
 #### Assault
 
-* i) Definition: Infliction of bodily harm is inflicting bodily harm, either physical or psychological, onto another person, with intention thereof or due to negligence.
-* ii) Sentencing: c. and b.
+1. Definition: Infliction of bodily harm is inflicting bodily harm, either physical or psychological, onto another person, with intention thereof or due to negligence.
+2. Sentencing: c. and b.
 
 #### Cruelty to animals
 
-* i) Definition: Cruelty to animals is inflicting bodily harm onto any animal, exceeding the limits of disciplining, for the purposes of causing this animal to suffer, with intention thereof or due to negligence.
-* ii) Sentencing: c. 
+1. Definition: Cruelty to animals is inflicting bodily harm onto any animal, exceeding the limits of disciplining, for the purposes of causing this animal to suffer, with intention thereof or due to negligence.
+2. Sentencing: c.
 
 #### Public nuisance
 
-* i) Definition: Public nuisance is behaving in a manner which interferes with the rights of other people to use and/or enjoy public space.
-* ii) Sentencing: c. 
+1. Definition: Public nuisance is behaving in a manner which interferes with the rights of other people to use and/or enjoy public space.
+2. Sentencing: c.
 
 #### Polluting environment
 
-* i) Definition: Polluting environment is causing pollution of the green areas, water, air, ground, including underground, of the Free Republic of Liberland.
-* ii) Sentencing: c. 
+1. Definition: Polluting environment is causing pollution of the green areas, water, air, ground, including underground, of the Free Republic of Liberland.
+2. Sentencing: c.
 
 #### Disregarding a court order
 
-* i) Definition: Disregarding a court order is acting with intention or negligently in a manner which amounts to the breach of a court order affecting the defendant.
-* ii) Sentencing: c. 
+1. Definition: Disregarding a court order is acting with intention or negligently in a manner which amounts to the breach of a court order affecting the defendant.
+2. Sentencing: c.
 
 #### Perjury
 
-* i) Definition: Perjury is giving a testimony in a court of law, under oath, which is false with intention thereof or due to negligence.
-* ii) Sentencing: c. and b.
+1. Definition: Perjury is giving a testimony in a court of law, under oath, which is false with intention thereof or due to negligence.
+2. Sentencing: c. and b.
 
 
 ## Part IV: Procedures
@@ -210,5 +210,4 @@
 ### Execution
 
 24. The Sheriffs of the Free Republic of Liberland are responsible for ensuring that the verdict of the Court is complied with.
-
 
