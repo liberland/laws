@@ -20,7 +20,7 @@
 
 10. Creating a charge over land cannot be completed without the confirmation of its registration with the Land Register.
 
-11. The owner of the land which is properly registered has the right to exclude any person, other than the Agent of the Public Authority acting upon a Warrant issues by the Judge or any person acting upon the order issued by the Court, from his or her property as a trespasser.
+11. The owner of the land which is properly registered has the right to exclude any person, other than the Agent of the Public Authority acting upon a Warrant issued by the Judge or any person acting upon the order issued by the Court, from his or her property as a trespasser.
 
 12. Any branch of the Public Administration which considers itself an owner of land used for its statutory needs is under obligation to register the ownership and potential charges over that land in accordance with the provisions of this Act.
 
