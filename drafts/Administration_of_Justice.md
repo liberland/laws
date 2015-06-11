@@ -172,7 +172,7 @@
 
 2. A person accused of committing any of the misdemeanours will not be prosecuted if he or she agrees to immediately leave the territory of the Free Republic of Liberland and not to come back.
 
-3. A person suspected of committing one or more of the criminal offences listed in Part IV may be detained by the Sheriffs for no more than 12 hours unless the Warrant is issued by the Judge of the Criminal Court, if it is plausible that he or she will try to escape or eradicate evidence.
+3. A person suspected of committing one or more of the criminal offences listed in Part IV may be detained by the Sheriffs for no more than 12 hours unless the Warrant is issued by the Judge of the Criminal Court, if it is plausible that he or she will try to escape or destroy/taint evidence.
 
 4. The Judge of the Criminal Court can issue the Warrant upon the request made by the Chief Prosecutor if he or she considers the evidence submitted to give solid grounds to the possibility of conviction upon the criminal trial.
 
