@@ -122,7 +122,7 @@
 
 #### Hijacking
 
-1. Definition: Hijacking is intentionally hijacking the property of another for the purposes of committing an act classified as another criminal offence under this Code.
+1. Definition: Hijacking is intentionally commandeering the property of another for the purposes of committing an act classified as another criminal offence under this Code.
 2. Sentencing: a. or d.
 
 
