@@ -22,13 +22,13 @@
 
 1. Every person is criminally responsible according to his age and mental capability in comparison to an average person of the same age.
 
-2. Subject to the provisions of this Code relating to the jurisdiction of particular courts, the following kinds of punishments may be imposed by a court on persons convicted of offences under this Code:
+2. Subject to the provisions of this Code relating to the jurisdiction of particular courts, the following kinds of sentences may be imposed by a court on persons convicted of offences under this Code:
   * a. imprisonment,
   * b. financial restitution,
   * c. community work,
   * d. extradition.
 
-3. Punishments listed in article 3 can be charged separately or together depending on the Judge’s sense of justice and severity of the committed crime. The Judge specifies the length and the nature of the imprisonment or community work and the amount to be paid as fine or compensation or restitution to the victim.
+3. Sentences listed in article 3 can be charged separately or together depending on the Judge’s sense of justice and severity of the committed crime. The Judge specifies the length and the nature of the imprisonment or community work and the amount to be paid as fine or compensation or restitution to the victim.
 
 4. The Judge orders extradition where defendant’s country of origin recognises the authority of the Court.
 
@@ -36,7 +36,7 @@
 
 6. Person convicted of committing a misdemeanour may be charged with imprisonment if he or she commits the offence repeatedly.
 
-7. A person who is procuring, assisting or attempting to commit a criminal offence is to be charged as if he committed the particular crime. The punishment must be adequate according to his contribution to the crime.
+7. A person who is procuring, assisting or attempting to commit a criminal offence is to be charged as if he committed the particular crime. The sentence(s) shall be adequate according to his contribution to the crime.
 
 
 ## Part III: Rights of the defendant
