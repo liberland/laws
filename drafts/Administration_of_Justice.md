@@ -34,7 +34,7 @@
 
 5. The Judge orders imprisonment in lieu of extradition only where defendant’s country of origin does not recognise the authority of the Court or where the defendant might be subject to torture or other inhuman treatment.
 
-6. Person convicted of committing a misdemeanour may be charged with imprisonment if he or she committs the offence repeatedly.
+6. Person convicted of committing a misdemeanour may be charged with imprisonment if he or she commits the offence repeatedly.
 
 7. A person who is procuring, assisting or attempting to commit a criminal offence is to be charged as if he committed the particular crime. The punishment must be adequate according to his contribution to the crime.
 
@@ -61,7 +61,7 @@
 
 10. The defendant has the right to be provided with the services of an interpreter if he or she does not speak the language in which the criminal proceedings are conducted.
 
-## Part III: Criminal Offences
+## Part IV: Criminal Offences
 
 ### Felonies
 
@@ -164,7 +164,7 @@
 2. Sentencing: c. and b.
 
 
-## Part IV: Procedures
+## Part V: Procedures
 
 ### Before the Trial
 
@@ -172,7 +172,7 @@
 
 2. A person accused of committing any of the misdemeanours will not be prosecuted if he or she agrees to immediately leave the territory of the Free Republic of Liberland and not to come back.
 
-3. A person suspected of committing one or more of the criminal offences listed in Part II might be detained by the Sheriffs for no more than 12 hours unless the Warrant is issued by the Judge of the Criminal Court, if it is plausible that he or she will try to escape or erase evidence.
+3. A person suspected of committing one or more of the criminal offences listed in Part IV may be detained by the Sheriffs for no more than 12 hours unless the Warrant is issued by the Judge of the Criminal Court, if it is plausible that he or she will try to escape or tamper with or destroy evidence.
 
 4. The Judge of the Criminal Court can issue the Warrant upon the request made by the Chief Prosecutor if he or she considers the evidence submitted to give solid grounds to the possibility of conviction upon the criminal trial.
 
