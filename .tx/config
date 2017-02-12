@@ -1,0 +1,33 @@
+[main]
+host = https://www.transifex.com
+
+[laws.Civil_Disputes]
+file_filter = translations/<lang>/Adjudication_of_Civil_Disputes_<lang>.md
+source_file = drafts/Adjudication_of_Civil_Disputes.md
+source_lang = en
+type = TXT
+
+[laws.Administration_of_Justice]
+file_filter = translations/<lang>/Administration_of_Justice_<lang>.md
+source_file = drafts/Administration_of_Justice.md
+source_lang = en
+type = TXT
+
+[laws.Corporate_Regulations]
+file_filter = translations/<lang>/Corporate_Regulations_<lang>.md
+source_file = drafts/Corporate_Regulations.md
+source_lang = en
+type = TXT
+
+[laws.Land_Ownership]
+file_filter = translations/<lang>/Land_Ownership_<lang>.md
+source_file = drafts/Land_Ownership.md
+source_lang = en
+type = TXT
+
+[laws.Preparatory_Committee]
+file_filter = translations/<lang>/The_Articles_of_the_Preparatory_Committee_<lang>.md
+source_file = drafts/The_Articles_of_the_Preparatory_Committee.md
+source_lang = en
+type = TXT
+
