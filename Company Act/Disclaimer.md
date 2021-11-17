@@ -8,7 +8,7 @@ These Terms and Conditions are temporary and shall be valid only until such a ti
 
 Rest assured that we are doing all that is in our power to hasten the day on which this document will be delegated to the archives of history.
 
-# **Art. 1**
+**Art. 1**
 
 **The General Provision**
 
