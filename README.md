@@ -1,6 +1,6 @@
 [![liberland](http://liberland.org/addons/image/Liberland_znak_small.png)](https://github.com/liberland/liberland)
 
-# Liberland Laws and Provisions
+# Liberland Laws and Regulations
 
 ## Interim Laws
 * [Company Law](https://github.com/liberland/laws/blob/Laws-Current/Company%20Act/Company%20Act.md)
