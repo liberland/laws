@@ -3,12 +3,12 @@
 # Liberland Laws and Provisions
 
 ## Interim Laws
+* [The Articles of the Preparatory Committee](drafts/The_Articles_of_the_Preparatory_Committee.md)
 * [Company Law](https://github.com/liberland/laws/blob/Laws-Current/Company%20Act/Company%20Act.md)
 
-## Pre-2021
+## Pre-2021 drafts
 * [Provisional Administration of Justice](drafts/The_Articles_of_the_Preparatory_Committee.md)
 * [Adjudication of Civil Disputes](drafts/Adjudication_of_Civil_Disputes.md)
-* [The Articles of the Preparatory Committee](drafts/The_Articles_of_the_Preparatory_Committee.md)
 * [Land Ownership](https://github.com/liberland/laws/blob/Laws-Current/drafts/Land_Ownership.md)
 
 ## Related documents
