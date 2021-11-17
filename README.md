@@ -12,7 +12,7 @@
 
 ## Related documents
 
-* [Constitution](https://github.com/liberland/constitution)
+* [Constitution](https://github.com/liberland/constitution/blob/master/Constitution.md)
 
 ## License
 
