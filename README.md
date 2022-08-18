@@ -1,4 +1,13 @@
 # Liberland Laws and Regulations
+Welcome to the Liberland Laws repository! Here, we store drafted (interim) Laws and draft new Laws. 
+Note: Interim Laws mean Laws which are adopted by the Cabinet rather than the (as of yet non-existent) Referendum.
+
+We draft in Google Docs and when a milestone is reached, a folder will be made in this repo and a Markdown version of the draft placed there. Adopting as an interim law shall be the last milestone for the time being, until a revision or the final adoption by the Referendum.
+
+Please open a draft from the list below to access the draft of a proposed Law. You can place your recommendations there as remarks or redline. 
+To see the state and the progress of the drafting, please go to **issues**.
+To formulate a proposal which is more complex than what is handy for remarks or to start a discussion on a broader revision, or make a request for a new Law, please go to **discussions**.
+To see the big picture of the drafting, please go to **projects**.
 
 ## Interim Laws
 * [The Articles of the Preparatory Committee](drafts/The_Articles_of_the_Preparatory_Committee.md)
@@ -24,11 +33,9 @@
 * [Land Ownership](https://github.com/liberland/laws/blob/Laws-Current/drafts/Land_Ownership.md)
 
 ## Related documents
-
 * [Constitution](https://github.com/liberland/constitution/blob/master/Constitution.md)
 
 ## License
-
 The entire contents of the repository is open-source work licensed under [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/). For more info see [LICENSE](LICENSE).
 
 [![https://creativecommons.org/publicdomain/zero/1.0/](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
