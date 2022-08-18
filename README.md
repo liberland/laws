@@ -5,9 +5,9 @@ Note: Interim Laws mean Laws which are adopted by the Cabinet rather than the (a
 We draft in Google Docs and when a milestone is reached, a folder will be made in this repo and a Markdown version of the draft placed there. Adopting as an interim law shall be the last milestone for the time being, until a revision or the final adoption by the Referendum.
 
 Please open a draft from the list below to access the draft of a proposed Law. You can place your recommendations there as remarks or redline. 
-To see the state and the progress of the drafting, please go to (**issues**)[https://github.com/liberland/laws/issues].  
-To formulate a proposal which is more complex than what is handy for remarks or to start a discussion on a broader revision, or make a request for a new Law, please go to (**discussions**)[https://github.com/liberland/laws/discussions].  
-To see the big picture of the drafting, please go to (**projects**)[https://github.com/liberland/laws/projects?type=new].
+To see the state and the progress of the drafting, please go to (issues)[https://github.com/liberland/laws/issues].  
+To formulate a proposal which is more complex than what is handy for remarks or to start a discussion on a broader revision, or make a request for a new Law, please go to (discussions)[https://github.com/liberland/laws/discussions].  
+To see the big picture of the drafting, please go to (projects)[https://github.com/liberland/laws/projects?type=new].
 
 ## Interim Laws
 * [The Articles of the Preparatory Committee](drafts/The_Articles_of_the_Preparatory_Committee.md)
