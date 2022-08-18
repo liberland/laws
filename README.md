@@ -9,6 +9,8 @@ To see the state and the progress of the drafting, please go to [issues](https:/
 To formulate a proposal which is more complex than what is handy for remarks or to start a discussion on a broader revision, or make a request for a new Law, please go to [discussions](https://github.com/liberland/laws/discussions).  
 To see the big picture of the drafting, please go to [projects](https://github.com/liberland/laws/projects?type=new).
 
+If you want to contribute, please give us (justice@liberland.org) your GitHub handle to be added to this repo!
+
 ## Interim Laws
 * [The Articles of the Preparatory Committee](drafts/The_Articles_of_the_Preparatory_Committee.md)
 * [Company Law](https://github.com/liberland/laws/blob/Laws-Current/Company%20Act/Company%20Act.md)
