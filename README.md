@@ -1,3 +1,5 @@
+![Liberland Logo](https://github.com/liberland/data/blob/master/2022-10-19%20Liberland%20Logo.png)
+
 # Liberland Laws
 Welcome to the Liberland Laws repository! Here, we store drafted (interim) Laws and draft new Laws. 
 Note: Interim Laws mean Laws which are adopted by the Cabinet rather than the (as of yet non-existent) Referendum.
