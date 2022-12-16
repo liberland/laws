@@ -14,15 +14,14 @@ If you want to contribute, please give us (justice@liberland.org) your GitHub ha
 
 ## Interim Laws (in force)
 * [The Articles of the Preparatory Committee](https://github.com/liberland/laws/blob/Laws-Current/In%20Force%20(Interim)/Articles%20of%20the%20Preparatory%20Committee.md)
-* [Company Law](https://github.com/liberland/laws/blob/Laws-Current/Company%20Act/Company%20Act.md)
-
+* [Company Law](https://github.com/liberland/laws/blob/Laws-Current/In%20Force%20(Interim)/Company%20Law.md)
 ## Revisions
 Amendments of existing laws, ready for all kinds of recommendations from your side.
-* [Company Law Revision](https://docs.google.com/document/d/1XZ5LONFomraBrQkyNNVyv_wSxZ46gjMYUupM2vyd7bY/edit#heading=h.mjq150ri2oao)
+* [Company Law Revision](https://github.com/liberland/laws/blob/Laws-Current/Revisions/Company%20Law%20Revision.md))
 
 ## Consolidated (waiting for Cabinet Review)
 Ready for your recommendations with technical and issues regarding single sections or paragraphs preferable.
-* [Citizenship Law](https://docs.google.com/document/d/1J2o5N9JDOzBXRkefe9Azm6P6vAwqCxw7B2jcKoHSjhg/edit)
+* [Citizenship Law](https://github.com/liberland/laws/blob/Laws-Current/Consolidated/Citizenship%20Law.md)
 
 ## Drafting
 Ready for your recommendations, including thorought ones and requests to not draft/draft something else.
