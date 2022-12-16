@@ -27,7 +27,7 @@ Ready for your recommendations with technical and issues regarding single sectio
 Ready for your recommendations, including thorought ones and requests to not draft/draft something else.
 * [Contract Law](https://github.com/liberland/laws/blob/Laws-Current/Drafts/Contracts%20Law.md)
 * [Judicial Process Law](https://github.com/liberland/laws/edit/Laws-Current/Drafts/Judical%20Process%20Law.md)
-* [Real Estate Law](https://docs.google.com/document/d/1RXE5WuyBgOdxIGDF6Hve010-2Rky-IYut8Jqxx-FHAs/edit)
+* [Real Estate Law](https://github.com/liberland/laws/blob/Laws-Current/Drafts/Real%20Estate%20Law.md)
 * [Police Law](https://github.com/liberland/laws/blob/Laws-Current/Drafts/Police%20Law.md)
 * [Procurement Law](https://github.com/liberland/laws/blob/Laws-Current/Drafts/Procurement%20Law.md)
 * [Referendum Law](https://docs.google.com/document/d/1MjsvAGdAaJzmIrT-Pbh6BAOt9UnSo2u8ZEcrYGuEQtY/edit#heading=h.ijbruubdx0o9)
