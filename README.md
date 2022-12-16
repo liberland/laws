@@ -17,7 +17,7 @@ If you want to contribute, please give us (justice@liberland.org) your GitHub ha
 * [Company Law](https://github.com/liberland/laws/blob/Laws-Current/In%20Force%20(Interim)/Company%20Law.md)
 ## Revisions
 Amendments of existing laws, ready for all kinds of recommendations from your side.
-* [Company Law Revision](https://github.com/liberland/laws/blob/Laws-Current/Revisions/Company%20Law%20Revision.md))
+* [Company Law Revision](https://github.com/liberland/laws/blob/Laws-Current/Revisions/Company%20Law%20Revision.md)
 
 ## Consolidated (waiting for Cabinet Review)
 Ready for your recommendations with technical and issues regarding single sections or paragraphs preferable.
