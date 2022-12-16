@@ -26,7 +26,7 @@ Ready for your recommendations with technical and issues regarding single sectio
 ## Drafting
 Ready for your recommendations, including thorought ones and requests to not draft/draft something else.
 * [Contract Law](https://github.com/liberland/laws/blob/Laws-Current/Drafts/Contracts%20Law.md)
-* [Judicial Process Law](https://docs.google.com/document/d/1ehcRmKXwhaFZiK2oLlfYrWBfa9NYFcnCNPzUjA6STYI/edit#heading=h.zc58m9kjtnpb)
+* [Judicial Process Law](https://github.com/liberland/laws/edit/Laws-Current/Drafts/Judical%20Process%20Law.md)
 * [Real Estate Law](https://docs.google.com/document/d/1RXE5WuyBgOdxIGDF6Hve010-2Rky-IYut8Jqxx-FHAs/edit)
 * [Police Law](https://docs.google.com/document/d/1a2l_uuR67XFsI2VYtG183Y-Fh2cJ3jCxwLnUxy3aC8A/edit)
 * [Procurement Law](https://docs.google.com/document/d/1zLR4YXanXkErVYqy2iCAADaf17JZRqzmDbCkM12OI4c/edit)
