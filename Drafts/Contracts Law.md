@@ -770,51 +770,43 @@ Where the Tenant after the Rental Contract ends keeps on using the property and 
 
 2) A person who, in exchange for remuneration, performs work on behalf of another person or entity for three consecutive months, weekly or for at least twenty hours per month, shall be presumed to perform such work pursuant to an employment agreement.
 
-#### Limited Liability
+#### Art. 67: Limited Liability
 
 1) The employee shall be responsible solely to the employer and not to third parties, and the employer shall indemnify and hold them harmless regarding any claims of third parties.
 
 2) The employer shall respond to possible acts of disobedience, lack of professionality, underperformance, causing damage to the employer or other parties, etc., solely by the sanctions as outlined in the employment contract or in this Law.
 
-1.
-
-#### Presumption of Working Hours
+#### Art. 68: Presumption of Working Hours
 
 Where an employment agreement has lasted for at least three months, the contracted working hours in one month are presumed to equal the average working hours per month over the three preceding months.
 
-1.
-
-#### Place of Work
+#### Art. 69: Place of Work
 
 1) The Place of Work shall be any place where the work can realistically be performed by the given employee, according to the stipulations in the contract and the description of the work and the workplace designated by the employer. Where this is impossible to determine, the place of work shall be the home or the personal workplace of the employee.
 
 2) The employee shall be responsible for the setting up and the maintenance of their workplace, unless they are bound to work in a workplace set up and maintained by the employer, in which case this responsibility shall be the employer's.
 
-1.
-
-#### Readiness
+#### Art. 70: Readiness
 
 1) The employee shall ensure that they are available to receive instructions and provide their services as much as possible. This shall include maintaining telephonic and internet connections. 
 
 2) Should the employee suspect that this should prove temporarily impossible, the employee shall inform the employer and do what is reasonably possible to restore his Readiness as soon as possible.
 
-1.
+#### Art.71: Professional Conduct
 
-#### Professional Conduct
-
-1.
+§ 1
 
 1) The employee shall perform their duties in a professional manner, as a rational and knowledgeable person skilled in the given trade would. 
 
 2) The employee shall communicate and act civilly and politely towards the employee and their colleagues, towards all relations, clients and suppliers. They shall in all his dealings keep and uphold the highest standards of professionality.
 
-1.
+§ 2
 
 1) The employee shall ensure that they are available to receive instructions and provide their services as much as possible. This shall include maintaining telephonic and internet connections at their own expense and on their own accord. 
 
 2) Should the employee suspect that this should prove temporarily impossible, the employee shall inform the employer and do what is reasonably possible to restore his Readiness as soon as possible.
 
-1.
+§ 3
 
 1) The employee shall ensure that their communications, both public and private, reflects well on the employer and do not damage their reputation.
 
@@ -822,143 +814,123 @@ Where an employment agreement has lasted for at least three months, the contract
 
 3) The employer shall be required to disclose the reasons for their disagreement only to the extent to instruct the employee in ways how to prevent similar incidents from occurring in the future.
 
-1.
+#### Art. 72: Wage
 
-#### Wage
-
-1.
+§ 1
 
 The wage shall be what one may reasonably expect for the type of work and the working hours in the given time and place. The wage shall be payable in Liberland Dollars (LLD) to the Liberland Dollar address belonging to the Liberland account of the employee.
 
-1.
+§ 2
 
 Wages shall be payable monthly for the preceding month, always on the last day of the month.
 
-1.
+#### Art. 73: Allowance
 
-#### Allowance
-
-1.
+§ 1
 
 1) The employer shall provide to the employee and allowance necessary to perform the tasks expected of the duties the employee assumes according to this Contract. 
 
 2) This entails matters like travel allowance, allowance for business trips required by the employer, providing special tools not expected to be owned by a professional of the given vocation and other such expenses.
 
-1.
+§ 2
 
 The employee shall make an honest effort to the best of their ability to ensure that the costs are made efficiently on a cost-effective basis.
 
-1.
+#### Art. 74: Prohibition of Child Labour
 
-#### Child Labour
-
-1.
+§ 1
 
 Child Labour shall be, in general, prohibited, despite contractual stipulations to the contrary.
 
-1.
+§ 2
 
-2) Persons over 13 years of age may enter employment contracts where their legal guardian agrees with that arrangement. These contracts remain natural obligations for such an underage employee while being binding for the employer.
+1) Persons over 13 years of age may enter employment contracts where their legal guardian agrees with that arrangement. These contracts remain natural obligations for such an underage employee while being binding for the employer.
 
-3) Persons over 16 years of age may enter employment contracts, and where the legal guardian doesn't object to this, they are assumed to have given their consent. In general, the contract is not a natural obligation towards them unless it contains abusive or unusual stipulations or the wage is less than usual in the given place and time.
+2) Persons over 16 years of age may enter employment contracts, and where the legal guardian doesn't object to this, they are assumed to have given their consent. In general, the contract is not a natural obligation towards them unless it contains abusive or unusual stipulations or the wage is less than usual in the given place and time.
 
-1.
+#### Art. 75: Hindrances
 
-#### Hindrances
-
-1.
+§ 1
 
 1) In general, no wages are due over the period during which the employee has not performed the contracted work. 
 
 2) The employee preserves the right to wages if they have not performed the contracted work due to a hindrance which, reasonably, should be for the account of the employer.
 
-1.
+§ 2
 
 Where the employee is incapable of working due to circumstances beyond their control, such as sickness, pregnancy or an accident, the employee shall preserve the right to 70 per cent of their wages for 100 weeks. After that period, the employer shall be entitled to terminate the contract.
 
-1.
+§ 3
 
 Where the employee is sick, they shall take their utmost care to become better. Healing shall be their highest priority, so that they are able to resume their duties as an employee as soon as possible; they shall do so at their own expense and on their own accord.
 
-1.
+#### Art. 76: Paid Leave
 
-#### Paid Leave
-
-1.
+§ 1
 
 1) The employee has a right to 10 working days of paid holiday leave per year. Unused paid holiday leave shall transfer to the following year.  The choice of those days is contingent upon the agreement with the employer. The employee shall inform the employer in time, at least a month in advance where possible.
 
 2) Ultimately, the employer shall not block the use of these working days and shall try to accommodate the legitimate needs of the employee regarding their family or the seasons in which they want to take a holiday.
 
-1.
+§ 2
 
 Where they work remotely, the employee has a right to further 15 working days of paid holiday leave per year where the employer might call them to perform work, provided that work doesn't disrupt the leisure character of the free days.
 
-1.
+§ 3
 
 Where they work on-site, the employee has the right to 10 more working days of paid holiday leave per year.
 
-1.
+#### Art. 77: Unpaid Leave
 
-#### Unpaid Leave
-
-1.
+§ 1
 
 In addition to paid holiday leave, the employee may ask for unpaid leave, but shall not be entitled to it. Instead, the granting of any unpaid leave shall be contingent upon a specific agreement with the employer. The employee shall inform the employer in time, at least a month in advance where possible.
 
-1.
+§ 2
 
 Where the employee is elected into a Public Office, they shall be entitled to unpaid leave to the extent to which that is necessary for them to perform their duties of office.
 
-1.
-
-#### Sick Days
+#### Art. 78: Sick Days
 
 The employee shall have three paid sick days per year. These days shall not be used as a holiday, but the employee might use them when they are temporarily incapacitated. This use shall be possible without informing the employer in time, provided the employee announces their use of sick leave before the beginning of the work shift the employee calls in sick for.
 
-1.
-
-#### Protection from Termination
+#### Art. 79: Protection from Termination
 
 The employer shall not terminate an employment contract where the employee is on paid or unpaid leave, where they suffer from a hindrance caused by the employer and where they are on a sick day or where they suffer from a hindrance due to circumstances beyond their control.
 
-1.
+#### Art. 80: Non-Discrimination
 
-#### Non-Discrimination
-
-1.
+§ 1
 
 1) The employer shall ensure that there is no discrimination in the workplace, be that for gender, sex, sexual orientation, nationality, skin colour, social background, religious reasons, political opinions, or for any other such category. 
 
 2) In addition, there shall also be no discrimination based on whether an employee works full time or part-time or whether they work for an indefinite period or temporarily and no sexual or other harassment based on power differences between persons in the workplace.
 
-1.
+§ 2
 
 Discrimination both direct and indirect shall be equally prohibited; where indirect discrimination entails the situation in which an apparently neutral provision, standard or method affects, in comparison to other persons, in particular persons of a certain disposition as per this article.
 
-1.
+§ 3
 
 The employer shall set up channels for reporting discrimination and to ensure that all such reports are treated seriously. In particular, the employer shall ensure that there is no adverse treatment of employees who invoke the non-discrimination clause.
 
-1.
+§ 4
 
 The provisions of this article shall apply even where the contract stipulates to the contrary. 
 
-1.
+#### Art. 81: Sanctions
 
-#### Sanctions
-
-1.
+§ 1
 
 Where the employer sees the employee underperforming significantly without any mitigating circumstances and judges them unworthy of their full Wage for the given month, the employer may cut their Wage proportionally to the differential between the employer's expectation and the solid performance. The employee shall suffer this punishment and shall strive for improvement.
 
-1.
+§ 2
 
 1) Should the underperformance persist for longer than two months in ways that lead to a cut of more than 60 per cent on average, the employer shall give the employee a final warning. 
 
 2) Should there be no improvement allowing the performance of at least 70 per cent of the expected level, the employer may terminate the contract by notice. The contract terminates by the end of the month after the month in which the notice has been given.
 
-1.
+§ 3
 
 Should the employee be guilty of causing damages to the employer or a third party directly and hereby indirectly to the employer, the employer shall have the right to apply the following Sanctions:
 
@@ -966,9 +938,7 @@ a) Should they judge the damages under five times the employee's monthly Compens
 
 b) Should the damage be greater than five times the monthly Compensation, the employer may terminate the contract by notice. The contract terminates by the end of the month after the month in which the notice has been given.
 
-1.
-
-#### Regular Termination
+#### Art. 82: Regular Termination
 
 1) The employment contract may be terminated regularly by the employer for the following reasons:
 
@@ -986,119 +956,83 @@ e) reorganisation or company closure.
 
 3) Where possible, the employer shall make an effort to find a new role for the employee within their organization, resorting to termination only where that should prove impossible.
 
-1.
-
-#### Irregular Termination
+#### Art. 83: Irregular Termination
 
 The employer might irregularly terminate the employment contract where the employee in malintent or gross negligence causes serious damage or serious danger to the employer, their property or to others or their property in the workplace and refuses to make amends and rectify the situation by giving it their utmost and urgent effort.
 
-Section 5
----------
+## Section 5: Partnership
 
-Partnership
------------
-
-1.
-
-#### Partnership
+#### Art. 84: Partnership
 
 A partnership is a contract under which two or more persons agree to share in all assets, profits, and financial and legal liabilities of a jointly-owned business. The contribution of a partner may consist of money, property, the right to use and enjoy property, labour, or anything else the Partners might find of value.
 
-1.
+#### Art. 85: General and Special Partnership
 
-#### General and Special Partnership
-
-1.
+§ 1
 
 A general partnership shall consist only of what the partners during the existence of their partnership, under whatever name, shall acquire as a result of their activities.
 
-1.
+§ 2
 
 A special partnership is a partnership which relates only to specific property or to the use or the benefits thereof or to a specific enterprise or the conduct of a specific business or profession.
 
-1.
-
-#### Start of a Partnership
+#### Art. 86: Start of a Partnership
 
 The partnership starts as of the moment of the conclusion of the contract, if no other starting point has been specified in that contract.
 
-1.
-
-#### Liability
+#### Art. 87: Liability
 
 Under partnership, every partner agrees to be liable for all debts and obligations of the partnership.
 
-1.
-
-#### Profits and Losses
+#### Art. 88: Profits and Losses
 
 1) Where the share of each partner in the profits and losses has not been determined in the partnership contract, the share of each partner shall be in proportion to what he has contributed to the partnership.
 
 2) In regard of the partners who have only contributed their labour capacity and skills, their share in the profits and losses is equal to the share of the partner who has contributed the least.
 
-Section 5
----------
+## Section 5: Construction Agreement
 
-Construction Agreement
-----------------------
-
-1.
-
-#### Construction Agreement
+#### Art. 89: Construction Agreement
 
 Construction agreement is an agreement under which one of the parties, the Constructor, engages themselves towards the other party, the Principal, to make and deliver a tangible construction on another basis than an employment agreement, in exchange for a price to be paid in money by the principal.
 
-1.
-
-#### Subcontractors
+#### Art. 90: Subcontractors
 
 The constructor is entitled to let subcontractors perform the work under their guidance and directions and to give them, with regard to certain parts of the work, direct control, notwithstanding his liability towards the principal for a proper performance of the construction agreement.
 
-1.
-
-#### Cost-Increasing Circumstances
+#### Art. 91: Cost-Increasing Circumstances
 
 1) When, after the conclusion of the construction agreement, cost-increasing circumstances arise or come to light that cannot be attributed to the constructor, the Constructor shall be entitled to receive a proportional compensation for these.
 
 2) This applies only if the constructor has warned the principal as soon as possible of the need of a price increase, so that the principal either can accept this, or can make a proposal to restrict or simplify the work to be performed to avoid the extra costs.
 
-1.
-
-#### Warning
+#### Art. 92: Warning
 
 1) The constructor must, not only at the moment on which they enter into the construction agreement but also during the performance of this agreement, warn the principal of any inadequacies in the construction or work that is assigned to them as far as these are known to them or reasonably should have been known to them. 
 
 2) The same applies in case of defects or the unsuitability of things which are coming from the principal, including the land on which the principal lets others perform the work, as well as in case of errors or shortcomings in plans, drawings, designs, calculations, specifications, estimations or implementing regulations which are supplied by the principal.
 
-1.
-
-#### Additional Work Performed
+#### Art. 93: Additional Work Performed
 
 In the event that the principal has asked for additives or changes in comparison to the agreed work, the constructor may only then demand an increase of the agreed price when they have pointed out in time to the principal that this will necessarily lead to a price increase, unless the principal should have understood of their own accord that such an increase would necessarily result from this. 
 
-1.
+#### Art. 94: Dissolution of the Construction Agreement prior to the Completion of the Work
 
-#### Dissolution of the Construction Agreement prior to the Completion of the Work
-
-1.
+§ 1
 
 If it becomes probable even before the determined time of completion of the work that the construction will not be completed in time or will not be completed properly, the Principal shall have the right to Terminate the Contract.
 
-1.
+§ 2
 
 If it becomes probable even before the completion of the work that the principal will not or not properly comply with his obligations or that the constructor will not be able to perform the construction as a result of circumstances which cannot be attributed to them, the Constructor shall have the right to Terminate the Contract.
 
-1.
-
-#### Impossibility to Perform the Work
+#### Art. 95: Impossibility to Perform the Work
 
 Where it becomes impossible to perform the work because the thing with regard to which that work must be performed perishes or is lost due to a reason not attributable to the Constructor, the Constructor is entitled to a proportional part of the fixed price on the basis of the work already performed and the costs already made.
 
-1.
+#### Art. 96: Completion and Delivery of the Construction
 
-#### Completion and Delivery of the Construction
-
-1.
+§ 1
 
 The Construction is completed when 
 
@@ -1106,10 +1040,10 @@ a) the Constructor has made clear that the construction is completed and ready f
 
 b) the Principal has inspected the Construction and has confirmed that the Construction is made according to the specifications.
 
-1.
+§ 2
 
 After the Completion, the construction is at the risk of the Principal. Therefore they must pay the agreed price, irrespective whether the construction will perish or decline due to a cause not attributable to the Constructor.
 
-1.
+§ 3
 
 The Constructor is released from their liability for construction defects which the principal reasonably should have discovered at the moment of the delivery of the completed construction.
