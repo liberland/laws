@@ -2,7 +2,7 @@
 
 ## Preliminary
 
-This Act shall govern the Status of Companies in Liberland, their Incorporation, their Legal Form __and__ their __Transfer__ and Dissolution._
+This Law shall govern the Status of Companies in Liberland, their Incorporation, their Legal Form __and__ their __Transfer__ and Dissolution._
 
 ## Section 1: The Company
 
