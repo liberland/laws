@@ -1,13 +1,10 @@
 # Citizenship Law
-========
 
 ## Preamble
-========
 
 This Law shall cover the rights and duties associated with the Citizenship of Liberland and the acquisition and the loss of Citizenship.
 
 ## Section  1: Citizenship
-===========
 
 ### Art 1: Citizenship
 
