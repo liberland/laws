@@ -12,7 +12,7 @@ To see the big picture of the drafting, please go to [projects](https://github.c
 If you want to contribute, please give us (justice@liberland.org) your GitHub handle to be added to this repo!
 
 ## Interim Laws
-* [The Articles of the Preparatory Committee](drafts/The_Articles_of_the_Preparatory_Committee.md)
+* [The Articles of the Preparatory Committee](https://github.com/liberland/laws/blob/Laws-Current/In%20Force%20(Interim)/Articles%20of%20the%20Preparatory%20Committee.md)
 * [Company Law](https://github.com/liberland/laws/blob/Laws-Current/Company%20Act/Company%20Act.md)
 
 ## Current Drafts
