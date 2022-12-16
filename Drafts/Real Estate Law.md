@@ -236,21 +236,21 @@ The Owner shall be required to keep the identity of the tenants, the contracts a
 
 ## Section 5: Initial Land Ownership
 
-#### Art. 1: Initial Land Ownership
+#### Art. 17: Initial Land Ownership
 
 The Provisional Government of Liberland has ensured that the land may be legally used by freeing it from its status as a terra nullius that prevented most forms of useful activity internationally. As a result, the Provisional Government of Liberland has mixed its labour with the entirety of the land of Gornja Siga. As per Liberland's Founding on the 13th of March 2015, until the date this Law gains legal force, the entirety of the land is and has been since owned by Liberland.
 
-#### Art. 2: Retention of Land
+#### Art. 18: Retention of Land
 
 Given how scarce land is as a resource, its extreme usefulness and the potential for disaster given the possible wrong use of that land, Liberland shall retain the ownership of the entirety of the land in Liberland for an indeterminate time.
 
-#### Art. 3: Land Sale
+#### Art. 19: Land Sale
 
 1) It is not in the nature of a Libertarian State to own all the land on its territory. Liberland shall, through its Administration, ensure that the greater portion of the land is sold for a price and under conditions favourable to the Budget and the Treasury of the Administration. 
 
 2) This land sale shall proceed as if Liberland was a private owner seeking to sell its land for the greatest profit.
 
-#### Art. 4: Land Distribution
+#### Art. 20: Land Distribution
 
 § 1
 
@@ -288,13 +288,13 @@ b) extraordinarily, from awarding portions of the land to parties instrumental i
 
 4) Any amendment of this provision shall require the standard supermajority tally in the Referendum for the motion to pass, no matter the origin of the Referendum proposal.
 
-#### Art. 5: Retention of Land
+#### Art. 21: Retention of Land
 
 Liberland shall be allowed to retain a portion of the land no greater than 15 percent of the total area for its purposes. It shall, wherever possible, put the land to profitable economic use, but where impossible, it shall ensure that the development of the land benefits the greatest number of Liberlanders.
 
 ## Section 6: Zoning
 
-#### Art. 6: Zoning
+#### Art. 22: Zoning
 
 § 1
 
@@ -306,7 +306,7 @@ Liberland shall be allowed to retain a portion of the land no greater than 15 pe
 
 No Land Sale or Land Distribution shall take place unless the given land has been zoned.
 
-#### Art. 7: Retention of Zoning
+#### Art. 23: Retention of Zoning
 
 § 1
 
@@ -324,7 +324,7 @@ The State retains the right to change the zoning later on. This can be done unil
 
 1.
 
-#### Art. 7: Sanctions
+#### Art. 24: Sanctions
 
 § 1
 
@@ -338,18 +338,18 @@ c) enforced sale of the property for market conditions; the proceeds minus the c
 
 ## Section 7: Land Fee.
 
-#### Art. 8: Land Fee
+#### Art. 25: Land Fee
 
 1) Along with the zoning plan, the Minister of Interior shall also set up the system according to which the duty to pay the Land Fee shall be determined. This system shall be enshrined by a Law which the Congress shall propose for a Referendum. 
 
 2) Where Law is silent, the Land Fee shall be a payable at a flat rate amounting to 1 percent of the market cost of the property per annum determined by the last sale of the land as registered in the Land Registry. 
 
-#### Art. 9: Regular Review
+#### Art. 26: Regular Review
 
 The Minister of Interior shall regularly review the Land Fee rules, ensuriing that they follow the current market conditions. The Minister of Interior shall annually submit draft amendments for the Congress to propose for Referendum.
 
 ## Section 8: Final Provisions
 
-#### Art. 10: Legal Force
+#### Art. 27: Legal Force
 
 This Law takes legal force at the end of a standard Enactment Period following its adoption in the Referendum.
