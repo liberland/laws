@@ -44,8 +44,7 @@ Each Citizenship shall be made and individualised for the given Citizen, and the
 
 No Person shall be barred from Citizenship and the related functions and services based on their gender, sex, sexual orientation, race, nationality, origin, religion, disability, socioeconomic background and other such criteria. 
 
-Section  2: Acquiring Citizenship
-=====================
+## Section  2: Acquiring Citizenship
 
 ### Art 5: Registration Process
 
@@ -117,18 +116,13 @@ The Applicant shall be required to sign the Citizenship Contract, wherein they s
 
 The Template for the Citizenship Contract shall be the Attachment to this Law. The Template shall contain a provision whereby the Citizen agrees that Liberland reserves the right to modify the contract later by means of an amendment to this Law.
 
-Section  3: Ius Soli and Ius Sanguini
-=========================
+## Section  3: Ius Soli and Ius Sanguini
 
-### Art 11
-
-### Liberland Nationals
+### Art 11: Liberland Nationals
 
 Persons who are children of at least one Citizen or Persons born in the land of Liberland shall be Liberland Nationals, and they shall be eligible for obtaning their Citizenship by the means of their  Descent. 
 
-### Art 12
-
-### Rights of Liberland Nationals
+### Art 12: Rights of Liberland Nationals
 
 Such Liberland Nationals who haven't yet obtained their Citizenship shall enjoy the full protection of Liberland and shall be treated as Citizen in every other way except that they shall  not be entitled to 
 
@@ -136,9 +130,7 @@ a) vote in elections; or
 
 c) be voted into public offices.
 
-### Art 13
-
-### Obtaining Citizenship by Descent
+### Art 13: Obtaining Citizenship by Descent
 
 § 1
 
@@ -160,8 +152,7 @@ The Citizen by Descent who has less than 5000 LLM in their political power balan
 
 A Liberland National who has no other Citizenship than their Citizenship by Descent in Liberland shall obtain a Citizenship by Descent upon attaining 21 years of age.
 
-Section  4: The Social System
-=================
+## Section  4: The Social System
 
 ### Art 15: Withdrawing the Voluntary Tax
 
@@ -181,8 +172,7 @@ Partaking in the Social System shall be no impediment for candidacy for or holdi
 
 If the Citizen partaking on the Social System is a Congressperson, they shall not be allowed to use their own political balance of LLM to participate in the voting in the Congress while partaking on Liberland's Social System, but shall retain the use of LLM delegated to them by their voters. They may likewise apply for re-election, although they themselves will not be able to vote.
 
-Section  5: Termination of Citizenship
-==========================
+## Section  5: Termination of Citizenship
 
 ### Art 17: Regular Termination of Citizenship
 
@@ -234,8 +224,7 @@ A Citizen who is not in good standing or an ex-Citizen whose citizenship has bee
 
 2) Otherwise, they shall have to follow the same route as the Citizen who is not in good standing.
 
-Section  6: Transfer of Citizenship
------------------------
+## Section  6: Transfer of Citizenship
 
 ### Art 21: Transfer of Citizenship
 
@@ -271,8 +260,7 @@ The Transferer shall cease to be a Citizen of Liberland upon the fulfilment of t
 
 An attempt to transfer a Citizenship that represents the only nationality of the Transferer shall be null and void.
 
-Section  7 Sponsorship
-------------------------------------
+## Section  7 Sponsorship
 
 ### Art 25: The Right to be a Sponsor 
 
@@ -306,8 +294,7 @@ While the Voluntary Tax of the Invitee remains unpaid, the inviting Citizen shal
 
 Upon paying their Voluntary Tax in full, the Citizen on Invitation becomes a regular Citizen in all aspects, and this Section shall no longer apply to them.
 
-Section  8: Citizenship Comission
-=====================
+## Section  8: Citizenship Comission
 
 ### Art 28
 
@@ -315,8 +302,7 @@ Section  8: Citizenship Comission
 
 The organ responsible for the agenda regarding all matters of Citizenship shall be the Citizenship Comission. The Citizenship Comission shall be an Agency under the Ministry of Interior.
 
-Section  9: Transitory and Final Provisions
--------------------------------
+## Section  9: Transitory and Final Provisions
 
 ### Art 29: Transitory Provisions
 
