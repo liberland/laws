@@ -376,7 +376,7 @@ The Judge shall deliver Summons to all Parties, whereby they in writing invite t
 
 2) The Judge shall Postpone the Hearing except where the reasons are clearly frivolous, and inform the other Parties of this without delay, setting a new date for the Hearing after the original date.
 
-#### Costs of Summons
+#### Art. 35: Costs of Summons
 
 1) The Court Costs, should any be incurred because of the delay, shall be born by the Party that has asked to Postpone the Hearing.
 
@@ -384,9 +384,7 @@ The Judge shall deliver Summons to all Parties, whereby they in writing invite t
 
 3) Where the reasons for the Postponing were clearly caused by circulmstances beyond the control of the Party which has asked to Postpone the Hearing, the Judge shall waiver the requirement to pay Court Costs or the damages and lost revenue to the damaged Respondents.
 
-1.
-
-#### Publicity
+#### Art. 36: Publicity
 
 1) The Hearing shall be public, and they may be physical or online-based. Physical Hearing shall allow the presence of the public; online-based Hearing shall be made in ways allowing the public to log in and shall be announced at least ten days beforehand on the website of the Court.
 
@@ -402,41 +400,43 @@ ALTERNATIVE:
 
 2) At the requests and at the expense of a Party, the Judge shall arrange for a reporting service to prepare an official transcript of such a recording.
 
-1.
-
-#### Oaths
+#### Art. 37: Oaths
 
 The Judge shall not be required to take any oath and shall not administer an oath to any Party or other participant.
 
-1.
+#### Art. 38: Civility
 
-#### Civility
+§ 1
 
 1) All who act and appear before the Court shall act in a civil manner according to the cultural norms prevalent in Liberland society. They shall dress for the occasion, even where the Hearing are online and shall act courteously towards one another.
 
 2) Where this should not be the case, the Judge shall warn the Party or actor in question and if this is not corrected after repeated warnings, they shall dismiss them from the Hearing.
 
+§ 2
+
 Should a Party, as a result of such a dismissal, not be able to voice their position fully, this shall be considered their own fault unless the dismissal is declared groundless by a Court of Appeal.
 
-1.
+#### Art.39: Order of the Hearing
 
-#### Order of the Hearing
+§ 1
 
 The Judge shall begin the Hearing by introducing the Case. The Judge shall then give the word to the Applicant that they or their Legal Counsel, may present their claims and the Evidence supporting them.
 
+§ 2
+
 After the Applicant has presented their claims, the Judge shall give the word to the Respondents in the order that is most conducive to resolving the Case. They or their Legal Counsel shall, in turn, each present their counter-claims and the Evidence supporting them.
+
+§ 3
 
 After hearing the Parties, the Judge shall confirm that they do not wish to add anything to their Claims. After the last of the Parties confirms this, the Judge shall further lead the Hearing in ways that are the most conducive to the efficient and just resolution of the Case.
 
-1.
-
-#### Recess
+#### Art. 40: Recess
 
 The Hearing may recess upon the request of any Party or upon its own initiative and shall recess when all the parties agree thereto. The Judge shall reconvene the Hearing without necessary delay or at the hour of that same day jointly agreed to by the parties.
 
-1.
+#### Art. 41 Evidence
 
-#### Evidence
+§ 1
 
 1) Claims the Parties make during the Hearing must be based on evidence which they make known to the Judge beforehand or at the latest during the Hearing. The Judge shall have discretion to vary procedure of presenting evidence but shall afford full and equal opportunity to all parties for the presentation of any material or relevant proof.
 
@@ -444,63 +444,59 @@ The Hearing may recess upon the request of any Party or upon its own initiative 
 
 3) The Judge may dismiss claims presented without evidence without citing further reasons.
 
+§ 2
+
 1) Where witnesses are examined, all the Parties shall have the opportunity to examine them before the Judge. 
 
 2) Exhibits, when offered by any Party, shall be received in evidence and appropriately marked.
+
+§ 3
 
 1) Pieces of Evidence which are too difficult or clearly inpractical to examine and verify during the Hearing must be made known beforehand or the Judge may dismiss them or treat them as less valid by the virtue of their inability to fully examine them. 
 
 2) The Judge shall treat as Evidence also when a Party claims matters that are clearly known as fact and matters of law. They shall also accept as Evidence when both Parties agree on a fact without reservation.
 
+§ 4
+
 The names and addresses of all witnesses and the description of exhibis in the order received shall be made a part of the record.
 
-1.
-
-#### Extending the Hearing
+#### Art. 42: Extending the Hearing
 
 1) The Judge might Extend the Hearing, by way of exception, and based on serious reasons that they clearly communicate before the Parties. Extending is possible at most twice per Case and shall never be made unless the just and efficient resolution of the dispute clearly demands it. 
 
 2) The Judge shall then without delay issue new Summons for the date of the Extended Hearing.
+ 
+#### Art. 43: Closing the Hearing
 
-1.
-
-#### Closing the Hearing
+§ 1
 
 1) After the Judge has ordered and executed any motions they deemed necessary for the efficient and just resolution of the Case, the Judge shall specifically inquire of all the parties whether they have any further proof to offer or Witnesses to hear. 
 
 2) The Judge shall give space to the Parties to react to what has been said and presented and to offer their Final Word. The last Party to offer their Final Word shall be the Applicant.
 
+§ 2
+
 1) After receiving the confirmation of each Party that they con, the Judge shall Recess the Hearing and shall make their verdict deciding the Case. The Recess to make the verdict shall not take more than a number of hours and the verdict shall be declared before the parties on the same day.
 
 2) Only in exceptional circumstances shall the Judge Extend the Hearing for the purpose of preparing a verdict, but for no more than 10 days.
 
-1.
-
-#### Reopening the Hearing
+#### Art. 44: Reopening the Hearing
 
 Before the verdict to decide the Case is made, the Judge may, upon their own motion or upon the reasoned application of a Party based on important facts which were not known or accessible during the original Hearing through no fault of that Party, reopen the Hearing at any time for taking additional evidence or hearing additional testimony.
 
-1.
-
-#### The Verdict
+#### Art. 45: The Verdict
 
 The Judge shall present the verdict orally before the Parties and other persons present at the Hearing. The Judge shall also give the verdict in writing to each Party that they may read while the Judge presents, including the translations where necessary.
 
-Section 3
----------
+## Section 3 Appeal
 
-Appeal
-------
-
-1.
-
-#### Submitting an Appeal
+#### Art. 46: Submitting an Appeal
 
 A Party may within twenty (20) workdays after they received their verdict Appeal against that verdict. The Party shall send the Appeal to the Court which has pronounced the original verdict. The Appeal shall fuflill the same requirements as an Application.
 
-1.
+#### Art. 47: Remedial process
 
-#### Remedial process
+§ 1
 
 1) The Court shall examine the Appeal. Where there was 
 
@@ -516,110 +512,124 @@ and the differential is in value less than 1 BTC or the equivalent in rem, the C
 
 2) If the Appeal is clearly frivolous or without merit, the Court shall set it aside and inform the Party about this.
 
+§ 2
+
 If the Appeal is in other matters and has not been set aside, the Court shall make a Statement, and send it along with the Appeal to the Court of Appeal for the particular Party, Case type or Court. In case there is a Party-specific Court of Appeal, that Court shall take precedence, followed by a Court of Appeal according to the Case type and, lastly, according to which Cour has made the original verdict.
 
-1.
+### Art. 48: Appeal Process
 
-### Appeal Process
+§ 1
 
 For the Appeal process, the same rules apply as for the Core process, but there shall be no mediation. The Judge shall call for a Hearing in exceptional cases only where the dispute can't be resolved otherwise and shall end the process in the Written phase wherever possible.
 
+§ 2
+
 It is not permissible to claim facts and bring evidence that were clearly available and present during the time of the original process, but through the fault of the Party was not presented before the Court.
+
+§ 3
 
 The verdict of the Appeal Court shall have the character of a Final verdict. It shall gain legal force upon the Judge signing it, and there shall be no Appeal possible. The only means of recourse for the Parties is an appeal to the Supreme Court.
 
-Section 4
----------
+## Section 4: Supreme Court
 
-Supreme Court
--------------
+#### Art. 48: Autonomy of the Supreme Court
 
-1.
-
-#### Autonomy of the Supreme Court
+§ 1
 
 The Supreme Court selects cases that it will hear based on pleas of the Parties or its own accord. It can attract any Case where there is a verdict from the Regular Process, in principle, but the Supreme Court shall, as a rule, prefer cases where the validity of a Treaty or a Law is drawn into question. The Supreme Court may also attract open Cases where the Appeal process is underway.
 
+§ 2
+
 The Supreme Court will, as a rule, not take in Cases where the Verdict is older than ten years, except where it has good reasons to assume that the Case was resolved grossly unjust, with exceptionally high consequence for the Parties or for the system of justice in Liberland or for the interests of individual liberty. 
 
-1.
+#### Art. 49: Reopening the Case
 
-#### Reopening the Case
+§ 1
 
 1) Where a Case is taken in by the Supreme Court, he Court of Appeal puts together all the information in a detailed documentation and sends it without delay to the Supreme Court. 
 
 2) The Court also informs the Applicant and the other Parties of this and instructs them to create an Addendum to their Application or Response. They have 30 days to do so.
 
+§ 2
+
 1) Upon receiving the information that the Supreme Court has decided to attract the Case to it, the Applicant may inform the Supreme Court that they do not wish to continue the process. In that case, the Final verdict is confirmed and the process ends, although the Supreme Court might ask again to reopen the Case on its own accord.
 
 2) Where the Applicant stays silent for more than 8 working days or confirms in writ or in word that the Case may proceed, the Case is Reopened and the Supreme Court shall hear it.
 
+§ 3
+
 The Applicant, after they had once staid silent or confirmed their consent with the proceedings before the Supreme Court, cannot take back nor alter their Application.
 
-1.
+#### Art. 50 Supreme court process
 
-#### Supreme court process
+§ 1
 
 The Process before the Supreme Court resembles in all ways the Regular process, but the Justices of the Supreme Court may disregard any phase they see fit. They can also modify rules. If they decide to do so, they shall inform the Parties of it as they start the Proceedings.
 
+§ 2
+
 The Supreme court is free to admit or dismiss any new facts and evidences, even if these were known during the previous phases of the Process. In its verdict, the Supreme Court has a complete autonomy and may disregard anything from the previous process as it sees fit.
 
-Book 4
-======
+# Book 4: Private Courts
 
-Private Courts
-==============
+#### Art. 51: Purpose of Private Courts
 
-1.
-
-#### Purpose of Private Courts
+§ 1
 
 Like the Administration, Private Courts shall exist primarily to ensure that the rights according to the Book 1 of this Constitution, henceforth "Property Rights", shall be respected and efficiently protected under all circumstances, even when it is not in the owner's powers to provide this protection themselves. 
 
+§ 2
+
 Private Courts shall be free to set up other purposes for their existence and operation, such as the administration of justice, the promotion of fair treatment or the protection of the weak against the strong, provided that Private Courts always interpret those as ancillary to the safeguarding of Property Rights.
 
-1.
+#### Art. 52: Jurisdiction
 
-#### Jurisdiction
+§ 1
 
 Every person or other entity in Liberland shall be under the jurisdiction of State courts unless they enter a contract with a Private Court.
+
+§ 2
 
 1) In processes over delicts, the State shall have the option to enforce the jurisdiction of State courts and neglect any contract between the party and a Private Court, where it is likely that a Private Court would not resolve the case justly or according to the Purpose as stated in Art. 1 of this Constitutional Amendment.
 
 2) Regardless of any contractual obligations to the contrary, private courts shall not have jurisdiction regarding delicts where the guilty party would pay more than 5 BTC in damages or as punishment.
 
-1.
+#### Art. 53: Private Courts and the Constitution
 
-#### Private Courts and the Constitution
+§ 1
 
 Book 1 and the Book 3 of this Constitution shall be binding upon any Private Courts as if the Private Court was the Administration.
+
+§ 2
 
 Religious Private Courts and Private Courts set up by other communities to judge according to their rules are allowed to exist only if they and their founding communities respect the rights guaranteed by this Constitution.
 
 1.
 
-#### Minimal standards
+#### Art. 54: Minimal standards
+
+§ 1
 
 The State reserves the right to mandate upon Private Courts minimal standards of the legal process concerning its equality, fairness and access to legal recourse, and other matters as the State should find necessary to protect equality before the law and individual liberty in Liberland.
 
+§ 2
+
 Private Courts shall ensure that the substantive law according to which they dispense their justice, or other such rules like tradition, jurisprudence, and international arbitration rules, shall be presented and made public in advance. 
 
-1.
-
-#### Compatibility
+#### Art. 55: Compatibility
 
 A Private Court shall always consider Liberland State Courts' verdicts valid and likewise shall recognise other Private Courts' decisions, even if those come from different communities with conflicting rules or traditions.
 
-1.
-
-#### Hierarchy
+#### Art. 56: Hierarchy
 
 All Private Courts shall recognise the Supreme Court as the ultimate instance of appeal in Liberland. The jurisprudence of the Supreme Court shall be binding upon the Private Courts as it is upon any State Court, and they shall not make decisions contrary to it.
 
-1.
+#### Art. 57: Sanctions
 
-#### Sanctions
+§ 1
 
 Any verdict made by a Private Court in violation of the provisions of this Law shall be considered invalid.
+
+§ 2
 
 The State shall disestablish any Private Court repeatedly found in breach of the provisions of this Constitutional Amendment and any Law that may expand upon it that is found unwilling or unable to rectify the situation.
