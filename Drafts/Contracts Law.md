@@ -147,35 +147,31 @@ Where the Court finds all the elements present, it shall recognize the promise a
 
 #### Art. 8: Intention to contract
 
-1.
+§ 1
 
 An agreement is enforceable only when the parties intend to create a legally binding relationship.
 
-1.
+§ 2
 
 1) Parties entering into a contract in a business setting shall be presumed to have had an intention to contract, unless proven otherwise.
 
 2) Conversely, where there is a sufficiently close relationship between the parties, such as between family members, spouses or close friends, the Court shall presume that there is no intention to make an enforceable contract, unless proven otherwise.
 
-1.
+#### Art. 9: Offer
 
-#### Offer
-
-1.
+§ 1
 
 1) An Offer is a direct and purposeful act in which one party approaches another with the intention of forming a contract. The Offer must clearly indicate the terms of the contract.
 
 2) The court shall not discount any form an Offer may take, as long as the offer is clearly recognizable to rational persons and to the court as an offer.
 
-1.
+§ 2
 
 While the promise remains in the state of the Offer without an Acceptance, it is not yet a contract. 
 
-1.
+#### Art. 10: Acceptance
 
-#### Acceptance
-
-1.
+§ 1
 
 1) The Acceptance is an equally clear, direct and purposeful response to an offer that signals that the accepting party agrees to the terms that were laid out in the offer, and wishes to form a legally binding contract under that arrangement.
 
@@ -183,7 +179,7 @@ While the promise remains in the state of the Offer without an Acceptance, it is
 
 3) No contract can be changed unilaterally by tacit agreement of other parties. All parties must actively agree to any change in the contract in which they are included and have initially agreed to sign.
 
-1.
+§ 2
 
 An acceptance is only valid provided:
 
@@ -195,37 +191,34 @@ c) the acceptance is communicated expressly or by other conduct that clearly sho
 
 d) the offer is accepted by the person to whom the offer was made, or a person authorized to accept it on that person's behalf.
 
-1.
+§ 3
 
 If the acceptance is for terms that differ sufficiently from the original offer to be significant, the Court may deem it a counter-offer rather than an acceptance of the original offer
 
-1.
+§ 4
 
 An acceptance in itself doesn't make the contract enforceable without one party having spent resources in fulfilling the contract, as stated in this Law and without the fulfilment of other requirements of this section. An Acceptance is however a necessary condition for enforceability.
 
-1.
-
-#### Consideration
+#### Art. 11: Consideration
 
 1) Consideration is what each person promises the other, and each party must give consideration for a contract to be valid. In that sense, each party is both a promisee and a promisor, even though the promise each makes may be different. 
 
 2) A court recognizes a consideration if:
 
-a) the person who makes the promise has to get a benefit for the making of the promise; or b) the person to whom the promise is made has to experience some detriment at the request of the promisor. 
+a) the person who makes the promise has to get a benefit for the making of the promise; or 
+b) the person to whom the promise is made has to experience some detriment at the request of the promisor. 
 
-1.
+#### Art. 12: Clear terms
 
-#### Clear terms
-
-1.
+§ 1
 
 In order for a contract to be complete, its terms must be clear and complete such that both contracting parties understand their meaning.
 
-1.
+§ 2
 
 Courts will deem a contract incomplete if the terms fail to specify certain obligations under the contract, or if important information is missing from the terms.
 
-1.
+§ 3
 
 1) In situations where a contract has uncertain or incomplete terms, Courts will not disregard them outright and will attempt to interpret the terms of the contract by looking at the language of the document itself and trying to determine the meaning. 
 
@@ -233,31 +226,23 @@ Courts will deem a contract incomplete if the terms fail to specify certain obli
 
 3) Courts will however not work out the terms of the agreement if there is clearly not enough information to guide them.
 
-Section 3
----------
+## Section 3: Lawful Considerations
 
-Lawful Considerations
----------------------
+#### Art. 13: Contracts with children
 
-1.
-
-#### Contracts with children
-
-1.
+§ 1
 
 Contracts where one party is a child and the other an adult shall be for the children natural obligations, but shall be fully binding on the adults.
 
-1.
+§ 2
 
 1) Courts will always grant children the ability to exit a contract when they take away their consent, regardless of terms to the contrary or other considerations like past performance or past confirmations of the child that they want to keep fulfilling the contract.
 
 2) Where the adult counterparty can prove that the true beneficiary of a contract with a child is another adult, the Court will effect by way of a remedy the succession of rights and obligations from the child to that adult and the contract will become fully binding on them.
 
-1.
+#### Art. 14: Mental capacity
 
-#### Mental capacity
-
-1.
+§ 1
 
 1) A court may find that an individual does not have the capacity to enter the given contract on a permanent basis based on a mental illness or disability that prevents them from understanding the terms, meaning and consequences of entering into a contract. 
 
@@ -267,15 +252,11 @@ Contracts where one party is a child and the other an adult shall be for the chi
 
 4) Where the Court judges the mental capacity of a Party diminished in full or almost in full below that required to understand the contract fully, the Court will declare the contract a natural obligation.
 
-1.
-
-#### Misdirection
+#### Art. 15: Misdirection
 
 Where a Party enters a contract based on misdirection of the other Party that significantly impaired their ability to objectively judge the benefits and dangers of the contract or a part thereof or its likely consequences, the Court shall judge the contract or the particular terms affected by misdirection to be Natural Obligations for the deceived Party; the affected contract or terms shall remain enforceable with respect to the Party who engaged in misdirection.
 
-1.
-
-#### Mistake
+#### Art. 16: Mistake
 
 1) Where a party can prove to the Court that they entered a contract by mistake, the court shall issue a remedy to mitigate the results of the mistake. 
 
@@ -283,131 +264,101 @@ Where a Party enters a contract based on misdirection of the other Party that si
 
 3) Where the counterparty has already acted upon the contract and has incurred loss because of this, they are entitled to compensation should the party decide not to comply with the Natural Obligation or similar results of other Remedies.
 
-1.
-
-#### Gross Negligence and Malintent
+#### Art. 17: Gross Negligence and Malintent
 
 Where a Party can prove that the other Party has infringed the performance of the Contract either by malintent or by gross negligence, the other Parties shall be entitled compensation proportional to the measure in which the malintent or gross negligence infringed the performance of the Contract for the given Party.
 
-1.
-
-#### Frustration
+#### Art. 18: Frustration
 
 Sometimes contracts cannot be carried out for reasons that are not the fault of either party. The Court shall remedy this situation where the Party can prove that this frustration is caused by circumstances wholly or predominantly out of their control.
 
-1.
+#### Art. 19: Illegality
 
-#### Illegality
-
-1.
+§ 1
 
 1) Contracts that are formed or carried out for illegal purposes will not be enforced and shall not be made Natural Obligations, but they shall be deemed invalid against all. 
 
 2) Contracts formed or carried out for purposes which the Court deems against individual liberty, public morality or public health shall be declared Natural Obligations.
 
-1.
+§ 2
 
 Where there was a clear element of coercion and the party having been coerced is without a doubt weaker than the other, the Court shall declare the Contract or the parts of it affected by the coercion a Natural Obligation for the weaker party, while the terms which are not illegal or clearly against individual liberty, public morality or public health shall remain enforceable against the coercing party.
 
-1.
+#### Art. 20: Undue Influence, duress
 
-#### Undue Influence, duress
-
-1.
+§ 1
 
 Where someone in a special relationship based on trust and confidence exploits that relationship to induce someone to enter into a contract, or where that happens in a relationship between an overwhelmingly stronger and a clearly weaker Party, the Court shall declare the Contract or the parts of it affected by the undue influence a Natural Obligation for the induced party. 
 
-1.
+§ 2
 
 The Court shall do the same where the coercion happens under duress, a threat or the use of physical force or similar measures.
 
-1.
-
-#### Silence
+#### Art. 21: Silence
 
 1) Silence given in response to an offer or to a proposal where there is no complete contract between the Parties shall be seen as full rejection. 
 
 2) Where no reply is given in a reasonable time, in general at least in ten working days, to a proposal made upon a complete contract between the given parties, the proposal is presumed to have been accepted in full according to the terms of the proposal.
 
-Section 4
----------
+## Section 4: Default Stipulations
 
-Default Stipulations
---------------------
-
-1.
-
-#### Pacta Sunt Servanda
+#### Art. 22: Pacta Sunt Servanda
 
 All Parties in all contracts are obliged to perform according to the stipulations of contracts they enter, unless those stipulations are illegal or immoral. This shall apply even where the contract stipulates to the contrary.
 
-1.
-
-#### Prudence
+#### Art. 23: Prudence
 
 All Parties in all Contracts are obliged to behave how a prudent and a rational person would behave in the given circumstances. This shall apply even where the contract stipulates to the contrary.
 
-1.
-
-#### Good Faith
+#### Art. 24: Good Faith
 
 All Parties in all contracts are presumed and obliged to behave in good faith, with honesty and sincerity of intentions, towards their counterparties and towards third parties. This shall apply even where the contract stipulates to the contrary.
 
-1.
+#### Art. 25: Liability
 
-#### Liability
-
-1.
+§ 1
 
 All Parties are liable with all their property in case of their non-performance to each other and to third parties. 
 
-1.
+§ 2
 
 If two or more debtors are jointly indebted, then each of them is liable for an equal part.
 
-1.
+#### Art. 26: Joint and Several Liability
 
-#### Joint and Several Liability
-
-1.
+§ 1
 
 If the performance is undividable or if from law, common practice or a juridical act results that the debtors each are liable for the whole debt, then they are joint and several liable. 
 
-1.
+§ 2
 
 The creditor is towards each debtor entitled to demand full performance of the entire obligation.
 
-1.
+§ 3
 
 A settlement of the joint obligation by one of the solidary debtors discharges also the other solidary debtors against the creditor. The same applies when the joint obligation is performed by means of a setoff or the acceptance of a new debt by one of the solidary debtors under an agreement with the creditor.
 
-1.
-
-#### Guarancy
+#### Art. 27: Guarancy
 
 A Party may contract or otherwise solicit a third person or entity to act as a guarantor of their performance in a contract, of possible damages or other consequences of a contract. The Guarantor shall be jointly and severally liable for the obligation.
 
-1.
+#### Art. 28: Sanctions
 
-#### Sanctions
-
-1.
+§ 1
 
 Where a Party, out of negligence or malintent, causes damage to the other Party, that Party shall effect restitution to the damaged Party, to the best of their abilities, of both the real damages and the lost revenue, where applicable.
 
-1.
+§ 2
 
 Should the damage be caused repeatedly or in a manner that clearly indicates the other Party's unwillingness or inability to fulfill the contract, or where the actions of the other Party are judged as immoral, illegal or clearly warranting the loss of trust in that Party, the other Party might Irregularly Terminate the Contract.
 
-1.
+§ 3
 
 The Parties may agree otherwise on additional Sanctions, but the Court shall always grant a claim of Sanctions according to this Law, despite any contractual stipulations to the contrary.
 
-1.
+#### Art. 29: Duration
 
-#### Duration
-
-1.
+§ 1
 
 Where the Parties don't stipulate the duration of the Contract, it shall be for one calendar year with an automatic prolongation, unless one or more Parties deliver a written Notice of Termination to the other Parties. A Notice of Termination shall be delivered at the latest 
 
@@ -417,23 +368,23 @@ b) thirty days before the Prolongation Date,
 
 whichever time period is longer.
 
+§ 2
+
 1) Where the Court finds indications of tacitly assumed duration other than that, based on the logical interpretation of the contract provisions or the conduct of the Parties, the Court is at the liberty to interpret the contract accordingly.
 
 2) Where all the Parties agree on the duration of a Contract, even for an otherwise written contract, the duration of their agreement shall be the duration of the Contract. Where only some parties agree, the Court is at the liberty to interpret the contract accordingly.
 
-1.
+§ 3
 
 A contract with the duration that is not for an unlimited time shall end without the need of a Party to terminate it, by Expiration. The Expiration takes effect by the passing of the last day for which the contract is valid.
 
-1.
+#### Art. 30: Regular Termination
 
-#### Regular Termination
-
-1.
+§ 1
 
 Unless stipulated otherwise in the Contract or in this Law, it shall be possible for eahc Party to terminate each contract Regularly or Irregularly.
 
-1.
+§ 2
 
 1) Regular Termination shall be the termination that occurs 
 
@@ -449,15 +400,11 @@ b) thirty days before the Prolongation Date,
 
 whichever time period is longer.
 
-1.
-
-#### Notice Period
+#### Art. 31: Notice Period
 
 The Regular Termination shall have a notice period of one calendar month after the month in which the Notice of Termination is delivered to the last counterparty.
 
-1.
-
-#### Irregular Termination
+#### Art. 31: Irregular Termination
 
 A Party may terminate a contract irregularly with respect to a specific counterparty with immediate effect where
 
