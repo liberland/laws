@@ -412,161 +412,117 @@ a) the counterparty has grossly violated the terms of the contract and there is 
 
 b) the counterparty has caused damage to the Party with respect to the object or the performance of the Contract out of gross negligence or malintent.
 
-1.
-
-#### Survival
+#### Art. 32: Survival
 
 Regardless of what the Parties agree upon in the Contract, the Sanctions listed by this Law shall always survive the termination of the Contract.
 
-1.
-
-#### Choice of Forum
+#### Art. 33: Choice of Forum
 
 Where there is no other choice made by the Parties, the Contract shall be adjudicated according to Liberland's Jurisdiction and at a Liberland State Court.
 
-Section 6
----------
+## Section 6: Remedies
 
-Remedies
---------
-
-1.
-
-#### Damages
+#### Art. 34: Damages
 
 Damages are a reward in money or in natura compensating a Party that has incurred a loss. Damages can include compensation for the loss of revenue where that has been clearly established based on evidence.
 
-1.
-
-#### Specific performance
+#### Art. 35: Specific performance
 
 1) The Court may order a Pary or a third person in some way attached to a Contract to perform a certain action or actions in a certain time horizon or face a penalty.
 
 2) The Court may also order a Party or a third person in some way attached to a Contract to refrain from certain actions, such as actions that are prohibited by the stipulation in the Contract.
 
-1.
-
-#### Annulment
+#### Art. 36: Annulment
 
 The Court may cancel a contract or certain contract stipulations in situations like misrepresentation, mistake frustration, coercion, duress or illegality.
 
-1.
-
-#### Replacement
+#### Art. 37: Replacement
 
 The Court may replace a part of a contract by its own judgement, which will then be binding between the Parties as if it had been agreed upon by them. This is used in situations where the contract itself is complete and valid, but certain parts of the contract are not.
 
-1.
-
-#### Restitution
+#### Art. 38: Restitution
 
 The Court may return the legal situation between the Parties or towards third persons to a situation that had previously applied.
 
-Book 2
-======
+# Book 2: Special Provisions
 
-Special Provisions
-==================
+## Section 1: Rules of Application
 
-Section 1
----------
+#### Art. 39: Types of Contracts
 
-Rules of Application
---------------------
-
-1.
-
-#### Types of Contracts
-
-1.
+§ 1
 
 1) In order to safeguard the reasonable expectations of the Parties and to promote legal certainty and expediency in commerce, the Court shall treat certain common types of contracts according to the provisions of this Law. 
 
 2) Where the specific contract differs from these types, the Court may differ its interpretation, based on a well-reasoned distinction.
 
-1.
+§ 2
 
 The Court shall always attempt to treat a contract named, directly or indirectly, after a listed type, according to that type. Where the naming similarity is absent, the Court shall consider the specificities of the contract which is the object of the Case and where the Contract is similar to one or more types, the Court shall use those for its interpretation.
 
-1.
+#### Art. 40: Subsidiary Application
 
-#### Subsidiary Application
-
-1.
+§ 1
 
 1) Where a contract has been typified and it is silent in a matter prescribed by this Law for the given type of contract, the legal provision shall apply as if the Parties had agreed on it.
 
 2) Where the Parties stipulate contrary to the prescriptions in this Law for a given contract type, they bear the risk of the court Replacing their different stipulation in cases where these lead to unjust outcomes towards weaker or otherwise disadvantaged Party or third person.
 
-1.
+§ 2
 
 The Court shall set aside any stipulations in a contract designed, in full or in part, to avoid the subsidiary use of this Law.
 
-1.
-
-#### Analogy
+#### Art. 41: Analogy
 
 1) Where a contract doesn't fall or doesn't fall clearly into one of the listed types, the Court shall nontheless wherever possible use analogically the stipulation regarding the nearest applicable type to the given contract or a part of the Contract. 
 
 2) The Court may combine analogical application of institutes from various types, but never where this would deny the efficacy of one of the institutes.
 
-1.
-
-#### Court Costs
+#### Art. 42: Court Costs
 
 The Parties setting up Contracts which markedly differ from the listed types place themselves at risk of incurring higher Court Costs and prolonging the process that may result, as the Court may need more time and expend more resources interpreting and adjudicating their Case.
 
-Section 2
----------
+## Section 2: Sale or Lease of Goods
 
-Sale or Lease of Goods
-----------------------
+#### Art. 43: Contract of Sale or Lease of Goods
 
-1.
-
-#### Contract of Sale or Lease of Goods
-
-1.
+§ 1
 
 1) A contract of sale of goods is a contract by which the seller transfers or agrees to transfer the property in goods to the buyer for a money consideration, called the price.
 
 2) A contract of sale may be absolute or conditional. There may be a contract of sale between one part-owner and another.
 
-1.
+§ 2
 
 1) It is the duty of the seller to deliver the goods, and of the buyer to accept and pay for them, in accordance with the terms of the contract of sale.
 
 2) Unless otherwise agreed, delivery of the goods and payment of the price are concurrent conditions;  that is to say, the seller must be ready and willing to give possession of the goods to the buyer in exchange for the price, and the buyer must be ready and willing to pay the price in exchange for possession of the goods.
 
-1.
+§ 3
 
 What applies to a contract for sale of good applies also to a contract for a lease of goods, mutatis mutandis.
 
-1.
+#### Art. 44: Present or Future Goods
 
-#### Present or Future Goods
+§ 1
 
-1.
-
- 1) The goods that form the object of a contract of sale may be either existing goods, owned or possessed by the seller, or future goods.
+1) The goods that form the object of a contract of sale may be either existing goods, owned or possessed by the seller, or future goods.
 
 2) There may be a contract for the sale of goods, the acquisition of which by the seller depends on a contingency that may or may not happen.
 
-1.
+§ 2
 
 If by a contract of sale the seller purports to effect a present sale of future goods, the contract operates as an agreement to sell the goods.
 
-1.
+§ 3
 
 1) A contract for the sale of specific goods is void if, without the knowledge of the seller, the goods have perished at the time when the contract is made.
 
 2) If there is an agreement to sell specific goods, and subsequently the goods, without any fault on the part of the seller or buyer, perish before the buyer incurs a loss on behalf of their fulfilment of the contract, the agreement is avoided.
 
-1.
+#### Art. 45: The Price
 
-#### The Price
-
-1.
+§ 1
 
 The price in a contract of sale may be
 
@@ -576,15 +532,13 @@ b) left to be set explicitly as agreed in the contract, or
 
 c) determined implicitly by the course of dealing between the parties.
 
-1.
+§ 2
 
 If the price is not determined explicitly or implicitly, the buyer must pay a reasonable price. What is a reasonable price is a question of fact dependent on the circumstances of each case.
 
-1.
+#### Art. 46: Warranty
 
-#### Warranty
-
-1.
+§ 1
 
 1) Sale of any goods or related services is subject to an implied warranty that the goods have the quality and fitness to fulfil common purposes for which a rational person might be expected to use those goods. 
 
@@ -592,75 +546,67 @@ If the price is not determined explicitly or implicitly, the buyer must pay a re
 
 3)  If there is a sale of goods by description, there is an implied condition that the goods must correspond with the description. For sale by sample as well as description, the goods must correspond to both the sample and the description and the buyer must have the option of comparing the sample with the bulk of what is being sold.
 
-1.
+§ 2
 
 1) Where faulty goods, or goods that don't look or work as advertised are sold, the buyer has a two year period to return the goods free of charge for repair or a replacement; where repair or replacement is impossible or impractical for the seller or the buyer, the seller shall instead return, in full or in part according to the severity of the defect, the price to the buyer. 
 
 2) This right is waivered in cases where the seller can prove that the buyer must have known of the defect before they bought the goods.
 
-1.
+§ 3
 
 The buyer my return within 14 days free of charge and without stating reasons any goods bought by means of electronic communication, via the telephone or under circumstances of duress, like door to door sales or in any other high pressure environment.
 
-1.
+§ 4
 
 Where goods are sold in a retail manner, by means of electronic communications, via the telephone or under circumstances of duress or where there is use made of adhesive contracts, where the seller denies the buyer the possibility to negotiate fully or near-fully, any waivers or limitations of these warranties shall be void. 
 
-1.
+#### Art. 47: Conditions
 
-#### Conditions
-
-1.
+§ 1
 
 Whether a stipulation in a contract of sale is a condition the breach of which may give rise to a right to treat the contract as repudiated, or is a warranty the breach of which may give rise to a claim for damages but not to a right to reject the goods and treat the contract as repudiated, depends in each case on the construction of the contract.
 
-1.
+§ 2
 
 If a contract of sale is not severable and the buyer has accepted the goods or part of them, or if the contract is for specific goods the property in which has passed to the buyer, the breach of any condition to be fulfilled by the seller can only be treated as a breach of warranty, and not as a ground for rejecting the goods and treating the contract as repudiated, unless there is a term of the contract, express or implied, to that effect.
 
-1.
+#### Art. 48: Transfer of Property
 
-#### Transfer of Property
-
-1.
+§ 1
 
 The Property transfers on delivery of the goods at the time and place according to the delivery method stipulated in the contract. 
 
-1.
+§ 2
 
 1) The seller shall choose the most expedient method which guarantees the delivery on time and doesn't incur a risk of damaging the goods beyond acts of higher power or human mistakes.
 
 2) The delivery shall be executed without unnecessary delay. The place of delivery shall be the place which, knowing the buyer, the seller can reasonably assume to be the correct place. In absence of this, it shall be the place where the buyer is known to habitually do business or, where there is none or none is known, their residence.
 
-1.
+§ 3
 
 1) The goods remain at the seller's risk until the property in them is transferred to the buyer, but when the property in them is transferred to the buyer the goods are at the buyer's risk, whether delivery has been made or not.
 
 2) If delivery has been delayed through the fault of either buyer or seller, then despite subsection (1), the goods are at the risk of the party in fault as regards any loss that might not have occurred but for that fault.
 
-1.
-
-#### Registered Property
+#### Art. 49: Registered Property
 
 For Property registered in a public Registry, the transfer of ownership takes place only after the Registrar of the respective Registry writes in the new owner and publishes them in their Registry. This applies despite any contractual stipulations to the contrary.
 
-1.
+#### Art. 50: Buying From a Non-Owner
 
-#### Buying From a Non-Owner
-
-1.
+§ 1
 
 If goods are sold by a person who is not the owner of them, and who does not sell them under the authority or with the consent of the owner, the buyer acquires no better title to the goods than the seller had, unless the owner's conduct precludes the owner from denying the seller's authority to sell.
 
-1.
+§ 2
 
 Where the seller of goods has a voidable title to them, but the seller's title has not been avoided at the time of the sale, the buyer acquires a good title to the goods, if they are bought in good faith and without notice of the seller's defect of title.
 
-1.
+§ 3
 
 If goods have been stolen by the seller or obtained by fraud or any other criminal means and the offender is prosecuted to conviction, the property in the goods stolen revests in the person who was the owner of the goods, or that person's personal representative, despite any intermediate dealing with them.
 
-1.
+§ 4
 
 1) Where a good has been transfered from a non owner, and four years have passed in case of a moveable object, and ten years in case of a non movable object, the obligation to return the object becomes a natural obligation. 
 
@@ -670,15 +616,13 @@ If goods have been stolen by the seller or obtained by fraud or any other crimin
 
 4) The posessor in bad faith retains for the duration of their possession in bad faith all the obligations of the owner attached to the property.
 
-1.
+#### Art. 51 Ramifications of Delivery
 
-#### Ramifications of Delivery
-
-1.
+§ 1
 
 If the seller delivers to the buyer a quantity of goods less than the seller contracted to sell, the buyer may reject them. If the buyer accepts the delivered goods, the buyer must pay for them at the contract rate for the actual amount delivered.
 
-1.
+§ 2
 
 1) If the seller delivers to the buyer a quantity of goods larger than the seller contracted to sell, the buyer may
 
@@ -688,7 +632,7 @@ b) reject the whole.
 
 2) If the seller delivers to the buyer a quantity of goods larger than the seller contracted to sell and the buyer accepts the whole of the goods delivered, the buyer must pay for them at the contract rate for the actual amount delivered.
 
-1.
+§ 3
 
 If the seller delivers to the buyer the goods the seller contracted to sell mixed with the goods of a different description not included in the contract, the buyer may
 
@@ -696,19 +640,17 @@ a) accept the goods that are in accordance with the contract and reject the rest
 
 b) reject the whole.
 
-1.
+§ 4
 
 Unless otherwise agreed, the buyer of goods is not bound to accept delivery by instalments.
 
-1.
+§ 5
 
 If, in pursuance of a contract of sale, the seller is authorized or required to send the goods to the buyer, delivery of the goods to a carrier, whether named by the buyer or not, for transmission to the buyer is deemed, unless there is evidence to the contrary, to be a delivery of the goods to the buyer.
 
-1.
+#### Art. 52: Acceptance and Rejection of Goods
 
-#### Acceptance and Rejection of Goods
-
-1.
+§ 1
 
 The buyer is deemed to have accepted the goods when
 
@@ -718,27 +660,19 @@ b) the goods have been delivered to the buyer, and the buyer does any act in rel
 
 c) after the lapse of a reasonable time, the buyer retains the goods without intimating to the seller that the buyer has rejected them.
 
-1.
+§ 2
 
 Unless otherwise agreed, if goods are delivered to the buyer and the buyer refuses to accept them, having the right so to do, the buyer is not bound to return them to the seller, but it is sufficient if the buyer intimates to the seller that the buyer refuses to accept them.
 
-Section 3
----------
+## Section 3: Lease Contract
 
-Lease Contract
---------------
-
-1.
-
-#### Lease Contract
+#### Art. 52: Lease Contract
 
 A Lease Contract is a Contract under which one of the parties, 'the Lessor', engages himself towards the other party, 'the Tenant', to grant him the use of an immovable or movable property or of a part of such thing, opposite to which the Tenant engages themselves to perform a counter performance.
 
-1.
+#### Art. 53: The Tenant
 
-#### The Tenant
-
-1.
+§ 1
 
 1) The Tenant may use the leased property in the stipulated manner or, where no stipulation is made, in a manner in which a rational person would use it.  
 
@@ -746,7 +680,7 @@ A Lease Contract is a Contract under which one of the parties, 'the Lessor', eng
 
 3 The Tenant retains the right to modify the object at their own expense and to changing its nature and purpose, but that right is contingent upon an explicit agreement by the Lessor to the given  modification. Where such an agreement is not given within two weeks of the Tenant asking, the silence means a rejection.
 
-1.
+§ 2
 
 1) The Tenant shall be responsible for the safety and the condition of the property for such a time as it is in their possession. 
 
@@ -754,43 +688,29 @@ A Lease Contract is a Contract under which one of the parties, 'the Lessor', eng
 
 3) The Tenant shall be entitled to let third persons of their choosing interact with the leased property, but they shall become full guarantors for any behaviour of said third persons and its consequences with respect to the leased property.
 
-1.
-
-#### Rent
+#### Art. 54: Rent
 
 1) The Lessor has the right to a regular pecuniary Rent as the counterperformance. The Rent shall be paid in the amount and currency as common for similar properties in the given area and at the given time. 
 
 2) The Rent shall be a fixed amount denominated in the given currency and shall be payable monthly, for the past month and at the last day of the given calendar month.
 
-1.
-
-#### Entitlement to Fruits
+#### Art. 55: Entitlement to Fruits
 
 Unless stipulated otherwise, the Tenant shall be fully entitled to the fruits of the leased property and they shall become their property upon their separation from the leased property.
 
-1.
+#### Art. 56: Inspection
 
-#### Inspection
+The Lessor may, at will, make an inspection visit.
 
-1.
-
-1)  The Lessor may, at will, make an inspection visit.
-
-1.
-
-#### Public Registry
+#### Art. 57: Public Registry
 
 Where a property in a Public Registry is rented out, the Lessor shall ensure that this fact is mentioned in the Public Registry, including at least the duration of the Rental Contract and the name or Company Name and address of the Tenant.
 
-1.
-
-#### Duration
+#### Art. 58: Duration
 
 Where there is no mention of the duration of the Rental Contract, the Contract shall be made for an unlimited time.
 
-1.
-
-#### Duties of the Lessor
+#### Art. 59: Duties of the Lessor
 
 The Lessor shall have the following duties:
 
@@ -800,37 +720,29 @@ b) To maintain the object of the Lease in a state wherein it can continue being 
 
 c) To allow the Tenant to use the object of the Lease without disturbance for the duration of the contract.
 
-1.
+#### Art. 60: Sanctions
 
-#### Sanctions
-
-1.
+§ 1
 
 Where the Lessor doesn't fuflil one of their duties according to the contract or according to this Law, the Tenant may, besides applying any other contractual or legal Sanctions, request a discount of the Rent.
 
-1.
+§ 2
 
 Where the issue in question is such that it makes it impossible or nearly so for the Tenant to use the object of the Lease and it becomes apparent that the Lessor is not going to address it without unnecessary delays, the Tenant needs not pay the Rent until Lessor adequately resolves the situation; the Lessor may not Irregularly Terminate the contract on the grounds of this non-payment. Alternatively, the Tenant may effect an Irregular Termination of the contract.
 
-1.
+§ 3
 
 Where third persons disturb the use of the object and it is beyond the power of the Tenant to stop this disturbance by proportional means, the Tenant may request a discount of the Rent.
 
-1.
-
-#### Changes in Ownerhip
+#### Art. 61: Changes in Ownerhip
 
 The Lease Contract survives any changes in ownership of the Property. A buyer who purchases a leased Property shall become the new Lessor and succeeds the old Lessor in their particular rights and duties regarding the Lease Contract, even where the seller hadn't informed him about the fact.
 
-1.
-
-#### Sublease
+#### Art. 62: Sublease
 
 Unless agreed otherwise, the Tenant retains the right of sublease to the object of lease, but the specifics, including and not limited to who the sub-Tenant will be and what the purpose and degree of the sublet are conditional upon the explicit agreement of the Lessor.
 
-1.
-
-#### Notice Period
+#### Art. 63: Notice Period
 
 The Regular Termination of the Rental Contract shall have a notice period of 
 
@@ -838,17 +750,11 @@ a) one month after the month of delivery of the Notice of Termination, where the
 
 b) three months after the month of delivery of the Notice of Termination, where the contract's object is immovable property.   
 
-1.
-
-#### Prolongation
+#### Art. 64: Prolongation
 
 Where the Tenant after the Rental Contract ends keeps on using the property and the Lessor doesn't object for a full calendar month, and the Tenant pays the Lessor the usual Rent, the Rental Contract shall be prolonged. The prolongation shall be initially for one year; where there is further no objection from the Lessor, the contract resumes for unspecified period.
 
-1.
-
-#### Lease of a Home
-
-1.
+#### Art. 65: Lease of a Home
 
 1) Where a Home is leased, a space used by the Tenant for their own residency, the Lessor may only increase the price once per year; in addition, this increase may only be up to what is reasonable for the place and the time of the increase. 
 
@@ -856,21 +762,13 @@ Where the Tenant after the Rental Contract ends keeps on using the property and 
 
 3) The provisions of this article shall apply even where the contract may stipulate to the contrary.
 
-Section 4
----------
+## Section 4: Employment Contract
 
-Employment Contract
--------------------
-
-1.
-
-#### Employment
+#### Art. 66: Employment
 
 1) An employment agreement is an agreement under which one of the parties, 'the employee', engages themselves towards the opposite party, 'the employer', to perform work for a period of time or indefinitely in service of this opposite party in exchange for payment, henceforth "wage".
 
 2) A person who, in exchange for remuneration, performs work on behalf of another person or entity for three consecutive months, weekly or for at least twenty hours per month, shall be presumed to perform such work pursuant to an employment agreement.
-
-1.
 
 #### Limited Liability
 
