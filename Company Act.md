@@ -1,4 +1,4 @@
-## **Company Law**
+# Company Law
 
 ## Preliminary
 
