@@ -1,19 +1,19 @@
-### Citizenship Law
+# Citizenship Law
 ========
 
-### Preamble
+## Preamble
 ========
 
 This Law shall cover the rights and duties associated with the Citizenship of Liberland and the acquisition and the loss of Citizenship.
 
-Section  1: Citizenship
+## Section  1: Citizenship
 ===========
 
-Art 1: Citizenship
+### Art 1: Citizenship
 
 A Natural Person who wishes to legally bind themselves to Liberland and gain the political rights that a Citizen's status confers may apply to become a Citizen.
 
-Art 2: Citizenship Rights
+### Art 2: Citizenship Rights
 
 A Citizen shall have the right to:
 
