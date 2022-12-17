@@ -32,7 +32,7 @@ Ready for your recommendations, including thorought ones and requests to not dra
 * [Procurement Law](https://github.com/liberland/laws/blob/Laws-Current/Drafts/Procurement%20Law.md)
 * [Referendum Law](https://github.com/liberland/laws/blob/Laws-Current/Drafts/Referendum%20Law.md)
 
-## First Draft
+## Preliminary
 Unfinished and to be advanced, all kinds of fundamental ideas are very welcome!
 * [Business Development Law](https://docs.google.com/document/d/1F-HBduCHEahdMn6a2XZAwjtSog4axq1B8FRg4k9G2OA/edit)
 * [Criminal Law](https://docs.google.com/document/d/1SaaiCjWdhB-11vzl4Tv6_Plh90bONM36nhVLBGQ8x0k/edit)
