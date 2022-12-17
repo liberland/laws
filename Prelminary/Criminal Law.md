@@ -1,49 +1,46 @@
-Criminal Law
+# Criminal Law
 
-Definitions
-===========
+## Definitions
 
-Citizen shall be a Person who commits fully to Liberland according to the requirements of the Constitution and the Citizenship Law.
+**Citizen** shall be a Person who commits fully to Liberland according to the requirements of the Constitution and the Citizenship Law.
 
-Criminal Process shall be the special form of Judicial Process denoted in the Judicial Process Law as applicable to a process between an individual and the State where the latter seeks to determine the individual's guilt regarding a delict.
+**Criminal Process** shall be the special form of Judicial Process denoted in the Judicial Process Law as applicable to a process between an individual and the State where the latter seeks to determine the individual's guilt regarding a delict.
 
-Delict shall be an action with an identified victim and for the commitment of which the State prescribes an additional sanction besides the restitution of the damages to the victim or victims.
+**Delict** shall be an action with an identified victim and for the commitment of which the State prescribes an additional sanction besides the restitution of the damages to the victim or victims.
 
-Person shall be a human being or another entity endowed by the Constitution or a Law by Legal Personality. Legal Personality shall be the ability to have rights and duties under Law in Liberland.
+**Person** shall be a human being or another entity endowed by the Constitution or a Law by Legal Personality. Legal Personality shall be the ability to have rights and duties under Law in Liberland.
 
-Natural Person shall be any human being.
+**Natural Person** shall be any human being.
 
-Owner shall be a Person who possesses Property in an Object.
+**Owner** shall be a Person who possesses Property in an Object.
 
-Malintent shall be the intention to commit a Delict, for this Law a Criminal Offense; there can be Direct Malintent, where the evidence points to a direct intention for the commitment of the deed and the consequences of it, at least those predictable by a rational actor; and an Indirect Malintent, which means that the person was, at the time of their action, aware of the consequences of the action and was content with those consequences taking place.
+**Malintent** shall be the intention to commit a Delict, for this Law a Criminal Offense; there can be Direct Malintent, where the evidence points to a direct intention for the commitment of the deed and the consequences of it, at least those predictable by a rational actor; and an Indirect Malintent, which means that the person was, at the time of their action, aware of the consequences of the action and was content with those consequences taking place.
 
-Moral Person shall be a Company, a State or any entity which by Law of Liberland possesses Legal Personality other than its Owners.
+**Moral Person** shall be a Company, a State or any entity which by Law of Liberland possesses Legal Personality other than its Owners.
 
-Negligence means that an actor knew or should have known the consequences of their action (and their ability to damage others), but for no good reason assumed that those consequences wouldn't happen in case of their particular action.
+**Negligence** means that an actor knew or should have known the consequences of their action (and their ability to damage others), but for no good reason assumed that those consequences wouldn't happen in case of their particular action.
 
-Perpetrator shall be an actor who committed a Delict, for this law specifically a Criminal Offense, and has been designed as a Perpetrator by a State Court in Liberland or by a criminal court in another State.
+**Perpetrator** shall be an actor who committed a Delict, for this law specifically a Criminal Offense, and has been designed as a Perpetrator by a State Court in Liberland or by a criminal court in another State.
 
-Book 1
-======
+# Book 1: General Part
 
-General Part
-============
+## Section 1: Principles of Criminal Law
 
-Section 1
----------
+#### Art. 1: Criminal Offenses
 
-Principles of Criminal Law
---------------------------
-
-1.
-
-### Criminal Offenses
+§ 1
 
 Criminal Offenses shall be those Delicts which, when committed, seriously impair their victims in their life, human dignity or property. The possibility of these acts being committed objectively increases the fear and uncertainty in life amongst rationally acting persons. A rational actor would take significant and costly steps to prevent these acts from being visited on themselves or others.
 
+§ 2
+
 Criminal Offenses shall be the most serious category of Delicts in Liberland and for them alone shall be prescribed Criminal Sanctions, the most impactful amongst all the Sanctions which Liberland can prescribe. 
 
+§ 3
+
 All Criminal Offenses shall be enumerated in the Book 2 of this Law, and no Delict shall be a Criminal Offense in Liberland except that it should be listed in this Book. The enitre material Criminal Law of Liberland shall be contained in this Law and no special Laws regarding criminal matters shall be drafted.
+
+§ 4
 
 1) As with any other Delict, no action shall be recognized as a Criminal Offense where there is no victim, by which is meant a natural or a moral Person who has incurred specific damage as the direct or indirect consequences of the Criminal Offense being committed. 
 
@@ -51,11 +48,13 @@ All Criminal Offenses shall be enumerated in the Book 2 of this Law, and no Deli
 
 3) Specifically for Criminal Offenses, damage visited upon Natural Persons shall be considered more serious than damage visited upon Moral Persons.
 
-1.
+#### Art. 2: Criminal Sanctions
 
-### Criminal Sanctions
+§ 1
 
 Criminal Sanctions shall be prescribed only for acts threatening or violating life, human dignity or private property and personal liberties or human rights, as well as other rights and social values guaranteed and protected by the Constitution of Liberland and international law in such a manner that their protection could not be realized without criminal law enforcement.
+
+§ 2
 
 1) The general purpose of prescribing, pronouncing or applying criminal sanctions is that all citizens honor the legal system and that no one commits a criminal offense, and that perpetrators of criminal offenses do not continue acting in a similar way in the future. 
 
@@ -63,23 +62,23 @@ Criminal Sanctions shall be prescribed only for acts threatening or violating li
 
 3) In determining the contents of criminal sanctions and the manner of their application, the freedoms and rights of the Perpetrator of a Criminal Offense may be limited only to a degree corresponding to the type of the criminal sanction applied and its special purpose determined by Law, without causing corporal pain or mental suffering, inhuman or degrading treatment, while observing human dignity and personality.
 
+§ 3
+
 1) No Criminal Sanction shall be prescribed if the act in question was no Criminal Offense at the time it was committed.
 
 2) The Criminal Law in force at the time the act was committed shall be applied to the perpetrator of a Criminal Offense.
 
 3) If the Criminal Law changes after the act was commited and the Law at the time of the Criminal Proceedings has become more lenient for the purported Perpetrator, the Law as applies at the time of the Criminal Proceedings shall apply.
 
+§ 4
+
 The provisions of the preceeding paragraph shall not apply to the crimes of Genocide, Ethnic Cleansing and War Crimes, as all human beings should know the wrongness of those acts. For those special Criminal Offenses, the Criminal Law in force when the Criminal Process takes place shall be applied and they shall be liable for prosecution even if not seen as criminal in the time and place they were commited. 
 
-1.
-
-### Time of Perpetration of a Criminal Offense
+#### Art. 3: Time of Perpetration of a Criminal Offense
 
 A criminal offense is committed at the time the perpetrator acts or ought to have acted, irrespective of the time when the consequence, which is a material element of the criminal offense, occurs. 
 
-1.
-
-### Place of Perpetration of a Criminal Offense
+#### Art. 4: Place of Perpetration of a Criminal Offense
 
 1) A criminal offense is committed both at the place the perpetrator acts or ought to have acted, and at the place where the consequence, which is a material element of a criminal offense, fully or partially occurs or, in the case of a punishable attempt, ought to have occurred according to the perpetrator's expectation.
 
