@@ -30,7 +30,7 @@ Ready for your recommendations, including thorought ones and requests to not dra
 * [Real Estate Law](https://github.com/liberland/laws/blob/Laws-Current/Drafts/Real%20Estate%20Law.md)
 * [Police Law](https://github.com/liberland/laws/blob/Laws-Current/Drafts/Police%20Law.md)
 * [Procurement Law](https://github.com/liberland/laws/blob/Laws-Current/Drafts/Procurement%20Law.md)
-* [Referendum Law](https://docs.google.com/document/d/1MjsvAGdAaJzmIrT-Pbh6BAOt9UnSo2u8ZEcrYGuEQtY/edit#heading=h.ijbruubdx0o9)
+* [Referendum Law](https://github.com/liberland/laws/blob/Laws-Current/Drafts/Referendum%20Law.md)
 
 ## First Draft
 Unfinished and to be advanced, all kinds of fundamental ideas are very welcome!
