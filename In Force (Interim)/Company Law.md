@@ -6,7 +6,7 @@ This Law shall govern the Status of Companies in Liberland, their Incorporation,
 
 ## Section 1: The Company
 
-### Art 1: The Company
+#### Art 1: The Company
 
 § 1
 
@@ -20,7 +20,7 @@ A Company shall have a Legal Personality separate from that of its Owner or Owne
 
 Where the Law speaks of Persons, it shall also be interpreted to mean Companies, unless it speaks of natural Persons or unless it is otherwise clear from the text that Companies should be excluded.
 
-### Art 2: Trade Name
+#### Art 2: Trade Name
 
 § 1
 
@@ -34,7 +34,7 @@ A Company shall act under the name or names under which it is registered during 
 
 3) There shall be no trade names too similar to trade names of existing companies, persons, institutions and the like and trade names shall likewise not be fraudulent, which would mean clearly in conflict with the nature or the purpose of the company or made for the purpose of a fraud.
 
-### Art 3: Company Name
+#### Art 3: Company Name
 
 § 1
 
@@ -48,7 +48,7 @@ A Company shall act under the name or names under which it is registered during 
 
 2) Should a foreign Company have the same Company Name as another Company registered in Liberland, it shall have to change its name for the purpose of its working in Liberland.
 
-### Art 4: Registered Office
+#### Art 4: Registered Office
 
 § 1
 
@@ -62,7 +62,7 @@ A Company shall act under the name or names under which it is registered during 
 
 2) The Company shall ensure that it is available at the Registered Office at times when such an availability should be expected of a Company according to established business practices.
 
-### Art 5: Actions of a Company
+#### Art 5: Actions of a Company
 
 § 1
 
@@ -72,13 +72,13 @@ A Company is no natural Person and is incapable of acting on its own. The Owners
 
 When acting in the capacity of the Statutory Organ, the actions of the Statutory Organ shall have legal effects binding upon the Company.
 
-### Art 6: Actions on behalf of the Company before its Incorporation
+#### Art 6: Actions on behalf of the Company before its Incorporation
 
 1) The Founder or the Founders acting on behalf of a future Company before the date of its incorporation shall be personally liable for their actions and entitled themselves for the benefits of these actions, unless and until the Company shall be incorporated.
 
 2) On the date of incorporation, the rights and obligations stemming from those actions shall transfer to the Company.
 
-### Art 7: Acting Ultra Vires
+#### Art 7: Acting Ultra Vires
 
 § 1
 
@@ -88,7 +88,7 @@ Should the Statutory organ act in a way which does not conform with the mandate 
 
 The Owners shall retain the right to demand the restitution of any damages resulting from an act of the Statutory Organ which has overstepped the boundaries of their mandate.
 
-### Art 8: Liability
+#### Art 8: Liability
 
 § 1
 
@@ -98,7 +98,7 @@ A Company shall be liable for the fulfilment of its obligations with its entire 
 
 A shareholder shall be liable for the obligations of their Company by their Share and further only up to the amount of the unpaid nominal value of their Shares.
 
-### Art 9: Capital
+#### Art 9: Capital
 
 § 1
 
@@ -116,11 +116,11 @@ The minimum registered capital shall be equivalent to one USD. The Capital shall
 
 ## Section 2: Registrar of Companies
 
-### Art 10: Registrar of Companies
+#### Art 10: Registrar of Companies
 
 The Registrar of Companies shall be an Agency under the Ministry of Internal Affairs which shall hold records of all Companies, foreign or domestic, that may wish to register themselves or act as Companies in Liberland.
 
-### Art 11: Registered Information
+#### Art 11: Registered Information
 
 § 1
 
@@ -163,17 +163,17 @@ Certain Company Data in the Registrar shall be made publicly available to Third 
 
 The Company Data in the Registrar shall enjoy the presumption of correctness vis a vis the Public Administration and vis a vis Third Persons before the Law in Liberland.
 
-### Art 12: Data Maintenance
+#### Art 12: Data Maintenance
 
 A Company shall be responsible to actively maintain its Company Data. In the event of any change to that Data, the company shall send a Notice of Change of Company Data to the Registrar containing the new Data and any information which should replace the previous Data and the date on which it should be replaced.
 
-### Art 13: Registrar Fee
+#### Art 13: Registrar Fee
 
 1) Each company which is incorporated under this Act and has not been removed, deregistered or struck off shall pay to the Registrar an annual fee prior to the 31 December of the current year.
 
 2) The Registrar shall draft and maintain a Regulation stating the current fee rate. The fee shall be based on the actual expenses of the Registrar and on its regular functioning.
 
-### Art 14: Information System
+#### Art 14: Information System
 
 § 1
 
@@ -193,7 +193,7 @@ The Registrar of Companies shall never lose the ultimate control over the System
 
 ## Section 3: Incorporation
 
-### Art 15: The Charter
+#### Art 15: The Charter
 
 The Founders shall begin the Incorporation of a Company by drafting up the Charter of the Company, which shall be the founding document of the nascent Corporation. It shall define at least the following about the Company:
 
@@ -211,7 +211,7 @@ f) the total Registered Capital of the Company including the currency in which i
 
 g) the total number of Shares in the Company.
 
-### Art 16: Company Registration Form
+#### Art 16: Company Registration Form
 
 § 1
 
@@ -249,7 +249,7 @@ b) allowing the Registrar to access this personal data for the purpose of the Re
 
 The Registrar will then match the data in the system with the Citizenship or E-Residence information system; a successful match shall be sufficient to identify this Person.
 
-### Art 17: Due Diligence
+#### Art 17: Due Diligence
 
 § 1
 
@@ -263,11 +263,11 @@ Where the Registrar should require more information from the Founders to complet
 
 The Registrar of Companies shall draft a Regulation regarding the specific procedures and criteria of the required KYC procedure according to the best available standards for KYC used in comparable situations.
 
-### Art 18: The Incorporation
+#### Art 18: The Incorporation
 
 After the KYC procedure is completed and the data verified, the Registrar shall publish the data using its Information System. The Company shall be incorporated and shall acquire its Legal Personality by the moment of the publishing of this data.
 
-### Art 19: Company Registered in another State
+#### Art 19: Company Registered in another State
 
 The Legal Personality of an already existing Company incorporated in another State or States shall be recognized in Liberland, unless the recognition of a Company according to a particular legislation should be incompatible with
 
@@ -279,7 +279,7 @@ c) the fulfilment of Liberland&#39;s responsibilities towards the international 
 
 ## Section 4: Shares
 
-### Art 20:Shares
+#### Art 20:Shares
 
 § 1
 
@@ -295,7 +295,7 @@ c) the fulfilment of Liberland&#39;s responsibilities towards the international 
 
 2) The nominal value of each issued share shall be an integer number.
 
-### Art 21: Rights of Shareholders
+#### Art 21: Rights of Shareholders
 
 § 1
 
@@ -325,7 +325,7 @@ Voting Rights
 
 Each shareholder shall have a right to vote at the Shareholder Meeting which shall be proportional to the number of their shares. The Shareholder Meeting can stipulate other rules for voting, including setting up the rules for supermajorities required for certain types of decision, but never to exclude certain Shareholders from the decision making.
 
-### Art 22: Prohibition of Bearer Shares
+#### Art 22: Prohibition of Bearer Shares
 
 § 1
 
@@ -343,7 +343,7 @@ a) the owners of the Company register the real Shares in the Company according t
 
 b) as long as those registered Shares are used as the real instrument to determine ownership in the Company.
 
-### Art 23: Registration of Shares
+#### Art 23: Registration of Shares
 
 § 1
 
@@ -371,13 +371,13 @@ f) the date of issuance of the Share.
 
 ## Section 5: Transfer of Companies
 
-### Art 24: Transfer of Companies
+#### Art 24: Transfer of Companies
 
 1) A Company shall be transferred by its Shares; in order to fully Transfer a Company, the current Owners have to transfer all their Shares to a new Owner or Owners.
 
 2) Shares can be likewise transferred on a by-share basis; both Transfers shall be handled in the same manner by Law in Liberland.
 
-### Art 25: Transfer of Shares
+#### Art 25: Transfer of Shares
 
 § 1
 
@@ -393,13 +393,13 @@ A Share in a company shall always be transferable and any provision agreed to th
 
 A Transfer of a Share shall only gain Legal Effect at the point of its Registration by the Registrar of Companies in Liberland. A Transfer of a Share performed without this Registration shall always be null and void.
 
-### Art 26: Mandatory KYC
+#### Art 26: Mandatory KYC
 
 1) Persons who are not yet Citizens, e-residents in Liberland or are not yet registered in the Registrar of Companies shall undergo a mandatory KYC procedure such as the one necessary for the founders upon the first Incorporation of a company, before the ownership of their Share can be registered.
 
 2) The same applies to the UBOs of a Company which should become a shareholder of a Company in Liberland.
 
-### Art 27: Transfer of Shares in Foreign Companies
+#### Art 27: Transfer of Shares in Foreign Companies
 
 § 1
 
@@ -409,7 +409,7 @@ Transfer of shares in foreign Companies according to foreign Law shall in genera
 
 Transfers of Shares performed according to Foreign legislation which should offer mechanisms less transparent than those of Liberland and where it is abundantly clear that the Transfer was performed using these mechanisms, shall be liable to be declared Null and Void for the purpose of Liberland Law by a Court.
 
-### Art 28: Right of First Purchase
+#### Art 28: Right of First Purchase
 
 1) Before issuing new Shares or before transferring existing Shares, the Statutory organ shall offer the Shares to all the current Shareholders at such price and on such terms as those that would be offered for the transfer of Shares to the prospective buyer.
 
@@ -417,7 +417,7 @@ Transfers of Shares performed according to Foreign legislation which should offe
 
 3) Should the offer not be accepted, the Shares may be offered to the third person as originally intended.
 
-### Art 29: Register of Shareholders
+#### Art 29: Register of Shareholders
 
 1) A Company shall also keep its own internal Register of Shareholders which shall contain at least
 
@@ -429,7 +429,7 @@ b) the information as to how many Shares each Shareholder holds.
 
 ## Section 6: Dissolution
 
-### Art 30: Winding Up
+#### Art 30: Winding Up
 
 § 1
 
@@ -457,7 +457,7 @@ A liquidator shall, upon completion of a winding-up, submit to the Registrar a w
 
 Upon receiving the written Statement, the Registrar shall strike the Company off of the Registrar. The Company shall thereby be Dissolved and it shall no longer possess a Legal Personality separate from its Owners.
 
-### Art 31: Bankruptcy
+#### Art 31: Bankruptcy
 
 § 1
 
@@ -489,7 +489,7 @@ f) conducts business for fraudulent purposes as these are defined by Law or by t
 
 2) This motion shall in no wise be the first way in which the Registrar shall try to resolve this situation. Such a motion shall instead be made only after all the other, more consensual attempts to resolve the situation will have repeatedly and persistently failed and there shall be no more realistic chance that any other such measures might succeed in the future.
 
-### Art 32: Enforced Liquidation
+#### Art 32: Enforced Liquidation
 
 § 1
 
@@ -519,7 +519,7 @@ Should the motion for Bankruptcy be sustained, the Court shall declare the Compa
 
 2) In this situation, the Liquidator shall receive no remuneration.
 
-### Art 33: Annulment of Liquidation
+#### Art 33: Annulment of Liquidation
 
 § 1
 
@@ -535,7 +535,7 @@ Should the motion for Bankruptcy be sustained, the Court shall declare the Compa
 
 3) The Liquidator shall receive their remuneration and it will be paid by the Creditors who had not acted in good will or by Liberland if it was the Registrar who had not acted in good will; if there was no such acting not in good will, then the remuneration will be paid by the Company.
 
-### Art 34: Dissolution
+#### Art 34: Dissolution
 
 § 1
 
@@ -557,7 +557,7 @@ Upon being written off, the Company shall be Dissolved and shall no longer posse
 
 ## Section 35: Charitable organization
 
-### Art 35: Charitable organization
+#### Art 35: Charitable organization
 
 § 1
 
@@ -571,7 +571,7 @@ Upon being written off, the Company shall be Dissolved and shall no longer posse
 
 2) The Charitable Organization shall keep those records in its own administration, continuously maintaining it and ensuring that the requirements are always met.
 
-### Art 36: Defining a charitable organization
+#### Art 36: Defining a charitable organization
 
 § 1
 
@@ -592,7 +592,7 @@ c) it must show by facts and circumstances that it operates as a public charity 
 
 2) The rest of this Section represents the exceptions from this similarity with Companies. Those exceptions are voluntary, and nothing prevents a Charitable Organization to operate fully in the regime of Companies, as long as it fulfills the criteria for a Charitable Organization provided by this section.
 
-### Art 37: Special provisions
+#### Art 37: Special provisions
 
 § 1
 
@@ -614,17 +614,17 @@ A Charitable Organization without Shares or Shareholders shall have as its highe
 
 2) In that case, the members of the Statutory organ and the persons who have in fact the power to influence the operation of the Charitable Organization will register in place of the UBOs.
 
-### Art 38: Charities without legal personality
+#### Art 38: Charities without legal personality
 
 Organizations which should not have legal personality and whose operator(s) should want to name them as charities shall likewise ensure that their purpose shall be to provide help or raise money for those in need and to benefit the general public.
 
-### Art 39: Fraudulent charities
+#### Art 39: Fraudulent charities
 
 1) Organizations presenting themselves as Charities to others which should not fulfill the requirements according to this Section shall be considered fraudulent.
 
 2) Where such organizations should have benefited from the special provisions of this Section, they shall be required without unnecessary delay to restructure themselves according to the general provisions of this Law regarding Companies.
 
-### Art 40: Changing the purpose of an existing Company into a Charitable organization
+#### Art 40: Changing the purpose of an existing Company into a Charitable organization
 
 1) Where the Shareholders of a Company should decide to turn their Company into a Charitable Organization, they shall inform the Registrar of this decision and declare the purpose of the organization.
 
@@ -632,7 +632,7 @@ Organizations which should not have legal personality and whose operator(s) shou
 
 ## Section 8: Transitory and Final Provisions
 
-### Art 41: Transitory Provisions
+#### Art 41: Transitory Provisions
 
 1) All Companies that were registered before this Act shall gain Legal Force shall be Companies Incorporated according to this Act.
 
@@ -640,6 +640,6 @@ Organizations which should not have legal personality and whose operator(s) shou
 
 3) Companies which should fail to comply upon repeated queries from the Registrar shall be Dissolved.
 
-### Art 42: Final Provision
+#### Art 42: Final Provision
 
 This act shall gain Legal Force on … and it shall remain in force in perpetuity or until its legal effects should be terminated or until it should be replaced by another Law governing the same or similar subject matter.
