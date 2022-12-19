@@ -158,7 +158,7 @@ f) three years in the case of other criminal offenses. 
 
 2) If, for a single criminal offense, several punishments are prescribed, the period of limitation shall be applied according to the most severe punishment prescribed for such an offense. 
 
-§ 1
+§ 3
 
 There shall be no Statute of Limitation for the crimes of Genocide, Ethnic Cleansing and for War Crimes. The Natural Person shall be prosecutable until their death and they might be pronounced guilty even after that (without consequences for their posterity), where a Moral Person shall be prosecutable even if it disolves, where it has any clear successor or successors.
 
@@ -532,14 +532,9 @@ g) if for concurrently adjudicated criminal offences, the court assesses impriso
 
 3) The inclusion under the provisions of this Article means equating one day of pre-trial detention, a day of the second occasion of deprivation of liberty, a day of imprisonment or juvenile imprisonment and a fine equivalent to one daily income or one day in prison for a contravention. Every initial 1000.00 LLD fine or a fine for a contravention shall be equated with one day of imprisonment.
 
-Section 4
+## Section 4: Non-Custodial Measures
 
-Non-Custodial Measures
-----------------------
-
-1.
-
-### Types of Non-Custodial Measures
+#### Art. 49: Types of Non-Custodial Measures
 
 Non-custodial measures are: 
 
@@ -547,17 +542,13 @@ a) admonition; and 
 
 b) suspended sentence. 
 
-1.
-
-### Purpose of Non-Custodial Measures
+#### Art. 50: Purpose of Non-Custodial Measures
 
 1) The purpose of admonition is to give the perpetrator of a criminal offense a reprimand when, considering all the circumstances regarding the offense and the perpetrator, a punishment does not need to be inflicted to achieve the purpose of criminal sanctions. 
 
 2) The purpose of a suspended sanction is to give the perpetrator a reprimand which achieves the purpose of criminal sanctions by pronouncing a sentence without executing it.
 
-1.
-
-### Admonition
+#### Art. 51: Admonition
 
 1) An admonition is a criminal sanction which can be applied as a non-custodial measure to the perpetrator of a criminal offense for which a punishment of imprisonment of up to one year or a fine is prescribed if, according to the perpetrator's manner of acting, his culpability and the caused consequence, the offense is of an especially light character, and when, considering all the circumstances regarding the perpetrator and particularly his relationship towards the injured person and the compensation for damage, the conditions for the attainment of the purpose of non-custodial measures without punishment are fulfilled. 
 
@@ -565,9 +556,7 @@ b) suspended sentence. 
 
 3) Admonition may also be applied for concurrently adjudicated criminal offenses, if for each offense the conditions specified in paragraphs 1 and 2 of this Article are fulfilled. 
 
-1.
-
-### Suspended Sentence
+#### Art. 52: Suspended Sentence
 
 1) A suspended sentence is a criminal sanction which, as a non-custodial measure, consists of the pronounced punishment and the term within which such a punishment shall not be executed if the convict does not commit another criminal offense and under other conditions prescribed by law. 
 
@@ -581,17 +570,13 @@ b) suspended sentence. 
 
 6) When under conditions of this Code, both imprisonment and a fine are pronounced, the court may decide to postpone only the execution of imprisonment. 
 
-1.
-
-### Obligations of the Person Under Suspended Sentence
+#### Art. 53: Obligations of the Person Under Suspended Sentence
 
 1) Together with imposing a suspended sentence, the court may order the following obligations: that the perpetrator of a criminal offense shall compensate for the damage he caused, that he restitutes the gain acquired by the offense, or that he fulfills other statutory obligations regarding the perpetration of the offense. 
 
 2) The period for the fulfillment of an obligation referred to in paragraph 1 of this Article shall be determined by the court within the assessed period of probation. 
 
-1.
-
-### Revocation of Suspended Sentence
+#### Art. 54: Revocation of Suspended Sentence
 
 1) The court shall revoke a suspended sentence and order the execution of the pronounced punishment if the convicted person, within the period of probation, commits one or more criminal offenses for which the court has imposed imprisonment of two years or a more serious punishment. 
 
@@ -607,9 +592,7 @@ b) suspended sentence. 
 
 7) Regardless of the reasons for revocation, a suspended sentence may not be revoked after a period of two years has elapsed. 
 
-1.
-
-### A Suspended Sentence with Supervision
+#### Art. 55: A Suspended Sentence with Supervision
 
 1) When the conditions to impose a suspended sentence exist but the circumstances in which the perpetrator lives and his personality suggest that he needs assistance, protection or supervision in order to fulfill the obligation not to commit another criminal offense within the period of probation, the court may impose a suspended sentence with supervision. 
 
@@ -617,9 +600,7 @@ b) suspended sentence. 
 
 3) The supervision may last throughout the period of probation, but may also, by court order, be canceled sooner if the requirements for assistance, protection and supervision have ceased to exist. 
 
-1.
-
-### Special Obligations Accompanying Suprevision
+#### Art. 56: Special Obligations Accompanying Suprevision
 
 When pronouncing a suspended sentence with supervision, the court may, beside the obligations specified in this Law, order the perpetrator to fulfill one or more obligations during the probation period, such as: 
 
@@ -637,21 +618,13 @@ f) to avoid visiting certain places, bars and events which could offer an opport
 
 g) to regularly keep in touch with the probation officer so as to be able to report on the circumstances which could induce the perpetration of another criminal offense. 
 
-1.
-
-### Revocation of a Suspended Sentence With Suprevision
+#### Art. 57: Revocation of a Suspended Sentence With Suprevision
 
 In the case of revocation of a suspended sentence with supervision, the provisions of this Code on the revocation of a suspended sentence shall apply, with the proviso that special obligations accompanying supervision shall be treated in the same way as any other obligations accompanying a suspended sentence. 
 
-Section 5
----------
+## Section 5: Security Measures
 
-Security Measures
------------------
-
-1.
-
-### Types of Security Measures
+#### Art. 58: Types of Security Measures
 
 Security measures are: 
 
@@ -667,15 +640,11 @@ e) expulsion of aliens; and 
 
 f) forfeiture.
 
-1.
-
-### The Purpose of Security Measures
+#### Art. 59: The Purpose of Security Measures
 
 The purpose of security measures is to eliminate the conditions which enable or encourage the perpetration of another criminal offense. 
 
-1.
-
-### Compulsory Psychiatric Treatment
+#### Art. 60: Compulsory Psychiatric Treatment
 
 1) The security measure of compulsory psychiatric treatment may be applied only to a perpetrator who commits a criminal offence in a state of diminished mental capacity if there is a danger that the causes of such a state may in the future also induce the perpetration of another criminal offence. 
 
@@ -687,9 +656,7 @@ The purpose of security measures is to eliminate the conditions which enable or 
 
 5) The perpetrator of a criminal offence who does not submit himself to psychiatric treatment while serving a suspended sentence and does not fulfil the obligations accompanying this non-custodial measure may be treated under the provision of this Law. The execution of imprisonment may be ordered against the perpetrator of a criminal offence who fails to submit himself to compulsory psychiatric treatment while performing community service as a substitute for imprisonment. 
 
-1.
-
-### Compulsory Treatment of Addiction
+#### Art. 61: Compulsory Treatment of Addiction
 
 1) The security measure of the compulsory treatment for addiction may be ordered for a perpetrator who commits a criminal offense under the decisive influence of addiction to alcohol or to narcotic drugs if there is a danger that due to such an addiction he will repeat the offence. 
 
@@ -699,9 +666,7 @@ The purpose of security measures is to eliminate the conditions which enable or 
 
 4) As in the case referred to in Article 54, paragraph 5 of this Code, the execution of imprisonment shall be ruled against the perpetrator of a criminal offense who does not submit himself to the compulsory treatment for addiction while performing community service.
 
-1.
-
-### Prohibition to Engage in a Profession, Activity or Duty
+#### Art. 62: Prohibition to Engage in a Profession, Activity or Duty
 
 1) The security measure of prohibition to engage in a profession, activity or duty may be ordered against a perpetrator who commits a criminal offense in carrying out his profession, activity or duty if there is a danger that such a role could induce the perpetration of another criminal offense through the abuse of the profession, activity or duty. 
 
@@ -709,9 +674,7 @@ The purpose of security measures is to eliminate the conditions which enable or 
 
 3) The provisions regarding the Suspension of Sentence shall be applied against the perpetrator of a criminal offense who is prohibited to engage in a profession, activity or duty while performing community service or serving a suspended sentence if he does not act in accordance with such a prohibition. 
 
-1.
-
-### Prohibition to Operate a Motor Vehicle
+#### Art. 63: Prohibition to Operate a Motor Vehicle
 
 1) The security measure of prohibition to operate a motor vehicle shall be ordered against the perpetrator of a criminal offense against traffic safety if there is a danger that by operating a motor vehicle he will commit such a criminal offense again. 
 
@@ -721,9 +684,7 @@ The purpose of security measures is to eliminate the conditions which enable or 
 
 4) The provisions regarding the Suspension of Sentence shall be applied against the perpetrator of a criminal offense who is prohibited to operate a motor vehicle while performing community service or serving a suspended sentence if he does not act in accordance with such a prohibition. 
 
-1.
-
-### Expulsion of an Alien
+#### Art. 64: Expulsion of an Alien
 
 1) The security measure of expulsion of an alien may be ordered against a perpetrator of a criminal offense who is not a citizen of the Republic of Croatia, provided that there is a danger that he will commit a criminal offense. 
 
@@ -731,9 +692,7 @@ The purpose of security measures is to eliminate the conditions which enable or 
 
 3) Against the perpetrator of a criminal offence for which long-term imprisonment is prescribed, the security measure of expulsion may be ordered for life. 
 
-1.
-
-### Forfeiture
+#### Art. 65: Forfeiture
 
 1) The security measure of forfeiture may be ordered with regard to an object which was designed for, or used in, the perpetration of a criminal offense, or came into being by the perpetration of a criminal offense, when there is a danger that the object will be used again for the perpetration of a criminal offense or when the purpose of protecting the public safety or moral reasons make the forfeiture of such an object seem absolutely necessary. 
 
@@ -741,21 +700,13 @@ The purpose of security measures is to eliminate the conditions which enable or 
 
 3) In certain cases, the law may prescribe mandatory forfeiture. 
 
-1.
-
-### Inclusion of Protective Measures Imposed for Contraventions
+#### Art. 66: Inclusion of Protective Measures Imposed for Contraventions
 
 Protective measures applied for contraventions against the perpetrator of a criminal offense which in their substance correspond to the security measures referred to in this Chapter of the Code shall be included in the security measure ordered for a criminal offense whose description corresponds to the offense for which the measure was ordered.
 
-Section 6
----------
+## Section 6: Confiscation of Pecuniary Gain, Public Announcement of Judgement, Legal Consequences of Conviction, Rehabilitation, Amnesty and Pardon
 
-Confiscation of Pecuniary Gain, Public Announcement of Judgement, Legal Consequences of Conviction, Rehabilitation, Amnesty and Pardon
---------------------------------------------------------------------------------------------------------------------------------------
-
-1.
-
-### Confiscation of Pecuniary Gain Acquired by a Criminal Offense
+#### Art. 67: Confiscation of Pecuniary Gain Acquired by a Criminal Offense
 
 1) The court shall confiscate a pecuniary gain acquired by means of a criminal offense. 
 
@@ -765,21 +716,17 @@ Confiscation of Pecuniary Gain, Public Announcement of Judgement, Legal Conseque
 
 4) If an injured party has been granted his claim of ownership, the court shall confiscate only the part of the pecuniary gain which exceeds the granted claim. 
 
-5)The court shall confiscate the pecuniary gain even if the injured party is instructed to claim his right in a civil action. If this is the case, the injured party may be reimbursed from the forfeited pecuniary gain if he has instituted a civil action within a period of six months from the date the decision establishing his right to reimbursement from the forfeited pecuniary gain became final. 
+5) The court shall confiscate the pecuniary gain even if the injured party is instructed to claim his right in a civil action. If this is the case, the injured party may be reimbursed from the forfeited pecuniary gain if he has instituted a civil action within a period of six months from the date the decision establishing his right to reimbursement from the forfeited pecuniary gain became final. 
 
 6) An injured party who, in the course of criminal proceedings, has not submitted a motion to realize his claim of ownership, he may request reimbursement from the forfeited pecuniary gain if he initiates a civil action within three months following the final decision on the forfeiture of the pecuniary gain, and not later than two years after the decision on the forfeiture of the pecuniary gain became final, or if, within three months from the day of finality of the decision establishing his right, he requests reimbursement. 
 
-1.
-
-### Public Announcement of the Judgement
+#### Art. 68: Public Announcement of the Judgement
 
 1) In a judgment pronouncing the perpetrator culpable of a criminal offense committed through public media, the court may order that such a judgment be publicly announced at the cost of the perpetrator. 
 
 2) By ordering the means, the time, the manner and other circumstances of the public announcement of the judgment, the court shall ensure that these circumstances correspond to the circumstances of the publication of the matter by which the criminal offense was committed. 
 
-1.
-
-### Legal Consequences of Conviction
+#### Art. 69: Legal Consequences of Conviction
 
 1) The legal consequences of conviction for a committed criminal offense may be prescribed only by this Law or the Constitution. 
 
@@ -799,9 +746,7 @@ d) deprivation of state decorations and awards. 
 
 5) The prohibition to take a government job shall expire five years after the legal consequences have become effective. 
 
-1.
-
-### Rehabilitation
+#### Art. 70: Rehabilitation
 
 1) After the punishment of imprisonment, long-term imprisonment or imprisonment of juveniles has been served, remitted, or purged by the statute of limitations, the convicted persons shall exercise all citizens' rights determined by the Constitution, statute or other legal provisions and shall acquire all the rights other than those that are limited as a result of a security measure or a legal consequence of the conviction. 
 
@@ -821,9 +766,7 @@ c) five years from the day of a served, expired, or remitted sentence, in the ca
 
 d) three years from the day of a served, expired or a remitted sentence, in the case of a sentence to five years of imprisonment, imprisonment of juveniles or a fine, from the expiry of probation in the case of a suspended sentence and from the finality of the decision on admonition or remission of sentence. 
 
-1.
-
-### Criminal Record Data
+#### Art.71: Criminal Record Data
 
 1) Criminal record data may be given only to courts and State Attorney's offices when criminal proceedings are conducted against the person for whom such data are sought or when the proceedings for his pardon are pending. 
 
@@ -835,27 +778,15 @@ d) three years from the day of a served, expired or a remitted sentence, in the 
 
 5) A citizen shall have the right to demand data from the criminal record for his own use, only upon proof that such data are required to exercise his rights in a foreign state. 
 
-Book 2
-======
+# Book 2: Special Part
 
-Special Part
-============
+## Section 1: Criminal Offences against Life and Personal Integrity
 
-Section 1
----------
-
-Criminal Offences against Life and Personal Integrity
------------------------------------------------------
-
-1.
-
-### Murder
+#### Art. 72: Murder
 
 Whoever kills another person with malice or afterthought shall be punished by imprisonment for not less than five years.  
 
-1.
-
-### Aggravated Murder
+#### Art. 73: Aggravated Murder
 
 Punishment by imprisonment for not less ten years or by long-term imprisonment shall be imposed on a person who: 
 
@@ -875,33 +806,23 @@ g) murders a judge or a Supreme Court Justice, a lay judge, the State Attorney, 
 
 h) murders an official person at the time when such a person acts in the execution of his duty of protecting the constitutional order, safeguarding persons or property, discovering criminal offenses, bringing in, arresting or preventing the escape of a perpetrator of a criminal offense, applying criminal sanctions and measures and keeping public order and peace. 
 
-1.
-
-### Manslaughter
+#### Art. 74: Manslaughter
 
 Whoever kills another on the spur of the moment, after being brought without his fault into a state of strong irritation or fright by another person's attack, maltreatment or serious insult, shall be punished by imprisonment for one to ten years. 
 
-1.
-
-### Infanticide
+#### Art. 75: Infanticide
 
 A mother who kills her child during or immediately after birth shall be punished by imprisonment for one to eight years. 
 
-1.
-
-### Killing on Request
+#### Art. 76: Killing on Request
 
 Whoever kills another upon his express and earnest request shall be punished by imprisonment for one to eight years.
 
-1.
-
-### Negligent Homicide
+#### Art. 77: Negligent Homicide
 
 Whoever causes the death of another person by negligence shall be punished by imprisonment for six months to five years.
 
-1.
-
-### Participating in Suicide
+#### Art. 78: Participating in Suicide
 
 1) Whoever induces or assists another in committing suicide which is accomplished or attempted shall be punished by imprisonment for six months to five years. 
 
@@ -911,9 +832,7 @@ Whoever causes the death of another person by negligence shall be punished by im
 
 4) Whoever treats a person who is in a state of subordination or dependence in a cruel or inhuman way and thereby negligently causes the suicide of that person shall be punished by imprisonment for three months to three years. 
 
-1.
-
-### Unlawful Termination of Pregnancy
+#### Art. 79: Unlawful Termination of Pregnancy
 
 1) Whoever, contrary to the regulations on the termination of pregnancy, commences the termination, terminates or assists a pregnant woman in terminating her pregnancy with her consent shall be punished by imprisonment for six months to three years. 
 
@@ -927,11 +846,13 @@ Whoever causes the death of another person by negligence shall be punished by im
 
 6) If, by the criminal offence referred to in paragraphs 2 and 4 of this Article, the woman's death is caused, or her health is severely impaired, the perpetrator shall be punished by imprisonment for five to fifteen years. 
 
-1.
+#### Art. 80: Bodily Injury
 
-### Bodily Injury
+§ 1
 
 Whoever inflicts bodily injury on another or impairs a person's health shall be punished by a fine or by imprisonment not exceeding three year.
+
+§ 2
 
 1) Whoever inflicts a serious bodily injury on another or severely impairs a person's health shall be punished by imprisonment for six months to five years. 
 
@@ -949,35 +870,29 @@ the perpetrator shall be punished by imprisonment for one to ten years. 
 
 3) If the injured person dies due to serious bodily injury, the perpetrator shall be punished by imprisonment for three to fifteen years.
 
+§ 3
+
 1) Whoever inflicts serious bodily injury or another, or severely impairs a person's health on the spur of the moment, after being brought without his fault into a state of strong irritation or fright by another person's attack, maltreatment or serious insult shall be punished for three months to three years. 
 
 2) Whoever inflicts particularly serious bodily injury on another, or very seriously impairs a person's health on the spur of the moment, after being brought without his fault into a state of strong irritation or fright by a person's attack, maltreatment or serious insult, shall be punished by imprisonment for six months to five years. 
 
 3) If the criminal offence of bodily injury resulting in death is committed on the spur of the moment, the perpetrator shall be punished by imprisonment for one to eight years. 
 
-1.
-
-### Negligent Bodily Injury
+#### Art. 81: Negligent Bodily Injury
 
 Whoever inflicts serious bodily injury by negligence shall be punished by a fine or by imprisonment not exceeding three years.
 
-1.
-
-### Institution of Criminal Proceedings for Criminal Offenses of Bodily Injury
+#### Art. 82: Institution of Criminal Proceedings for Criminal Offenses of Bodily Injury
 
 Criminal proceedings for the criminal offense of bodily injury shall be instituted upon a private charge. 
 
-1.
-
-### Participation in an Affray
+#### Art. 83: Participation in an Affray
 
 1) Whoever participates in an affray which results in the death or serious bodily injury of one or more persons shall be punished by a fine or by imprisonment not exceeding three years for the act of merely participating in the affray. 
 
 2) The criminal offense referred to in paragraph 1 of this Article shall not apply if the person who has participated in the affray has been involved in it without his fault or merely to defend himself or to separate other participants in the affray. 
 
-1.
-
-### Failure to Render Aid
+#### Art. 83: Failure to Render Aid
 
 1) Whoever fails to render aid to a person in immanent mortal danger, although he could have done so without subjecting himself or another to serious danger, shall be punished by a fine or by imprisonment not exceeding one year. 
 
@@ -985,23 +900,15 @@ Criminal proceedings for the criminal offense of bodily injury shall be institut
 
 3) If, by the criminal offence referred to in paragraph 2 of this Article, the death of the person exposed to such danger is caused, or a serious bodily injury is inflicted on such a person, or if his health is severely impaired, the perpetrator shall be punished by imprisonment for one to five years.
 
-1.
-
-### Deserting a Helpless Person
+#### Art. 84: Deserting a Helpless Person
 
 1) Whoever deserts a helpless person entrusted to him or whoever leaves a person he is responsible for unassisted and in the circumstances dangerous for life or health shall be punished by imprisonment for three months to three years. 
 
 2) If, due to the criminal offense referred to in paragraph 1 of this Article, the death of the deserted person is caused, or such a person suffers serious bodily injury, or his health is severely impaired, the perpetrator shall be punished by imprisonment for one to five years. 
 
-Section 2
----------
+## Section 2: Criminal Offences Agaisnt the Freedom and Rights of Man and Citizen
 
-Criminal Offences Agaisnt the Freedom and Rights of Man and Citizen
--------------------------------------------------------------------
-
-1.
-
-### Violation of the Equality of Citizens
+#### Art. 85: Violation of the Equality of Citizens
 
 1) Whoever denies and limits the freedoms or rights of man and citizen laid down in the Constitution, statutes or other legal provisions on the basis of a difference of 
 
@@ -1035,62 +942,50 @@ whoever, on the basis of such a difference or affiliation, grants citizens any p
 
 3) Whoever, contrary to the regulations regarding the use of a language and script, denies or deprives a citizen of the right to freely use his own language and script shall be punished by a fine or by imprisonment not exceeding one year. 
 
-1.
+#### Art. 86: Violation of the Freedom of Expression 
 
-### Violation of the Freedom of Expression 
-
-   1) Whoever denies or limits freedom of speech or public appearance, the incorporation of companies, funds or institutions of public communication, freedom of the press or other media of communication shall be punished by a fine or by imprisonment not exceeding one year. 
+1) Whoever denies or limits freedom of speech or public appearance, the incorporation of companies, funds or institutions of public communication, freedom of the press or other media of communication shall be punished by a fine or by imprisonment not exceeding one year. 
 
 2) The same punishment as referred to in paragraph 1 of this Article shall be imposed on a person who orders or implements censorship or denies or restricts a journalist's access to information or his freedom of reporting, unless there is a question of a state, military or official secret. 
 
-1.
-
-Violating the Right to Peaceful Assembly and Public Protest
+#### Art. 87: Violating the Right to Peaceful Assembly and Public Protest
 
 1) Whoever denies or limits the right of citizens to peaceful assembly or public protest which is in conformity with the law shall be punished by a fine or by imprisonment not exceeding one year. 
 
 2) The same punishment as referred to in paragraph 1 of this Article shall be imposed on whoever prevents or disrupts the peaceful assembly or public protest of citizens which is in conformity with the law. 
 
-1.
-
-### Violation of the Freedom of Association
+#### Art. 88: Violation of the Freedom of Association
 
 Whoever denies or limits citizens' freedom of association in political parties, trade unions or other legitimate associations for the protection of their interest or the advancement of their social, economic, political, national, cultural and other beliefs or objectives shall be punished by a fine or imprisonment for not more than one year. 
 
-1.
-
-### Violation of the Freedom of Religion
+#### Art 89: Violation of the Freedom of Religion
 
 1) Whoever denies or limits the right to the freedom of religion, the rights to manifest publicly one's religion or other belief shall be punished by a fine or by imprisonment not exceeding one year. 
 
 2) The same punishment as referred to in paragraph 1 of this Article shall be imposed on whoever denies the right of a religious community to operate in conformity with the law in a way similar to other religious communities in Liberland, or who denies or deprives a religious community of the freedom to perform publicly religious services, to establish schools, educational institutions, social and charitable institutions and institutes and to manage them in conformity with the law.
 
-### Violation of the Right to Strike
+#### Art. 90: Violation of the Right to Strike
 
 Whoever denies or limits the right to strike which is organized and carried out in conformity with the law shall be punished by a fine or by imprisonment not exceeding one year. 
 
-1.
-
-### Violation of the Right to Submit Complaints and Petitions
+#### Art. 91: Violation of the Right to Submit Complaints and Petitions
 
 An official or a responsible person who abuses his position or authority and prevents another person from exercising his right to submit an appeal, objection, request, petition or complaint shall be punished by a fine or by imprisonment not exceeding one year.
 
-### Restriction of Printing and Distributing Printed Materials and of Broadcasting
+#### Art. 92: Restriction of Printing and Distributing Printed Materials and of Broadcasting
 
 Whoever unlawfully restricts the printing, sale or distribution of books, journals, newspapers or other printed materials, or the producing and broadcasting of radio and television programs, as well as news agencies' programs, shall be punished by a fine or by imprisonment not exceeding one year.
 
-### Violation of the Right to Work and Other Labor - Related Rights
+#### Art. 93: Violation of the Right to Work and Other Labor - Related Rights
 
 1) Whoever denies or limits the right of a citizen to work, the freedom of work, the free choice of vocation or occupation, access to a work place and to duties offered to everyone under the same terms, the right to earnings, or who without a justified reason denies earnings to a worker within the prescribed period of time, social security, retirement or disability rights or who does not register a worker with the bodies of health, retirement and disability insurance, or who does not observe working hours and time off regulated by law, the rights of specific groups of workers to special protection, the rights resulting from unemployment, the rights related to labor, maternity and child care or other labor-related rights stipulated by law, a court decision or collective agreement shall be punished by imprisonment for three months to three years. 
 
 2) The punishment referred to in paragraph 1 of this Article shall be inflicted on those who do not enforce a final court decision to make it possible for a worker to return to his job.
 
-### Violation of the Right to Health Care and Disability Protection
+#### Art. 94: Violation of the Right to Health Care and Disability Protection
 
 Whoever denies or deprives a citizen of the right to health care and disability protection stipulated by the law shall be punished by a fine or by imprisonment not exceeding one year. 
 
-1.
-
-### Violation of the Freedom to Vote
+#### Art. 95: Violation of the Freedom to Vote
 
 Whoever, by force, serious threat, bribery or in some other illegal way influences a voter to vote for or against a certain candidate in elections, or to vote for or against the recall of a candidate, or to vote for or against a certain proposal in a referendum, or not to vote at all, shall be punished by a fine or by imprisonment not exceeding one year.
