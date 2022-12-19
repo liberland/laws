@@ -12,7 +12,6 @@ If you want to contribute, please give us (justice@liberland.org) your GitHub ha
 
 ## Interim Laws (in force)
 
-* [The Articles of the Preparatory Committee](broken-reference)
 * [Company Law](in-force-interim/company-law.md)
 
 ## Revisions
