@@ -1,10 +1,8 @@
 # Table of contents
 
 * [Liberland Laws](README.md)
-## [In Force (Interim)](in-force-interim/README.md)
+* [In Force (Interim)](in-force-interim/README.md)
   * [Company Law](in-force-interim/company-law.md)
-
-## Drafting
 * [Consolidated](consolidated/README.md)
   * [Citizenship Law](<consolidated/Citizenship Law.md>)
 * [Drafts](drafts/README.md)
