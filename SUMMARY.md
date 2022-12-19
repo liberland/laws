@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🧑⚖ Liberland Laws](README.md)
+* [📒 Liberland Laws](README.md)
 
 ## In Force
 
