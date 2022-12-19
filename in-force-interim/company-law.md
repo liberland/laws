@@ -555,7 +555,7 @@ b) if there are no inconsistencies found, write the Company off of the Register.
 
 Upon being written off, the Company shall be Dissolved and shall no longer possess Legal Personality separate from its Owners.
 
-## Section 35: Charitable organization
+## Section 8: Charitable organization
 
 #### Art 35: Charitable organization
 
