@@ -84,23 +84,17 @@ A criminal offense is committed at the time the perpetrator acts or ought to hav
 
 2) In the cases of complicity, the criminal offense is committed at the place specified as it would be for the main Perpetrator and at the place the accomplice acts or ought to have acted, or at the place where the consequence, which is a material element of a criminal offense, ought to have occurred according to the expectation of the accomplice. 
 
-1.
-
-### Culpability
+#### Art. 5: Culpability
 
 No one shall be punished if not found culpable of the committed offense, whether by Malintent or by Gross Negligence.
 
-1.
-
-### Omission 
+#### Art. 6: Omission 
 
 1) A criminal offense is committed by omission when the perpetrator, who is legally obligated to avert the consequence of a criminal offense defined by law, fails to do so, and such a failure to act is tantamount in its effect and significance to the perpetration of such an offense by an act. 
 
 2) The punishment of a perpetrator who commits a criminal offense by omission can be mitigated, except in the case of a criminal offense which can be committed only by failure to act. 
 
-1.
-
-### Types of Criminal Sanctions
+#### Art. 7: Types of Criminal Sanctions
 
 1) The following shall be Criminal Sanctions in Liberland: 
 
@@ -114,15 +108,11 @@ d) educational measures.
 
 2) The duration of any type of criminal sanction shall be determined by statute and no criminal sanction shall be prescribed, pronounced or applied for an indefinite time.
 
-1.
+#### Art. 8: Right to Rehabilitation
 
-### Right to Rehabilitation
+A Perpetrator sentenced for a Criminal Offense, after certain amount of time passes or where their sentence should be rescinded, shall be deemed a person who has not committed a criminal offense. Their rights and liberties shall not differ from the rights and liberties of persons who have not committed a Criminal Offense. 
 
-### A Perpetrator sentenced for a Criminal Offense, after certain amount of time passes or where their sentence should be rescinded, shall be deemed a person who has not committed a criminal offense. Their rights and liberties shall not differ from the rights and liberties of persons who have not committed a Criminal Offense. 
-
-1.
-
-### Territorial and Ex-Territorial Applicability
+#### Art. 9: Territorial and Ex-Territorial Applicability
 
 1) This Law shall apply to anyone who commits a Criminal Offense within its territory. 
 
@@ -130,31 +120,27 @@ d) educational measures.
 
 3) This Law shall also apply to anyone who commits a criminal offense aboard a domestic civil aircraft while in flight, or a domestic military aircraft, regardless of the location of such an aircraft at the time the criminal offense is committed. 
 
-1.
-
-### Personal Applicability
+#### Art. 10: Personal Applicability
 
 1) This Law shall be applied to a Liberland Citizen who, outside the territory of Liberland, commits a criminal offense.
 
 2) This Law shall be applied to an alien who, outside the territory of Liberland, commits a criminal offense against Liberland.
 
-1.
-
-### Special Rights of Young Persons
+#### Art. 11: Special Rights of Young Persons
 
 Criminal legislation shall not be applied to a young person who, at the time of committing a criminal offense, had not reached fourteen years of age. 
 
-1.
-
-### Deprivation of Liberty in a Foreign Country
+#### Art. 12: Deprivation of Liberty in a Foreign Country
 
 In the cases of the application of a Criminal Sanction after the perpetrator has already been deprived of his liberty in a foreign state due to a Criminal Offense, the time spent in pre-trial detention or imprisonment, or any other deprivation of liberty, shall be included in the sentence pronounced by the domestic court for the same Criminal Offense, and if the sentences are not of the same type, the inclusion shall be made in accordance with an equitable assessment of the court. 
 
-1.
+#### Art. 13: Statute of Limitation
 
-### Statute of Limitation
+§ 1
 
 Criminal Sanctions may not be applied after the period determined by this Code for the given Criminal Sanction and a Criminal Offense has elapsed from the time the Criminal Offense has been committed, the punishment pronounced or other criminal sanction ordered.
+
+§ 2
 
 The following shall be be the periods after which the Statute of Limitation applies:
 
@@ -172,11 +158,13 @@ f) three years in the case of other criminal offenses. 
 
 2) If, for a single criminal offense, several punishments are prescribed, the period of limitation shall be applied according to the most severe punishment prescribed for such an offense. 
 
+§ 1
+
 There shall be no Statute of Limitation for the crimes of Genocide, Ethnic Cleansing and for War Crimes. The Natural Person shall be prosecutable until their death and they might be pronounced guilty even after that (without consequences for their posterity), where a Moral Person shall be prosecutable even if it disolves, where it has any clear successor or successors.
 
-1.
+#### Art. 14: Period of the Statute of Limitation
 
-### Period of the Statute of Limitation
+§ 1
 
 1) The period prescribed by the Statute of Limitation to institute criminal prosecution commences on the date the Criminal Offense was committed. 
 
@@ -188,17 +176,15 @@ There shall be no Statute of Limitation for the crimes of Genocide, Ethnic Clean
 
 3) After each interruption, the period prescribed by the Statute of Limitation commences anew. 
 
+§ 2
+
 The period prescribed by the Statute of Limitation to institute criminal prosecution expires in any case when twice as much time lapses as is prescribed by the Statute of Limitation for the initiation of criminal prosecution. 
 
-1.
-
-### Minimal Offenses
+#### Art. 15: Minimal Offenses
 
 There shall be no criminal offense, although its material elements have been realized, if the offense is obviously insignificant with regard to the manner of the Perpetrator's conduct, their culpability, and the incurred consequence to the protected good and the legal system. 
 
-1.
-
-### Self-Defense
+#### Art. 16: Self-Defense
 
 1) There shall be no criminal offense when the perpetrator acts in self-defense. 
 
@@ -206,35 +192,33 @@ There shall be no criminal offense, although its material elements have been rea
 
 3) If the perpetrator exceeds the limits of self-defence, the punishment can be mitigated, and if the excess occurs due to strong irritation or fright caused by the attack, the punishment can be remitted. 
 
-1.
+#### Art. 17: Necessity
 
-### Necessity
+§ 1
 
 There shall be no criminal offense when the perpetrator has acted in order to avert from himself or from another an imminent danger which could not have been averted in any other way, provided that in doing so a lesser harm was done than that which had been threatened. 
+
+§ 2
 
 1) The perpetrator is not culpable if he has committed an illegal act in order to avert from himself or from another an imminent danger which could not have been averted in any other way, provided that in doing so the harm that is done is not disproportionally greater than that which had been threatened. 
 
 2) If, in this case, the perpetrator was avoidably mistaken about the circumstances which exclude culpability, he shall be punished for negligence if, for the committed offense, the Code prescribes punishment for negligence. 
 
+§ 3
+
 The defense of necessity is not available if the perpetrator was obligated to expose himself to danger. 
 
-1.
-
-### Coercion or Threat
+#### Art. 18: Coercion or Threat
 
 1) There shall be no criminal offense when the perpetrator acts under the influence of irresistible coercion.
 
 2) If the perpetrator commits a criminal offense under resistible coercion or threat, the provisions of Necessity shall apply, treating such coercion or threat as a danger. 
 
-1.
-
-### Lawful Use of Force
+#### Art. 19: Lawful Use of Force
 
 There shall be no Criminal Offense when an authorized person uses force in accordance with the law unless the use of force is not in excess of what is necessary to fulfil the purpose for which the force is used. 
 
-1.
-
-### Attempt
+#### Art. 20: Attempt
 
 1) Whoever intentionally commences to execute a criminal offense but does not consummate it shall be punished for the attempt only of a Criminal Offense for which a punishment of five years of imprisonment or a more serious penalty is prescribed by law, while the attempt of another criminal offense is punishable only if the law expressly provides for the punishment for an attempt. 
 
@@ -242,17 +226,13 @@ There shall be no Criminal Offense when an authorized person uses force in accor
 
 3) If the perpetrator attempts to commit a Criminal Offense by means that are inappropriate to accomplish the ends sought, or against an object upon which a Criminal Offense could not have been committed, the court may remit the punishment.
 
-1.
-
-### Voluntary Abandonment
+#### Art. 21: Voluntary Abandonment
 
 1) If the Perpetrator voluntarily abandons the execution of a punishable attempt, the court may remit the punishment. 
 
 2) The Perpetrator abandons the execution of a punishable attempt if he voluntarily interrupts further execution of a commenced Criminal Offense, aware that, according to all circumstances, he could have completed the act, or, if after the completion of such an act, he prevents the occurrence of consequences.
 
-1.
-
-### Principal and Accomplice
+#### Art. 22: Principal and Accomplice
 
 1) The Principal is a person who commits a criminal offense by his own act or omission or through another agent. 
 
@@ -266,21 +246,23 @@ b) the aider or abettor. 
 
 4) The instigator and aider or abettor are accomplices who, without control over the perpetration of a Criminal Offense, contribute to its perpetration by instigation or by aiding and abetting.
 
-1.
+#### Art. 23: Punishment of Accomplices
 
-Punishment of Accomplices
+§ 1
 
 1) Each co-principal shall be liable in accordance with his intent or negligence, while the instigator and the aider and abettor shall be liable in accordance with their intent. 
 
 2) The material or personal characteristics of the principal, which represent the material elements of a criminal offense or influence the severity of the prescribed punishment, shall also apply to accomplices. 
 
+§ 2
+
 Strictly personal circumstances for which the law excludes culpability and allows for the remission, mitigation or aggravation of punishment may apply only to the principal or accomplice to whom they pertain. 
+
+§ 3
 
 The punishment of an accomplice who voluntarily prevents the perpetration of a criminal offense may be remitted. 
 
-1.
-
-Instigation
+#### Art. 24: Instigation
 
 1) Whoever intentionally instigates another to commit a criminal offence shall be punished as if he himself committed it. 
 
@@ -288,9 +270,7 @@ Instigation
 
 3) In the case of an inadvertent attempt of instigation, the court may remit the punishment of the instigator. 
 
-1.
-
-Aiding and Abetting
+#### Art. 25: Aiding and Abetting
 
 1) Whoever intentionally aids and abets another in the perpetration of a criminal offense shall be punished as if he himself committed it, but the punishment may also be mitigated.
 
@@ -306,43 +286,29 @@ d) giving an advance promise to conceal the criminal offense, the perpetrator, o
 
 e) concealing the traces of a criminal offense or the objects procured by the criminal offense.
 
-Section 2
----------
+## Section 2: Culpability
 
-Culpability
------------
-
-1.
-
-### Mental Incapacity
+#### Art. 26: Mental Incapacity
 
 1) A mentally incapable person shall not be culpable and no criminal sanction shall be imposed on such a person. A mentally incapable person may be placed in a psychiatric institution in accordance with the provisions of the Law on the Protection of Mentally Disturbed Persons. 
 
 2) A mentally incapable person is one who at the time of the perpetration of an illegal act was incapable of understanding the significance of his conduct, or cannot control his will due to mental illness, temporary mental disorder, mental deficiency or some other severe mental disturbance. 
 
-1.
-
-### Voluntary Intoxication
+#### Art. 27: Voluntary Intoxication
 
 A perpetrator who, due to the consumption of alcohol, narcotic drugs or other substances, culpably brings himself into a state in which he is incapable of understanding the significance of his conduct or of controlling his own will shall not be deemed mentally incapable if, at the time of bringing himself into such a state, his intent encompasses the offense committed, or if at this time he is negligent in regard to the offense, provided that the statute prescribes punishment for such a form of culpability as well. 
 
-1.
+#### Art. 28: Diminished Mental Capacity
 
-### Diminished Mental Capacity
+The punishment of a perpetrator may be mitigated if at the time of the perpetration of a criminal offense, due to a condition referred to in Article 40, paragraph 2 of this Code, the perpetrator was of Criminal Code 11 substantially diminished mental capacity, provided that the mental deficiency was not voluntarily produced. 
 
- The punishment of a perpetrator may be mitigated if at the time of the perpetration of a criminal offense, due to a condition referred to in Article 40, paragraph 2 of this Code, the perpetrator was of Criminal Code 11 substantially diminished mental capacity, provided that the mental deficiency was not voluntarily produced. 
-
-1.
-
-### Generally, only Intentional Perpetration is Punishable
+#### Art. 29: Generally, only Intentional Perpetration is Punishable
 
 1) Only the intentional perpetration of a criminal offense is punishable, unless a statute expressly provides punishment for negligent conduct as well. 
 
 2) A more severe punishment which the law prescribes for a particular consequence of a criminal offense shall be inflicted only when the perpetrator acted at least negligently with regard to such a consequence.
 
-1.
-
-### Intent
+#### Art. 30: Intent
 
 1) A criminal offense may be committed with direct (dolus directus) or indirect intent (dolus eventualis). 
 
@@ -350,9 +316,7 @@ A perpetrator who, due to the consumption of alcohol, narcotic drugs or other su
 
 3) The perpetrator acts with indirect intent when he is aware that he might commit an offense and accedes to it. 
 
-1.
-
-### Negligence
+#### Art. 31: Negligence
 
 1) A criminal offense may be committed by advertent or inadvertent negligence. 
 
@@ -360,9 +324,7 @@ A perpetrator who, due to the consumption of alcohol, narcotic drugs or other su
 
 3) The perpetrator acts with inadvertent negligence when he is unaware that he might commit an offense, although under the circumstances and according to his personal characteristics he should and could have been aware of such a possibility. 
 
-1.
-
-### Mistake of Law
+#### Art. 32: Mistake of Law
 
 1) The perpetrator who, for justified reasons, does not know and could not have known that the offense is prohibited shall not be culpable. 
 
@@ -370,9 +332,7 @@ A perpetrator who, due to the consumption of alcohol, narcotic drugs or other su
 
 3) A mistake shall be deemed avoidable if anyone, and thus also the perpetrator, could have easily grasped the unlawfulness of the conduct, or if the perpetrator was supposed to know the relevant regulation because of his profession, occupation or service. 
 
-1.
-
-### Mistake of Fact
+#### Art. 33: Mistake of Fact
 
 1) A perpetrator does not act intentionally if at the time of the perpetration of a criminal offense he is not aware of one of its material elements.
 
@@ -382,15 +342,9 @@ A perpetrator who, due to the consumption of alcohol, narcotic drugs or other su
 
 4) If the perpetrator is mistaken for the claim of legal justification out of negligence, he shall be punished for the perpetration of a criminal offence, provided that the statute prescribes punishment for such an offense also when committed by negligence.
 
-Section 3
----------
+## Section 3: Punishment and Sentencing
 
-Punishment and Sentencing
--------------------------
-
-1.
-
-### Types of Punishment
+#### Art. 34: Types of Punishment
 
 1) Perpetrators of criminal offenses may be punished by fine or imprisonment. 
 
@@ -400,9 +354,7 @@ Punishment and Sentencing
 
 4) For criminal offenses committed for personal gain, a fine may be imposed as a supplementary punishment, even when it is not prescribed by law, or when the law prescribes that the perpetrator is to be punished by imprisonment or by a fine, while the court pronounces imprisonment as the principal punishment.
 
-1.
-
-### The Purpose of Punishment
+#### Art. 35: The Purpose of Punishment
 
 By taking into consideration the general purpose of criminal sanctions, the purpose of inflicting punishment is to 
 
@@ -416,9 +368,7 @@ d) express the community's condemnation of a committed criminal offense; and 
 
 e) by the implementation of statutory punishments to increase the consciousness of citizens of the danger of criminal offenses and of the fairness of punishing perpetrators. 
 
-1.
-
-### Fine
+#### Art. 36: Fine
 
 1) A fine shall be imposed according to daily income. It amounts to at least ten and not more than three hundred daily incomes, except for criminal offences committed for personal gain when the maximum fine may amount to five hundred daily incomes. 
 
@@ -426,9 +376,7 @@ e) by the implementation of statutory punishments to increase the consciousness 
 
 3) When determining the amount of a daily income, the court shall take into account the perpetrator's total income, their property and his family obligations. If the perpetrator of a criminal offense does not have any income but is the owner of property or property rights, the court shall determine the daily income by a free estimate following the value of such property or property rights
 
-1.
-
-### Substitution of Fine
+#### Art. 37: Substitution of Fine
 
 1) The fine shall not be collected by force. 
 
@@ -438,9 +386,7 @@ e) by the implementation of statutory punishments to increase the consciousness 
 
 4) If the convict pays a part of the fine, the duration of imprisonment shall be reduced proportionally, and if he pays the fine in full, the execution of the penalty of imprisonment shall be suspended. 
 
-1.
-
-### Imprisonment
+#### Art. 38: Imprisonment
 
 1) Imprisonment may not be shorter than thirty days or longer than twenty years. 
 
@@ -456,9 +402,7 @@ e) by the implementation of statutory punishments to increase the consciousness 
 
 7) Imprisonment shall be assessed and imposed in full years and months and in full days if its duration is up to three months. 
 
-1.
-
-### Community Service
+#### Art. 39: Community Service
 
 1) When the court assesses and imposes imprisonment for the duration of up to six months, it may at the same time decide that such punishment, with the convict's consent, be replaced with community service.
 
@@ -472,9 +416,7 @@ e) by the implementation of statutory punishments to increase the consciousness 
 
 6) The replacement of imprisonment with community service may also be applied in the case of substituting a fine with imprisonment, when such imprisonment does not exceed six months.
 
-1.
-
-### Parole
+#### Art. 40 Parole
 
 1) A convict may be released form the institution after having served at least one-half of the term or, exceptionally, after having served one-third of the term to which he has been sentenced, under the conditions stated in this Law. 
 
@@ -490,9 +432,7 @@ e) by the implementation of statutory punishments to increase the consciousness 
 
 7) Placement in community service (the type and the place of work) shall be made by the agency to execute criminal sanctions, taking into consideration the capacities and the skills of the convicted person.
 
-1.
-
-### General Rule for the Selection of the Type and Range of Punishment
+#### Art. 41: General Rule for the Selection of the Type and Range of Punishment
 
 In determining the type and range of punishment within limits established by this law for the committed criminal offence, the court, bearing in mind the purpose of punishment, shall take into consideration all the circumstances which result in less or more serious punishment for the perpetrator of a criminal offence (the mitigating or aggravating circumstances) and in particular the following: 
 
@@ -516,9 +456,7 @@ g) their efforts to compensate for the damage caused by the criminal offence, an
 
 h) the totality of social and personal grounds contributed to the perpetration of the criminal offence. 
 
-1.
-
-### Mitigation of Punishment
+#### Art. 42: Mitigation of Punishment
 
 1) The punishment prescribed by law for a criminal offence may be mitigated when the statute expressly defines so or when the court holds that, given the existence of particularly obvious mitigating circumstances, the purpose of punishment may also be attained by a more lenient punishment. 
 
@@ -534,9 +472,7 @@ d) If imprisonment of at least three years or more is prescribed for a criminal 
 
 e) If imprisonment for at least eight or more years is prescribed for a criminal offence, the sentence may be reduced to three years of imprisonment. 
 
-1.
-
-### Remission of Punishment
+#### Art. 43: Remission of Punishment
 
 1) The court is obligated to remit the perpetrator of the punishment for a committed criminal offence when expressly provided by this Law. 
 
@@ -544,9 +480,7 @@ e) If imprisonment for at least eight or more years is prescribed for a criminal
 
 3) When the Law provides for the possibility of remission of punishment, the court may impose a more lenient sentence, and in doing so, it is not obligated to adhere to the limits prescribed by this Law. 
 
-1.
-
-### Special Cased othe Remission of Punishment for Criminal Offenses Commited by Negligence
+#### Art. 44: Special Cased othe Remission of Punishment for Criminal Offenses Commited by Negligence
 
 The court may remit the perpetrator of the punishment if he commits a criminal offense by negligence in the following cases: 
 
@@ -554,9 +488,7 @@ a) if the consequences of the criminal offense affect the perpetrator so severel
 
 b) if, immediately after the perpetration, the perpetrator makes efforts to eliminate or reduce the consequences of the offense and if he completely or substantially compensates for the damage caused by the offense. 
 
-1.
-
-### Concurrently Adjudicated Criminal Offences
+#### Art. 45: Concurrently Adjudicated Criminal Offences
 
 1) If the perpetrator, by one or more acts, commits several criminal offences adjudicated at the same time, the court shall assess the punishment under this Law and shall then pronounce an aggregate sentence for all these offences. 
 
@@ -576,9 +508,7 @@ f) if for some concurrently adjudicated criminal offences, the court assesses im
 
 g) if for concurrently adjudicated criminal offences, the court assesses imprisonment and imprisonment for juveniles, it shall impose an aggregate sentence of imprisonment under the rules laid down in this Article. 
 
-1.
-
-### Criminal Offense Arising Out of the Same Transaction
+#### Art. 46: Criminal Offense Arising Out of the Same Transaction
 
 1) The provisions of this Code regarding concurrently adjudicated criminal offenses shall not apply to a criminal offense arising out of the same transaction. 
 
@@ -586,9 +516,7 @@ g) if for concurrently adjudicated criminal offences, the court assesses impriso
 
 3) When a criminal offense arising out of the same transaction comprises offenses of the same statutory description, the court shall choose the type and the range of the sentence prescribed for such a criminal offense. If criminal offenses of the same type are at issue, the court shall choose the type and the range of sentence prescribed for the most serious of these offenses. 
 
-1.
-
-### Selection of the Type and Range of Sentence for a Convicted Person
+#### Art. 47: Selection of the Type and Range of Sentence for a Convicted Person
 
 1) When a convict is tried for a criminal offence committed before beginning to serve a sentence as a result of a previous conviction or for a criminal offence committed while serving imprisonment, long-term imprisonment or juvenile imprisonment, the court shall pronounce an aggregate sentence for all criminal offences, applying the provisions of this Law, taking the previously assessed sentence as already fixed. The sentence, or the part of the sentence the convict has already served, shall be included in the pronounced aggregate sentence unless the aggregate sentence is life imprisonment. 
 
@@ -596,9 +524,7 @@ g) if for concurrently adjudicated criminal offences, the court assesses impriso
 
 3) When a convict, while serving imprisonment, long-term imprisonment or juvenile imprisonment, commits a criminal offence for which a statutory sentence of up to one year or a lesser sentence is prescribed, a disciplinary measure shall be applied. 
 
-1.
-
-### Inclusion of Pre-Trial Detention and a PReviously Served Sentence
+#### Art. 48: Inclusion of Pre-Trial Detention and a PReviously Served Sentence
 
 1) The time spent in pre-trial detention and any other deprivation of liberty due to a criminal offence shall be included in the pronounced sentence of imprisonment, long-term imprisonment, juvenile imprisonment or a fine. 
 
@@ -607,7 +533,6 @@ g) if for concurrently adjudicated criminal offences, the court assesses impriso
 3) The inclusion under the provisions of this Article means equating one day of pre-trial detention, a day of the second occasion of deprivation of liberty, a day of imprisonment or juvenile imprisonment and a fine equivalent to one daily income or one day in prison for a contravention. Every initial 1000.00 LLD fine or a fine for a contravention shall be equated with one day of imprisonment.
 
 Section 4
----------
 
 Non-Custodial Measures
 ----------------------
