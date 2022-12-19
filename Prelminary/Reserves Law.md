@@ -1,6 +1,6 @@
 # The Reserves Law
 ## Preface
-This Act sets the rules under which Public Administration may handle state Reserves held in currencies other than Merit and in valuable commodities.
+This Law sets the rules under which Public Administration may handle state Reserves held in currencies other than Merit and in valuable commodities.
 
 ## Section 1: General Principles
 
@@ -15,14 +15,14 @@ Reserves shall be deemed a scarce resource and shall be kept safe and by the bes
 Reserves shall be spent only where it is very obvious that Merits cannot be used to achieve the goals of Public Administration. They shall be used for only those goals which are critical for the survival or prosperity of Liberland.
 
 ## Section 2: Holding the Reserves
-#### Art. 1: Keys to the Reserves
+#### Art. 3: Keys to the Reserves
 1) Reserves shall be kept safe by:
 a) the Minister of Finance; and
 b) the Senate
 jointly, using state of the art security measures applicable to the type of reserves in question.
 2) Public Administration shall draft and maintain a Regulation regarding the specific measures required for the various types of Reserves actually held by Liberland
 
-#### Art. 2: Cryptoreserves
+#### Art. 4: Cryptoreserves
 § 1
 Reserves in cryptographic currencies other than Merits, henceforth ‘cryptoreserves’, shall be held in cold storages or they shall be invested.
 
@@ -43,22 +43,22 @@ Reserves in cryptographic currencies other than Merits, henceforth ‘cryptorese
 § 5
 No more than one third of all Reserves shall be invested at any given time. 
 
-#### Art. 3: Regular Audit
+#### Art. 5: Regular Audit
 The Ministry of Finance shall set up a system of regular audits, at least once per year, of the way reserves are being held and invested. The system shall then be changed according to the recommendation to reflect the state of the art in security and investment.
 
 ## Section 3: Obtaining the Reserves
 
-#### Art. 4: Valuables
+#### Art. 6: Valuables
 § 1
 Any valuable material which should end up in the possession of Liberland shall become Reserves in Liberland’s Treasury and shall be treated as such. 
 
-#### Art. 5: Mandate to Have Reserves
+#### Art. 7: Mandate to Have Reserves
 1) It shall be seen as one of the goals of the Public Administration to obtain Reserves for Liberland and all four Ministers shall be responsible to ensure that their actions yield increases in the Reserves wherever possible without compromising the attainment of other goals.
 2) The Prime Minister and the Ministers shall set up a system that rewards Agents for ensuring that the Reserves of the Treasury of Liberland increase.
 
 ## Section 4: Spending the Reserves
 
-#### Art. 6: Competent Organs
+#### Art. 8: Competent Organs
 The Minister of Finance shall be the gestor responsible for any spending, unless the Prime Minister and the Senate together decide that either of them should be the gestor for the spending. This shall only happen when it is clear that the attainment of the goal of the spending would be impossible or very unreasonably difficult to achieve otherwise.
 
 #### Art. 7: Spending Decision
@@ -74,28 +74,28 @@ The Decision shall designate per name the team of Persons who shall be responsib
 § 4
 A spending Decision shall contain a timetable in which the goal should be attained and a risk-benefit analysis. It shall also contain strict time-based criteria counted in units of three months or less according to which the spending can be judged as a success or a failure with respect to the attainment of the goals.
  
-#### Art. 8: Unlocking the Reserves
+#### Art. 9: Unlocking the Reserves
 § 1
 Should the Decision pass and not be vetoed, the Minister of Finance and a Senator chosen for this by the Senate shall come together physically to unlock the Reserves together.
 
 § 2
 The Minister of Finance and the responsible Senator shall see to it personally that the unlocked Reserves arrive safely in the hands of the Agents responsible for the Reserve spending according to the given Decision.
 
-#### Art. 9: Spending Audit
+#### Art. 10: Spending Audit
 § 1
 The Minister of Finance shall every three months bring before the Congressional Assembly and the Senate a Report as to how far the fulfillment of the goals set by the Decisions has proceeded.
 
 § 2
 Should the Audit report any delays, those delays shall be explained and measures shall be taken to rectify the situation or at least to mitigate the delay.
 
-#### Art. 10: Congress Oversight
+#### Art. 11: Congress Oversight
 The Congress shall adopt one of the following courses regarding the spending in question:
 a) accept the Report and the situation therein described and the spending shall continue for the next 3 months as planned;
 b) order measures to rectify the situation, changing the individual Decision by an Amendment;
 c) ask the minister to re-submit the rapport with corrections if the Congressional Assembly should find it lacking, in no more than 5 days; or
 d) revoke their decision and order the Minister of Finance to stop the spending and to ensure that as much of the allocated Reserve as possible should return to the Treasury.
 
-#### Art. 11: Aborting
+#### Art. 12: Aborting
 § 1
 1) Should the Minister of Finance and the Senate decide that the original goal of the spending has become unattainable, they shall Abort the spending by their joint declaration.
 2) They shall personally ensure that the remaining Reserve allocated to the aborted spending is returned to the Treasury in a way in which as much as possible of that Reserve can be retained.
@@ -127,5 +127,5 @@ b) the Minister of Finance where the negligent party is a Senator or a Represent
 c) the Congressional Assembly against any defendant.
 
 ## Section 6: Final Provisions
-#### Art 2: Final Provision
+#### Art 15: Final Provision
 This law shall gain Legal Force on … and shall remain in force in perpetuity or until its legal effects should be terminated or until it should be replaced by another Law.
