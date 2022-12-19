@@ -813,7 +813,7 @@ i) the list of Ultimate Beneficial Owners (UBOs) of the DAO where they are other
 
 j)  other types of information which shall not be mandatory to Register.
 
-## Art. 84: Compliance
+#### Art. 84: Compliance
 
 § 1
 
