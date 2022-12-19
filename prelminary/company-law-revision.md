@@ -6,7 +6,7 @@ This Law shall govern the Status of Companies and other entities possessed of le
 
 ## Definitions
 
-**Articles of Incorporation**  shall be the Company's founding document, describing its core bylaws, functions, institutions, operations, and purpose.
+**Articles of Incorporation** shall be the Company's founding document, describing its core bylaws, functions, institutions, operations, and purpose.
 
 **Bylaws** are rules that the Shareholders of a Company agree upon that govern the operations of the Company, especially towards themselves and towards third persons.
 
@@ -28,9 +28,7 @@ This Law shall govern the Status of Companies and other entities possessed of le
 
 **Foundation** is an organisation that does not aim to make a profit. The money raised by a foundation consists of donations, loans, subsidies and legacies. Its primarily purpose is to support a social or non-profit cause. It may also be a business, but its profits must be allocated to the foundation's cause or purpose.
 
-**Legal Personality** means that the Law of Liberland and the State Courts of Liberland treat a fictitious entity as if it was a real person of a specific type, as defined in this Law. 
-Given that this entity is not "real" in the sense of the natural world, it can't make decisions on its own and, therefore, must have owners and (ultimately) Ultimate Beneficiary Owners (i.e. Natural Persons) who decide in its stead. 
-This is a sharp distinction from the obligatory self-ownership of Natural Persons, who may not be owned in Liberland by anyone else but by themselves.
+**Legal Personality** means that the Law of Liberland and the State Courts of Liberland treat a fictitious entity as if it was a real person of a specific type, as defined in this Law.  Given that this entity is not "real" in the sense of the natural world, it can't make decisions on its own and, therefore, must have owners and (ultimately) Ultimate Beneficiary Owners (i.e. Natural Persons) who decide in its stead.  This is a sharp distinction from the obligatory self-ownership of Natural Persons, who may not be owned in Liberland by anyone else but by themselves.
 
 **Owners** are, for this Law, the Persons or entities who have property in an entity possessed of Legal Personality.
 
@@ -64,13 +62,12 @@ In addition to the above, this Law uses terms defined in the Constitution, such 
 
 § 1
 
-Liberland shall have the power to grant to certain entities that are not Natural Persons a Legal Personality of their own apart of the Legal Personality of their Owners or Founders. This power shall be exclusive and reserved for the State of Liberland within Liberland's jurisdiction. 
+Liberland shall have the power to grant to certain entities that are not Natural Persons a Legal Personality of their own apart of the Legal Personality of their Owners or Founders. This power shall be exclusive and reserved for the State of Liberland within Liberland's jurisdiction.&#x20;
 
 § 2
 
-1) All entities to which Liberland grants a Legal Personality apart from their owners shall be written in the Registry as prescribed by this Law. 
-
-2) A Liberland entity not written in the Registry or not written according to the process prescribed by this Law shall not possess a Legal Personality apart from its owners.
+1. All entities to which Liberland grants a Legal Personality apart from their owners shall be written in the Registry as prescribed by this Law.&#x20;
+2. A Liberland entity not written in the Registry or not written according to the process prescribed by this Law shall not possess a Legal Personality apart from its owners.
 
 § 3
 
@@ -88,9 +85,8 @@ Given that the granting of Legal Personhood to an entity which is not a Natural 
 
 § 1
 
-1) Liberland shall acknowledge the existence of similar entities incorporated in other States by similar means, where this incorporation or the existence of the entity is neither illegal nor immoral. 
-
-2) There shall be a presumption of their Legal Personality made contingent to the correctness of their incorporation and of their registration in their home country. 
+1. Liberland shall acknowledge the existence of similar entities incorporated in other States by similar means, where this incorporation or the existence of the entity is neither illegal nor immoral.&#x20;
+2. There shall be a presumption of their Legal Personality made contingent to the correctness of their incorporation and of their registration in their home country.&#x20;
 
 § 2
 
@@ -102,9 +98,8 @@ The Administration and, in particular, the Judiciary shall interpret the propert
 
 #### Art. 5: Mandatory Incorporation
 
-1) For an entity that is not a Natural Person to be granted the privilege of a Legal Personality by Liberland, the Founders must incorporate the entity using the process described in this Law. The entity shall acquire its Legal Personality in Liberland upon its Incorporation.
-
-2) Upon completing the Incorporation, the Founders become the first Owners of the new Legal Person.
+1. For an entity that is not a Natural Person to be granted the privilege of a Legal Personality by Liberland, the Founders must incorporate the entity using the process described in this Law. The entity shall acquire its Legal Personality in Liberland upon its Incorporation.
+2. Upon completing the Incorporation, the Founders become the first Owners of the new Legal Person.
 
 #### Art. 6: Subsidiary Use of the Company
 
@@ -124,25 +119,21 @@ A Company shall act under the Trade Name or Trade Names under which it is regist
 
 § 2
 
-1) A Company shall  identify itself by one of its Trade Names in all its dealings.
-
-2) Should the Owners decide to change a Trade Name of the Company, remove it, or add a new Trade Name, they shall submit the new or changed Trade Name to the Registrar of Companies. 
+1. A Company shall  identify itself by one of its Trade Names in all its dealings.
+2. Should the Owners decide to change a Trade Name of the Company, remove it, or add a new Trade Name, they shall submit the new or changed Trade Name to the Registrar of Companies.&#x20;
 
 § 3
 
-1) No new Trade Name shall be registered that is too similar to an already existing Trade Name of an existing company, to a name of a Person, of another institution and the like. 
-
-2) Trade Names shall likewise not be fraudulent, hence they shall not be clearly  in conflict with the nature or the purpose of the Company or made for the express purpose of commiting fraud.
+1. No new Trade Name shall be registered that is too similar to an already existing Trade Name of an existing company, to a name of a Person, of another institution and the like.&#x20;
+2. Trade Names shall likewise not be fraudulent, hence they shall not be clearly  in conflict with the nature or the purpose of the Company or made for the express purpose of commiting fraud.
 
 #### Art. 9: Company Name
 
 § 1
 
-1) The Founders shall choose one of the Trade Names as the Company Name. 
-
-2) When issuing accounts, invoices and other documents where certainty is expected according to established business practice, a Company shall always communicate using its Company Name.
-
-3) A Company shall always have only one Company Name.
+1. The Founders shall choose one of the Trade Names as the Company Name.&#x20;
+2. When issuing accounts, invoices and other documents where certainty is expected according to established business practice, a Company shall always communicate using its Company Name.
+3. A Company shall always have only one Company Name.
 
 § 2
 
@@ -170,29 +161,25 @@ b) act in good faith, meaning being sincere in one's business dealings and witho
 
 § 1
 
-1) A Company shall register one address as its Registered Office. The Registered Office shall be an address where it and its Principalsare regularly available for personal visits and correspondence. 
-
-2) A Company shall have the option to register other addresses as its other offices and places of work besides the Registered Office. The Company needs not to be available there for third Persons, but these addresses must be either owned or hired and must be, in fact, used by the Company.
+1. A Company shall register one address as its Registered Office. The Registered Office shall be an address where it and its Principalsare regularly available for personal visits and correspondence.&#x20;
+2. A Company shall have the option to register other addresses as its other offices and places of work besides the Registered Office. The Company needs not to be available there for third Persons, but these addresses must be either owned or hired and must be, in fact, used by the Company.
 
 § 2
 
-1) When it makes sense given the Company's scope of activity, a Company is at liberty to realize its availability at the Registered Office using electronic communications. The Company must ensure that this does not diminish the quality of that availability and that the visitor shall have the full access to the Company they would have should they be able to come in person. 
-
-2) The Company shall ensure that it is available at the Registered Office at times that such availability should be expected according to established business practices.
+1. When it makes sense given the Company's scope of activity, a Company is at liberty to realize its availability at the Registered Office using electronic communications. The Company must ensure that this does not diminish the quality of that availability and that the visitor shall have the full access to the Company they would have should they be able to come in person.&#x20;
+2. The Company shall ensure that it is available at the Registered Office at times that such availability should be expected according to established business practices.
 
 #### Art. 13: Actions on behalf of the Company before its Incorporation
 
-1) The Founders acting on behalf of a future Company before its incorporation shall be personally liable for their actions and entitled themselves for the benefits of these actions, unless and until the Company is Incorporated. 
-
-2) On the Incorporation date, the rights and obligations stemming from those actions shall transfer to the Company.
+1. The Founders acting on behalf of a future Company before its incorporation shall be personally liable for their actions and entitled themselves for the benefits of these actions, unless and until the Company is Incorporated.&#x20;
+2. On the Incorporation date, the rights and obligations stemming from those actions shall transfer to the Company.
 
 #### Art. 14: Acting Ultra Vires
 
 § 1
 
-1) Should the Principal act in a way not conform with the mandate given to them by the Owners, the Principal's action shall still bind the Company concerning a third Person. 
-
-2) The exception is when the third Person knew that the Principal had exceeded the boundaries of its mandate while acting and at the time of the action.
+1. Should the Principal act in a way not conform with the mandate given to them by the Owners, the Principal's action shall still bind the Company concerning a third Person.&#x20;
+2. The exception is when the third Person knew that the Principal had exceeded the boundaries of its mandate while acting and at the time of the action.
 
 § 2
 
@@ -228,23 +215,21 @@ The Capital shall be registered in a currency, fiat or crypto, or commodities ha
 
 § 3
 
-1) The Capital shall be divisible into Shares, regardless of its nature. The Founders or later the Owners shall bear the responsibility for the division to be based on the real valuations of the given Capital. 
+1. The Capital shall be divisible into Shares, regardless of its nature. The Founders or later the Owners shall bear the responsibility for the division to be based on the real valuations of the given Capital.&#x20;
 
-2)  Shares shall measure the ownership of the individual Ownerץ
+2\)  Shares shall measure the ownership of the individual Ownerץ
 
 #### Art. 17: Mandatory KYC Requirements
 
-1) A Principal, a Shareholder who is a Natural Person and all the Universal Beneficiary Owners, including those who own the Company through foreign entities, must be E-Residents of Liberland or Citizens of Liberland. 
-
-2) Where the E-Residency or Citizenship status is lost, the Person in the Company must ensure succession to another Person or entity which fulfils this requirement. If this is not achieved without unnecessary delay, at the latest 6 months from having lost the capability, the Registrar shall sell the Share in the Company on behalf of the Person in a forced auction.
+1. A Principal, a Shareholder who is a Natural Person and all the Universal Beneficiary Owners, including those who own the Company through foreign entities, must be E-Residents of Liberland or Citizens of Liberland.&#x20;
+2. Where the E-Residency or Citizenship status is lost, the Person in the Company must ensure succession to another Person or entity which fulfils this requirement. If this is not achieved without unnecessary delay, at the latest 6 months from having lost the capability, the Registrar shall sell the Share in the Company on behalf of the Person in a forced auction.
 
 ## Section 3: Registrar of Companies
 
 #### Art. 18: Registrar of Companies
 
-1) The Registrar of Companies, henceforth "the Registrar", shall be an Agency under the Ministry of Interior to operate, set up, and maintain the Liberland Company Registry. 
-
-2) The Company Registry shall be an information system holding records of all the Companies and other Liberland  entities posessed of Legal Personality apart of their Owners or Founders.
+1. The Registrar of Companies, henceforth "the Registrar", shall be an Agency under the Ministry of Interior to operate, set up, and maintain the Liberland Company Registry.&#x20;
+2. The Company Registry shall be an information system holding records of all the Companies and other Liberland  entities posessed of Legal Personality apart of their Owners or Founders.
 
 #### Art. 19: Registered Information
 
@@ -270,9 +255,9 @@ h) the Articles of Incorporation or any similar document or documents which fact
 
 i) the list of Ultimate Beneficial Owners (UBOs) of the Company, their dates of birth, addresses and passport numbers;
 
-j) 
+j)&#x20;
 
-i. the name, surname, date of birth, address and passport number of each Shareholder and the number of shares to their name; 
+i. the name, surname, date of birth, address and passport number of each Shareholder and the number of shares to their name;&#x20;
 
 ii. the Company Name, the registration number and the country of registration for Shareholders who are Companies and the list of their UBOs with their dates of birth, addresses and passport numbers.
 
@@ -296,9 +281,8 @@ A Company shall be responsible for actively maintaining its Company Data. In the
 
 #### Art. 21: Registrar Fee
 
-1) Each company which is incorporated under this Act and has not been removed, deregistered or struck off shall pay to the Registrar an annual fee prior to the 31 December of the current year. 
-
-2) The Registrar shall draft and maintain a Regulation stating the current fee rate. The fee shall be based on the actual expenses of the Registrar and on its regular functioning.
+1. Each company which is incorporated under this Act and has not been removed, deregistered or struck off shall pay to the Registrar an annual fee prior to the 31 December of the current year.&#x20;
+2. The Registrar shall draft and maintain a Regulation stating the current fee rate. The fee shall be based on the actual expenses of the Registrar and on its regular functioning.
 
 ## Section 4: Incorporation
 
@@ -322,27 +306,22 @@ g) the total number of Shares in the Company.
 
 #### Art. 23: Company Registration Form
 
-1) The Registrar of Companies shall draft the Company Registration Form template which shall be used for the purpose of Company Registration. The Company Registration Form shall be based on the data registered in the Registrar according to this Law.
-
-2) The Founders shall fill the Company Registration Form based on the data in their Articles of Incorporation and on the objective reality; the data on the Form and in the Articles of Incorporation have to agree completely with each other or the Company will not be registered.
+1. The Registrar of Companies shall draft the Company Registration Form template which shall be used for the purpose of Company Registration. The Company Registration Form shall be based on the data registered in the Registrar according to this Law.
+2. The Founders shall fill the Company Registration Form based on the data in their Articles of Incorporation and on the objective reality; the data on the Form and in the Articles of Incorporation have to agree completely with each other or the Company will not be registered.
 
 #### Art. 24: Filing the Registration
 
-The Founders shall deliver the Company Registration Form to the Registrar of Company along with the following documents in the Attachment: 
+The Founders shall deliver the Company Registration Form to the Registrar of Company along with the following documents in the Attachment:&#x20;
 
 a) the Articles of Incorporation;
 
 b) the Sanctions Declaration Form for the members of the Statutory organ and the UBOs of the company, where they inform Liberland as to whether to their knowledge
 
-1.  they are politically exposed persons (PEPs) as understood by the modern standards of KYC;
-
-2.  there are sanctions in force against them; 
-
-3.  they appear on an offshore leaks list;
-
-4.  they have been accused of financial crimes in any country; or
-
-5.  they have been convicted of financial crimes in any country.
+1. they are politically exposed persons (PEPs) as understood by the modern standards of KYC;
+2. there are sanctions in force against them;&#x20;
+3. they appear on an offshore leaks list;
+4. they have been accused of financial crimes in any country; or
+5. they have been convicted of financial crimes in any country.
 
 c) The Public key of the KYC-collected Wallet of each Founder, Owner, Shareholder and Ultimate Beneficiary Owner; or their ID number, the QR code from their identification document or their name, surname and birthdate.
 
@@ -350,7 +329,7 @@ c) The Public key of the KYC-collected Wallet of each Founder, Owner, Shareholde
 
 § 1
 
-The Registrar shall perform a KYC (Know Your Customer) procedure on the Founders, the Shareholders, and the Ultimate Beneficiary Owners based on the documentation delivered and on other sources of information. 
+The Registrar shall perform a KYC (Know Your Customer) procedure on the Founders, the Shareholders, and the Ultimate Beneficiary Owners based on the documentation delivered and on other sources of information.&#x20;
 
 § 2
 
@@ -366,23 +345,19 @@ After the KYC procedure is completed and the data verified, the Registrar shall 
 
 § 1
 
-1) A Share in a Company shall represent the proportional participation of an Owner at the Company. It shall count as the relative weight of their Ownership for decision-making and asset an when the Company is co-owned by more than one Owner.
-
-2) Shares shall be Movable Property for Law.
-
-3) All shares of one Company shall be of equal nominal value.
+1. A Share in a Company shall represent the proportional participation of an Owner at the Company. It shall count as the relative weight of their Ownership for decision-making and asset an when the Company is co-owned by more than one Owner.
+2. Shares shall be Movable Property for Law.
+3. All shares of one Company shall be of equal nominal value.
 
 § 2
 
-1) Shares shall always be issued in money or money-like instruments, including and not limited to cryptocurrency and commodities habitually used as money.
-
-2) The nominal value of each issued share shall be an integer number.
+1. Shares shall always be issued in money or money-like instruments, including and not limited to cryptocurrency and commodities habitually used as money.
+2. The nominal value of each issued share shall be an integer number.
 
 #### Art. 28: Dividend
 
-1) The Shareholders shall have the right to their equal share in the Profit of the Company, henceforth 'Dividend'.
-
-2) The Company might decide to distribute profits in other forms than the Dividend. The Court will set aside any such scheme built, in effect, at the cost of or before fulfilling the Company's obligations regarding the regular Dividend.
+1. The Shareholders shall have the right to their equal share in the Profit of the Company, henceforth 'Dividend'.
+2. The Company might decide to distribute profits in other forms than the Dividend. The Court will set aside any such scheme built, in effect, at the cost of or before fulfilling the Company's obligations regarding the regular Dividend.
 
 #### Art. 29: Shareholder Meeting
 
@@ -392,15 +367,13 @@ All Shareholders shall have the right to participate in the management of the Co
 
 § 2
 
-1) The ownership of a Share in a Company gives the Shareholder the right to participate in the Shareholder Meeting, the assembly of all the Shareholders, which shall be the company's highest decision-making organ.
-
-2) The Shareholder Meeting shall make its own rules of proceedings, but it shall not exclude any Shareholder from its decision-making unless that Shareholder decides to be excluded themselves; the Shareholder may always take this decision back.
+1. The ownership of a Share in a Company gives the Shareholder the right to participate in the Shareholder Meeting, the assembly of all the Shareholders, which shall be the company's highest decision-making organ.
+2. The Shareholder Meeting shall make its own rules of proceedings, but it shall not exclude any Shareholder from its decision-making unless that Shareholder decides to be excluded themselves; the Shareholder may always take this decision back.
 
 #### Art. 30: Voting at the Shareholder Meeting
 
-1) Each shareholder shall have a right to vote at the Shareholder Meeting proportional to the number of their shares. 
-
-2) The Shareholder Meeting can stipulate other rules for voting, including setting up the rules for supermajorities required for certain types of decisions but never excluding certain Shareholders completely from the decision-making.
+1. Each shareholder shall have a right to vote at the Shareholder Meeting proportional to the number of their shares.&#x20;
+2. The Shareholder Meeting can stipulate other rules for voting, including setting up the rules for supermajorities required for certain types of decisions but never excluding certain Shareholders completely from the decision-making.
 
 #### Art. 31: Share Classes
 
@@ -414,11 +387,11 @@ c) Redeemable shares are issued on the terms that the Company will/may buy them 
 
 #### Art. 32: Tokens
 
-Tokens issued as cryptocurrency to the customers of the Company shall not be seen as Bearer Shares under the following conditions: 
+Tokens issued as cryptocurrency to the customers of the Company shall not be seen as Bearer Shares under the following conditions:&#x20;
 
-a) the owners of the Company have regular Share next to their tokens and they register the real Shares in the Company according to this Law; and 
+a) the owners of the Company have regular Share next to their tokens and they register the real Shares in the Company according to this Law; and&#x20;
 
-b) The Company uses in fact those registered Shares as opposed to the tokens  as the real instrument to determine relationships of the Ownersin the Company.
+b) The Company uses in fact those registered Shares as opposed to the tokens  as the real instrument to determine relationships of the Ownersin the Company.
 
 #### Art. 33: Registration of Shares
 
@@ -448,9 +421,8 @@ g) the date of issuance of the Share.
 
 § 1
 
-1) A Company that registers a part of its Share at a reputable exchange or other such institution and follows the rules of reporting given out by such institution might waive the Shareholder of the publicly traded Shares to be a Liberland E-Resident or Citizen. 
-
-2) A Publicly Traded Company shall also have no duty regarding the Publicly Traded Shares to register their owners by the Registrar, as the exchange has already registered the Owner.
+1. A Company that registers a part of its Share at a reputable exchange or other such institution and follows the rules of reporting given out by such institution might waive the Shareholder of the publicly traded Shares to be a Liberland E-Resident or Citizen.&#x20;
+2. A Publicly Traded Company shall also have no duty regarding the Publicly Traded Shares to register their owners by the Registrar, as the exchange has already registered the Owner.
 
 § 2
 
@@ -458,19 +430,16 @@ Where the Court deems an exchange as not reputable by failing to provide equal o
 
 #### Art. 35: Prohibition of Bearer Shares
 
-1) No Company shall issue Bearer Shares or similar instruments. All Shares shall have their Owner registered either in the Company Registry or at the reputable exchange in case of Publicly Traded Shares.
-
-2) Any such instruments which might have been issued elsewhere shall be subject to Registration as Name Shares before they might go into legal effect in Liberland.
-
-3) Unregistered Bearer Shares shall be null and void.
+1. No Company shall issue Bearer Shares or similar instruments. All Shares shall have their Owner registered either in the Company Registry or at the reputable exchange in case of Publicly Traded Shares.
+2. Any such instruments which might have been issued elsewhere shall be subject to Registration as Name Shares before they might go into legal effect in Liberland.
+3. Unregistered Bearer Shares shall be null and void.
 
 ## Section 6: Transfer of Companies
 
 #### Art. 36: Transfer of Companies
 
-1) A Company shall be transferrableby its Shares; in order to fully Transfer a Company, the current Owners have to transfer all their Shares to a new Owner or Owners.
-
-2) Shares can be likewise transferred on a by-share basis; both Transfers shall be handled in the same manner by Law in Liberland.
+1. A Company shall be transferrableby its Shares; in order to fully Transfer a Company, the current Owners have to transfer all their Shares to a new Owner or Owners.
+2. Shares can be likewise transferred on a by-share basis; both Transfers shall be handled in the same manner by Law in Liberland.
 
 #### Art. 37: Transfer of Shares
 
@@ -480,9 +449,8 @@ A Share in a company shall always be transferable, despite any stipulation to th
 
 § 2
 
-1) In order to transfer a Share, the Transferer and the Transferee shall draft a Contract of Transfer. This Contract shall always have a written form and shall be signed by the Transferor and Transferee. This written form may include blockchain-based smart contracts or similar forms; if so, it shall also include a translation into human-understandable language.
-
-2) The Transferer and the Transferee shall then submit the Contract for Registration by the Registrar of Companies. The Transfer shall gain legal effect by the moment it is published in the Company Registry.
+1. In order to transfer a Share, the Transferer and the Transferee shall draft a Contract of Transfer. This Contract shall always have a written form and shall be signed by the Transferor and Transferee. This written form may include blockchain-based smart contracts or similar forms; if so, it shall also include a translation into human-understandable language.
+2. The Transferer and the Transferee shall then submit the Contract for Registration by the Registrar of Companies. The Transfer shall gain legal effect by the moment it is published in the Company Registry.
 
 § 3
 
@@ -496,25 +464,23 @@ Transfer of shares in foreign Companies according to foreign Law shall generally
 
 § 2
 
-The Court may declare null and void a Transfers of Shares performed according to Foreign legislation, which should offer mechanisms clearly less transparent than those of Liberland and where it is supported by evidence  that the Transfer was performed predominantly using these mechanisms.
+The Court may declare null and void a Transfers of Shares performed according to Foreign legislation, which should offer mechanisms clearly less transparent than those of Liberland and where it is supported by evidence  that the Transfer was performed predominantly using these mechanisms.
 
 #### Art. 39: Right of First Purchase
 
-1) Before issuing new Shares or before transferring existing Shares, the Statutory organ shall offer the Shares to all the current Shareholders at such price and on such terms as those that the prospective buyer would have offered.
-
-2) The prospective Seller shall send this offer to all the other Shareholders. It shall stand open for a period of at least one week after the receipt of this communication by the last Shareholder. 
-
-3) Should the offer not be accepted, the Shares may be offered to the third person as originally intended.
+1. Before issuing new Shares or before transferring existing Shares, the Statutory organ shall offer the Shares to all the current Shareholders at such price and on such terms as those that the prospective buyer would have offered.
+2. The prospective Seller shall send this offer to all the other Shareholders. It shall stand open for a period of at least one week after the receipt of this communication by the last Shareholder.&#x20;
+3. Should the offer not be accepted, the Shares may be offered to the third person as originally intended.
 
 #### Art. 40: Register of Shareholders
 
-1) A Company shall keep its own internal register of Shareholders, which shall contain at least 
+1. A Company shall keep its own internal register of Shareholders, which shall contain at least&#x20;
 
-a) sufficient personal information for third parties to be able to identify and find the Shareholders; and 
+a) sufficient personal information for third parties to be able to identify and find the Shareholders; and&#x20;
 
 b) the information as to how many Shares each Shareholder holds.
 
-2) The internal register shall also contain historical data about the past Shareholders and data indicating the date upon which the Shareholders gained their Shares and the date upon which they divested themselves of their Shares.
+1. The internal register shall also contain historical data about the past Shareholders and data indicating the date upon which the Shareholders gained their Shares and the date upon which they divested themselves of their Shares.
 
 ## Section 7 Dissolution
 
@@ -524,17 +490,15 @@ The Shareholder Meeting may pass the motion to wind up the Company and voluntari
 
 #### Art. 42: Satisfying Obligations
 
-1) The Liquidator shall work to satisfy all the obligations of the Company to its creditors until they have been fully satisfied or until it becomes clear that there are not enough Assets to meet all the obligations. 
-
-2) All the activities of the Company, which is in the process of winding itself up, shall be ultimately aimed at fulfilling this goal without unnecessary delays.
+1. The Liquidator shall work to satisfy all the obligations of the Company to its creditors until they have been fully satisfied or until it becomes clear that there are not enough Assets to meet all the obligations.&#x20;
+2. All the activities of the Company, which is in the process of winding itself up, shall be ultimately aimed at fulfilling this goal without unnecessary delays.
 
 #### Art. 43: Dissolution
 
 § 1
 
-1) Should the obligations of the Company be all satisfied, the Liquidator may continue running the Company only to preserve as much of the Company's worth in Assets as possible to divide those between the Shareholders after the Winding up is completed and to make sure this happens without unnecessary delays.
-
-2) This division of all the remaining Assets of the Company shall be proportional to the Share of each Shareholder and shall commence upon the dissolution of the Company.
+1. Should the obligations of the Company be all satisfied, the Liquidator may continue running the Company only to preserve as much of the Company's worth in Assets as possible to divide those between the Shareholders after the Winding up is completed and to make sure this happens without unnecessary delays.
+2. This division of all the remaining Assets of the Company shall be proportional to the Share of each Shareholder and shall commence upon the dissolution of the Company.
 
 § 2
 
@@ -558,7 +522,7 @@ a Creditor of the Company may make a motion at a Court to declare the Company Ba
 
 #### Art. 46: Declaring Bankruptcy
 
-1) The Registrar of Companies might likewise make such a motion at a Court in situations where the company:
+1. The Registrar of Companies might likewise make such a motion at a Court in situations where the company:
 
 a) no longer satisfies the requirements of this Act for the functioning of Companies;
 
@@ -572,7 +536,7 @@ e) acts against the Law; and/or
 
 f) conducts business for fraudulent purposes as Law or the international community defines these.
 
-2) This motion shall not be the first way the Registrar shall try to resolve this situation. Such a motion shall be made only after all the other, more consensual attempts to resolve the problem will have repeatedly and persistently failed, and if there shall be no more realistic chance that any other such measures might succeed in the future.
+1. This motion shall not be the first way the Registrar shall try to resolve this situation. Such a motion shall be made only after all the other, more consensual attempts to resolve the problem will have repeatedly and persistently failed, and if there shall be no more realistic chance that any other such measures might succeed in the future.
 
 #### Art. 47: Halting the Company
 
@@ -580,9 +544,8 @@ Should the motion for Bankruptcy be sustained, the Court shall declare the Compa
 
 #### Art. 48: Appointing a Liquidator
 
-1) The Court shall without delay appoint a Person of well-known skill in Law and Business Management, a known Person of integrity, as the Liquidator for this Company.
-
-2) While appointing the Liquidator, the Court shall consult the Creditors who shall offer their candidates, but the Court shall not be obliged to accept them and may instead choose a different Person. In case of a rejection, the Court shall provide detailed reasoning.
+1. The Court shall without delay appoint a Person of well-known skill in Law and Business Management, a known Person of integrity, as the Liquidator for this Company.
+2. While appointing the Liquidator, the Court shall consult the Creditors who shall offer their candidates, but the Court shall not be obliged to accept them and may instead choose a different Person. In case of a rejection, the Court shall provide detailed reasoning.
 
 #### Art. 49: Enforced Liquidation
 
@@ -608,9 +571,8 @@ Should it be found that there were enough Assets in the Company to satisfy all C
 
 § 2
 
-1) Should the motion of the Annulment of Liquidation pass, the Company may resume its normal functioning. The Shareholders regain full control of the Company. 
-
-2) Shareholders and the Liquidator shall be entitled to damages wherever the Court should find that a Creditor didn't make the original motion for Bankruptcy in goodwill or damages from Liberland should the motion be made in bad faith to declare the Company bankrupt have originated by the Registrar.
+1. Should the motion of the Annulment of Liquidation pass, the Company may resume its normal functioning. The Shareholders regain full control of the Company.&#x20;
+2. Shareholders and the Liquidator shall be entitled to damages wherever the Court should find that a Creditor didn't make the original motion for Bankruptcy in goodwill or damages from Liberland should the motion be made in bad faith to declare the Company bankrupt have originated by the Registrar.
 
 § 3
 
@@ -624,9 +586,8 @@ After the Liquidator has completed their duties, they shall submit a written Liq
 
 § 2
 
-1) Upon receipt of the Report, the Registrar shall examine it for possible inconsistencies, which would be factual or formal problems with the Report, with the facts presented therein or any other issues regarding the Liquidation.
-
-2) the Registrar shall
+1. Upon receipt of the Report, the Registrar shall examine it for possible inconsistencies, which would be factual or formal problems with the Report, with the facts presented therein or any other issues regarding the Liquidation.
+2. the Registrar shall
 
 a) return the Report to the Liquidator for corrections should inconsistencies be found therein. Should this repeat more than once per Liquidation, an administrative fee will lower the Liquidator's remuneration; or
 
@@ -650,9 +611,8 @@ The Cooperative shall be owned by persons and entities called Members who shall 
 
 § 1
 
-1) The Cooperative shall have Capital divided into a Share structure such as it is with a Company.  
-
-2) In a Cooperative, each Member shall have exactly one Share. The per-Share value shall be the division of the Capital by the number of all Members.
+1. The Cooperative shall have Capital divided into a Share structure such as it is with a Company. &#x20;
+2. In a Cooperative, each Member shall have exactly one Share. The per-Share value shall be the division of the Capital by the number of all Members.
 
 § 2
 
@@ -690,7 +650,7 @@ A Foundation shall have no Members and no Shareholders. Consequently, this Law r
 
 #### Art. 59: Directorate
 
-A Foundation shall have a Board of Directors as the highest organ. This organ shall be comprised of the highest managers as defined by the Articles of Incorporation of the Foundation and shall have the powers a Shareholder Meeting would have in a Company. 
+A Foundation shall have a Board of Directors as the highest organ. This organ shall be comprised of the highest managers as defined by the Articles of Incorporation of the Foundation and shall have the powers a Shareholder Meeting would have in a Company.&#x20;
 
 #### Art. 60: Pseudo UBOs
 
@@ -708,7 +668,7 @@ c) Procedures for appointing and removing officers;
 
 d) Location;
 
-e) Decision-making procedures; 
+e) Decision-making procedures;&#x20;
 
 f) Procedures and payments in the event of dissolution;
 
@@ -718,7 +678,7 @@ h) the Articles of Association or any similar document or documents which factua
 
 i) the list of Ultimate Beneficial Owners (UBOs) of the Foundation where they are other than the Directorate members, and
 
-j)  other types of information which shall not be mandatory to Register.
+j)  other types of information which shall not be mandatory to Register.
 
 #### Art. 62: Foundations for the Purpose of Doing Business
 
@@ -730,15 +690,13 @@ A part of the purpose of the Foundation may also be doing some kind of business,
 
 § 1
 
-1) A Charitable Organization shall be a legal person, domestic or foreign, the main or the only purpose of which shall be to serve as a charity, mutual aid, or conservation organization. 
-
-2) A Charitable Organization shall use its own profits to fund and expand its own operation only. It shall not distribute its profits amongst its Shareholders. 
+1. A Charitable Organization shall be a legal person, domestic or foreign, the main or the only purpose of which shall be to serve as a charity, mutual aid, or conservation organization.&#x20;
+2. A Charitable Organization shall use its own profits to fund and expand its own operation only. It shall not distribute its profits amongst its Shareholders.&#x20;
 
 § 2
 
-1) Upon Registration of a Charitable Organization, the Founders shall present to the Registrar sufficient documentation to prove that their organization fulfills the requirements of this Section. 
-
-2) The Charitable Organization shall keep those records in its own administration, continuously maintaining it and ensuring that the requirements are always met.
+1. Upon Registration of a Charitable Organization, the Founders shall present to the Registrar sufficient documentation to prove that their organization fulfills the requirements of this Section.&#x20;
+2. The Charitable Organization shall keep those records in its own administration, continuously maintaining it and ensuring that the requirements are always met.
 
 § 3
 
@@ -746,19 +704,17 @@ To present itself as a charitable organization, or in a way similar to this appe
 
 a) at least one-third of its total support must come from donations from the public, that is, individuals, charitable entities, corporations, or government and membership dues; or
 
-b) public support from individuals, organizations, or government must equal at least ten (10%) percent of total support; and 
+b) public support from individuals, organizations, or government must equal at least ten (10%) percent of total support; and&#x20;
 
 c) it must show by facts and circumstances that it operates as a public charity in fact:
 
-1.  serving those in need, and 
-
-2.  making its services available to the general public.
+1. serving those in need, and&#x20;
+2. making its services available to the general public.
 
 #### Art. 64: Legal Form
 
-1) The Charitable Organization shall have the possibility of registering as a Company or as a Foundation.
-
-1) Besides presenting itself as a Charitable Organization and not as a Company, the rules for establishing, dissolving, and running a charitable organization shall be the same as those for a Company or a Foundation. 
+1. The Charitable Organization shall have the possibility of registering as a Company or as a Foundation.
+2. Besides presenting itself as a Charitable Organization and not as a Company, the rules for establishing, dissolving, and running a charitable organization shall be the same as those for a Company or a Foundation.&#x20;
 
 #### Art. 65: Charities without legal personality
 
@@ -770,9 +726,8 @@ Entities possessed of Legal Personality presenting themselves as Charities to ot
 
 #### Art. 67: Changing the purpose of an existing Company into a Charitable organization
 
-1) Where the Shareholders of a Company should decide to turn their Company into a Charitable Organization, they shall inform the Registrar of this decision and declare its purpose. They shall also present the documents and the information sufficient to prove that the organization fulfills this Section's requirements. 
-
-2) Where the Registrar considers the documentation sufficient, they shall write the entity into the Registry as a Charitable Organization.
+1. Where the Shareholders of a Company should decide to turn their Company into a Charitable Organization, they shall inform the Registrar of this decision and declare its purpose. They shall also present the documents and the information sufficient to prove that the organization fulfills this Section's requirements.&#x20;
+2. Where the Registrar considers the documentation sufficient, they shall write the entity into the Registry as a Charitable Organization.
 
 ## Section 11: Decentralized Autonomous Organization
 
@@ -782,7 +737,7 @@ A Decentralized Autonomous Organization (DAO) is an organization constructed by 
 
 #### Art. 69: DAOs Without Legal Personality
 
-Where these organizations don't wish for a Legal Personality apart of its owners, they may operate as Partnerships between the Token Holders. 
+Where these organizations don't wish for a Legal Personality apart of its owners, they may operate as Partnerships between the Token Holders.&#x20;
 
 #### Art. 70: DAOs With Legal Personality
 
@@ -816,7 +771,7 @@ b) losing its Legal Personality.
 
 § 1
 
-Instead of having Shares or Shareholders, the DAO issues Tokens, freely trade on decentralized and centralized platforms, to represent membership in the DAO. Token Holders are typically anonymous and only identified by their blockchain public keys. 
+Instead of having Shares or Shareholders, the DAO issues Tokens, freely trade on decentralized and centralized platforms, to represent membership in the DAO. Token Holders are typically anonymous and only identified by their blockchain public keys.&#x20;
 
 § 2
 
@@ -846,7 +801,7 @@ c) Procedures for appointing and removing Principals;
 
 d) Address is applicable or webpages where the DAO is in fact reachable for effective human-to-human communication with the Managing Directors;
 
-e) Decision-making procedures; 
+e) Decision-making procedures;&#x20;
 
 f) Procedures and payments in the event of dissolution;
 
@@ -856,7 +811,7 @@ h) the White Papers or any similar document or documents which factually govern 
 
 i) the list of Ultimate Beneficial Owners (UBOs) of the DAO where they are other than the Principals, and
 
-j)  other types of information which shall not be mandatory to Register.
+j)  other types of information which shall not be mandatory to Register.
 
 ## Art. 84: Compliance
 
@@ -866,19 +821,16 @@ The DAO shall set up internal processes which allow it to ensure effective compl
 
 § 2
 
-1) A DAO found in non-compliance with this Law or lacking in internal processes to ensure effective compliance shall be given three months to rectify the situation at its own expense and to prove it actively to the Registrar. 
-
-2) Where this is not done, the DAO shall be struck out of the Registry and lose its Legal Personality.
+1. A DAO found in non-compliance with this Law or lacking in internal processes to ensure effective compliance shall be given three months to rectify the situation at its own expense and to prove it actively to the Registrar.&#x20;
+2. Where this is not done, the DAO shall be struck out of the Registry and lose its Legal Personality.
 
 ## Section 10: Transitory and Final Provisions
 
 #### Art. 85: Transitory Provisions
 
-1) All Companies registered before this Law shall gain Legal Force shall be Companies Incorporated according to this Law.
-
-2) If Documentation is missing or if the KYC procedures have not been done or have not been done fully at the time this Law gains Legal Force, the Registrar shall contact those companies and ask them for the required Documentation or information.
-
-3) Companies that should fail to comply upon repeated queries from the Registrar shall be Resolved.
+1. All Companies registered before this Law shall gain Legal Force shall be Companies Incorporated according to this Law.
+2. If Documentation is missing or if the KYC procedures have not been done or have not been done fully at the time this Law gains Legal Force, the Registrar shall contact those companies and ask them for the required Documentation or information.
+3. Companies that should fail to comply upon repeated queries from the Registrar shall be Resolved.
 
 #### Art. 86: Final Provision
 

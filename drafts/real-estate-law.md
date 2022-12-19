@@ -8,17 +8,12 @@ This Law governs the Real Estate in Liberland, its transfer, the mandatory regis
 
 **Ownership** is a constitutional right of an individual towards their own body, their actions or things. It is a bundle of rights which are usually not severed, but could be severable if the Owner so desires. Those rights include and are not limited to:
 
--   Possession;
-
--   Right to Modify;
-
--   Right to Destroy/Degrade;
-
--   Right to Relinquish;
-
--   Right to Transfer Use;
-
--   Right to Transfer the Obtainment of Produce (usufruct).
+* Possession;
+* Right to Modify;
+* Right to Destroy/Degrade;
+* Right to Relinquish;
+* Right to Transfer Use;
+* Right to Transfer the Obtainment of Produce (usufruct).
 
 **Land Fee** is an institute required by the Constitution whereby holders of real estate in Liberland are mandated annually to pay a certain amount. The sole purpose of the Land Fee is to be the source of revenue for the administration on which it can always fall back, by which to cover its mandatory expenses.
 
@@ -42,17 +37,17 @@ This Law governs the Real Estate in Liberland, its transfer, the mandatory regis
 
 #### Art. 1: Real Estate
 
-This Law shall govern the ownership, development, destruction and preservation of Real Estate, which shall be 
+This Law shall govern the ownership, development, destruction and preservation of Real Estate, which shall be&#x20;
 
-a) the land within the State jurisdiction of Liberland; and 
+a) the land within the State jurisdiction of Liberland; and&#x20;
 
 b) any other property built on the land or connected to it in ways which preclude separating it from the land without incurring excessive costs.
 
 #### Art. 2: Purpose of the Law
 
-The purpose of this Law shall be to 
+The purpose of this Law shall be to&#x20;
 
-a) protect the land and allow regular development on it; and also 
+a) protect the land and allow regular development on it; and also&#x20;
 
 b) to regulate the ownership rights to Real Estate so that this area of human activity becomes transparent and easy to access to a non-expert.
 
@@ -66,9 +61,9 @@ Unless stipulated otherwise by the owner, the owner of land or the holder of oth
 
 § 1
 
-Real Estate Rights shall be any rights which pertain to a piece or pieces of Real Estate. They shall be 
+Real Estate Rights shall be any rights which pertain to a piece or pieces of Real Estate. They shall be&#x20;
 
-a) Real Rights, which attach to the given Real Estate and are retained by it even when ownership changes; and 
+a) Real Rights, which attach to the given Real Estate and are retained by it even when ownership changes; and&#x20;
 
 b) Personal Rights, which attach to the given owner and aren't retained by the Real Estate where ownership changes.
 
@@ -86,9 +81,8 @@ Use shall entail the ability to inhabit or otherwise use any the property, any o
 
 #### Art. 6: Pledge
 
-1) Pledge places a possessory title upon the Real Estate owed by a debtor to a creditor as a collateral to another debt. Where the debtor can't pay their original debt, the creditor shall be allowed to demand the sale of the Real Estate under Pledge in order to have the debt repaid. 
-
-2) Where the parties don't stipulate otherwise, the risk of the sale of the Pledged Real Estate is born by the creditor; the successful sale under reasonable market conditions and circumstances replaces the repayment of the debt, even if the proceeds from the sale wouldn't satisfy the nominal value of the debt; where the proceeds are greater than the nominal value of the debt, the overvalue shall be retained by the debtor.
+1. Pledge places a possessory title upon the Real Estate owed by a debtor to a creditor as a collateral to another debt. Where the debtor can't pay their original debt, the creditor shall be allowed to demand the sale of the Real Estate under Pledge in order to have the debt repaid.&#x20;
+2. Where the parties don't stipulate otherwise, the risk of the sale of the Pledged Real Estate is born by the creditor; the successful sale under reasonable market conditions and circumstances replaces the repayment of the debt, even if the proceeds from the sale wouldn't satisfy the nominal value of the debt; where the proceeds are greater than the nominal value of the debt, the overvalue shall be retained by the debtor.
 
 #### Art. 7: Usufruct
 
@@ -100,9 +94,8 @@ A Mortgage shall be an agreement between an owner of Real Estate or a prospectiv
 
 #### Art.9: Habitation
 
-1) A Habitation shall be the right of a tenant given by the Owner to regularly inhabit the piece of Real Estate, typically a home or a space suited for living. In the absence of further stipulation, they shall be allowed to inhabit the premises with their immediate family, but not with pets and they shall be prohibited from bringing in any harmful substances. 
-
-2) A Habitation given in exchange for a counter payment shall be called a Lease.
+1. A Habitation shall be the right of a tenant given by the Owner to regularly inhabit the piece of Real Estate, typically a home or a space suited for living. In the absence of further stipulation, they shall be allowed to inhabit the premises with their immediate family, but not with pets and they shall be prohibited from bringing in any harmful substances.&#x20;
+2. A Habitation given in exchange for a counter payment shall be called a Lease.
 
 #### Art. 10: Predial Servitude
 
@@ -114,21 +107,18 @@ A Predial Servitude is a perpetual real right in the property of another (the se
 
 § 1
 
-1) All land and all other Real Estate built on it shall be registered in the Liberland Land Registry, henceforth the "Land Registry". 
-
-2) The Land Registry shall be the authoritative source of truth regarding land ownership and immovable property in Liberland.
+1. All land and all other Real Estate built on it shall be registered in the Liberland Land Registry, henceforth the "Land Registry".&#x20;
+2. The Land Registry shall be the authoritative source of truth regarding land ownership and immovable property in Liberland.
 
 § 2
 
-1) Land in the Land Registry shall be divided into Parcels, which shall be distinct pieces of land treated by the Land Registry as distinct units. Each Real Estate other than land shall be assigned to one or more Parcels.
-
-2) The owners shall be entitled to motion the Registrar to split and merge two or more Parcels they own. The Registrar shall either confirm their decision or cite reasons why the merging or the splitting is detrimental to the purposes of the Law. 
-
-3) The initial land division into Parcels shall be the Annex II of this Law.
+1. Land in the Land Registry shall be divided into Parcels, which shall be distinct pieces of land treated by the Land Registry as distinct units. Each Real Estate other than land shall be assigned to one or more Parcels.
+2. The owners shall be entitled to motion the Registrar to split and merge two or more Parcels they own. The Registrar shall either confirm their decision or cite reasons why the merging or the splitting is detrimental to the purposes of the Law.&#x20;
+3. The initial land division into Parcels shall be the Annex II of this Law.
 
 #### Art. 12: Registrar
 
-The Liberland Registrar of Land, henceforth "the Registrar", shall be an Agency under the Ministry of Interior mandated to set up, manage and operate the registration of land in Liberland and the Land Registry. 
+The Liberland Registrar of Land, henceforth "the Registrar", shall be an Agency under the Ministry of Interior mandated to set up, manage and operate the registration of land in Liberland and the Land Registry.&#x20;
 
 #### Art. 13: Registered Information
 
@@ -154,7 +144,7 @@ c) the graphical representation of the Real Estate, including photographs;
 
 d) the name of the Real Estate; and
 
-e)  the Identification Number, a unique alphanumeric identifier given to the Immovable Property by the Registrar.
+e)  the Identification Number, a unique alphanumeric identifier given to the Immovable Property by the Registrar.
 
 § 3
 
@@ -184,9 +174,8 @@ Other forms of transfer shall be null and void.
 
 #### Art. 15: Deed
 
-1) The document required to transfer Real Estate rights shall be known as a Deed. It shall take a written form. To effect the transfer of rights, the transferer and the transferee must jointly submit the Deed to the Registrar.
-
-2) The rights transfer shall take effect by the Registrar writing the data from it in the Land Registry.
+1. The document required to transfer Real Estate rights shall be known as a Deed. It shall take a written form. To effect the transfer of rights, the transferer and the transferee must jointly submit the Deed to the Registrar.
+2. The rights transfer shall take effect by the Registrar writing the data from it in the Land Registry.
 
 A Deed shall contain at least the following information:
 
@@ -210,9 +199,8 @@ h) other conditions relevant for the transfer.
 
 § 1
 
-1) Where the Owner intends to rent out the property or intends a purpose similar to renting out, where there is an open ended number of possible holders of the rights and one can expect these to change over time without a clearly predictable schedule, they shall not have to submit the name of each tenant to the Registrar.
-
-2) The Owner shall instead make a submission to the Registrar where they
+1. Where the Owner intends to rent out the property or intends a purpose similar to renting out, where there is an open ended number of possible holders of the rights and one can expect these to change over time without a clearly predictable schedule, they shall not have to submit the name of each tenant to the Registrar.
+2. The Owner shall instead make a submission to the Registrar where they
 
 a) identify the property uniquely;
 
@@ -224,11 +212,9 @@ d) describe the purpose of the intended use of the piece of real estate by the T
 
 § 2
 
-1) The Registrar shall have the right to reject this submission only where the acceptance would clearly jeopardize the goals of this Law or is a serious infringement in the life, liberty or property of others. 
-
-2) Where the Registrar receives proof backed up by evidence that the continued use of this right by the Owner infringes seriously the life, liberty or property of others, they shall inform the Owner that they cannot use this right anymore and must report each transfer of rights as per the provisions of this Law. 
-
-3) The Owner shall have one month to comply.
+1. The Registrar shall have the right to reject this submission only where the acceptance would clearly jeopardize the goals of this Law or is a serious infringement in the life, liberty or property of others.&#x20;
+2. Where the Registrar receives proof backed up by evidence that the continued use of this right by the Owner infringes seriously the life, liberty or property of others, they shall inform the Owner that they cannot use this right anymore and must report each transfer of rights as per the provisions of this Law.&#x20;
+3. The Owner shall have one month to comply.
 
 § 3
 
@@ -246,47 +232,39 @@ Given how scarce land is as a resource, its extreme usefulness and the potential
 
 #### Art. 19: Land Sale
 
-1) It is not in the nature of a Libertarian State to own all the land on its territory. Liberland shall, through its Administration, ensure that the greater portion of the land is sold for a price and under conditions favourable to the Budget and the Treasury of the Administration. 
-
-2) This land sale shall proceed as if Liberland was a private owner seeking to sell its land for the greatest profit.
+1. It is not in the nature of a Libertarian State to own all the land on its territory. Liberland shall, through its Administration, ensure that the greater portion of the land is sold for a price and under conditions favourable to the Budget and the Treasury of the Administration.&#x20;
+2. This land sale shall proceed as if Liberland was a private owner seeking to sell its land for the greatest profit.
 
 #### Art. 20: Land Distribution
 
 § 1
 
-1) The duty to sell the land shall not preclude Liberland from 
+1. The duty to sell the land shall not preclude Liberland from&#x20;
 
-a) honouring its promises or obligations made during the time it hasn't had full control over the land; or 
+a) honouring its promises or obligations made during the time it hasn't had full control over the land; or&#x20;
 
-b) extraordinarily, from awarding portions of the land to parties instrumental in Liberland gaining full control over the land. 
+b) extraordinarily, from awarding portions of the land to parties instrumental in Liberland gaining full control over the land.&#x20;
 
-2) This Land Distribution may be realized as a gift or sale under conditions other than those of the market.
+1. This Land Distribution may be realized as a gift or sale under conditions other than those of the market.
 
 § 2
 
-1) Land Distribution proposals shall be a special case of a Budget proposal and shall follow the constitutional and legal rules for Budget Proposals with the exceptions outlined in this Law. 
-
-2) The Enactment Period for Land Distribution proposals shall be no less than two months.
+1. Land Distribution proposals shall be a special case of a Budget proposal and shall follow the constitutional and legal rules for Budget Proposals with the exceptions outlined in this Law.&#x20;
+2. The Enactment Period for Land Distribution proposals shall be no less than two months.
 
 § 3
 
-1) The Minister of Interior shall draft any proposals for Land Distribution, which need to be countersigned by the President to be submitted to Congress. 
-
-2) Congress shall decide upon Land Distribution Proposals. The passing of a Land Distribution Proposal shall require the ⅔ majority vote of all the Members of Congress to pass. 
-
-3) As with any Budget proposals, the Senate shall be the final arbiter of whether or not the Land Distribution Proposals shall be realized.
-
-4) The Public Veto shall be allowed to cancel any Land Distribution proposals during its Enactment Period. 
+1. The Minister of Interior shall draft any proposals for Land Distribution, which need to be countersigned by the President to be submitted to Congress.&#x20;
+2. Congress shall decide upon Land Distribution Proposals. The passing of a Land Distribution Proposal shall require the ⅔ majority vote of all the Members of Congress to pass.&#x20;
+3. As with any Budget proposals, the Senate shall be the final arbiter of whether or not the Land Distribution Proposals shall be realized.
+4. The Public Veto shall be allowed to cancel any Land Distribution proposals during its Enactment Period.&#x20;
 
 § 4
 
-1) Under no circumstances shall more than 25 % of the total land area be subjected to Land Distribution, even should that mean that certain previous promises shall not be honoured and obligations remain unfulfilled.  
-
-2) Where there is a need to decide which of the previous promises should be honoured, the earlier promises shall take precedence over the latter promises, but the President shall have, with the approval of the Senate, the right ad hoc to deviate from this rule.
-
-3) Those damaged by this provision shall be given recourse in movable property and, where possible, in money.
-
-4) Any amendment of this provision shall require the standard supermajority tally in the Referendum for the motion to pass, no matter the origin of the Referendum proposal.
+1. Under no circumstances shall more than 25 % of the total land area be subjected to Land Distribution, even should that mean that certain previous promises shall not be honoured and obligations remain unfulfilled. &#x20;
+2. Where there is a need to decide which of the previous promises should be honoured, the earlier promises shall take precedence over the latter promises, but the President shall have, with the approval of the Senate, the right ad hoc to deviate from this rule.
+3. Those damaged by this provision shall be given recourse in movable property and, where possible, in money.
+4. Any amendment of this provision shall require the standard supermajority tally in the Referendum for the motion to pass, no matter the origin of the Referendum proposal.
 
 #### Art. 21: Retention of Land
 
@@ -298,9 +276,8 @@ Liberland shall be allowed to retain a portion of the land no greater than 15 pe
 
 § 1
 
-1) Upon its incorporation while all the land is owned by Liberland, the Minister of Interior shall without delay set up a zoning system. The Congress shall vote on this system by simple majority vote.
-
-2) The zoning system shall entail a series of documents and maps describing in detail the intended use of the various pieces of land.
+1. Upon its incorporation while all the land is owned by Liberland, the Minister of Interior shall without delay set up a zoning system. The Congress shall vote on this system by simple majority vote.
+2. The zoning system shall entail a series of documents and maps describing in detail the intended use of the various pieces of land.
 
 § 2
 
@@ -340,9 +317,8 @@ c) enforced sale of the property for market conditions; the proceeds minus the c
 
 #### Art. 25: Land Fee
 
-1) Along with the zoning plan, the Minister of Interior shall also set up the system according to which the duty to pay the Land Fee shall be determined. This system shall be enshrined by a Law which the Congress shall propose for a Referendum. 
-
-2) Where Law is silent, the Land Fee shall be a payable at a flat rate amounting to 1 percent of the market cost of the property per annum determined by the last sale of the land as registered in the Land Registry. 
+1. Along with the zoning plan, the Minister of Interior shall also set up the system according to which the duty to pay the Land Fee shall be determined. This system shall be enshrined by a Law which the Congress shall propose for a Referendum.&#x20;
+2. Where Law is silent, the Land Fee shall be a payable at a flat rate amounting to 1 percent of the market cost of the property per annum determined by the last sale of the land as registered in the Land Registry.&#x20;
 
 #### Art. 26: Regular Review
 
