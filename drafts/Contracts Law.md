@@ -400,7 +400,7 @@ Regardless of what the Parties agree upon in the Contract, the Sanctions listed 
 
 Where there is no other choice made by the Parties, the Contract shall be adjudicated according to Liberland's Jurisdiction and at a Liberland State Court.
 
-### Section 6: Remedies
+### Section 5: Remedies
 
 **Art. 34: Damages**
 
@@ -933,7 +933,7 @@ Under partnership, every partner agrees to be liable for all debts and obligatio
 1. Where the share of each partner in the profits and losses has not been determined in the partnership contract, the share of each partner shall be in proportion to what he has contributed to the partnership.
 2. In regard of the partners who have only contributed their labour capacity and skills, their share in the profits and losses is equal to the share of the partner who has contributed the least.
 
-### Section 5: Construction Agreement
+### Section 6: Construction Agreement
 
 **Art. 89: Construction Agreement**
 
