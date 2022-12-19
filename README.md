@@ -12,14 +12,14 @@ If you want to contribute, please give us (justice@liberland.org) your GitHub ha
 
 ## Interim Laws (in force)
 
-* [The Articles of the Preparatory Committee](<In Force (Interim)/Articles of the Preparatory Committee.md>)
+* [The Articles of the Preparatory Committee](broken-reference)
 * [Company Law](in-force-interim/company-law.md)
 
 ## Revisions
 
 Amendments of existing laws, ready for all kinds of recommendations from your side.
 
-* [Company Law Revision](prelminary/company-law-revision.md)
+* [Company Law Revision](revisions/company-law-revision.md)
 
 ## Consolidated (waiting for Cabinet Review)
 
