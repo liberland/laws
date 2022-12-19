@@ -1,4 +1,4 @@
-# Readme: Liberland Laws
+# Liberland Laws
 
 Welcome to the Liberland Laws repository! Here, we store drafted (interim) Laws and draft new Laws. Note: Interim Laws mean Laws which are adopted by the Cabinet rather than the (as of yet non-existent) Referendum.
 
@@ -12,39 +12,39 @@ If you want to contribute, please give us (justice@liberland.org) your GitHub ha
 
 ## Interim Laws (in force)
 
-* [Company Law](in-force-interim/company-law.md)
+* [Company Law](in-force/in-force-interim/company-law.md)
 
 ## Revisions
 
 Amendments of existing laws, ready for all kinds of recommendations from your side.
 
-* [Company Law Revision](revisions/company-law-revision.md)
+* [Company Law Revision](drafting/revisions/company-law-revision.md)
 
 ## Consolidated (waiting for Cabinet Review)
 
 Ready for your recommendations with technical and issues regarding single sections or paragraphs preferable.
 
-* [Citizenship Law](<Consolidated/Citizenship Law.md>)
+* [Citizenship Law](Consolidated/Citizenship%20Law.md)
 
 ## Drafting
 
 Ready for your recommendations, including thorought ones and requests to not draft/draft something else.
 
-* [Contract Law](<Drafts/Contracts Law.md>)
-* [Judicial Process Law](drafts/judical-process-law.md)
-* [Real Estate Law](drafts/real-estate-law.md)
-* [Police Law](drafts/police-law.md)
-* [Procurement Law](drafts/procurement-law.md)
-* [Referendum Law](drafts/referendum-law.md)
+* [Contract Law](Drafts/Contracts%20Law.md)
+* [Judicial Process Law](drafting/drafts/judical-process-law.md)
+* [Real Estate Law](drafting/drafts/real-estate-law.md)
+* [Police Law](drafting/drafts/police-law.md)
+* [Procurement Law](drafting/drafts/procurement-law.md)
+* [Referendum Law](drafting/drafts/referendum-law.md)
 
 ## Preliminary
 
 Unfinished and to be advanced, all kinds of fundamental ideas are very welcome!
 
 * [Business Development Law](https://docs.google.com/document/d/1F-HBduCHEahdMn6a2XZAwjtSog4axq1B8FRg4k9G2OA/edit)
-* [Criminal Law](prelminary/criminal-law.md)
-* [Maritime Law](prelminary/maritime-law.md)
-* [Reserves Law](prelminary/reserves-law.md)
+* [Criminal Law](drafting/prelminary/criminal-law.md)
+* [Maritime Law](drafting/prelminary/maritime-law.md)
+* [Reserves Law](drafting/prelminary/reserves-law.md)
 
 ## Related documents
 
