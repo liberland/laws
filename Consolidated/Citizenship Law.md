@@ -183,9 +183,13 @@ Where an ex-Citizen opts to withdraw their Voluntary Tax, this shall be done in 
 
 An ex-Citizen whose Citizenship has been terminated regularly shall be allowed to re-apply for Citizenship at any time under the conditions which apply to all regular Applicants.
 
-### Art 18: Irregular Termination of Citizenship
+#### Art 18: Irregular Termination of Citizenship
+
+§ 1
 
 The Citizenship Commission shall Terminate the Citizenship of a Citizen who is in a serious breach of their Citizenship Duties, for which the Contract stipulates the sanction of an irregular Termination of their Citizenship.
+
+§ 2
 
 1. The Citizenship of a Citizen whose Citizenship shall be irregularly Terminated shall become the property of Liberland, and their Voluntary Tax shall become the property of Liberland.
 2. Their account, including all the information put therein, shall be held for 15 years after the Irregular Termination and shall be used to collect all the obligations that the Citizens might still owe Liberland. After that time, the Citizenship Commission shall irreversibly delete the Account.
@@ -282,9 +286,7 @@ Upon paying their Voluntary Tax in full, the Citizen on Invitation becomes a reg
 
 ## Section 8: Citizenship Comission
 
-#### Art 28
-
-### Citizenship Comission
+#### Art 28: Citizenship Comission
 
 The organ responsible for the agenda regarding all matters of Citizenship shall be the Citizenship Comission. The Citizenship Comission shall be an Agency under the Ministry of Interior.
 
