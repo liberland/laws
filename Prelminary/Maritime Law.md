@@ -7,7 +7,7 @@ In keeping with the practice common in extant States, it is incumbent upon Liber
 ## Section 1: General Provisions
 
 #### Art. 1: Application of this Law
-	This law shall apply to
+This law shall apply to
 a) vessels registered under Liberland’s flag, whether in and out of Liberland’s territory;
 b) vessels not registered under Liberland’s flag as long as they are sailing on seas or on inland waters within Liberland’s territory or within an area under Liberland’s jurisdiction;
 c) seaborne platforms floating or permanently mooring or anchoring on seas or on inland waters within Liberland’s territory;.
