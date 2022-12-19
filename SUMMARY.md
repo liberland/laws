@@ -3,7 +3,6 @@
 * [Liberland Laws](README.md)
 * [In Force (Interim)](in-force-interim/README.md)
   * [Company Law](in-force-interim/company-law.md)
-  * [The Articles of the Provisional Government of the Free Republic of Liberland](in-force-interim/the-articles-of-the-provisional-government-of-the-free-republic-of-liberland.md)
 * [Consolidated](consolidated/README.md)
   * [Citizenship Law](<Consolidated/Citizenship Law.md>)
 * [Drafts](drafts/README.md)
