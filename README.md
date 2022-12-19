@@ -1,4 +1,4 @@
-# Liberland Laws
+# Readme: Liberland Laws
 
 Welcome to the Liberland Laws repository! Here, we store drafted (interim) Laws and draft new Laws. Note: Interim Laws mean Laws which are adopted by the Cabinet rather than the (as of yet non-existent) Referendum.
 
