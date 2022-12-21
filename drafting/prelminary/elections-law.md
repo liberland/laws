@@ -11,7 +11,7 @@ Elections take place on a platform of electronic communication. They can take pl
 
 #### Art. 2: Basic Principles
 1. All elections in Liberland shall be periodic, genuine, fair and transparent, held by secret vote or by equivalent free voting procedures. 
-2. No Citizen shall be bared from participation based on grounds such as sex, race, colour, ethnic or social origin, genetic features, language, religion or belief, political or any other opinion, membership of a national minority, property, birth, disability, age or sexual orientation.
+2. No Citizen shall be bared from participation in elections based on grounds such as sex, race, colour, ethnic or social origin, genetic features, language, religion or belief, political or any other opinion, membership of a national minority, property, birth, disability, age or sexual orientation.
 
 #### Art. 3: Organizer of Elections
 The Ministry of Interior shall ensu
