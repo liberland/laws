@@ -10,7 +10,8 @@ This law governs the elections to the Liberland Congress and to other representa
 Elections take place on a platform of electronic communication. They can take place using other means where no suitable platform of electronic communication is available.
 
 #### Art. 2: Basic Principles
-All elections in Liberland shall be fair, transparent and 
+1. All elections in Liberland shall be periodic, genuine, fair and transparent, held by secret vote or by equivalent free voting procedures. 
+2. No Citizen shall be bared from participation based on any ground such as sex, race, colour, ethnic or social origin, genetic features, language, religion or belief, political or any other opinion, membership of a national minority, property, birth, disability, age or sexual orientation.
 
 #### Art. 3: Organizer of Elections
 The Ministry of Interior shall ensu
