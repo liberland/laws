@@ -24,13 +24,13 @@ Amendments of existing laws, ready for all kinds of recommendations from your si
 
 Ready for your recommendations with technical and issues regarding single sections or paragraphs preferable.
 
-* [Citizenship Law](Consolidated/Citizenship%20Law.md)
+* [Citizenship Law](drafting/consolidated/citizenship-law.md)
 
 ## Drafting
 
 Ready for your recommendations, including thorought ones and requests to not draft/draft something else.
 
-* [Contract Law](Drafts/Contracts%20Law.md)
+* [Contract Law](drafting/drafts/contracts-law.md)
 * [Judicial Process Law](drafting/drafts/judical-process-law.md)
 * [Real Estate Law](drafting/drafts/real-estate-law.md)
 * [Police Law](drafting/drafts/police-law.md)
@@ -42,9 +42,9 @@ Ready for your recommendations, including thorought ones and requests to not dra
 Unfinished and to be advanced, all kinds of fundamental ideas are very welcome!
 
 * [Business Development Law](https://docs.google.com/document/d/1F-HBduCHEahdMn6a2XZAwjtSog4axq1B8FRg4k9G2OA/edit)
-* [Criminal Law](drafting/prelminary/criminal-law.md)
-* [Maritime Law](drafting/prelminary/maritime-law.md)
-* [Reserves Law](drafting/prelminary/reserves-law.md)
+* [Criminal Law](drafting/preliminary/criminal-law.md)
+* [Maritime Law](drafting/preliminary/maritime-law.md)
+* [Reserves Law](drafting/preliminary/reserves-law.md)
 
 ## Related documents
 
