@@ -20,8 +20,8 @@ The purpose of the election is to determine the setup of an elected organ in Lib
 2) Municipal and other sectoral elections shall be organized analogically to central elections by the official appointed for this by the founding document of the given institution.
 
 #### Art. 3: Election Platform
-1) Wherever possible, all elections take place on a platform of electronic communication. 
-2) Where no suitable platform of electronic communication is available, elections can take place using other mean.
+1. Wherever possible, all elections take place on a platform of electronic communication. 
+2. Where no suitable platform of electronic communication is available, elections can take place using other mean.
 
 #### Art. 4: Voters
 All Citizen above 15 years of age who have a pooled Liberland Merit (LLM) balance of at least 5000 are eligible to vote.
@@ -45,22 +45,22 @@ The Minsiter of Justice shall announce elections ahead of time to be visible for
 #### Art. 8: Voting
 
 § 1  
-1) Voting shall be registered at any point during an election term. It shall be counted upon the ending of the current election term.
-2) If one voter votes twice or more times during a single election term, only the last vote cast shall be counted.
-3) The system shall register every vote cast and all LLM shall posess equal weight.
+1. Voting shall be registered at any point during an election term. It shall be counted upon the ending of the current election term.
+2. If one voter votes twice or more times during a single election term, only the last vote cast shall be counted.
+3. The system shall register every vote cast and all LLM shall posess equal weight.
 
-§ 2
+§ 2  
 To increase the system's representativeness, the use of alternative voting or similar methods shall be permissible. The voter may have the opportunity to vote for more candidates and assign them priorities. In case the candidate of their first choice doesn't pass the vote, their vote shall be transferred to the candidate of their second choice and so on. The maximal number of candidates shall be capped so that it is reasonable within the overal logic of the system.
 
 #### Art. 9: Confirmation
 
 § 1  
-1) The system shall entail measures to effectively check whether or not the action to vote was performed by the given voter's account. 
-2) The system shall likewise check whether or not the voter has the personal control over their vote using measures like or better than two-factor authentication.
+1. The system shall entail measures to effectively check whether or not the action to vote was performed by the given voter's account. 
+2. The system shall likewise check whether or not the voter has the personal control over their vote using measures like or better than two-factor authentication.
 
-§ 2  
-1) Delegation of vote to other eligible voters, including when this is done for monetary gains, shall be freely allowed. 
-2) Delegation of vote to other than eligible voters shall be a first class misdemeanor of the highest severity.
+§ 2   
+1. Delegation of vote to other eligible voters, including when this is done for monetary gains, shall be freely allowed. 
+2. Delegation of vote to other than eligible voters shall be a first class misdemeanor of the highest severity.
 
 #### Art. 10: Anonymity
 Voting shall be annonymous. The system shall employ cryptographic means to ensure that matching a vote with a voter shall be functionally impossible. These shall utilize the technology of zero-knowledge protocol or something equally or more efficient.
@@ -68,11 +68,11 @@ Voting shall be annonymous. The system shall employ cryptographic means to ensur
 #### Art. 11: Tallying
 
 § 1  
-1) The system shall count the votes automatically and in real time as those are registered. 
+The system shall count the votes automatically and in real time as those are registered. 
 
 § 2  
-2) The final tally for the given election period shall take place upon the moment and according to the situation as of the ending of the given election period. 
-3) That tally shall directly translate into the setup of the organ being voted in.
+1. The final tally for the given election period shall take place upon the moment and according to the situation as of the ending of the given election period. 
+2. That tally shall directly translate into the setup of the organ being voted in.
 
 #### Art. 12: Formula
 The formula for counting the vote and turning the result into the setup of the elected organ for the next election period shall be a simple and easy to understand one and one which the relevant academic fields consider sound. It shall never cause two voting instruments to be counted with a different weight.
