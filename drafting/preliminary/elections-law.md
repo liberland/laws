@@ -7,11 +7,11 @@ This law governs the elections to the Liberland Congress and to other representa
 
 #### Art. 1: Basic Principles
 
-§ 1
+§ 1  
 1. All elections in Liberland shall be periodic, genuine, fair and transparent, held by secret vote or by equivalent free voting procedures. 
 2. No Citizen shall be bared from participation in elections based on grounds such as sex, race, colour, ethnic or social origin, genetic features, language, religion or belief, political or any other opinion, membership of a national minority, property, birth, disability, age or sexual orientation.
 
-§ 2
+§ 2  
 The purpose of the election is to determine the setup of an elected organ in Liberland politics for the duration of the next election term.
 
 
@@ -31,10 +31,10 @@ A Citizen who can vote shall also be eligible to apply for an elected office.
 
 #### Art. 6: Application
 
-§ 1
+§ 1  
 The Government shall abide by this law always when organizing elections of any kind, while other entities might opt-in voluntarily. 
 
-§ 2
+§ 2  
 Entities opting in voluntarily shall be granted access to the platform of electronic communication which the Government currently uses to build, at their own expense and on their own accord, an election system conform with this Law.
 
 ### Section 2: Election Process
@@ -44,7 +44,7 @@ The Minsiter of Justice shall announce elections ahead of time to be visible for
 
 #### Art. 8: Voting
 
-§ 1
+§ 1  
 1) Voting shall be registered at any point during an election term. It shall be counted upon the ending of the current election term.
 2) If one voter votes twice or more times during a single election term, only the last vote cast shall be counted.
 3) The system shall register every vote cast and all LLM shall posess equal weight.
@@ -54,11 +54,11 @@ To increase the system's representativeness, the use of alternative voting or si
 
 #### Art. 9: Confirmation
 
-§ 1
+§ 1  
 1) The system shall entail measures to effectively check whether or not the action to vote was performed by the given voter's account. 
 2) The system shall likewise check whether or not the voter has the personal control over their vote using measures like or better than two-factor authentication.
 
-§ 2
+§ 2  
 1) Delegation of vote to other eligible voters, including when this is done for monetary gains, shall be freely allowed. 
 2) Delegation of vote to other than eligible voters shall be a first class misdemeanor of the highest severity.
 
@@ -67,15 +67,14 @@ Voting shall be annonymous. The system shall employ cryptographic means to ensur
 
 #### Art. 11: Tallying
 
-§ 1
+§ 1  
 1) The system shall count the votes automatically and in real time as those are registered. 
 
-§ 2
+§ 2  
 2) The final tally for the given election period shall take place upon the moment and according to the situation as of the ending of the given election period. 
 3) That tally shall directly translate into the setup of the organ being voted in.
 
 #### Art. 12: Formula
 The formula for counting the vote and turning the result into the setup of the elected organ for the next election period shall be a simple and easy to understand one and one which the relevant academic fields consider sound. It shall never cause two voting instruments to be counted with a different weight.
 
- 
 
