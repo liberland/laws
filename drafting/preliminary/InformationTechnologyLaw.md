@@ -38,16 +38,25 @@ This Law lays down rules relating to the protection of persons with regard to th
 #### Art. 3: Government communication
 The principal aim of Government communication shall be to enable members of the public to exercise their right to communicate with and receive information from the  Government and to support a well functioning democracy. To that end, the Government may control the information and personal data strictly required for the efficient communication to be regularly enabled and practiced.
 
-#### Art. 3: Participation on governance
+#### Art. 4: Participation on governance
 The Government may notrol information and personal data of citizens and other persons in order to enable participation of citizens or the other persons where applicable on governance. This includes and is not limited to 
 a) participating on democracy; or
 b) performing the functions of an Agent, whether as an employee, contractor or a volunteer.
 
-#### Art. 4: Contract
+#### Art. 5: Contract
 Where the information and personal data control is necessary for the performance of a contract to which the data subject is party or in order to take steps at the request of the data subject prior to entering into a contract, such control shall be permitted.
 
-#### Art. 5: Consent
+#### Art. 6: Consent
+
+§ 1  
 Government can control personal data where the data subject has given consent to the processing of his or her personal data for one or more specific purposes; the data subject shall always retain the right to take their consent back, at which point the personal data control shall cease; the data subject shall always retain the right to be forgotten and the response to the taking back of consent shall be immediate.
 
-#### Art. 6: Constitutional and Legal License
+§ 2  
+1) Where data control is based on consent, the controller shall be able to demonstrate that the data subject has consented to processing of his or her personal data. If the data subject’s consent is given in the context of a written declaration which also concerns other matters, the request for consent shall be presented in a manner which is clearly distinguishable from the other matters, in an intelligible and easily accessible form, using clear and plain language.
+2) Where the dat asubject is a child is below the age of 16 years, data control shall be lawful only if and to the extent that consent is given or authorised by the holder of parental responsibility over the child.
+
+§ 3  
+The data subject shall have the right to withdraw his or her consent at any time. The withdrawal of consent shall not affect the lawfulness of processing based on consent before its withdrawal. Prior to giving consent, the data subject shall be informed thereof. It shall be as easy to withdraw as to give consent.
+
+#### Art. 7: Constitutional and Legal License
 Where the Constitution or a law sets up a government function the correct exercise of which according to the best available practices and technology requires information and data control, such shall be performed with maximal care with respect to anyone who could be affected by this processing, above and beyond the standard of care prescribed for the other lawful purposes. 
