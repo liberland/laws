@@ -60,3 +60,19 @@ The data subject shall have the right to withdraw his or her consent at any time
 
 #### Art. 7: Constitutional and Legal License
 Where the Constitution or a law sets up a government function the correct exercise of which according to the best available practices and technology requires information and data control, such shall be performed with maximal care with respect to anyone who could be affected by this processing, above and beyond the standard of care prescribed for the other lawful purposes. 
+
+#### Art. 8: Sensitive information
+
+§ 1 
+Processing of personal data revealing 
+a) racial or ethnic origin, 
+b) political opinions, 
+c) religious or philosophical beliefs or trade union membership, 
+d) genetic data, 
+e) biometric data for the purpose of uniquely identifying a natural person, 
+f) data concerning health or 
+g) data concerning a natural person’s sex life or sexual orientation 
+shall receive higher than normal standard of care. 
+
+§ 2  
+Processing confidential data the further spreading of which would clearly substantially damage a person, their interest or or Liberland's interest shall likewise receive higher than normal standard of care.
