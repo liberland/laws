@@ -63,20 +63,24 @@ Where the Constitution or a law sets up a government function the correct exerci
 
 #### Art. 8: Sensitive information
 
-§ 1 
+§ 1   
 Processing of personal data revealing 
-a) racial or ethnic origin, 
-b) political opinions, 
-c) religious or philosophical beliefs or trade union membership, 
-d) genetic data, 
-e) biometric data for the purpose of uniquely identifying a natural person, 
-f) data concerning health or 
-g) data concerning a natural person’s sex life or sexual orientation 
-shall only be permissible when
-a) the data subject has given a specific informed consent,
-b) there is a specific legal license given with respect to employment or safeguarding fundamental rights of the data subject,
-c) processing is necessary to safeguard data subject's vital interests and the data subject is incapable to give their informed consent due to being physically or mentally incapacitated, long-term absent, etc.
-d) processing is necessary to prevent a clear and present danger lieable to cause damage occuring to an individual's or a group of individual's life, liberty or property.
+a) racial or ethnic origin,   
+b) political opinions,  
+c) religious or philosophical beliefs or trade union membership,  
+d) genetic data,  
+e) biometric data for the purpose of uniquely identifying a natural person,  
+f) data concerning health or  
+g) data concerning a natural person’s sex life or sexual orientation  
+shall only be permissible when  
+a) the data subject has given a specific informed consent,  
+b) there is a specific legal license given with respect to employment or safeguarding fundamental rights of the data subject,  
+c) processing is necessary to safeguard data subject's vital interests and the data subject is incapable to give their informed consent due to being physically or mentally incapacitated, long-term absent, etc.  
+d) processing is necessary to prevent a clear and present danger lieable to cause damage occuring to an individual's or a group of individual's life, liberty or property.  
 
-§ 2  
-Processing confidential data the further spreading of which would clearly substantially damage a person, their interest or or Liberland's interest shall likewise only be permissible for the reasons as listed in the second sentence of the previous paragraph.
+§ 2   
+Processing confidential data the further spreading of which would clearly substantially damage a person, their interest or or Liberland's interest shall likewise only be permissible for the reasons as listed in the second sentence of the previous paragraph.  
+
+§ 3  
+1) The Government shall not control data about criminal convictions other than those by the justice system in Liberland.
+2) Information on foreign criminal convictions shall only be retrieved from sources under the control or supervision of the appropriate foreign official authority providing for appropriate safeguards for the rights and freedoms of data subjects.
