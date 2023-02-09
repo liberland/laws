@@ -66,19 +66,19 @@ Where the Constitution or a law sets up a government function the correct exerci
 § 1   
 Processing of personal data revealing 
 a) racial or ethnic origin,   
-b) political opinions,  
-c) religious or philosophical beliefs or trade union membership,  
-d) genetic data,  
-e) biometric data for the purpose of uniquely identifying a natural person,  
-f) information on criminal convictions,
-f) data concerning health or  
-g) data concerning a natural person’s sex life or sexual orientation  
+b) political opinions,   
+c) religious or philosophical beliefs or trade union membership,   
+d) genetic data,   
+e) biometric data for the purpose of uniquely identifying a natural person,   
+f) information on criminal convictions,  
+g) data concerning health or   
+h) data concerning a natural person’s sex life or sexual orientation  
 shall only be permissible when  
 a) the data subject has given a specific informed consent,  
 b) there is a specific legal license given with respect to employment or safeguarding fundamental rights of the data subject,  
 c) processing is necessary to safeguard data subject's vital interests and the data subject is incapable to give their informed consent due to being physically or mentally incapacitated, long-term absent, etc.  
 d) processing is necessary to prevent a clear and present danger liable to cause damage occuring to an individual's or a group of individual's life, liberty or property.  
-e) processing is necessary to commence or to proceed in a case before the justice system.
+e) processing is necessary to commence or to proceed in a case before the justice system of Liberland or in a foreign justice system in a Rule of Law-based jurisdiction providing for appropriate safeguards for the rights and freedoms of data subjects.  
 
 § 2   
 Processing confidential data the further spreading of which would clearly substantially damage a person, their interest or or Liberland's interest shall likewise only be permissible for the reasons as listed in the second sentence of the previous paragraph.  
