@@ -72,7 +72,11 @@ d) genetic data,
 e) biometric data for the purpose of uniquely identifying a natural person, 
 f) data concerning health or 
 g) data concerning a natural person’s sex life or sexual orientation 
-shall receive higher than normal standard of care. 
+shall only be permissible when
+a) the data subject has given a specific informed consent,
+b) there is a specific legal license given with respect to employment or safeguarding fundamental rights of the data subject,
+c) processing is necessary to safeguard data subject's vital interests and the data subject is incapable to give their informed consent due to being physically or mentally incapacitated, long-term absent, etc.
+d) processing is necessary to prevent a clear and present danger lieable to cause damage occuring to an individual's or a group of individual's life, liberty or property.
 
 § 2  
-Processing confidential data the further spreading of which would clearly substantially damage a person, their interest or or Liberland's interest shall likewise receive higher than normal standard of care.
+Processing confidential data the further spreading of which would clearly substantially damage a person, their interest or or Liberland's interest shall likewise only be permissible for the reasons as listed in the second sentence of the previous paragraph.
