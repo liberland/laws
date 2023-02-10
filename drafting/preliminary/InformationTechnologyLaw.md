@@ -99,5 +99,30 @@ The Government shall use state of the art information technology set up and main
 1) The Government shall only enter contracts for proprietary information technology and information system related services in ways that it is able, at will, to change the provider without excessive resource-spending in the horizon of maximally 4 election terms. 
 2) If any provisions in a contract bind the government for longer or create in their effect the requirement of excessive spending or transition costs, those shall be natural obligations for the Government. The Government shall only be responsible to recompense the provider where the provider can prove a knowing intent to deceive them using this provision at the time of closing the contract.
 
-#### Art. 10: Contractors
-The Government shall attempt to resource its information technology Where use of contractors is necessary, it shall select entities owned or at least represented by Liberland citizens where possible. Only in cases of a clearly superior offer in price and in quality can an outside contractor be hired. 
+#### Art. 11: Contractors
+1) The Government shall attempt to resource its information technology internally wherever possible and economically feasible. 
+2) Where use of contractors is necessary, the Government shall select entities owned or at least represented by Liberland citizens where possible. Only in cases of a clearly superior offer in price and in quality can an outside contractor be hired. 
+
+#### Art. 12: Public Access
+
+§ 1  
+1) Every Citizen and resident of Liberland has the right to ask the Government any piece of information the government controls and the Government and any part thereof shall be bound to respond. 
+2) Where the queried organ controls the information, it shall provide it to the Citizen. 
+3) Otherwise, the queried organ shall research which organ or organs hold the information and shall refer the request to these, informing the Citizen of this referral. 
+
+§ 2  
+1) Where the information contains personal data, the Government or the queried organ shall ommit these from the answer, unless the answer also contains a statement of consent with the revealing signed by the data subject. 
+2) Where ommiting the personal data without context makes the information unintelligible, the Government or the queried organ shall attempt to make an explanation clarifying the issue.
+3) Information which is classified shall be provided with the delay required by the decision of classification. The Citizen shall be provided the reasons for classification sufficient to, if they so wish, start a court case regarding declassification.
+
+#### Art. 12: Mandatory Publication
+
+§ 1  
+1) The Government and every government organ shall set up an online portal to provide information about its  
+a) functional setup,   
+b) the organ's place in the Government hierarchy,   
+c) day-to-day workings; and  
+d) news.  
+2) The portal shall also enable Citizens and residents of Liberland effortlessly to communicate with the given institution.  
+3) Refering to information provided on the portal shall be a valid response to a Public Access query.
+
