@@ -117,7 +117,7 @@ The Government shall use state of the art information technology set up and main
 2) Where ommiting the personal data without context makes the information unintelligible, the Government or the queried organ shall attempt to make an explanation clarifying the issue.
 3) Information which is classified shall be provided with the delay required by the decision of classification. The Citizen shall be provided the reasons for classification sufficient to, if they so wish, start a court case regarding declassification.
 
-#### Art. 12: Mandatory Publication
+#### Art. 13: Mandatory Publication
 
 1) The Government and every government organ shall set up an online portal to provide information about its  
 a) functional setup,   
