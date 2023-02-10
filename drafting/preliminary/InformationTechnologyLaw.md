@@ -103,6 +103,8 @@ The Government shall use state of the art information technology set up and main
 1) The Government shall attempt to resource its information technology internally wherever possible and economically feasible. 
 2) Where use of contractors is necessary, the Government shall select entities owned or at least represented by Liberland citizens where possible. Only in cases of a clearly superior offer in price and in quality can an outside contractor be hired. 
 
+### Section 3: Public Access
+
 #### Art. 12: Public Access
 
 § 1  
@@ -117,7 +119,6 @@ The Government shall use state of the art information technology set up and main
 
 #### Art. 12: Mandatory Publication
 
-§ 1  
 1) The Government and every government organ shall set up an online portal to provide information about its  
 a) functional setup,   
 b) the organ's place in the Government hierarchy,   
