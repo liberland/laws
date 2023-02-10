@@ -22,7 +22,7 @@ This Law lays down rules relating to the protection of persons with regard to th
 
 **profiling** means any form of automated processing of personal data consisting of the use of personal data to evaluate certain personal aspects relating to a natural person, in particular to analyse or predict aspects concerning that natural person’s performance at work, economic situation, health, personal preferences, interests, reliability, behaviour, location or movements;
 
-### Section 1: Principles of Government Information Use
+### Section 1: Government Information Use
 
 #### Art. 1: Government information Use
 1) The Government shall collect and process, henceforth "control", information only for reasons and to fulfil aims listed in this law, henceforth "lawful purposes", and only in so far and by means that this law allows. 
@@ -32,8 +32,6 @@ This Law lays down rules relating to the protection of persons with regard to th
 #### Art. 2: Personal data of Natural persons
 1) The Government shall control personal data of natural persons, henceforth "personal data", with an increased measure of care. Personal data shall be processed lawfully, fairly and in a transparent manner in relation to the data subjects.
 2) The Government shall keep personal data in a form which permits identification of data subjects for no longer than is necessary for the purposes for which the personal data are processed. Personal data shall be processed in a manner that ensures appropriate security of the personal data, including protection against unauthorised or unlawful processing and against accidental loss, destruction or damage, using appropriate technical or organisational measures (‘integrity and confidentiality’).
-
-### Section 2: Lawful purposes for Government information and personal data control
 
 #### Art. 3: Government communication
 The principal aim of Government communication shall be to enable members of the public to exercise their right to communicate with and receive information from the  Government and to support a well functioning democracy. To that end, the Government may control the information and personal data strictly required for the efficient communication to be regularly enabled and practiced.
@@ -85,3 +83,21 @@ Processing confidential data the further spreading of which would clearly substa
 
 § 3  
 Information on foreign criminal convictions shall only be retrieved from sources under the control or supervision of the appropriate foreign official authority providing for appropriate safeguards for the rights and freedoms of data subjects.
+
+### Section 2: Information Systems
+
+#### Art. 9: Best Available Practices
+The Government shall use state of the art information technology set up and maintained according to best available practices. The Government shall only use infrastructure made by reliable manufacturers and installed and maintained by reputable parties, whether contracted or internal. 
+
+#### Art. 10: Free and Open Source Software
+
+§ 1   
+1) The Government shall attempt to satisfy its needs for on-premises software with free software wherever possible. If that is not possible, it shall choose for an open source option. 
+2) Only in exceptional cases when free or open source options are unavailable or clearly too expensive or onerous to obtain, install or maintain, or clearly don't lead to the use of best available practices, shall proprietary software be used. Cloud-based proprietary solutions shall be prefered before on-premises proprietary solutions are considered.
+
+§ 2   
+1) The Government shall only enter contracts for proprietary information technology and information system related services in ways that it is able, at will, to change the provider without excessive resource-spending in the horizon of maximally 4 election terms. 
+2) If any provisions in a contract bind the government for longer or create in their effect the requirement of excessive spending or transition costs, those shall be natural obligations for the Government. The Government shall only be responsible to recompense the provider where the provider can prove a knowing intent to deceive them using this provision at the time of closing the contract.
+
+#### Art. 10: Contractors
+The Government shall attempt to resource its information technology Where use of contractors is necessary, it shall select entities owned or at least represented by Liberland citizens where possible. Only in cases of a clearly superior offer in price and in quality can an outside contractor be hired. 
