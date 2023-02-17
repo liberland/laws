@@ -39,23 +39,23 @@ c) the organization and professional rules for the Agents of IBIS.
 #### Art. 7: Health Check
 Any non-Citizen that applies for entry into Liberland must comply with immigration officers if asked to prove that they are not carrying a communicable disease
 
-#### Art. 7: Public Health, Public Security, Public Policy, 
-A non-Citizen shall only be allowed entry into Liberland if their entry won't incur a burden upon:
-a) Public Health, presenting a clear and present danger to others, or being a physical hindrance upon others or bringing an undue financial strain on the national economy,
-b) Public Security, where there is no clearly establihsed danger of the person becoming a danger to others and their Property, and
-c) Public Policy, where their entry would effect a psychological strain on the mental well-being of the public or damage the reputation of Liberland.
+#### Art. 8: Public Health, Public Security, Public Policy, 
+A non-Citizen shall only be allowed entry into Liberland if their entry won't incur a burden upon:  
+a) Public Health, presenting a clear and present danger to others, or being a physical hindrance upon others or bringing an undue financial strain on the national economy,  
+b) Public Security, where there is no clearly establihsed danger of the person becoming a danger to others and their Property, and  
+c) Public Policy, where their entry would effect a psychological strain on the mental well-being of the public or damage the reputation of Liberland.   
 An Immigration Officer First Class may derrogate from these demands in cases where the benefits to Liberland clearly outweight the dangers of the person's entry.
 
 ## Section 4: Visa for Non-Citizens
 
-#### Art. 7: Visa
+#### Art. 9: Visa
 A visa is a document that confers to the visa holder the privilege of crossing the border of Liberland and staying on its soil for a certain time and with certain limitations beyond those the Ciziens enjoy. The Inspector-General will determine the standard document used and only an immigration officer with a first class delegation may issue a visa in a non-standardized format.
 
-#### Art. 8: Temporary Visa
+#### Art. 10: Temporary Visa
 1) A temporary visa permits a person without a Liberland citizenship to enter and exit the borders of Liberland for a specified duration of time, whether such time limit is given as a duration (e.g., 6 months) or an expiry date (i.e., until 01 January 2023). The upper limit for one Temporary Visa shall be 4 Election Terms. 
 2) There will be no limit to the number of times that a temporary visa holder may enter or exit the border on a valid (unexpired) temporary visa and as a rule, they shall be subject to prolongation.
 
-#### Art. 9: Residence Visa
+#### Art. 11: Residence Visa
 1) A residence visa would permit a person without Liberlandian citizenship to enter and exit the borders of Liberland without limit for an unspecified duration of time. Only holders of an e-residence may apply for this type of visa.
 2) Residents do not have the rights and responsibilities accorded to a Liberlandian citizen, such as the right to carry a Liberland passport, to run for public office, or to vote in elections and referendums, bear arms,  among others.
 
