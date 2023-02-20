@@ -70,38 +70,41 @@ A non-Citizen shall not be allowed entry into Liberland, where their entry would
 #### Art. 11: Derrogation
 An Immigration Officer First Class may derrogate from these demands in cases where the benefits to Liberland clearly outweight the dangers of the person's entry.
 
-## Section 4: Visa for Non-Citizens
+## Section 4: Visa for Non-Citizens  
 
 #### Art. 12: Visa
-A visa is a document that confers to the visa holder the privilege of crossing the border of Liberland and staying on its soil for a certain time and with certain limitations beyond those the Ciziens enjoy. The Inspector-General will determine the standard document used and only an immigration officer with a first class delegation may issue a visa in a non-standardized format.
+A visa is a document that confers to the visa holder the privilege of crossing the border of Liberland and staying on its soil for a certain time and with certain limitations beyond those the Ciziens enjoy. The Inspector-General will determine the standard document used and only an immigration officer with a first class delegation may issue a visa in a non-standardized format.  
 
 #### Art. 13: Temporary Visa
-1) A temporary visa permits a person without a Liberland citizenship to enter and exit the borders of Liberland for a specified duration of time, whether such time limit is given as a duration (e.g., 6 months) or an expiry date (i.e., until 01 January 2023). The upper limit for one Temporary Visa shall be 4 Election Terms. 
-2) There will be no limit to the number of times that a temporary visa holder may enter or exit the border on a valid (unexpired) temporary visa and as a rule, they shall be subject to prolongation.
+1) A temporary visa permits a person without a Liberland citizenship to enter and exit the borders of Liberland for a specified duration of time, whether such time limit is given as a duration (e.g., 6 months) or an expiry date (i.e., until 01 January 2023). The upper limit for one Temporary Visa shall be 4 Election Terms.   
+2) There will be no limit to the number of times that a temporary visa holder may enter or exit the border on a valid (unexpired) temporary visa and as a rule, they shall be subject to prolongation.  
 
-#### Art. 14: Residence Visa
-1) A residence visa would permit a person without Liberlandian citizenship to enter and exit the borders of Liberland without limit for an unspecified duration of time. Only holders of an e-residence may apply for this type of visa.
-2) Residents do not have the rights and responsibilities accorded to a Liberlandian citizen, such as the right to carry a Liberland passport, to run for public office, or to vote in elections and referendums, bear arms,  among others.
+#### Art. 14: Residence Visa  
+1) A residence visa would permit a person without Liberlandian citizenship to enter and exit the borders of Liberland without limit for an unspecified duration of time. Only holders of an e-residence may apply for this type of visa.  
+2) Residents do not have the rights and responsibilities accorded to a Liberlandian citizen, such as the right to carry a Liberland passport, to run for public office, or to vote in elections and referendums, bear arms,  among others.  
 3) The Applicant needs to prove that either they posess sufficient means to survive in Liberland, which include
-a) at least 12 000 USD in disposable income in provable posession; or
-b) the written statement by another person or by an organization of repute testifying they will provide for them, whether by means of gainful employment, or other contract or pro bono.
+a) at least 12 000 USD in disposable income in provable posession; or  
+b) the written statement by another person or by an organization of repute testifying they will provide for them, whether by means of gainful employment, or other contract or pro bono.  
 
-#### Art. 15: Work Visa
-1) This shall be a special case of Residence Visa, where the applicant is
-a) at least 17 years old or older;
-b) a person intending genuine and honest work 
-i. by virtue of evidence of an official offer of employment by the prospective employer which is a Liberland-based person or institution,
-ii.by virtue of evidence of past record of employment or accepted professional qualifications, such as trade or university diplomas and at least 3000 USD of disposable income in provable posession; and 
-c) has at least 3 000 USD in disposable income in provable posession;
-d) when not in gainful employment or not performing gainful economic activity, they shall actively seek such employment or economic activity.
-3) The requirements of this article shall be waivered for a person recognized as a Refugee under the applicable norms of public international law. They shall be waivered temporarily for a candidate for the Refugee status. 
-4) Where the candidate during the course of their candidacy fulfils the requirements of this article and don't fall under any conditions for refusing entry or issuance of visa, they shall instead of the Refugee status be given a regular Work Visa.
+#### Art. 15: Work Visa  
+1) This shall be a special case of Residence Visa, where the applicant is  
+a) at least 17 years old or older;  
+b) a person intending genuine and honest work   
+i. by virtue of evidence of an official offer of employment by the prospective employer which is a Liberland-based person or institution,  
+ii.by virtue of evidence of past record of employment or accepted professional qualifications, such as trade or university diplomas and at least 3000 USD of disposable income in provable posession; and   
+c) has at least 3 000 USD in disposable income in provable posession;   
+d) when not in gainful employment or not performing gainful economic activity, they shall actively seek such employment or economic activity; where they are unable to do so, they shall do their best to put themselves into the position of being able to do so in future.
+
+#### Art. 15: Refugees  
+1) The requirements of  article 15 shall be waivered for a person recognized as a Refugee under the applicable norms of public international law. 
+2) They shall be waivered temporarily for a candidate for the Refugee status. Where the candidate during the course of their candidacy fulfils the requirements of this article and doesn't fall under any conditions for refusing entry or issuance of visa, they shall instead of the Refugee status be given a regular Work Visa. 
+3) Where the Refugee status is given later on to such a candidate, that status shall be awarded parallel to the Work Visa of the applicant; where such an applicant loses their Work Visa, the applicant shall fall-back on the Refugee status.
 
 #### Art. 16: Family Visa
-1) Where the applicant is a family member of someone resident in Liberland and that person't doesn't have sufficient means to bea sponsor for a Residence Visa for them, the requirement of disposable income will be waivered if the prospective immigrant is
-a) a dependent child of the sponsor under the age 21,
-b) the biological or legally adoptive parent of the sponsor,
-c) life partner with provable record of life partnership, for example by registered partnership, marriage or a consistent photography record or record of statements by reputable witnesses,
-2) The requirement may be waivered for applicants with proven and demonstrable family connection to the sponsor or with a relationship or a dependency to the sponsor as close as a normal family relationship.
+1) Where the applicant is a family member of someone resident in Liberland and that person't doesn't have sufficient means to bea sponsor for a Residence Visa for them, the requirement of disposable income will be waivered if the prospective immigrant is   
+a) a dependent child of the sponsor under the age 21,  
+b) the biological or legally adoptive parent of the sponsor,  
+c) life partner with provable record of life partnership, for example by registered partnership, marriage or a consistent photography record or record of statements by reputable witnesses,  
+2) The requirement may be waivered for applicants with proven and demonstrable family connection to the sponsor or with a relationship or a dependency to the sponsor as close as a normal family relationship.  
 
 
