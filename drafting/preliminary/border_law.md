@@ -96,9 +96,13 @@ c) has at least 3 000 USD in disposable income in provable posession;
 d) when not in gainful employment or not performing gainful economic activity, they shall actively seek such employment or economic activity; where they are unable to do so, they shall do their best to put themselves into the position of being able to do so in future.
 
 #### Art. 15: Refugees  
+
+§ 1
 1) The requirements of  article 15 shall be waivered for a person recognized as a Refugee under the applicable norms of public international law. 
-2) They shall be waivered temporarily for a candidate for the Refugee status. Where the candidate during the course of their candidacy fulfils the requirements of this article and doesn't fall under any conditions for refusing entry or issuance of visa, they shall instead of the Refugee status be given a regular Work Visa. 
-3) Where the Refugee status is given later on to such a candidate, that status shall be awarded parallel to the Work Visa of the applicant; where such an applicant loses their Work Visa, the applicant shall fall-back on the Refugee status.
+2) They shall be waivered temporarily for a candidate for the Refugee status. Where the candidate during the course of their candidacy fulfils the requirements of this article and doesn't fall under any conditions for refusing entry or issuance of visa, they shall be given a regular Work Visa. 
+
+§ 2
+Where the Refugee status is given later on to a candidate in posession of another type of visa, such as the Work Visa, that status shall be awarded parallel to the other visa of the applicant; where such an applicant loses their visa, the applicant shall fall-back on the Refugee status.
 
 #### Art. 16: Family Visa
 1) Where the applicant is a family member of someone resident in Liberland and that person't doesn't have sufficient means to bea sponsor for a Residence Visa for them, the requirement of disposable income will be waivered if the prospective immigrant is   
