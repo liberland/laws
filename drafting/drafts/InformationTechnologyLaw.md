@@ -127,3 +127,14 @@ d) news.
 2) The portal shall also enable Citizens and residents of Liberland effortlessly to communicate with the given institution.  
 3) Refering to information provided on the portal shall be a valid response to a Public Access query.
 
+### Section 4: Institutions
+
+#### Art. 14: Agency for information technology and information securitiy (AITIS)
+Every ministry shall either set up its own AITIS, or shall share AITIS with another ministry where that should prove more efficient. If AITIS are shared, they shall nontheless compartmentalize their processes, machines, data storages, etc. to conform to the best available security and professional practices.
+
+#### Art. 15: Director of AITIS
+Each AITIS shall be headed by a director, appointed by the respective minister. The director for each AITIS shall be responsible for setting the organizational structure and day to day management of the AITIS.
+
+### Section 5: Final Provisions
+#### Art. 16: Director of AITIS
+This Law shall gain Legal Force on … and it shall remain in force in perpetuity or until its legal effects should be terminated or until it should be replaced by another Law governing the same or similar subject matter.
