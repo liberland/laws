@@ -37,14 +37,14 @@ c) the organization and professional rules for the Agents of IBIS.
 
 ## Section 4: Identification
 #### Art. 7: Indentity
-1) A person that applies for visa or entry, henceforth "applicant" must prove their identity in one or more following manners:
+1) A person that applies for visa or entry, henceforth "Applicant; their act of attempting entry or gaining visa shall be known as "Application";" must prove their identity in one or more following manners:
 a) a recognized and valid travel document; or
 b) one or more documents issued by a government of established repute or recognized by Liberland;
 c) documentation clearly verifying their identity by other means where the above can't be obtained.
 2) An applicant shall declare other previous or current identities or aliases that are relevant for establishing their identiy or when asked by an Immigration Officer. They shall also provide any additional information in an interview, if asked by an immigration officer.
 
 #### Art. 8: Character
-1) An Applicant shall declare and document the information sufficient for confirming their good character when requested by an Immigration Officer, including but not limited to:
+1) A non-Citizen Applicant shall declare and document the information sufficient for confirming their good character when requested by an Immigration Officer, including but not limited to:
 a) their past and present criminal convictions;
 b) associations with known terrorist or extremist groups; and
 c) instances of previously refused visas.
@@ -53,62 +53,69 @@ a) Certificate of Good Conduct or another similar document,
 b) Police Certificate from national or local level law enforcement from countries of good repute or 
 
 #### Art. 9: Health
-Any non-Citizen that applies for entry into Liberland must comply with the immigration officer if asked to prove that they are not carrying a communicable disease
+Any non-Citizen Applicant must comply with the immigration officer if asked to prove that they are not carrying a communicable disease, or their Application shall be denied.
 
-## Section 4: Entry Requirement into Liberland
+## Section 4: Reason to Restrict Entry and Visa Issuance
 #### Art. 7: Citizens Entering Liberland 
-Citizens shall always be allowed to enter Liberland as long as they have been identified.
+Citizens shall always be allowed to enter Liberland as long as they have been identified and their citizenship confirmed.
 
 #### Art. 8: Public Health,
-A non-Citizen shall not be allowed entry into Liberland if their entry clearly incurs a burden upon Public Health, presenting a clear and present danger to others, or being a physical hindrance upon others or bringing an undue financial strain on the national economy
+A non-Citizen shall have their Application denied if their entry or stay clearly incurs a burden upon Public Health, presenting a clear and present danger to others, or being a physical hindrance upon others or bringing an undue financial strain on the national economy
 
 #### Art. 9: Public Security
-A non-Citizen shall not be allowed entry into Liberland, where the person is likely of becoming a danger to others and their Property based on well established facts.  
+A non-Citizen shall have their Application denied where the person is likely of becoming a danger to others and their Property based on well established facts.  
+
 #### Art. 10: Public Policy
-A non-Citizen shall not be allowed entry into Liberland, where their entry would effect a psychological strain on the mental well-being of the public or damage the reputation of Liberland.   
+A non-Citizen shall have their Application denied where their entry would effect a psychological strain on the mental well-being of the public or damage the reputation of Liberland.   
 
 #### Art. 11: Derrogation
 An Immigration Officer First Class may derrogate from these demands in cases where the benefits to Liberland clearly outweight the dangers of the person's entry.
 
 ## Section 4: Visa for Non-Citizens  
 
-#### Art. 12: Visa
-A visa is a document that confers to the visa holder the privilege of crossing the border of Liberland and staying on its soil for a certain time and with certain limitations beyond those the Ciziens enjoy. The Inspector-General will determine the standard document used and only an immigration officer with a first class delegation may issue a visa in a non-standardized format.  
+#### Art. 12: Visa  
+1) A visa shall be a document that confers to the visa holder the privilege of crossing the border of Liberland and staying on its soil for a certain time and with certain limitations when compared to a citizenship status. 
+2) The holder of a Visa shall be allowed to work and perform other gainful activity under the Law, henceforth "gainful employment".
+4) Visa holders shall not have the political rights and responsibilities accorded to a Liberlandian citizen, such as the right to carry a Liberland passport, to run for public office, or to vote in elections and referendums, bear arms, among others.  
 
 #### Art. 13: Temporary Visa
-1) A temporary visa permits a person without a Liberland citizenship to enter and exit the borders of Liberland for a specified duration of time, whether such time limit is given as a duration (e.g., 6 months) or an expiry date (i.e., until 01 January 2023). The upper limit for one Temporary Visa shall be 4 Election Terms.   
-2) There will be no limit to the number of times that a temporary visa holder may enter or exit the border on a valid (unexpired) temporary visa and as a rule, they shall be subject to prolongation.  
+1) A temporary visa permits a non-Citizen Applicant to enter and exit the borders of Liberland and stay therein for a specified duration of time, whether given as a duration (e.g., 6 months) or an expiry date (i.e., until 01 January 2023). 
+2) The upper limit for one Temporary Visa shall be 4 Election Terms. There will be no limit to the number of times that a Temporary Visa holder may enter or exit the border on a valid (unexpired) temporary visa and as a rule, they shall be subject to prolongation.  
+3) A holder of Temporary Visa may be treated differently from Liberland Citizens performing gainful employment in cases clearly connected to the temporary nature of their residency.
 
 #### Art. 14: Residence Visa  
-1) A residence visa would permit a person without Liberlandian citizenship to enter and exit the borders of Liberland without limit for an unspecified duration of time. Only holders of an e-residence may apply for this type of visa.  
-2) Residents do not have the rights and responsibilities accorded to a Liberlandian citizen, such as the right to carry a Liberland passport, to run for public office, or to vote in elections and referendums, bear arms,  among others.  
-3) The Applicant needs to prove that either they posess sufficient means to survive in Liberland, which include
-a) at least 12 000 USD in disposable income in provable posession; or  
-b) the written statement by another person or by an organization of repute testifying they will provide for them, whether by means of gainful employment, or other contract or pro bono.  
 
-#### Art. 15: Work Visa  
-1) This shall be a special case of Residence Visa, where the applicant is  
+§ 1  
+1) A Residence Visa permits a non-Citizen Applicant to enter and exit the borders of Liberland and stay therein without limit for an unspecified duration of time. Only holders of an e-residence may apply for this type of visa.  
+2) A person holding the Residence Visa shall not be treated differently from Liberland Citizens performing similar gainful employment by reason of their nationality in respect of any conditions of employment and work, in particular as regards remuneration, dismissal, and, should they become unemployed, reinstatement or re-employment. They shall enjoy the same social and tax advantages as nationals in gainful employment.
+
+§ 2  
+1) The applicant for a Residence Visa shall be  
 a) at least 17 years old or older;  
-b) a person intending genuine and honest work   
+b) a person intending genuine and honest work in the sense of gainful employment;  
 i. by virtue of evidence of an official offer of employment by the prospective employer which is a Liberland-based person or institution,  
 ii.by virtue of evidence of past record of employment or accepted professional qualifications, such as trade or university diplomas and at least 3000 USD of disposable income in provable posession; and   
 c) has at least 3 000 USD in disposable income in provable posession;   
 d) when not in gainful employment or not performing gainful economic activity, they shall actively seek such employment or economic activity; where they are unable to do so, they shall do their best to put themselves into the position of being able to do so in future.
+2) If the applicant doesn't fulfil the requirements as listed above, the applicant needs to prove that they posess sufficient means to survive in Liberland, which include 
+a) at least 120 000 USD in disposable income in provable posession; or  
+b) the written statement by another person or by an organization of repute testifying they will provide for them, where such a person or organization is in provable posession of at least 120 000 USD in disposable income; or
+c) at least 12 000 USD and they are 
+i.  students of any type of school, or 
+ii. pro-bono workers performing work provably beneficial to others,
+and their Residence Visa shall be retained for as long as their study or pro-bono work lasts plus 4 election terms.
 
-#### Art. 15: Refugees  
 
-§ 1
-1) The requirements of  article 15 shall be waivered for a person recognized as a Refugee under the applicable norms of public international law. 
-2) They shall be waivered temporarily for a candidate for the Refugee status. Where the candidate during the course of their candidacy fulfils the requirements of this article and doesn't fall under any conditions for refusing entry or issuance of visa, they shall be given a regular Work Visa. 
+§ 3    
+The standardized format of each type of visa shall be determined by Regulation issued by the Ministry of Interior. Only an immigration officer with a first class delegation may issue a visa in a non-standardized format and only in cases where no other course would be just and reasonable.  
 
-§ 2
-Where the Refugee status is given later on to a candidate in posession of another type of visa, such as the Work Visa, that status shall be awarded parallel to the other visa of the applicant; where such an applicant loses their visa, the applicant shall fall-back on the Refugee status.
-
-#### Art. 16: Family Visa
-1) Where the applicant is a family member of someone resident in Liberland and that person't doesn't have sufficient means to bea sponsor for a Residence Visa for them, the requirement of disposable income will be waivered if the prospective immigrant is   
+#### Art. 15: Family Visa
+Where the applicant who doesn't fulfil the requirements for a Residence Visa is a family member of someone resident in Liberland and that person't doesn't have sufficient means to be a sponsor for a Residence Visa for them, the requirement of disposable income will be waived if the prospective immigrant is   
 a) a dependent child of the sponsor under the age 21,  
 b) the biological or legally adoptive parent of the sponsor,  
-c) life partner with provable record of life partnership, for example by registered partnership, marriage or a consistent photography record or record of statements by reputable witnesses,  
-2) The requirement may be waivered for applicants with proven and demonstrable family connection to the sponsor or with a relationship or a dependency to the sponsor as close as a normal family relationship.  
+c) life partner with provable record of life partnership, for example by registered partnership, marriage or a consistent documentary record, including but not limited to statements of shared mortgage, statements of children, photographic record and statements by reputable witnesses; this record must be sufficiently robust to prove the relationship's existence without clear contradictions and beyond a reasonable doubt,  
 
+#### Art. 16: Refugees  
+1) The requirements for a Residence Visa shall be waived for a person recognized as a Refugee under the applicable norms of public international law. This includes gaining a conditional Residence Visa to a person who merely applies for the status of a Refugee and the decision hasn't yet been made. The conditional Residency Visa shall expire upon the condition of the applicant not being granted a Refugee status.
+2) A person applying for a Refugee status who also fulfils the conditions for Liberland Residency shall be awarded Residency Visa. Where they also later gain the Refugee status, those two shall be held in parallel. Where the Residence Visa should be lost, the person shall fall back on the Refugee status before expulsion can be considered.
 
