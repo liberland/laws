@@ -136,5 +136,5 @@ Every ministry shall either set up its own AITIS, or shall share AITIS with anot
 Each AITIS shall be headed by a director, appointed by the respective minister. The director for each AITIS shall be responsible for setting the organizational structure and day to day management of the AITIS.
 
 ### Section 5: Final Provisions
-#### Art. 16: Director of AITIS
+#### Art. 16: Legal Force
 This Law shall gain Legal Force on … and it shall remain in force in perpetuity or until its legal effects should be terminated or until it should be replaced by another Law governing the same or similar subject matter.
