@@ -71,23 +71,23 @@ A non-Citizen shall have their Application denied where their entry would effect
 #### Art. 11: Derrogation
 An Immigration Officer First Class may derrogate from these demands in cases where the benefits to Liberland clearly outweight the dangers of the person's entry.
 
-## Section 4: Visa for Non-Citizens  
+## Section 4: Visa for Non-Citizens   
 
-#### Art. 12: Visa  
-1) A visa shall be a document that confers to the visa holder the privilege of crossing the border of Liberland and staying on its soil for a certain time and with certain limitations when compared to a citizenship status. 
-2) The holder of a Visa shall be allowed to work and perform other gainful activity under the Law, henceforth "gainful employment".
+#### Art. 12: Visa   
+1) A visa shall be a document that confers to the visa holder the privilege of crossing the border of Liberland and staying on its soil for a certain time and with certain limitations when compared to a citizenship status.  
+2) The holder of a Visa shall be allowed to work and perform other gainful activity under the Law, henceforth "gainful employment".  
 4) Visa holders shall not have the political rights and responsibilities accorded to a Liberlandian citizen, such as the right to carry a Liberland passport, to run for public office, or to vote in elections and referendums, bear arms, among others.  
 
-#### Art. 13: Temporary Visa
-1) A temporary visa permits a non-Citizen Applicant to enter and exit the borders of Liberland and stay therein for a specified duration of time, whether given as a duration (e.g., 6 months) or an expiry date (i.e., until 01 January 2023). 
+#### Art. 13: Temporary Visa  
+1) A temporary visa permits a non-Citizen Applicant to enter and exit the borders of Liberland and stay therein for a specified duration of time, whether given as a duration (e.g., 6 months) or an expiry date (i.e., until 01 January 2023).  
 2) The upper limit for one Temporary Visa shall be 4 Election Terms. There will be no limit to the number of times that a Temporary Visa holder may enter or exit the border on a valid (unexpired) temporary visa and as a rule, they shall be subject to prolongation.  
-3) A holder of Temporary Visa may be treated differently from Liberland Citizens performing gainful employment in cases clearly connected to the temporary nature of their residency.
+3) A holder of Temporary Visa may be treated differently from Liberland Citizens performing gainful employment in cases clearly connected to the temporary nature of their residency.  
 
-#### Art. 14: Residence Visa  
+#### Art. 14: Residence Visa   
 
-§ 1  
+§ 1   
 1) A Residence Visa permits a non-Citizen Applicant to enter and exit the borders of Liberland and stay therein without limit for an unspecified duration of time. Only holders of an e-residence may apply for this type of visa.  
-2) A person holding the Residence Visa shall not be treated differently from Liberland Citizens performing similar gainful employment by reason of their nationality in respect of any conditions of employment and work, in particular as regards remuneration, dismissal, and, should they become unemployed, reinstatement or re-employment. They shall enjoy the same social and tax advantages as nationals in gainful employment.
+2) A person holding the Residence Visa shall not be treated differently from Liberland Citizens performing similar gainful employment by reason of their nationality in respect of any conditions of employment and work, in particular as regards remuneration, dismissal, and, should they become unemployed, reinstatement or re-employment. They shall enjoy the same social and tax advantages as nationals in gainful employment.  
 
 § 2  
 1) The applicant for a Residence Visa shall be  
@@ -95,16 +95,15 @@ a) at least 17 years old or older;
 b) a person intending genuine and honest work in the sense of gainful employment;  
 i. by virtue of evidence of an official offer of employment by the prospective employer which is a Liberland-based person or institution,  
 ii.by virtue of evidence of past record of employment or accepted professional qualifications, such as trade or university diplomas and at least 3000 USD of disposable income in provable posession; and   
-c) has at least 3 000 USD in disposable income in provable posession;   
-d) when not in gainful employment or not performing gainful economic activity, they shall actively seek such employment or economic activity; where they are unable to do so, they shall do their best to put themselves into the position of being able to do so in future.
-2) If the applicant doesn't fulfil the requirements as listed above, the applicant needs to prove that they posess sufficient means to survive in Liberland, which include 
-a) at least 120 000 USD in disposable income in provable posession; or  
-b) the written statement by another person or by an organization of repute testifying they will provide for them, where such a person or organization is in provable posession of at least 120 000 USD in disposable income; or
-c) at least 12 000 USD and they are 
-i.  students of any type of school, or 
-ii. pro-bono workers performing work provably beneficial to others,
+c) has at least 3 000 USD in disposable income in provable posession;    
+d) when not in gainful employment or not performing gainful economic activity, they shall actively seek such employment or economic activity; where they are unable to do so, they shall do their best to put themselves into the position of being able to do so in future.  
+2) If the applicant doesn't fulfil the requirements as listed above, the applicant needs to prove that they posess sufficient means to survive in Liberland, which include  
+a) at least 120 000 USD in disposable income in provable posession; or   
+b) the written statement by another person or by an organization of repute testifying they will provide for them, where such a person or organization is in provable posession of at least 120 000 USD in disposable income; or  
+c) at least 12 000 USD and they are  
+i.  students of any type of school, or   
+ii. pro-bono workers performing work provably beneficial to others,  
 and their Residence Visa shall be retained for as long as their study or pro-bono work lasts plus 4 election terms.
-
 
 § 3    
 The standardized format of each type of visa shall be determined by Regulation issued by the Ministry of Interior. Only an immigration officer with a first class delegation may issue a visa in a non-standardized format and only in cases where no other course would be just and reasonable.  
@@ -113,9 +112,28 @@ The standardized format of each type of visa shall be determined by Regulation i
 Where the applicant who doesn't fulfil the requirements for a Residence Visa is a family member of someone resident in Liberland and that person't doesn't have sufficient means to be a sponsor for a Residence Visa for them, the requirement of disposable income will be waived if the prospective immigrant is   
 a) a dependent child of the sponsor under the age 21,  
 b) the biological or legally adoptive parent of the sponsor,  
-c) life partner with provable record of life partnership, for example by registered partnership, marriage or a consistent documentary record, including but not limited to statements of shared mortgage, statements of children, photographic record and statements by reputable witnesses; this record must be sufficiently robust to prove the relationship's existence without clear contradictions and beyond a reasonable doubt,  
+c) life partner with provable record of life partnership, for example by registered partnership, marriage or a consistent documentary record, including but not limited to statements of shared mortgage, statements of children, photographic record and statements by reputable witnesses; this record must be sufficiently robust to prove the relationship's existence without clear contradictions and beyond a reasonable doubt.  
 
 #### Art. 16: Refugees  
-1) The requirements for a Residence Visa shall be waived for a person recognized as a Refugee under the applicable norms of public international law. This includes gaining a conditional Residence Visa to a person who merely applies for the status of a Refugee and the decision hasn't yet been made. The conditional Residency Visa shall expire upon the condition of the applicant not being granted a Refugee status.
-2) A person applying for a Refugee status who also fulfils the conditions for Liberland Residency shall be awarded Residency Visa. Where they also later gain the Refugee status, those two shall be held in parallel. Where the Residence Visa should be lost, the person shall fall back on the Refugee status before expulsion can be considered.
+1) The requirements for a Residence Visa shall be waived for a person recognized as a Refugee under the applicable norms of public international law. This includes gaining a conditional Residence Visa to a person who merely applies for the status of a Refugee and the decision hasn't yet been made. The conditional Residency Visa shall expire upon the condition of the applicant not being granted a Refugee status.  
+2) A person applying for a Refugee status who also fulfils the conditions for Liberland Residency shall be awarded Residency Visa. Where they also later gain the Refugee status, those two shall be held in parallel. Where the Residence Visa should be lost, the person shall fall back on the Refugee status before expulsion can be considered.  
 
+## Section 5: Expiration of Visa nad Expulsion
+#### Art. 16: Expiration of Temporary Visa
+1) Where a Temporary Visa expires, the former holder shall be expected to exit Liberland within 24 hours after the expiration date. 
+2) Where they don't exit Liberland's territory voluntarily, the former holder shall be liable for a minor delict and in addition to the sanction, the Border Officers shall physically remove them from Liberland, at the cost to the former Visa holder, payable and enforceable immediately. 
+3) Such a removal shall in itself constitute no barrier or aggravating circulmstance to the former holder's future Applications for future residency, temporary or permanent.
+
+#### Art. 17: Expiration of Residency Visa
+Where a Residency Visa regularly expires, the process shall be similar to the expiration of a Temporary Visa, but the former Visa holder shall have 1/3 of an Election term counted from the day of expiration to exit Liberland voluntarily.
+
+#### Art. 18: Prolongation and New Application
+1) Where 
+a) the Visa holder has Applied for a prolongation of a Visa or for a new Visa; and
+b) this new Application was made timely, in general at least a month before the expected expiration date of the Applicant's present Visa;
+the expiration shall be postponed until such a time as the process regarding that Application finishes. 
+2) Where the Application wasn't made timely, the Visa holder shall exit Liberland as during a regular Visa Expiration; when the new Visa Application is successful, the Residency holder shall be free to return. The costs incured by the exit and the return shall be born by the Visa holder.
+
+## Section 5: Final Provisions
+#### Art. 19: Legal Force
+This Law shall gain Legal Force on … and it shall remain in force in perpetuity or until its legal effects should be terminated or until it should be replaced by another Law governing the same or similar subject matter.
