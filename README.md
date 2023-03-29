@@ -30,6 +30,7 @@ Ready for your recommendations with technical and issues regarding single sectio
 
 Ready for your recommendations, including thorought ones and requests to not draft/draft something else.
 
+* [Border Law](https://github.com/liberland/laws/blob/Laws-Current/drafting/drafts/border_law.md)
 * [Contract Law](drafting/drafts/contracts-law.md)
 * [IT Law](https://github.com/liberland/laws/blob/Laws-Current/drafting/drafts/InformationTechnologyLaw.md)
 * [Judicial Process Law](drafting/drafts/judical-process-law.md)
@@ -42,7 +43,6 @@ Ready for your recommendations, including thorought ones and requests to not dra
 
 Unfinished and to be advanced, all kinds of fundamental ideas are very welcome!
 
-* [Border Law](https://github.com/liberland/laws/blob/Laws-Current/drafting/preliminary/border_law.md)
 * [Business Development Law](https://docs.google.com/document/d/1F-HBduCHEahdMn6a2XZAwjtSog4axq1B8FRg4k9G2OA/edit)
 * [Criminal Law](drafting/preliminary/criminal-law.md)
 * [Maritime Law](drafting/preliminary/maritime-law.md)
