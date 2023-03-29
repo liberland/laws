@@ -6,13 +6,13 @@ This Law defines the structure and the organisation of the State Security Agency
 
 ## Definitions
 
-**Delicts** shall be acts performed in violation of the Liberland Constitution, Liberland Law, Law or other recognized States, which have a clear victim who the act has damaged and for which the Law prescribes legal consequences for the perpetrator.
+**Delicts** shall be acts performed in violation of the Liberland Constitution, Liberland Law, Law or other recognized States, which have victim who the act has damaged and for which the Law prescribes legal consequences for the perpetrator.
 
-**Equipment** means the things, data and know-how that Agents of the Security Agency use to perform their duties. This Equipment shall include and not be limited to Defensive Equipment and Offensive Equipment, which shall be Equipment designed for preventing or inflicting bodily harm or physical damage.
+**Equipment** means the things, data and know-how that Agents of the Security Agency use to perform their duties. This Equipment shall include and not be limited to Defensive Equipment and Offensive Equipment, which shall be Equipment designed for preventing or inflicting bodily harm or physical damage by the means of defense and offense.
 
 **Personnel** means the Agents assigned to the Security Agency.
 
-**Sidearms** are small weapons carried by a Liberlander during their day, provided that the bearing of this type of weapon doesn't interfere with the individual's normal behaviour.
+**Sidearms** are small weapons the carrying of which can reasonably be concealed and doesn't interfere with the individual's normal, daily behaviour.
 
 **Weapons** are things designed or used for inflicting bodily harm or physical damage.
 
@@ -20,106 +20,68 @@ This Law defines the structure and the organisation of the State Security Agency
 
 #### Art. 1: Security Agency
 
-§ 1
-
+§ 1  
 This Law establishes the Security Agency under the Ministry of Interior.
 
-§ 2
-
-1. The responsibilities and duties of the Security Agency shall be to&#x20;
-
+§ 2  
+1. The responsibilities and duties of the Security Agency shall be to;  
 a) protect the Property of the individual in their life, health and things;
+b) take charge of prevention, suppression and investigation of delicts;  
+c) apprehension of suspects;  
+d) other affairs concerning the maintenance of public safety and order.  
+2. the protection of the life and health of the Agent shall be on an equal footing with other individuals. The protection of property in the things of the Agent shall be secondary to the protection of property in things of others.
 
-b) take charge of prevention, suppression and investigation of delicts;
+§ 3  
+1. Activities of the Security Agency shall be strictly limited to the extent provided for in the preceding paragraph, and in performing their duties, they shall make it their principle to be impartial, nonpartisan, unprejudiced and fair. 
+2. The Security Agency shall never abuse its powers against the individual and shall never interfere with the liberties and rights guaranteed by the Constitution.  
 
-c) apprehension of suspects; and&#x20;
+#### Art. 2: Congress Oversight  
+1. Congress shall have the direct power of oversight over all aspects of the Security Agency. It shall be empowered to conduct at hoc and regular investigations and demand witnesses' presence and testimony or the production of records.  
+2. The Congress shall have the power to remove from office by Decision any Agent of the Security Agency and reorganize directly by means of a Decision the functioning of the Security Agency of any level.  
 
-d) other affairs concerning the maintenance of public safety and order.
+#### Art. 3: Director  
+1. The Head of the Security Agency shall be the Security Director of Liberland, henceforth "the Director", Nominated by the Minister of Interior and Appointed by the President.  
+2. The responsibility of the Director shall be the regular management and direction of the Security Agency operations; they shall direct and supervise the Security personnel, as well as direct and supervise the Security Agency itself.  
 
-1. the protection of the life and health of the Agent shall be on an equal footing with other individuals. The protection of property in the things of the Agent shall be secondary to the protection of property in things of others.
+#### Art. 4: Security Commission  
+§ 1  
+The Minister of Interior shall establish, and the Director shall preside over the State Security Commission of Liberland, henceforth "Security Commission". The Security Commission shall be the leading organ of the Security Agency. It will be the sole organ enabled to make decisions over the Security Agency's organizational structure, rules, regulations and policies governing its operations.
 
-§ 3
+§ 2  
+The Security Commission shall consist of four Commissioners, each appointed for four consecutive Election Terms, each having an equal say, who shall be:  
+a) a Supreme Court Justice Nominated by the Chief Justice and Appointed by the President;  
+b) a representative of the Ministry of Justice Nominated by the Minister of Justice and Appointed by the President;  
+c) a Senator Nominated by the Senate and Appointed by the President; and  
+d) a former senior Agent of the Security Agency of great skill and impeccable reputation nominated by the Minister of Interior and Appointed by the President.  
 
-1. Activities of the Security Agency shall be strictly limited to the extent provided for in the preceding paragraph, and in performing their duties, they shall make it their principle to be impartial, nonpartisan, unprejudiced and fair.
-2. The Security Agency shall never abuse its powers against the individual and shall never interfere with the liberties and rights guaranteed by the Constitution.
+§ 3  
+1. The Commissioners shall perform their duties as a part of their original office and shall not become Agents of the Security Agency.  
+2. Where a Commissioner is impossible to find, their replacement shall be a Member of Congress. 
 
-#### Art. 2: Congress Oversight
+§ 4  
+The Security Commission shall draft and adopt internal policies and regulations in the following matters:  
+a) planning and research of institutions;  
+b) budgeting;  
+c) policy evaluation;  
+d) professional behavior codes, uniforms and official commendation of all Security Personnel;  
+e) collection, arrangement, analysis of information on criminal proceeds, and provision of such information to relevant organizations;  
+f) liaisoning with the International Criminal Police Organisation, police authorities of other countries and other international organizations relating to policing;  
+g) international criminal investigation assistance;  
+h) international disaster relief activities;  
+i) the maintenance and management of Security educational facilities and other affairs relating to Security education;  
+j) the maintenance and management of Security communication facilities and other affairs relating to Security communication;  
+k) information technology analysis, including investigative analysis of electric information processing system and electric data (records for information processing in a computer, made by electric, magnetic or other methods which a human being cannot directly recognize;  
+l) the maintenance and management of the criminal identification facilities and other affairs relating to criminal identification;  
+m) criminal statistics;   
+n) Security Agency equipment;  
+o) the standards of appointment, the performance of duties and activities of Security Agency personnel; and  
+p) the necessary inspection relating to the performance of Security affairs.  
 
-1. Congress shall have the direct power of oversight over all aspects of the Security Agency. It shall be empowered to conduct at hoc and regular investigations and demand witnesses' presence and testimony or the production of records.
-2. The Congress shall have the power to remove from office by Decision any Agent of the Security Agency and reorganize directly by means of a Decision the functioning of the Security Agency of any level.
+#### Art. 5: Security Plan  
+§ 1    
+Liberland shall be divided into Districts to maintain security, and Personnel and Equipment shall be assigned to those Districts by means of the Liberland Security Plan, henceforth "Security Plan".  
 
-#### Art. 3: Director
-
-1. The Head of the Security Agency shall be the Security Director of Liberland, henceforth "the Director", Nominated by the Minister of Interior and Appointed by the President.&#x20;
-2. The responsibility of the Director shall be the regular management and direction of the Security Agency operations; they shall direct and supervise the Security personnel, as well as direct and supervise the Security Agency itself.
-
-#### Art. 4: Security Commission
-
-§ 1
-
-The Minister of Interior shall establish, and the Director shall preside over the State Security Commission of Liberland, henceforth "Security Commission", which shall be the highest organ of the Security Agency, making decisions over its organizational structure, rules, regulations and policies governing the operations of the Security Agency.
-
-§ 2
-
-The Security Commission shall consist of four Commissioners, each appointed for four consecutive Election Terms, each having an equal say, who shall be:
-
-a) a Supreme Court Justice Nominated by the Chief Justice and Appointed by the President;
-
-b) a representative of the Ministry of Justice Nominated by the Minister of Justice and Appointed by the President;
-
-c) a Senator Nominated by the Senate and Appointed by the President; and
-
-d) a former senior Agent of the Security Agency of great skill and impeccable reputation nominated by the Minister of Interior and Appointed by the President.
-
-§ 3
-
-1. The Commissioners shall perform their duties as a part of their original office and shall not become Agents of the Security Agency.
-2. Where a Commissioner is impossible to find, their replacement shall be a Member of Congress.
-
-§ 4
-
-The Security Commission shall draft and adopt internal policies and regulations in the following matters:
-
-a) planning and research of institutions;&#x20;
-
-b) budgeting;&#x20;
-
-c) policy evaluation;&#x20;
-
-d) codes of etiquette, uniforms and official commendation of all Security Personnel;
-
-e) collection, arrangement, analysis of information on criminal proceeds, and provision of such information to relevant organizations;&#x20;
-
-f) liaisoning with the International Criminal Police Organisation, police authorities of other countries and other international organizations relating to policing;&#x20;
-
-g) international criminal investigation assistance;
-
-h) international disaster relief activities;
-
-i) the maintenance and management of Security educational facilities and other affairs relating to Security education;&#x20;
-
-j) the maintenance and management of Security communication facilities and other affairs relating to Security communication;&#x20;
-
-k) information technology analysis, including investigative analysis of electric information processing system and electric data (records for information processing in a computer, made by electric, magnetic or other methods which a human being cannot directly recognize;&#x20;
-
-l) the maintenance and management of the criminal identification facilities and other affairs relating to criminal identification;&#x20;
-
-m) criminal statistics;&#x20;
-
-n) Security Agency equipment;&#x20;
-
-o) the standards of appointment, the performance of duties and activities of Security Agency personnel;  and
-
-p) the necessary inspection relating to the performance of Security affairs.
-
-#### Art. 5: Security Plan
-
-§ 1
-
-Liberland shall be divided into Districts to maintain security, and Personnel and Equipment shall be assigned to those Districts by means of the Liberland Security Plan, henceforth "Security Plan".&#x20;
-
-§ 2
-
+§ 2  
 1. The Director shall draft the Security Plan, and the Security Commission shall Adopt or Reject it with recommendations.&#x20;
 2. The Security Commission shall then submit the Security Plan to the Minister of Interior to Approve or Reject with recommendations.&#x20;
 3. Upon approval, the Minister of Interior shall introduce it to the Cabinet. The Cabinet shall have the right to make changes to the Security Plan.&#x20;
