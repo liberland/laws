@@ -231,7 +231,7 @@ a) Security Agent, who shall be the persons directly responsible for the fulfilm
 
 b) Senior Security Agent, who shall be Security Agents and shall also guide and form the junior Security Agents; their Agent Level shall be 3;
 
-c) Security Officer, who shall be responsible for the organization of the Security Agents on the operational level; one to four Security Officers, depending on the size of the District, shall form the leadership of every Security Office; their Agent Level shall be 4;
+c) Commissar, who shall be responsible for the organization of the Security Agents on the operational level; one to four Security Officers, depending on the size of the District, shall form the leadership of every Security Office; their Agent Level shall be 4;
 
 d) Security Chief shall be responsible for the coordination of several Districts. Security Chiefs shall also be responsible for the organization of the Cantonal Security. The Cantonal Director shall likewise be a Security Chief; their Agent Level shall be 5; and
 
