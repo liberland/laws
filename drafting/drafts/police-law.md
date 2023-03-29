@@ -36,7 +36,7 @@ c) apprehension of suspects; and&#x20;
 
 d) other affairs concerning the maintenance of public safety and order.
 
-1. the protection of the life and health of the Agent shall be on an equal footing with other individuals. Still, Security Property in things shall be secondary in importance to the Property in things of others.
+1. the protection of the life and health of the Agent shall be on an equal footing with other individuals. The protection of property in the things of the Agent shall be secondary to the protection of property in things of others.
 
 § 3
 
