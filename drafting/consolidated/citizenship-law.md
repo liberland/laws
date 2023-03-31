@@ -217,86 +217,19 @@ A Citizen who is not in good standing or an ex-Citizen whose citizenship has bee
 1. A Citizen whose citizenship has been irregularly terminated more than 15 years ago shall be able to re-apply just as any regular Applicant would be provided that he has met all their obligations to Liberland outstanding from the time of their past citizenship.
 2. Otherwise, they shall have to follow the same route as the Citizen who is not in good standing.
 
-## Section 6: Transfer of Citizenship
+## Section 6: Citizenship Comission
 
-#### Art 21: Transfer of Citizenship
-
-§ 1
-
-The only recognised Transfer of Citizenship shall entail the transfer of the Citizenship, full and undivided, including the entirety of the Voluntary Tax, from an existing Citizen, the Transferer, to a prospective Citizen, the Transferee, according to the process outlined in this Article. Any other form of Full Transfer of Citizenship shall not be recognised by the Public Administration and shall be null and void.
-
-§ 2
-
-For a Transfer of Citizenship legally to take place, the Transferer and the Transferee shall first inform the Citizenship CommissionCommittee of their transfer intention.
-
-#### Art 22: Transferer and Transferee
-
-§ 1
-
-The Transferer shall be an existing Citizen who will have no outstanding obligations to Liberland and who will not be the subject of a Court case, especially not one regarding delicts where the prospective Transferer would stand as the accused.
-
-§ 2
-
-The Transferee shall be a non-Citizen, and they shall undergo the same process as an Applicant would, according to this Law. The Transfer will only take place when the Transferee has gone through all the steps in the Registration Process except that their commitment shall be assumed based on their willingness to purchase a Citizenship.
-
-#### Art 23: Execution of a Transfer
-
-§ 1
-
-Upon enacting the Transfer, the Transferee shall become a Citizen of Liberland and shall inherit the Citizenship of the Transferer with all the rights thereby.
-
-§ 2
-
-The Transferer shall cease to be a Citizen of Liberland upon the fulfilment of the Transfer. They will have transferred their Voluntary Tax in full, so they shall have no more LLM in their political pool. They will become an e-Resident unless they should wish to renounce that status as well.
-
-#### Art 24: Impermissibility of Transfer
-
-An attempt to transfer a Citizenship that represents the only nationality of the Transferer shall be null and void.
-
-## Section 7 Sponsorship
-
-#### Art 25: The Right to be a Sponsor
-
-An existing Citizen of good standing and a good reputation who shall have paid at least ¼ over their minimal Voluntary Tax commitment shall be allowed to Invite another Person to become a Citizen.
-
-#### Art 26: The Process of Inviting
-
-§ 1
-
-1. The inviting Citizen shall inform the Citizenship Commission of their intention to invite another to become a Citizen of Liberland. They shall then pay a ¼ of their Merits or more as Voluntary Tax on behalf of the invitee.
-2. The Invitee shall then have to undergo the Registration Process as stated in this Law, except that the Citizenship Commission shall not test their commitment, as the guarantee of commitment has been provided by the Inviter.
-
-§ 2
-
-1. Upon completing the rest of the Registration Process, the Invitee shall receive the amount of Voluntary Tax the Inviting Citizen has pooled into them.
-2. As the requirement to pool at least 5000 LLM to prove their commitment is not waivered, the Invitee shall pay off their Voluntary Tax in instalments to Liberland in the same way a Citizen by Descent could and under the same conditions with respect to their political rights.
-
-#### Art 27: Responsibility of the Inviter
-
-§ 1
-
-While the Voluntary Tax of the Invitee remains unpaid, the inviting Citizen shall be held partially responsible for the delicts connected to the Citizenship of the Invitee as they had invited them into Liberland.
-
-1. Consequently, the inviting Citizen shall be the guarantor for the Invitee in case the Invitee should be convicted of any such Delict or should they be found in breach of their Citizenship Contract.
-2. The inviting Citizen shall be the guarantor in this way both vis a vis the State and vis a vis third persons, the victims of the Invitee's actions.
-
-§ 2
-
-Upon paying their Voluntary Tax in full, the Citizen on Invitation becomes a regular Citizen in all aspects, and this Section shall no longer apply to them.
-
-## Section 8: Citizenship Comission
-
-#### Art 28: Citizenship Comission
+#### Art 21: Citizenship Comission
 
 The organ responsible for the agenda regarding all matters of Citizenship shall be the Citizenship Comission. The Citizenship Comission shall be an Agency under the Ministry of Interior.
 
-## Section 9: Transitory and Final Provisions
+## Section 7: Transitory and Final Provisions
 
-#### Art 29: Transitory Provisions
+#### Art 22: Transitory Provisions
 
 All Citizens who had become Citizens before this Act came into effect shall retain their Citizenship on the condition that they agree to sign the Citizenship Contract.
 
-#### Art 30: Final Provisions
+#### Art 23: Final Provisions
 
 This Law has been submitted by the Cabinet on ...
 
