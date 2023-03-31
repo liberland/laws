@@ -32,8 +32,7 @@ g) apply for and participate in the Social System of Liberland.
 
 § 1
 
-1. A Citizenship shall be a movable and indivisible asset sui generis issued by the State and regulated by this Law.
-2. Upon issuing a Citizenship or obtaining it in transfer, the Citizenship becomes the property of the Citizen, but the State shall always retain certain rights towards it as stated in this Law, and it shall under no circumstance relinquish these nor shall the asset be stripped of these rights during the existence of the asset,
+1. A Citizenship shall be personal and specific for the given Citizen. It shall not be possible to transfer it upon another.
 
 § 2
 
@@ -141,7 +140,7 @@ The Application Process for obtaining a Citizenship by Descent shall be the same
 
 § 3
 
-The Citizen by Descent who has less than 5000 LLM in their political power balance shall be entitled to participate in politics with the political power they have. Until their political power balance reaches 5000 LLM, they shall be barred from Transfering their Citizenship and their Citizenship Asset shall cease to exist with their death or with them voluntary relinquishing it.
+The Citizen by Descent who has less than 5000 LLM in their political power balance shall be entitled to participate in politics with the political power they have. 
 
 #### Art 14: Liberland Nationals possessing no other Citizenship
 
