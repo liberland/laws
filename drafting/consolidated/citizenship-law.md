@@ -155,13 +155,9 @@ A citizen who is not in good standing or an ex-citizen whose citizenship has bee
 
 The organ responsible for the agenda regarding all matters of citizenship shall be the Citizenship Commission. The Citizenship Commission shall be an agency under the Ministry of Interior.
 
-## Section 7: Transitory and Final Provisions
+## Section 7: Final Provisions
 
-### Article 22: Transitory Provisions
-
-All citizens who had become citizens before this act came into effect shall retain their citizenship on the condition that they agree to sign the citizenship contract.
-
-### Article 23: Final Provisions
+### Article 22: Final Provisions
 
 This law has been submitted by the Cabinet on ...
 
