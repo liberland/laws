@@ -1,241 +1,174 @@
-# Citizenship Law
+# Law on Citizenship of Liberland
 
 ## Preamble
 
-This Law shall cover the rights and duties associated with the Citizenship of Liberland and the acquisition and the loss of Citizenship.
+This Law establishes the rights and duties pertaining to the citizenship of Liberland, as well as the procedures for obtaining and relinquishing citizenship.
 
 ## Section 1: Citizenship
 
-#### Art 1: Citizenship
+### Article 1: Definition of Citizenship
 
-A Natural Person who wishes to legally bind themselves to Liberland and gain the political rights that a Citizen's status confers may apply to become a Citizen.
+A natural person who wishes to establish a legal bond with Liberland and obtain the political rights conferred by the status of a citizen may apply for citizenship.
 
-#### Art 2: Citizenship Rights
+### Article 2: Rights of Citizens
 
-A Citizen shall have the right to:
+A citizen of Liberland shall have the right to:
 
-a) vote in elections for Public Offices in Liberland;
+1. Vote in elections for public offices in Liberland;
+2. Become a candidate for public offices in Liberland;
+3. Participate in the public veto process;
+4. Enjoy the full international protection afforded by Liberland;
+5. Access public spaces, whether physical or virtual, designated for citizens only by Liberland;
+6. Possess and use, if they so choose, a Liberland passport and Liberland ID; and
+7. Apply for and participate in the social system of Liberland.
 
-b) become a candidate for Public Offices in Liberland;
+### Article 3: Inalienability of Citizenship
 
-c) participate in the Public Veto;
+1. Citizenship shall be personal and specific to each citizen and shall not be transferable to another person.
+2. Each citizenship shall be individualized for the respective citizen, and their citizenship shall be unique to them. Citizenship shall be issued on the Liberland Smart Chain blockchain as a non-fungible token.
 
-d) enjoy the full international protection of Liberland;
+### Article 4: Non-discrimination
 
-e) gain access to public spaces, real or virtual, where those shall be made by Liberland for Citizens only;
-
-f) legally wield if they so choose, the Liberland Passport and the Liberland ID; and
-
-g) apply for and participate in the Social System of Liberland.
-
-#### Art 3: Citizenship as an Asset
-
-§ 1
-
-1. A Citizenship shall be personal and specific for the given Citizen. It shall not be possible to transfer it upon another.
-
-§ 2
-
-Each Citizenship shall be made and individualised for the given Citizen, and their Citizenship shall be unique to them. The Citizenship shall be issued on the Liberland Smart Chain blockchain as a non-fungible token.
-
-#### Art 4: Prohibition of Discrimination
-
-No Person shall be barred from Citizenship and the related functions and services based on their gender, sex, sexual orientation, race, nationality, origin, religion, disability, socioeconomic background and other such criteria.
+No person shall be denied citizenship or access to related functions and services on the basis of their gender, sex, sexual orientation, race, nationality, origin, religion, disability, socioeconomic background, or any other such criteria.
 
 ## Section 2: Acquiring Citizenship
 
-#### Art 5: Registration Process
+### Article 5: Registration Process
 
-§ 1
+1. To become a citizen, a person desiring citizenship, hereinafter referred to as the "Applicant," must complete the registration process.
+2. The registration process shall consist of the following steps:
 
-1. To become a Citizen, the Person who desires to become a Citizen, henceforth "Applicant", shall be required to pass the Registration Process.
-2. The Registration Process consists of the following steps:
+   a) Due diligence;
+   
+   b) Citizenship interview;
+   
+   c) Review of the Applicant's commitment to Liberland;
+   
+   d) Payment of the costs incurred by Liberland for the application process; and
+   
+   e) Execution of the citizenship contract.
 
-a) Due Diligence,
+### Article 5 (continued): Registration Process
 
-b) Citizenship Interview;
+3. The steps outlined in the registration process shall be completed in the order specified by this Act, and successful completion of each step is a prerequisite for beginning the subsequent step. Upon completing the final step, the Applicant shall become a citizen.
+4. If the Citizenship Commission determines at any stage of the registration process that the Applicant does not meet the requirements for that stage, the Citizenship Commission shall terminate the registration process.
+5. The Applicant shall bear the costs incurred by the Citizenship Commission in connection with their failed registration process.
 
-c) the review of the Applicant's commitment to Liberland;
+### Article 6: Due Diligence
 
-d) the payment of the costs incurred by Liberland for the Application Process; and
+1. To perform due diligence, the Citizenship Commission shall collect and process personal data and other information about the Applicant to determine whether the Applicant is a suitable candidate for citizenship in Liberland.
+2. The Citizenship Commission shall establish due diligence standards through a policy.
 
-e) the Signing of the Citizenship Contract.
+3. If the data available to the Citizenship Commission is insufficient for performing due diligence, the Citizenship Commission may request additional data from the Applicant. Failure to provide the requested data shall result in the rejection of the Applicant's application.
 
-§ 2
+### Article 7: Citizenship Interview
 
-These steps shall be performed in the order given by this Law, and the successful accomplishment of one step shall be the requirement to commence the next step. Upon accomplishing the last step, the Applicant shall become a Citizen.
+1. The Citizenship Commission shall interview the Applicant to establish their identity and further confirm their character, sincere intentions to become a productive citizen of Liberland, and goodwill.
+2. The citizenship interview shall typically be conducted in person at the premises of the Citizenship Commission in Liberland or one of the Diaspora Villages.
+3. In extraordinary circumstances, such as illness, old age, or significant physical distance from Liberland, the interview may be conducted online. For an online citizenship interview, the Citizenship Commission shall require additional means of identification, such as an identification document featuring the person's face, and verifying the identity through direct observation of the person.
 
-1. Where the Citizenship Commission concludes, in any step of the Registration Process, that the Applicant doesn't fulfil the requirements sufficient to pass the given step, the Citizenship Commission shall terminate the Registration Process.
-2. The Applicant shall bear the costs incurred by the Citizenship Commission in connection to their failed Registration Process.
+### Article 8: Review of Commitment
 
-#### Art 6: Due Diligence
+1. The Citizenship Commission shall assess the Applicant's commitment by evaluating their voluntary tax payments. The Citizenship Commission shall consider a total contribution of 5,000 LLM or more as sufficient for obtaining citizenship.
+2. The Citizenship Commission shall evaluate the Applicant's commitment based on their voluntary tax payments in LLM made by vesting LLM in the political pool on the Liberland Smart Chain.
 
-§ 1
+### Article 9: Costs of the Application Process
 
-1. To perform Due Diligence, the Citizenship Commission shall collect and process personal data and other information on the Applicant to find whether the Applicant is a good match for a Citizenship in Liberland.
-2. The Citizenship Commission shall set up the Due Diligence standards by means of a policy.
+1. The Applicant shall be responsible for the costs of the application process. The Citizenship Commission shall inform the Applicant in advance of the estimated regular costs for the process.
+2. At the end of the application process, the costs shall be tallied and a definitive account of the expenses shall be provided to the citizen.
+### Article 10: Citizenship Contract
 
-§ 2
-
-Where the data available to the Citizenship Commission should prove insufficient to perform the Due Diligence, the Citizenship Commission may ask the Applicant to provide additional data. The failure to do so shall result in the rejection of the Applicant.
-
-#### Art 7: Citizenship Interview
-
-The Citizenship Commission shall interview the Applicant to establish the Applicant's identity and further confirm their character, sincere intentions to become a productive Citizen of Liberland and goodwill.
-
-1. The Citizenship Interview shall regularly be held in person on premises of the Citizenship Commission in Liberland or one of the Diaspora Villages.
-2. In extraordinary circumstances, such as illness, old age, or a great physical distance from Liberland, it is permissible to hold this interview online. For an online Citizenship interview, the Citizenship commission shall require additional means to identify the person, such as an identification document depicting the person's face and verifying the identity through direct observation of the person.
-
-#### Art 8: Review of Commitment
-
-§ 1
-
-The Citizenship Commission shall evaluate the Applicant's commitment by evaluating their payments in Voluntary Tax. The Citizenship Commission shall judge the total contribution of 5000 LLM or more to be sufficient for obtaining Citizenship.
-
-§ 2
-
-The Citizenship Commission shall evaluate the Applicant's commitment based on their Voluntary Tax paid in LLM by means of vesting LLM in the political pool on the Liberland Smart Chain.
-
-#### Art 9: Costs of the Application Process
-
-The Applicant shall bear the cost of the Application Process. The Citizenship Commission shall inform the Applicant in advance of the regular costs of this process by estimation. At the end of the Application Process, the costs shall be counted and a definitive account of these shall be provided to the Citizen.
-
-#### Art 10: Citizenship Contract
-
-§ 1
-
-The Applicant shall be required to sign the Citizenship Contract, wherein they shall confirm their commitment to becoming a Citizen and agree to follow additional rules of conduct that pertain to the status of a Citizen.
-
-§ 2
-
-The Template for the Citizenship Contract shall be the Attachment to this Law. The Template shall contain a provision whereby the Citizen agrees that Liberland reserves the right to modify the contract later by means of an amendment to this Law.
+1. The Applicant shall be required to sign the Citizenship Contract, in which they confirm their commitment to becoming a citizen and agree to follow additional rules of conduct pertaining to the status of a citizen.
+2. The template for the Citizenship Contract shall be an attachment to this Act. The template shall include a provision whereby the citizen agrees that Liberland reserves the right to modify the contract later through an amendment to this Act.
 
 ## Section 3: Ius Soli and Ius Sanguini
 
-#### Art 11: Liberland Nationals
+### Article 11: Liberland Nationals
 
-Persons who are children of at least one Citizen or Persons born in the land of Liberland shall be Liberland Nationals, and they shall be eligible for obtaning their Citizenship by the means of their Descent.
+Individuals who have at least one citizen parent or are born within the territory of Liberland shall be considered Liberland Nationals and shall be eligible to obtain citizenship by virtue of their descent.
 
-#### Art 12: Rights of Liberland Nationals
+### Article 12: Rights of Liberland Nationals
 
-Such Liberland Nationals who haven't yet obtained their Citizenship shall enjoy the full protection of Liberland and shall be treated as Citizen in every other way except that they shall not be entitled to
+Liberland Nationals who have not yet obtained citizenship shall enjoy the full protection of Liberland and shall be treated as citizens in every other aspect, except they shall not be entitled to:
 
-a) vote in elections; or
+1. Vote in elections; or
+2. Be elected to public offices.
 
-c) be voted into public offices.
+### Article 13: Obtaining Citizenship by Descent
 
-#### Art 13: Obtaining Citizenship by Descent
+1. A Liberland National shall be entitled to apply for Citizenship by Descent until the occurrence of the later of the following two situations:
 
-§ 1
+   a) The Liberland National reaches 21 years of age; or
+   
+   b) Two years have passed since the Liberland National first became aware of their status as a Liberland National.
 
-A Liberland National shall be entitled to apply for Citizenship by Descent until the latter of the following two situations occurs:
+2. The application process for obtaining Citizenship by Descent shall be the same as the regular application process, except that the Citizenship Commission shall not assess the commitment of the Liberland National by examining their voluntary tax record.
 
-a) the Liberland National attains their 21st year of age; or
+3. A citizen by descent who has less than 5,000 LLM in their political power balance shall be entitled to participate in politics with the political power they possess.
+### Article 14: Liberland Nationals Possessing No Other Citizenship
 
-b) 2 years will pass from the first moment that the Liberland National will have learned that they enjoy the status of a Liberland National.
-
-§ 2
-
-The Application Process for obtaining a Citizenship by Descent shall be the same as the regular Application process, except that the Citizenship Commission shall not judge the commitment of the Liberland National by examining their Voluntary Tax record.
-
-§ 3
-
-The Citizen by Descent who has less than 5000 LLM in their political power balance shall be entitled to participate in politics with the political power they have. 
-
-#### Art 14: Liberland Nationals possessing no other Citizenship
-
-A Liberland National who has no other Citizenship than their Citizenship by Descent in Liberland shall obtain a Citizenship by Descent upon attaining 21 years of age.
+A Liberland National who holds no other citizenship than their Citizenship by Descent in Liberland shall obtain Citizenship by Descent upon reaching 21 years of age.
 
 ## Section 4: The Social System
 
-#### Art 15: Withdrawing the Voluntary Tax
+### Article 15: Withdrawing the Voluntary Tax
 
-Every Liberland Citizen shall have the right to request the return of their Voluntary Tax or a part thereof. One tenth of the LLM remaining in the Citizen's Voluntary Tax balance shall be withdrawn in a given year in total. The Blockchain shall process the withdrawal in proportional instalments.
+Every Liberland citizen shall have the right to request the return of their voluntary tax or a portion thereof. One-tenth of the LLM remaining in the citizen's voluntary tax balance may be withdrawn in a given year in total. The blockchain shall process the withdrawal in proportional instalments.
 
-#### Art 16: Suspension of Certain Political Rights
+### Article 16: Suspension of Certain Political Rights
 
-§ 1
-
-While partaking in the Social System, the Citizen shall not be able to vote in elections nor partake in direct democracy.
-
-§ 2
-
-Partaking in the Social System shall be no impediment for candidacy for or holding of any political office, including and not limited to the office of a Judge, a Senator or a President or for being an Agent.
-
-§ 3
-
-If the Citizen partaking on the Social System is a Congressperson, they shall not be allowed to use their own political balance of LLM to participate in the voting in the Congress while partaking on Liberland's Social System, but shall retain the use of LLM delegated to them by their voters. They may likewise apply for re-election, although they themselves will not be able to vote.
+1. While participating in the Social System, the citizen shall not be able to vote in elections or partake in direct democracy.
+2. Participation in the Social System shall not impede candidacy for or holding any political office, including but not limited to the office of a judge, senator, president, or agent.
+3. If a citizen participating in the Social System is a member of Congress, they shall not be allowed to use their own political balance of LLM to participate in voting in Congress while partaking in Liberland's Social System, but shall retain the use of LLM delegated to them by their voters. They may also apply for re-election, although they themselves will not be able to vote.
 
 ## Section 5: Termination of Citizenship
 
-#### Art 17: Regular Termination of Citizenship
+### Article 17: Regular Termination of Citizenship
 
-§ 1
+1. A citizen may choose to terminate their citizenship at any time. Upon verifying the request for renunciation of the citizen, the Citizenship Commission shall cancel the citizenship, and the voluntary tax shall remain their own, but without the citizenship rights. They shall no longer be able to use their LLM for political purposes.
+2. If an ex-citizen opts to withdraw their voluntary tax, this shall be done in the same way as participating in the Social System, but they shall receive instalments covering the entire voluntary tax amount within the span of one year.
+3. An ex-citizen whose citizenship has been terminated regularly shall be allowed to re-apply for citizenship at any time under the conditions that apply to all regular applicants.
 
-A Citizen may opt to Terminate their Citizenship at any time. Upon verifying the request for Renunciation of the Citizen, the Citizenship commission shall cancel the Citizenship, and their Voluntary Tax shall remain their own, but without the Citizenship rights. They shall no longer be able to use their LLM for political ends.
+### Article 18: Irregular Termination of Citizenship
 
-§ 2
+1. The Citizenship Commission shall terminate the citizenship of a citizen who is in serious breach of their citizenship duties, for which the contract stipulates the sanction of an irregular termination of their citizenship.
 
-Where an ex-Citizen opts to withdraw their Voluntary Tax, this shall be done in the same way as partaking in the Social System, but they shall receive in installments the entire Voluntary Tax amount within the span of one year.
+### Article 19: Irregular Termination of Citizenship for a Liberland National with Singular Nationality
 
-§ 3
+1. A citizen who has no other nationality besides that of Liberland, and whose citizenship would have been terminated, shall not lose their citizenship, but their voluntary tax shall be expropriated.
+2. The citizen shall retain their Liberland nationality and a rudimentary citizenship, but they shall no longer be in good standing in Liberland. As such, they shall not be able to:
+   1. vote in elections;
+   2. be voted in as an elected official;
+   3. participate in securing the Liberland blockchain network as a validator or a similar role; and
+   4. participate in Liberland's direct democracy.
 
-An ex-Citizen whose Citizenship has been terminated regularly shall be allowed to re-apply for Citizenship at any time under the conditions which apply to all regular Applicants.
+### Article 20: Re-Application after Irregular Termination of Citizenship
 
-#### Art 18: Irregular Termination of Citizenship
+A citizen who is not in good standing or an ex-citizen whose citizenship has been irregularly terminated and who, within the 15 years after this irregular termination, wishes to become a citizen again, shall have to negotiate with the Citizenship Commission the conditions of their re-acceptance as a citizen. Those conditions shall be more strict than the normal conditions required of regular applicants.
 
-§ 1
+1. A citizen whose citizenship has been irregularly terminated more than 15 years ago shall be able to re-apply just as any regular applicant would be, provided that they have met all their obligations to Liberland outstanding from the time of their past citizenship.
+2. Otherwise, they shall have to follow the same route as the citizen who is not in good standing.
 
-The Citizenship Commission shall Terminate the Citizenship of a Citizen who is in a serious breach of their Citizenship Duties, for which the Contract stipulates the sanction of an irregular Termination of their Citizenship.
+## Section 6: Citizenship Commission
 
-§ 2
+### Article 21: Citizenship Commission
 
-1. The Citizenship of a Citizen whose Citizenship shall be irregularly Terminated shall become the property of Liberland, and their Voluntary Tax shall become the property of Liberland.
-2. Their account, including all the information put therein, shall be held for 15 years after the Irregular Termination and shall be used to collect all the obligations that the Citizens might still owe Liberland. After that time, the Citizenship Commission shall irreversibly delete the Account.
-3. The fact that a Citizenship has been irregularly Terminated shall be liable to become public knowledge in Liberland. The Citizenship Commission shall maintain the list of all irregular Terminations for 15 years after the irregular Termination.
-
-#### Art 19: Irregular Termination of Citizenship for a Liberlander with singular nationality
-
-§ 1
-
-A Citizen who has no other nationality besides that of Liberland whose citizenship would have been terminated shall not lose their Citizenship, but their Voluntary Tax shall be expropriated.
-
-§ 2
-
-The Citizen shall retain their Liberland Nationality and a rudimentary Citizenship, but they shall no longer be in good standing in Liberland. As such, they shall not be able to:
-
-1. vote in elections;
-2. be voted in as an Elected Official;
-3. participate in the securing of the Liberland Blockchain network as a Validator or a similar role; and
-4. participate in Liberland's Direct Democracy.
-
-#### Art 20: Re-Application after irregular Termination of Citizenship
-
-A Citizen who is not in good standing or an ex-Citizen whose citizenship has been irregularly terminated who should, within the 15 years after this Irregular Termination, want to become a Citizen again, shall have to negotiate with the Citizenship Commission the conditions of their re-acceptance as a Citizen. Those conditions shall be more strict than the normal conditions required of regular Applicants.
-
-1. A Citizen whose citizenship has been irregularly terminated more than 15 years ago shall be able to re-apply just as any regular Applicant would be provided that he has met all their obligations to Liberland outstanding from the time of their past citizenship.
-2. Otherwise, they shall have to follow the same route as the Citizen who is not in good standing.
-
-## Section 6: Citizenship Comission
-
-#### Art 21: Citizenship Comission
-
-The organ responsible for the agenda regarding all matters of Citizenship shall be the Citizenship Comission. The Citizenship Comission shall be an Agency under the Ministry of Interior.
+The organ responsible for the agenda regarding all matters of citizenship shall be the Citizenship Commission. The Citizenship Commission shall be an agency under the Ministry of Interior.
 
 ## Section 7: Transitory and Final Provisions
 
-#### Art 22: Transitory Provisions
+### Article 22: Transitory Provisions
 
-All Citizens who had become Citizens before this Act came into effect shall retain their Citizenship on the condition that they agree to sign the Citizenship Contract.
+All citizens who had become citizens before this act came into effect shall retain their citizenship on the condition that they agree to sign the citizenship contract.
 
-#### Art 23: Final Provisions
+### Article 23: Final Provisions
 
-This Law has been submitted by the Cabinet on ...
+This law has been submitted by the Cabinet on ...
 
-This Law has been adopted by the Assembly on ...
+This law has been adopted by the Assembly on ...
 
-This Law has obtained the Declaration of Constitutionality on ...
+This law has obtained the Declaration of Constitutionality on ...
 
-This Law has passed the Senate on ...
+This law has passed the Senate on ...
 
-This act shall gain Legal Force on ... and shall remain in force in perpetuity or until its legal effects should be terminated or another Law should replace it.
+This law shall gain legal force on ... and shall remain in force in perpetuity or until its legal effects should be terminated or another law should replace it.
