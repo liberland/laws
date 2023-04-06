@@ -1,20 +1,20 @@
 # Government Information Law
 
 ## Preface
-This Law lays down rules relating to the protection of persons with regard to the Government processing of personal data and other information and rules relating to the free movement of personal data. It also sets up rules for the Government obtaining and utilizing information technology as the means to process information, in particular means of electronic communication and means of obtaining such technology and related services. The law sets up the institutions responsible for the development, maintenance, utilization and support of those services. The law enshrines into Liberland's legal order the country's orientation towards free and open source software.
+This Law establishes rules relating to the protection of persons concerning the Government's processing of personal data and other information, as well as rules relating to the free movement of personal data. It also sets up rules for the Government's acquisition and utilization of information technology as the means to process information, particularly electronic communication methods and means of obtaining such technology and related services. The law creates the institutions responsible for the development, maintenance, utilization, and support of these services. The law enshrines Liberland's orientation towards free and open-source software into its legal order.
 
 ### Definitions
-**controller** means the natural or legal person, public authority, agency or other body which, alone or jointly with others, determines the purposes and means of the processing of personal data; where the purposes and means of such processing are determined by Union or Member State law, the controller or the specific criteria for its nomination may be provided for by Union or Member State law;
+**controller** means the natural or legal person, public authority, agency, or other body which, alone or jointly with others, determines the purposes and means of the processing of personal data; where the purposes and means of such processing are determined by Union or Member State law, the controller or the specific criteria for its nomination may be provided for by Union or Member State law;
 
-**Information Technology** Information technology (IT) is the use of computers to create, process, store, retrieve and exchange all kinds of data, and information.
+**Information Technology** (IT) refers to the use of computers to create, process, store, retrieve, and exchange various types of data and information.
 
-**information technology system (IT system)** is  an information system, a communications system, or, more specifically speaking, a computer system — including all hardware, software, and peripheral equipment — operated by a limited group of IT users.
+**information technology system (IT system)** is an information system, a communications system, or, more specifically, a computer system — including all hardware, software, and peripheral equipment — operated by a limited group of IT users.
 
-**electronic communication** electronic communication means any information sent between particular parties over a phone line, internet connection or other means of electronic communication.
+**electronic communication** means any information sent between particular parties over a phone line, internet connection, or other means of electronic communication.
 
-**means of electronic communication** include phone calls, faxes, text messages, video messages, emails and internet messaging and other means capable of accomplishing similar or better results.
+**means of electronic communication** include phone calls, faxes, text messages, video messages, emails, internet messaging, and other means capable of accomplishing similar or better results.
 
-**personal data** means any information relating to an identified or identifiable natural person (‘data subject’); an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person;
+**personal data** means any information relating to an identified or identifiable natural person (‘data subject’); an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier, or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural, or social identity of that natural person;
 
 **processing** means any operation or set of operations which is performed on personal data or on sets of personal data, whether or not by automated means, such as collection, recording, organisation, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by by and Millennials, and it remains a vital part of the company’s culture, identity, and influence.
 
