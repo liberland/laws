@@ -134,6 +134,7 @@ The duties of the Cantonal Security Commission shall be the same as those of the
 § 6
 
 Similar to the Security Offices, the Cantonal Security Agencies of each Canton shall be required to maintain close contact and active cooperation with the Cantonal Security Agencies of all other Cantons.
+
 #### Art. 8: Security Academy
 
 § 1
@@ -166,11 +167,12 @@ The Security Agency, including the Cantonal Security where applicable and the in
 
 § 2
 
-a) Security Officers, who shall be trained professionals in the field of maintaining security and modern democratic policing (hereinafter referred to as "Security Professionals"), directly responsible for fulfilling the tasks of the Security Agency as outlined in this Law;
-b) State Guard Agents, who shall be Security Professionals assigned specifically to protect State Property and State Officials; the State Guard Agents may also be assigned to fulfill the tasks of the Security Agency as outlined in this Law and shall maintain these as their constant objective alongside their regular duties;
-c) Clerical Agents, who shall support Security Professionals by performing back office and front office duties that do not require a person specifically trained in maintaining security;
-d) Technical Agents, who shall maintain the technical readiness of equipment, real estate, and tools of other Agents, as well as the information security of the Agency at all levels; and
-e) Other Agents as required to fulfill the tasks of the Security Agency as outlined in this Law.
+a) Security Officers, who shall be trained professionals in the field of maintaining security and modern democratic policing (hereinafter referred to as "Security Professionals"), directly responsible for fulfilling the tasks of the Security Agency as outlined in this Law;  
+b) State Guard Agents, who shall be Security Professionals assigned specifically to protect State Property and State Officials; the State Guard Agents may also be   assigned to fulfill the tasks of the Security Agency as outlined in this Law and shall maintain these as their constant objective alongside their regular duties;  
+c) Clerical Agents, who shall support Security Professionals by performing back office and front office duties that do not require a person specifically trained in maintaining security;  
+d) Technical Agents, who shall maintain the technical readiness of equipment, real estate, and tools of other Agents, as well as the information security of the Agency at all levels; and  
+e) Other Agents as required to fulfill the tasks of the Security Agency as outlined in this Law.  
+
 #### Art. 11: Ranks
 
 § 1
