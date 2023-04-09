@@ -44,7 +44,7 @@ When the protection of a weaker party, such as a party with a sensory impairment
 ### Art. 10: Civil process    
 Civil process, a procedure concerning matters in private law between parties, shall be the standard form of the process before any Court.
 
-### Art. 9: Criminal process    
+### Art. 11: Criminal process    
 
 #### § 1  
 1. Criminal process shall be between Liberland and a private party where the subject matter is alleged non-compliance with the legal system, and Liberland stands as the public accuser.
@@ -53,29 +53,29 @@ Civil process, a procedure concerning matters in private law between parties, sh
 #### § 2  
 Only State courts shall possess the jurisdiction to decide on a Criminal process. Any contractual stipulations to the contrary shall be null and void.
 
-### Art. 11: Disciplinary process    
+### Art. 12: Disciplinary process    
 A disciplinary process shall be where a Private Court adjudicates a case between itself or the community that organizes it, or any of its representatives, and a private party where the subject matter is alleged non-compliance with that community's rules, laws, or traditions of the Private Court. The special procedural rules apply to the Disciplinary process as if it were a Criminal Process.
 
-### Art. 12: Private Courts and Alternative Dispute Resolution  
+### Art. 13: Private Courts and Alternative Dispute Resolution  
 1. Private courts, arbitration, mediation, and other alternative dispute resolution mechanisms may be established and operated within the territory of Liberland, subject to the general principles and minimum requirements set forth in this law.
 2. Private courts shall have the power to resolve disputes between parties in accordance with the agreed-upon rules and procedures, provided that they do not violate the fundamental principles of justice and fairness enshrined in this law and the Constitution of Liberland.
 
 ## Book 2: Civil Process  
 
-### Art. 13: Role of the Judge
+### Art. 14: Role of the Judge
 1. The judge is the official through which a court acts in matters of the judicial process.
 2. A judge or judges preside over any judicial process and make the final decision resolving any dispute, question, or other matter presented before the court.
 The judge shall also be the final arbiter deciding on the correct procedure in every situation before the court.
 
-### Art. 13: Composition of Judicial Panels
+### Art. 15: Composition of Judicial Panels
 1. Where multiple judges are presiding over a process, they shall decide the case together and always be of an even number.
 2. No judge shall have higher deciding power than any other judge.
 
-### Art. 14: Assigning Judges
+### Art. 16: Assigning Judges
 Each court shall establish rules according to which judges are assigned to cases and shall respect those rules in all matters.
 No party shall be deprived of a judge assigned to them, except where the party gives their express permission.
 
-### Art. 16: Judicial Conduct
+### Art. 17: Judicial Conduct
 
 #### § 1  
 1. The judge shall act impartially and in the interest of justice, upholding legitimately obtained private property and being mindful of the personal situations of the parties and their power differences.
@@ -88,37 +88,30 @@ After a case has commenced, there shall be no ex parte communication between the
 3. A partial judge shall be replaced according to the rules of the court. Partiality in itself shall not be counted against the judge without it having led to unjust decisions or breaches of due process, or without it having been found in extenuating circumstances (i.e., the judge must have known that they were partial and not reported it).
 4. A court or higher court, where applicable, shall re-examine a judicial decision made and a judicial process presided by a partial judge, regardless of the procedural stage at which impartiality has been established.
 
-### Art. 17: The Verdict
-1. In making a verdict or any other decision regarding a case, the judge shall consider each piece of evidence individually and in the context of how it was obtained and the statements it is supposed to support, doing so strictly based on what is objective and known, regardless of any formal rules of law.
-2. A verdict shall be made in writing, signed, and affirmed by the judge. Simultaneous translation into other languages shall be provided in writing when translation services are being used. The verdict binds the court upon the judge's signature.
-3. The judge may grant any remedy or relief that they deem just and equitable, including, but not limited to, specific performance of a contract and injunctive relief. The judge shall decide who pays the court costs and, if they should be paid jointly, in which proportion each party shall pay.
-4.  The verdict shall end the duration of any orders made previously to secure property, and unless mentioned otherwise, all orders shall be made null and void upon the signing of the verdict, with no surviving rights therein.
+### Art. 18: Judicial Decisions
+1. In making judicial decisions, the judge shall consider each piece of evidence individually and in the context of how it was obtained and the statements it is supposed to support, relying solely on objective and known facts, irrespective of any formal rules of law.
+2. A judicial decision may be made verbally or in writing. However, a written copy, signed and affirmed by the judge, shall always be made available at the judge's discretion or upon request by a party. When translation services are being used, simultaneous translations into other languages shall be provided in writing. The decision binds the court upon the judge's signature.
 
-### Art. 18: Commencement of Civil Proceedings
-A civil proceeding shall be initiated by the filing of a complaint or petition by the plaintiff or petitioner with the appropriate court.
-The complaint or petition shall set forth the relevant facts, legal basis for the claim, and the relief sought by the plaintiff or petitioner.
+### Art. 19: Commencement of Civil Proceedings
+1. A civil proceeding shall be initiated by the filing of a complaint or petition by the plaintiff or petitioner with the appropriate court.
+2. The complaint or petition shall set forth the relevant facts, legal basis for the claim, and the relief sought by the plaintiff or petitioner.
 
-### Art. 19: Service of Process
+### Art. 20: Service of Process
 1. Upon the filing of a complaint or petition, the court shall issue a summons or notice to the defendant or respondent, requiring them to appear and respond to the claim within a specified period.
 2. The summons or notice shall be served on the defendant or respondent in a manner prescribed by law or regulation, ensuring that they receive proper notice of the proceedings and an opportunity to defend themselves.
 3. 
-### Art. 20: Pleadings and Motions
+### Art. 21: Pleadings and Motions
 Parties to a civil proceeding shall submit pleadings and motions in accordance with the rules and procedures established by the court or applicable law.
 Pleadings and motions shall be clear, concise, and set forth the parties' respective positions and arguments on the issues in dispute.
 
-### Art. 21: Discovery and Evidence
-Parties to a civil proceeding shall be entitled to conduct discovery and obtain evidence in a manner prescribed by the rules of the court or applicable law.
-The court shall have the authority to issue orders and sanctions as necessary to ensure the proper and efficient conduct of discovery and the preservation of evidence.
+### Art. 22: Discovery and Evidence
+1. Parties to a civil proceeding shall be entitled to conduct discovery and obtain evidence in a manner prescribed by the rules of the court or applicable law.
+2. The court shall have the authority to issue orders and sanctions as necessary to ensure the proper and efficient conduct of discovery and the preservation of evidence.
 
-### Art. 22: Pre-Trial Conference and Settlement
+### Art. 23: Pre-Trial Conference and Settlement
 1. Prior to the commencement of a trial, the court may convene a pre-trial conference to discuss and resolve procedural matters, narrow the issues in dispute, and explore the possibility of settlement.
-2/ The court may encourage parties to reach a mutually acceptable resolution of their dispute through negotiation, mediation, or other alternative dispute resolution methods.
+2. The court may encourage parties to reach a mutually acceptable resolution of their dispute through negotiation, mediation, or other alternative dispute resolution methods.
 
-
-**Art. 21: Preservation of Property**
-
-1. Upon request of a Party, the Judge may issue such Orders to a Party or to third Persons as they may deem necessary or appropriate to preserve and safeguard any rights or property that is the subject matter of the Case.&#x20;
-2. Any such Order shall remain in force and shall be superseded by the verdict deciding the Case.
 
 **Art. 22: Hearing the other Parties**
 
