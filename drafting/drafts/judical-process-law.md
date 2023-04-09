@@ -7,20 +7,20 @@ This law establishes the minimum requirements for a lawful judicial process in L
 
 ## Book 1: General Principles
 
-**Art. 1: Equality**
+**Art. 1: Equality**  
 Courts shall neither respect nor discriminate against any party appearing before them based on their status, background, nationality, race, religion, sexual orientation, gender, or other personal circumstances.
 
-**Art. 2: Fairness**
+**Art. 2: Fairness**  
 Courts shall dispense justice proportionally to the situation in question and provide each party with an equal opportunity to present and argue their case.
 
-**Art. 3: Equal Access**
+**Art. 3: Equal Access**  
 1. Everyone shall have equal access to the services of the courts.
 2. Laws, regulations, and judicial procedural rules shall be published beforehand so that any potential party may become familiar with them.
 
-**Art. 4: Legal Counsel**
+**Art. 4: Legal Counsel**  
 Throughout any process, all courts shall provide the opportunity for all parties to obtain and maintain access to their chosen legal counsel or similar services.
 
-**Art. 5: Professionality**
+**Art. 5: Professionality**  
 § 1  
 All courts shall ensure that their officials and employees receive proper training and maintain a high level of knowledge and skill throughout their tenure.
 
@@ -30,10 +30,10 @@ Judges, mediators, arbiters, and other judicial decision-makers shall be well-ve
 § 3  
 The option of a trial by a jury of one's peers or similar forms of trial shall only be allowed when the presiding judge is a legal professional and has a substantial role in the proceeding, or when the object of the trial is of lower value, and there is a possibility for a genuine appeal to a professional judge.
 
-**Art. 6: Dispensing justice**
+**Art. 6: Dispensing justice**  
 Courts shall dispense justice in all matters between private parties or between private parties and Liberland.
 
-**Art. 7: Language**
+**Art. 7: Language**  
 
 § 1  
 State courts shall communicate in Liberlandish, a dialect continuum of English, and parties are responsible for compliance. The judge may direct otherwise, but only if all parties jointly agree to use a language other than Liberlandish.
@@ -42,37 +42,37 @@ When a party requests the service of a translator and/or interpreter, the judge 
 § 2  
 When the protection of a weaker party, such as a party with a sensory impairment, requires interpretation or transcription to make the process understandable for that party, and the use of legal counsel is insufficient, or the party can prove that they have insufficient means to obtain such legal counsel, the judge shall waive the requirement for the party to cover the expenses for translation or interpretation services. Additionally, the judge shall make any necessary accommodations to allow the party to present their case reasonably.
 
-**Art. 8: Civil process**
+**Art. 8: Civil process**  
 Civil process, a procedure concerning matters in private law between parties, shall be the standard form of the process before any Court.
 
-**Art. 9: Criminal process**
+**Art. 9: Criminal process**  
 
-§ 1
+§ 1  
 1. Criminal process shall be between Liberland and a private party where the subject matter is alleged non-compliance with the legal system, and Liberland stands as the public accuser.
 2. Special procedural rules apply to criminal processes to protect the accused and ensure even higher standards of justice than the standard procedural rules.
 
-§ 2
+§ 2  
 
 Only State courts shall possess the jurisdiction to decide on a Criminal process. Any contractual stipulations to the contrary shall be null and void.
 
-**Art. 10: Disciplinary process**
+**Art. 10: Disciplinary process**  
 A disciplinary process shall be where a Private Court adjudicates a case between itself or the community that organizes it, or any of its representatives, and a private party where the subject matter is alleged non-compliance with that community's rules, laws, or traditions of the Private Court. The special procedural rules apply to the Disciplinary process as if it were a Criminal Process.
 
-**Art. 11: Private Courts**
+**Art. 11: Private Courts**  
 Private Courts may establish their own process rules that formally differ from the practices described in this Law, but they shall not derogate in principle from the purposes of the judicial process and each of its parts as set up in this Law.
 
-## Book 2: Civil Process
+## Book 2: Civil Process  
 
-### Section 1: The Judge
+### Section 1: The Judge  
 
-**Art. 12: Role of the Judge**
+**Art. 12: Role of the Judge**  
 
-§ 1
+§ 1  
 1. The Judge shall be the official through which a Court acts in matters of the judicial process.
 2. A Judge or Judges preside over any judicial process, and they make the final decision resolving any dispute, question, or other matter presented before the Court.
 The Judge shall also be the final arbiter deciding on the correct procedure in every situation before the Court.
 
-§ 2
+§ 2  
 
 Where more Judges are presiding over a process, they shall decide the case together. They shall always be of an even number. No Judge shall have higher deciding power than any other Judge.
 
