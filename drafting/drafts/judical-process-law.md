@@ -1,39 +1,38 @@
 # Judical Process Law
 
-## Judicial Process Law
+## Preamble
+Recognizing the fundamental principles of justice, fairness, and the rule of law, the Judicial Process Law of Liberland establishes a framework for the administration of justice within the Free Republic of Liberland. This law outlines the essential requirements for a judicial process to be considered lawful and serves as the procedural foundation for the Supreme Court, state-funded lower courts, and private dispute resolution mechanisms within the territory of Liberland.
 
-### Preamble
-This law establishes the minimum requirements for a lawful judicial process in Liberland and serves as the procedural law for the Supreme Court and state-funded lower courts. It outlines the process rules for the Supreme Court and lower courts established by the Liberland Administration. Furthermore, it sets up the procedural minimum for any other judicial, arbitration, mediation, or similar processes organized privately in Liberland, hereafter referred to as "Private Courts."
+## Chapter 1: General Principles   
 
-## Book 1: General Principles
+### Art. 1: Purpose  
+The purpose of this law is to provide for the establishment, organization, and functioning of the judicial system in Liberland, ensuring that justice is accessible, effective, and impartial for all who seek it.
 
-**Art. 1: Equality**  
-Courts shall neither respect nor discriminate against any party appearing before them based on their status, background, nationality, race, religion, sexual orientation, gender, or other personal circumstances.
+### Art. 2: Equality and Non-Discrimination  
+All courts and judicial bodies in Liberland shall treat parties equally and without discrimination based on status, background, nationality, race, religion, sexual orientation, gender, or any other personal circumstances.
 
-**Art. 2: Fairness**  
-Courts shall dispense justice proportionally to the situation in question and provide each party with an equal opportunity to present and argue their case.
+### Art. 3: Right to a Fair Trial  
+Every individual in Liberland has the right to a fair and public hearing within a reasonable time by an independent and impartial tribunal established by law. The principle of the right to a fair trial shall be upheld in all judicial processes, whether civil, criminal, or otherwise.
 
-**Art. 3: Equal Access**  
-1. Everyone shall have equal access to the services of the courts.
-2. Laws, regulations, and judicial procedural rules shall be published beforehand so that any potential party may become familiar with them.
+### Art. 4: Transparency and Accessibility  
+1. All laws, regulations, and judicial procedural rules shall be publicly available and accessible so that potential parties may familiarize themselves with the legal framework governing the judicial process.  
+2. Court proceedings, decisions, and records shall be open to the public, except when confidentiality is necessary to protect the interests of justice or the rights and freedoms of the parties involved.  
 
-**Art. 4: Legal Counsel**  
-Throughout any process, all courts shall provide the opportunity for all parties to obtain and maintain access to their chosen legal counsel or similar services.
+### Art. 5: Legal Representation  
+Every party involved in a judicial process shall have the right to be represented by legal counsel of their choice or to self-represent, and courts shall provide reasonable accommodations to ensure that all parties can effectively participate in the proceedings.
 
-**Art. 5: Professionality**  
-§ 1  
-All courts shall ensure that their officials and employees receive proper training and maintain a high level of knowledge and skill throughout their tenure.
+### Art. 6: Judicial Independence and Impartiality  
+The judiciary in Liberland shall be independent of the executive and legislative branches of government and shall be impartial in the exercise of its functions.
+Judges shall be free from any external influence, inducement, pressure, threat, or interference, whether direct or indirect, in the performance of their duties.
 
-§ 2  
-Judges, mediators, arbiters, and other judicial decision-makers shall be well-versed professionals in the Law of Liberland and any other laws or rules according to which their court dispenses justice.
+### Art. 7: Competence and Professionalism  
+1. All courts shall ensure that their officials, employees, and decision-makers receive appropriate training and maintain a high level of knowledge and skill throughout their tenure.
+2. Judges, mediators, arbitrators, and other judicial decision-makers shall be well-versed professionals in the Law of Liberland and any other law or rules relevant to the jurisdiction of their respective courts.
 
-§ 3  
-The option of a trial by a jury of one's peers or similar forms of trial shall only be allowed when the presiding judge is a legal professional and has a substantial role in the proceeding, or when the object of the trial is of lower value, and there is a possibility for a genuine appeal to a professional judge.
+### Art. 8: Judicial Remedies   
+Courts shall have the power to grant appropriate and effective remedies, including but not limited to, monetary compensation, injunctive relief, and declaratory relief, to ensure that the rights and interests of parties are adequately protected and enforced.
 
-**Art. 6: Dispensing justice**  
-Courts shall dispense justice in all matters between private parties or between private parties and Liberland.
-
-**Art. 7: Language**  
+### Art. 9: Language**  
 
 § 1  
 State courts shall communicate in Liberlandish, a dialect continuum of English, and parties are responsible for compliance. The judge may direct otherwise, but only if all parties jointly agree to use a language other than Liberlandish.
@@ -42,24 +41,24 @@ When a party requests the service of a translator and/or interpreter, the judge 
 § 2  
 When the protection of a weaker party, such as a party with a sensory impairment, requires interpretation or transcription to make the process understandable for that party, and the use of legal counsel is insufficient, or the party can prove that they have insufficient means to obtain such legal counsel, the judge shall waive the requirement for the party to cover the expenses for translation or interpretation services. Additionally, the judge shall make any necessary accommodations to allow the party to present their case reasonably.
 
-**Art. 8: Civil process**  
+### Art. 10: Civil process**  
 Civil process, a procedure concerning matters in private law between parties, shall be the standard form of the process before any Court.
 
-**Art. 9: Criminal process**  
+### Art. 9: Criminal process**  
 
 § 1  
 1. Criminal process shall be between Liberland and a private party where the subject matter is alleged non-compliance with the legal system, and Liberland stands as the public accuser.
 2. Special procedural rules apply to criminal processes to protect the accused and ensure even higher standards of justice than the standard procedural rules.
 
 § 2  
-
 Only State courts shall possess the jurisdiction to decide on a Criminal process. Any contractual stipulations to the contrary shall be null and void.
 
-**Art. 10: Disciplinary process**  
+### Art. 10: Disciplinary process**  
 A disciplinary process shall be where a Private Court adjudicates a case between itself or the community that organizes it, or any of its representatives, and a private party where the subject matter is alleged non-compliance with that community's rules, laws, or traditions of the Private Court. The special procedural rules apply to the Disciplinary process as if it were a Criminal Process.
 
-**Art. 11: Private Courts**  
-Private Courts may establish their own process rules that formally differ from the practices described in this Law, but they shall not derogate in principle from the purposes of the judicial process and each of its parts as set up in this Law.
+### Art. 11: Private Courts and Alternative Dispute Resolution
+1. Private courts, arbitration, mediation, and other alternative dispute resolution mechanisms may be established and operated within the territory of Liberland, subject to the general principles and minimum requirements set forth in this law.
+2. Private courts shall have the power to resolve disputes between parties in accordance with the agreed-upon rules and procedures, provided that they do not violate the fundamental principles of justice and fairness enshrined in this law and the Constitution of Liberland.
 
 ## Book 2: Civil Process  
 
