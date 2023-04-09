@@ -34,11 +34,11 @@ Courts shall have the power to grant appropriate and effective remedies, includi
 
 ### Art. 9: Language   
 
-§ 1  
+#### § 1  
 State courts shall communicate in Liberlandish, a dialect continuum of English, and parties are responsible for compliance. The judge may direct otherwise, but only if all parties jointly agree to use a language other than Liberlandish.
 When a party requests the service of a translator and/or interpreter, the judge shall arrange that at the expense of the requesting party.
 
-§ 2  
+#### § 2  
 When the protection of a weaker party, such as a party with a sensory impairment, requires interpretation or transcription to make the process understandable for that party, and the use of legal counsel is insufficient, or the party can prove that they have insufficient means to obtain such legal counsel, the judge shall waive the requirement for the party to cover the expenses for translation or interpretation services. Additionally, the judge shall make any necessary accommodations to allow the party to present their case reasonably.
 
 ### Art. 10: Civil process    
@@ -46,148 +46,74 @@ Civil process, a procedure concerning matters in private law between parties, sh
 
 ### Art. 9: Criminal process    
 
-§ 1  
+#### § 1  
 1. Criminal process shall be between Liberland and a private party where the subject matter is alleged non-compliance with the legal system, and Liberland stands as the public accuser.
 2. Special procedural rules apply to criminal processes to protect the accused and ensure even higher standards of justice than the standard procedural rules.
 
-§ 2  
+#### § 2  
 Only State courts shall possess the jurisdiction to decide on a Criminal process. Any contractual stipulations to the contrary shall be null and void.
 
-### Art. 10: Disciplinary process    
+### Art. 11: Disciplinary process    
 A disciplinary process shall be where a Private Court adjudicates a case between itself or the community that organizes it, or any of its representatives, and a private party where the subject matter is alleged non-compliance with that community's rules, laws, or traditions of the Private Court. The special procedural rules apply to the Disciplinary process as if it were a Criminal Process.
 
-### Art. 11: Private Courts and Alternative Dispute Resolution  
+### Art. 12: Private Courts and Alternative Dispute Resolution  
 1. Private courts, arbitration, mediation, and other alternative dispute resolution mechanisms may be established and operated within the territory of Liberland, subject to the general principles and minimum requirements set forth in this law.
 2. Private courts shall have the power to resolve disputes between parties in accordance with the agreed-upon rules and procedures, provided that they do not violate the fundamental principles of justice and fairness enshrined in this law and the Constitution of Liberland.
 
 ## Book 2: Civil Process  
 
-### Section 1: The Judge  
+### Art. 13: Role of the Judge
+1. The judge is the official through which a court acts in matters of the judicial process.
+2. A judge or judges preside over any judicial process and make the final decision resolving any dispute, question, or other matter presented before the court.
+The judge shall also be the final arbiter deciding on the correct procedure in every situation before the court.
 
-**Art. 12: Role of the Judge**  
+### Art. 13: Composition of Judicial Panels
+1. Where multiple judges are presiding over a process, they shall decide the case together and always be of an even number.
+2. No judge shall have higher deciding power than any other judge.
 
-§ 1  
-1. The Judge shall be the official through which a Court acts in matters of the judicial process.
-2. A Judge or Judges preside over any judicial process, and they make the final decision resolving any dispute, question, or other matter presented before the Court.
-The Judge shall also be the final arbiter deciding on the correct procedure in every situation before the Court.
+### Art. 14: Assigning Judges
+Each court shall establish rules according to which judges are assigned to cases and shall respect those rules in all matters.
+No party shall be deprived of a judge assigned to them, except where the party gives their express permission.
 
-§ 2  
+### Art. 16: Judicial Conduct
 
-Where more Judges are presiding over a process, they shall decide the case together. They shall always be of an even number. No Judge shall have higher deciding power than any other Judge.
+#### § 1  
+1. The judge shall act impartially and in the interest of justice, upholding legitimately obtained private property and being mindful of the personal situations of the parties and their power differences.
+2. The judge shall base each statement in any verdict on evidence and well-reasoned logic only, and according to law and principles of justice.
+After a case has commenced, there shall be no ex parte communication between the judge and the parties, or between the court and other persons relevant to the case, such as witnesses, unless explicitly permitted by consent of all parties.
 
-**Art. 13: Assigning Judges**
+#### § 2  
+1. A judge who has a personal connection to one or more of the parties or the object of the case shall be deemed partial where that connection is judged sufficient to influence their decision-making.
+2. If a party suspects partiality, they may appeal to the court, which shall appoint three judges to decide on the impartiality of the fellow judge. A judge in doubt of being partial may also initiate this process themselves.
+3. A partial judge shall be replaced according to the rules of the court. Partiality in itself shall not be counted against the judge without it having led to unjust decisions or breaches of due process, or without it having been found in extenuating circumstances (i.e., the judge must have known that they were partial and not reported it).
+4. A court or higher court, where applicable, shall re-examine a judicial decision made and a judicial process presided by a partial judge, regardless of the procedural stage at which impartiality has been established.
 
-§ 1
+### Art. 17: The Verdict
+1. In making a verdict or any other decision regarding a case, the judge shall consider each piece of evidence individually and in the context of how it was obtained and the statements it is supposed to support, doing so strictly based on what is objective and known, regardless of any formal rules of law.
+2. A verdict shall be made in writing, signed, and affirmed by the judge. Simultaneous translation into other languages shall be provided in writing when translation services are being used. The verdict binds the court upon the judge's signature.
+3. The judge may grant any remedy or relief that they deem just and equitable, including, but not limited to, specific performance of a contract and injunctive relief. The judge shall decide who pays the court costs and, if they should be paid jointly, in which proportion each party shall pay.
+4.  The verdict shall end the duration of any orders made previously to secure property, and unless mentioned otherwise, all orders shall be made null and void upon the signing of the verdict, with no surviving rights therein.
 
-Each Court shall set up rules according to which judges are assigned to cases and respect those rules in all matters.
+### Art. 18: Commencement of Civil Proceedings
+A civil proceeding shall be initiated by the filing of a complaint or petition by the plaintiff or petitioner with the appropriate court.
+The complaint or petition shall set forth the relevant facts, legal basis for the claim, and the relief sought by the plaintiff or petitioner.
 
-§ 2
+### Art. 19: Service of Process
+1. Upon the filing of a complaint or petition, the court shall issue a summons or notice to the defendant or respondent, requiring them to appear and respond to the claim within a specified period.
+2. The summons or notice shall be served on the defendant or respondent in a manner prescribed by law or regulation, ensuring that they receive proper notice of the proceedings and an opportunity to defend themselves.
+3. 
+### Art. 20: Pleadings and Motions
+Parties to a civil proceeding shall submit pleadings and motions in accordance with the rules and procedures established by the court or applicable law.
+Pleadings and motions shall be clear, concise, and set forth the parties' respective positions and arguments on the issues in dispute.
 
-No Party shall be deprived of a Judge assigned to them, except where the Party gives their express permission.
+### Art. 21: Discovery and Evidence
+Parties to a civil proceeding shall be entitled to conduct discovery and obtain evidence in a manner prescribed by the rules of the court or applicable law.
+The court shall have the authority to issue orders and sanctions as necessary to ensure the proper and efficient conduct of discovery and the preservation of evidence.
 
-**Art. 14: Partiality**
+### Art. 22: Pre-Trial Conference and Settlement
+1. Prior to the commencement of a trial, the court may convene a pre-trial conference to discuss and resolve procedural matters, narrow the issues in dispute, and explore the possibility of settlement.
+2/ The court may encourage parties to reach a mutually acceptable resolution of their dispute through negotiation, mediation, or other alternative dispute resolution methods.
 
-§ 1
-
-1. A Judge who has a personal connection to one or more of the Parties or the object of the Case shall be deemed Partial where that connection is judged sufficient to influence their decision-making.
-2. Where a Party suspects Partiality, they shall be able to appeal to the Court, which shall appoint three Judges to decide on Partiality of a fellow Judge. A Judge in doubt of being Partial might also initiate this process themselves.
-
-§ 2
-
-1. Another Judge shall replace a Partial Judge according to the rules of the Court.&#x20;
-2. Partiality in itself shall not be counted against the Judge without it having led to unjust decisions or breaches of due process or without it having been found in extenuating circumstances, that is, that the Judge must have known that they had been partial and has not reported it.
-
-§ 3
-
-The Court or a higher Court, where applicable, shall re-examine a  judicial decision made and a judicial process presided by a partial Judge, regardless of the processual stage at which Partiality has been established.
-
-**Art. 15: Actions of the Judge**
-
-§ 1
-
-The Judge shall act in an impartial fashion and in the interest of justice. They shall always uphold legitimately obtained private property and be mindful of the personal situations of the Parties and their power differences.
-
-§ 2
-
-1. The Judge shall make each statement in any verdict based on evidence and well-reasoned logic only and according to Law and principles of justice.
-2. They shall act in this way as they preside on the Process in all their communications and any other situation pertaining to a judicial process.
-
-§ 3
-
-After the Case is started, there shall be no ex parte communication between the Judge andthe Parties or between the Courtsand other persons relevant for the case such as witnesses, unless explicitly permitted by consent of all Parties.&#x20;
-
-**Art. 16: The Verdict**
-
-§ 1
-
-In making a verdict or in any other decision making regarding a Case, the Judge shall consider each piece of evidence individual and in the context of how it was obtained and the statements it is supposed to support. The Judge shall do so strictly based on what is objective and known, regardless of any formal rules of Law.
-
-§ 2
-
-A verdict shall be made in writing and signed and affirmed by the Judge. A simultaneous translation into other languages shall also be issued in writing where the translation service is being used. The verdict binds the Court upon the Judge making their signature.
-
-§ 3
-
-1. The Judge may grant any remedy or relief that it deems just and equitable, including and not limited to specific performance of a contract and injunctive relief. The Judge shall decide on who pays the Court Cost and if they should be paid jointly, in which proportion shall which Party pay.&#x20;
-2. The verdict shall end the duration of any Orders made previously to secure Property and where there is no mention to the contrary, all Orders shall be made null and void upon the signing of the verdict and no rights therein survive.
-
-### Section 2: Core Process
-
-#### Subsection 1: Written Process
-
-**Art. 17: Application**
-
-§ 1
-
-1. A process begins with an Application submitted by a person, an entity or a State, henceforth, "Applicant". An Application is a plea to the Court to decide a situation in the world or in law.&#x20;
-2. An Application where there is another Party and the interests of the Parties do not fully coincide shall be know as an Action.
-3. An Applicant delivers an Application to the Court physically or using electronic communication methods.&#x20;
-
-§ 2
-
-1. An Application shall contain at least:
-
-a) the proposed decision or decisions which the Judge should make according to the Applicant;
-
-b) the reasoning behind the proposed decision or decisions;
-
-c) the Applicant's estimation of whether the Application has the character of an Action or not;
-
-d) the clear indication of who the other Parties to the Process should be, if any; and
-
-e) the estimated total value of the Object of the proposed Case;
-
-1. Where the Application does not fulfil the requirements of this Law, the Judge shall note the errors and shall give the Applicant ten working days to correct the errors.&#x20;
-
-**Art. 18: Evidence**
-
-The Applicant shall support each statement in the Application and its Reasoning by evidence, be it documentary evidence, physical objects, statements of witnesses, or any other trustworthy source.
-
-**Art. 19: Dismissal**
-
-§ 1
-
-1. Where an Application is void of meaning, frivolous or regards minimal matters, those of total worth under 0.01 BTC in value, the Judge shall dismiss the Case, and the Court shall not deal with the issue.
-2. Should the Case begin as a permissible Application, but later during the Process becomes worthy of Dismissal, the Judge shall likewise Dismiss it.
-
-§ 2
-
-The Court shall likewise Dismiss a Case where the Applicant fails to fulfil their duties according to this Law. The Dismissal shall follow a written reminder made by the Court and shall only come if, at least ten workdays after the reminder is delivered, the Applicant does not correct it.
-
-§ 3
-
-Where the Applicant is or becomes unable, either physically or legally, to act for their Party, or a Party becomes unable to act for themselves, the Judge shall give them 30 workdays to correct the situation. Where the Party does not correct the situation in time, the Judge shall Dismiss the case.
-
-**Art. 20: Beginning the Process**
-
-§ 1
-
-1. A Process begins when the Court assigns the Application to a Judge. The Judge turns the Application into a Case. The Applicant becomes a Party to the Process regarding the Case.
-2. A Case that is began upon an Action shall be a Controversial Case, other cases shall be non-Controversial Cases.
-
-§ 2
-
-The Court shall act in such a way as to make a verdict to decide the Case as soon as possible while resolving the Case justly and hearing both Parties according to the principles of this Law.
 
 **Art. 21: Preservation of Property**
 
