@@ -118,11 +118,8 @@ Liberland shall be divided into Districts to maintain security, and Personnel an
 2. The Cantonal Minister of Interior, or the corresponding official, shall establish Cantonal Security, with the Cantonal Director as its head. The other four members shall be:
 
 a) a Cantonal Court Judge nominated by the Cantonal Minister of Justice, or the corresponding official, and appointed by the head of the Canton;
-
 b) a representative of the Cantonal Congress, or the corresponding body;
-
 c) a Senator nominated by the Senate and appointed by the President; and
-
 d) a former senior Agent of the Security Agency with distinguished skills and an impeccable reputation, nominated by the Cantonal Minister of Interior, or the corresponding official, and appointed by the head of the Canton.
 
 § 4
@@ -185,25 +182,17 @@ Security Professionals shall be organized in a hierarchical structure. Professio
 The following Ranks shall be assigned among the Security Professionals:
 
 a) Security Agent, who shall be directly responsible for the fulfillment of the tasks of the State Security as outlined in this Law; their Agent Level shall be 2;
-
 b) Senior Security Agent, who shall guide and mentor junior Security Agents; their Agent Level shall be 3;
-
 c) Commissar, who shall be responsible for organizing Security Agents at the operational level; one to four Security Officers, depending on the size of the District, shall form the leadership of every Security Office; their Agent Level shall be 4;
-
 d) Security Chief shall be responsible for coordinating several Districts. Security Chiefs shall also be responsible for organizing Cantonal Security. The Cantonal Director shall also hold the rank of Security Chief; their Agent Level shall be 5; and
-
 e) Security Director shall be the highest rank within Security, responsible for coordinating all districts or Cantonal Securities. The Director and the central management of the Agency shall all hold the rank of Security Director; their Agent Level shall be 6.
 
 § 3
 
 Other Agents of Security shall be organized in the following ranks:
-
 a) Administration Professional, responsible for routine administration; they shall have at least an EQF 5 level of education, and their Agent Level shall be 2;
-
 b) Administration Specialist, who shall perform tasks of specialized administration, law, data organization and management, compliance, accounting and finances, human resources, etc.; they shall have at least an EQF 6 level of education, and their Agent Level shall be 3;
-
 c) Coordinator, who shall organize the work of other Administrative Agents; they shall have at least an EQF 7 level of education, and their Agent Level shall be 4;
-
 d) Director, who shall be responsible for the top-level management and coordination of administration; they shall have at least an EQF 7 level of education, and their Agent Level shall be 5.
 
 #### Art. 12: Weapons
@@ -244,15 +233,15 @@ When prescribed by Law, a Security Agent may use necessary Measures of Force to 
 
 #### Art. 16: Use of Weapon
 
+§ 1  
+
 A Security Agent may use their weapon when there is reasonable ground to deem it necessary for:
-
 a) protecting others' lives, health, or property in situations where significant property loss is clearly about to occur or is occurring, and the use of a weapon is clearly likely to stop or mitigate the damage;
-
 b) self-protection with respect to their life and health;
-
 c) suppressing resistance against the execution of their official duty within limits judged reasonably necessary in the situation; and
-
 d) apprehending a dangerous or violent criminal or preventing their escape when the use of the weapon is deemed necessary.
+
+§ 2  
 
 1. Whenever possible, the Agent shall use a non-lethal weapon; only when this is deemed clearly insufficient shall a lethal weapon be used.
 2. When using a lethal weapon, the Security Agent shall, whenever possible without clearly compromising the purpose of the weapon use, aim to injure rather than kill the person being targeted.
