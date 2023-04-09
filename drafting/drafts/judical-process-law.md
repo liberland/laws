@@ -1,7 +1,7 @@
 # Judical Process Law
 
 ## Preamble
-Recognizing the fundamental principles of justice, fairness, and the rule of law, the Judicial Process Law of Liberland establishes a framework for the administration of justice within the Free Republic of Liberland. This law outlines the essential requirements for a judicial process to be considered lawful and serves as the procedural foundation for the Supreme Court, state-funded lower courts, and private dispute resolution mechanisms within the territory of Liberland.
+Recognizing the fundamental principles of justice, fairness, and the rule of law, the Judicial Process Law of Liberland establishes a framework for the administration of justice within the Liberland. This law outlines the essential requirements for a judicial process to be considered lawful and serves as the procedural foundation for the Supreme Court, state-funded lower courts, and private dispute resolution mechanisms within the territory of Liberland.
 
 ## Chapter 1: General Principles   
 
@@ -99,7 +99,7 @@ After a case has commenced, there shall be no ex parte communication between the
 ### Art. 20: Service of Process
 1. Upon the filing of a complaint or petition, the court shall issue a summons or notice to the defendant or respondent, requiring them to appear and respond to the claim within a specified period.
 2. The summons or notice shall be served on the defendant or respondent in a manner prescribed by law or regulation, ensuring that they receive proper notice of the proceedings and an opportunity to defend themselves.
-3. 
+
 ### Art. 21: Pleadings and Motions
 Parties to a civil proceeding shall submit pleadings and motions in accordance with the rules and procedures established by the court or applicable law.
 Pleadings and motions shall be clear, concise, and set forth the parties' respective positions and arguments on the issues in dispute.
