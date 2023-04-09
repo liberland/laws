@@ -32,7 +32,7 @@ Judges shall be free from any external influence, inducement, pressure, threat, 
 ### Art. 8: Judicial Remedies   
 Courts shall have the power to grant appropriate and effective remedies, including but not limited to, monetary compensation, injunctive relief, and declaratory relief, to ensure that the rights and interests of parties are adequately protected and enforced.
 
-### Art. 9: Language**  
+### Art. 9: Language   
 
 § 1  
 State courts shall communicate in Liberlandish, a dialect continuum of English, and parties are responsible for compliance. The judge may direct otherwise, but only if all parties jointly agree to use a language other than Liberlandish.
@@ -41,10 +41,10 @@ When a party requests the service of a translator and/or interpreter, the judge 
 § 2  
 When the protection of a weaker party, such as a party with a sensory impairment, requires interpretation or transcription to make the process understandable for that party, and the use of legal counsel is insufficient, or the party can prove that they have insufficient means to obtain such legal counsel, the judge shall waive the requirement for the party to cover the expenses for translation or interpretation services. Additionally, the judge shall make any necessary accommodations to allow the party to present their case reasonably.
 
-### Art. 10: Civil process**  
+### Art. 10: Civil process    
 Civil process, a procedure concerning matters in private law between parties, shall be the standard form of the process before any Court.
 
-### Art. 9: Criminal process**  
+### Art. 9: Criminal process    
 
 § 1  
 1. Criminal process shall be between Liberland and a private party where the subject matter is alleged non-compliance with the legal system, and Liberland stands as the public accuser.
@@ -53,10 +53,10 @@ Civil process, a procedure concerning matters in private law between parties, sh
 § 2  
 Only State courts shall possess the jurisdiction to decide on a Criminal process. Any contractual stipulations to the contrary shall be null and void.
 
-### Art. 10: Disciplinary process**  
+### Art. 10: Disciplinary process    
 A disciplinary process shall be where a Private Court adjudicates a case between itself or the community that organizes it, or any of its representatives, and a private party where the subject matter is alleged non-compliance with that community's rules, laws, or traditions of the Private Court. The special procedural rules apply to the Disciplinary process as if it were a Criminal Process.
 
-### Art. 11: Private Courts and Alternative Dispute Resolution
+### Art. 11: Private Courts and Alternative Dispute Resolution  
 1. Private courts, arbitration, mediation, and other alternative dispute resolution mechanisms may be established and operated within the territory of Liberland, subject to the general principles and minimum requirements set forth in this law.
 2. Private courts shall have the power to resolve disputes between parties in accordance with the agreed-upon rules and procedures, provided that they do not violate the fundamental principles of justice and fairness enshrined in this law and the Constitution of Liberland.
 
