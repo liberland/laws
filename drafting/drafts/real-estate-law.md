@@ -119,7 +119,7 @@ Predial Servitude is a perpetual real right in another's property (the servient 
 
 3. The initial land division into Parcels is outlined in Annex II of this Law.
 
-#### Art. 12: Registrar
+### Art. 12: Registrar
 
 The Liberland Registrar of Land, henceforth "the Registrar", is an agency under the Ministry of Interior responsible for establishing, managing, and operating Liberland's land registration and the Land Registry.
 ### Art. 13: Registered Information
