@@ -225,7 +225,6 @@ The names and addresses of all witnesses, as well as descriptions of exhibits in
 #### § 1: Preparation of a Decision  
 1. Once the hearing has concluded, the presiding judge or panel of judges shall deliberate on the evidence and arguments presented by the parties.
 2. The court shall consider the facts, the applicable law, and the principles of justice and fairness in reaching a decision.
-3. 
 
 #### § 2: Announcing the Decision  
 4. The decision shall be announced in a timely manner and shall be accompanied by a written explanation of the court's reasoning, including the findings of fact, the legal basis for the decision, and any relevant procedural or evidentiary rulings.
@@ -272,104 +271,51 @@ If the appeal is clearly frivolous or without merit, the court shall set it asid
 2. The appellate court's decision shall be accompanied by a written explanation of its reasoning, including its analysis of the legal issues, its evaluation of the lower court's factual findings, and any relevant procedural or evidentiary rulings.
 3. The appellate decision shall be binding on the lower court and the parties, subject to any further appeals or reviews allowed by law.
 
-
 ### Section 4: Supreme Court
+### Art. 48: Autonomy of the Supreme Court
 
-**Art. 48: Autonomy of the Supreme Court**
+#### § 1: Supreme Court Case Review  
+1. The Supreme Court may select cases to review based on requests from the parties involved or on its own initiative. 
+2. The Supreme Court has the authority to review any case resulting from the regular judicial process, but it generally prioritizes cases concerning the validity of treaties or laws. The Supreme Court may also review ongoing cases that are in the appellate process.
 
-§ 1
+#### § 1: Aged Cases
+As a general rule, the Supreme Court will not review cases where the decision is more than ten years old, except in exceptional circumstances, such as when there is a strong indication that the case was resolved in a grossly unjust manner, with significant consequences for the parties involved, the justice system in Liberland, or individual liberty.
 
-The Supreme Court selects cases that it will hear based on pleas of the Parties or its own accord. It can attract any Case where there is a verdict from the Regular Process, in principle, but the Supreme Court shall, as a rule, prefer cases where the validity of a Treaty or a Law is drawn into question. The Supreme Court may also attract open Cases where the Appeal process is underway.
+### Art. 49: Reopening the Case
+1. When the Supreme Court decides to review a case, the appellate court shall compile a detailed documentation of the case and promptly submit it to the Supreme Court. The court will also notify the applicant and other parties, instructing them to prepare an addendum to their application or response within 30 days.
+2. Upon being informed that the Supreme Court has decided to review the case, the applicant may notify the court that they do not wish to continue the process. In this event, the final decision will be confirmed and the process will end, although the Supreme Court may still choose to reopen the case on its own accord. If the applicant remains silent for more than 8 working days or explicitly confirms their agreement to proceed with the case, the case will be reopened and heard by the Supreme Court.
+3. After the applicant has either remained silent or confirmed their consent to proceed before the Supreme Court, they may not withdraw or modify their application.
 
-§ 2
+### Art. 50: Supreme Court Process
+1. The process before the Supreme Court follows the same general structure as the regular judicial process. However, the justices of the Supreme Court may choose to disregard or modify any phase of the process as they deem necessary. If they decide to make any changes, they shall inform the parties at the commencement of the proceedings.
+2. The Supreme Court has the discretion to admit or dismiss any new facts and evidence, even if they were known during the previous stages of the process. In its decision, the Supreme Court has complete autonomy and may disregard any aspect of the previous process as it sees fit.
 
-The Supreme Court will, as a rule, not take in Cases where the Verdict is older than ten years, except where it has good reasons to assume that the Case was resolved grossly unjust, with exceptionally high consequence for the Parties or for the system of justice in Liberland or for the interests of individual liberty.&#x20;
+## Section 5: Private Courts
 
-**Art. 49: Reopening the Case**
+### Art. 51: Purpose of Private Courts
+1. Private Courts exist primarily to ensure the protection and respect of property rights as defined in Book 1 of this Constitution, under all circumstances, even when the property owner is unable to provide such protection themselves.
+2. Private Courts may establish additional purposes for their existence and operation, such as the administration of justice, promotion of fair treatment, or protection of the weak against the strong, provided that these purposes are always considered ancillary to safeguarding property rights.
 
-§ 1
+### Art. 58: General Jurisdiction of State Courts
+Individuals are under the jurisdiction of State courts unless they enter into a contract with a Private Court.
 
-1. Where a Case is taken in by the Supreme Court, he Court of Appeal puts together all the information in a detailed documentation and sends it without delay to the Supreme Court.&#x20;
-2. The Court also informs the Applicant and the other Parties of this and instructs them to create an Addendum to their Application or Response. They have 30 days to do so.
+### Art. 59: Delict Proceedings before Private Courts
+1. In delict cases, the State may enforce the jurisdiction of State courts and disregard any contract between the party and a Private Court if it is likely that the Private Court would not resolve the case justly.
+2. Private courts shall not have jurisdiction over delicts where the guilty party would pay more than 5 BTC in damages or as punishment, or over any criminal proceedings. If this becomes evident later during the process, the Private Court shall transfer the case to a State Court without delay for a new process. The proceedings before the Private Court may be used as evidence but shall not bind the State Court.
 
-§ 2
+### Art. 60: Private Courts and the Constitution
+Book 1 of this Constitution, as well as any rights and freedoms stipulated by the Constitution, shall be binding upon Private Courts as if the Private Court were the Government.
 
-1. Upon receiving the information that the Supreme Court has decided to attract the Case to it, the Applicant may inform the Supreme Court that they do not wish to continue the process. In that case, the Final verdict is confirmed and the process ends, although the Supreme Court might ask again to reopen the Case on its own accord.
-2. Where the Applicant stays silent for more than 8 working days or confirms in writ or in word that the Case may proceed, the Case is Reopened and the Supreme Court shall hear it.
+### Art. 61: Minimal Standards
+1. The State reserves the right to impose minimal standards on Private Courts concerning equality, fairness, and access to legal recourse in their legal processes, as well as other matters deemed necessary to protect equality before the law and individual liberty in Liberland.
+2. Private Courts must ensure that the substantive law or other rules, such as tradition, jurisprudence, and international arbitration rules, according to which they dispense justice, are presented and made public in advance.
 
-§ 3
+### Art. 62: Compatibility
+Private Courts shall recognize the decisions of Liberland State Courts and other Private Courts, even if they originate from different communities with conflicting rules or traditions.
 
-The Applicant, after they had once staid silent or confirmed their consent with the proceedings before the Supreme Court, cannot take back nor alter their Application.
+### Art. 63: Hierarchy
+All Private Courts shall recognize the Supreme Court as the ultimate appellate authority in Liberland. The jurisprudence of the Supreme Court shall be binding upon Private Courts, and they shall not make decisions contrary to it.
 
-**Art. 50 Supreme court process**
-
-§ 1
-
-The Process before the Supreme Court resembles in all ways the Regular process, but the Justices of the Supreme Court may disregard any phase they see fit. They can also modify rules. If they decide to do so, they shall inform the Parties of it as they start the Proceedings.
-
-§ 2
-
-The Supreme court is free to admit or dismiss any new facts and evidences, even if these were known during the previous phases of the Process. In its verdict, the Supreme Court has a complete autonomy and may disregard anything from the previous process as it sees fit.
-
-## Book 4: Private Courts
-
-**Art. 51: Purpose of Private Courts**
-
-§ 1
-
-Like the Administration, Private Courts shall exist primarily to ensure that the rights according to the Book 1 of this Constitution, henceforth "Property Rights", shall be respected and efficiently protected under all circumstances, even when it is not in the owner's powers to provide this protection themselves.&#x20;
-
-§ 2
-
-Private Courts shall be free to set up other purposes for their existence and operation, such as the administration of justice, the promotion of fair treatment or the protection of the weak against the strong, provided that Private Courts always interpret those as ancillary to the safeguarding of Property Rights.
-
-**Art. 52: Jurisdiction**
-
-§ 1
-
-Every person or other entity in Liberland shall be under the jurisdiction of State courts unless they enter a contract with a Private Court.
-
-§ 2
-
-1. In processes over delicts, the State shall have the option to enforce the jurisdiction of State courts and neglect any contract between the party and a Private Court, where it is likely that a Private Court would not resolve the case justly or according to the Purpose as stated in Art. 1 of this Constitutional Amendment.
-2. Regardless of any contractual obligations to the contrary, private courts shall not have jurisdiction regarding delicts where the guilty party would pay more than 5 BTC in damages or as punishment.
-
-**Art. 53: Private Courts and the Constitution**
-
-§ 1
-
-Book 1 and the Book 3 of this Constitution shall be binding upon any Private Courts as if the Private Court was the Administration.
-
-§ 2
-
-Religious Private Courts and Private Courts set up by other communities to judge according to their rules are allowed to exist only if they and their founding communities respect the rights guaranteed by this Constitution.
-
-1.
-
-**Art. 54: Minimal standards**
-
-§ 1
-
-The State reserves the right to mandate upon Private Courts minimal standards of the legal process concerning its equality, fairness and access to legal recourse, and other matters as the State should find necessary to protect equality before the law and individual liberty in Liberland.
-
-§ 2
-
-Private Courts shall ensure that the substantive law according to which they dispense their justice, or other such rules like tradition, jurisprudence, and international arbitration rules, shall be presented and made public in advance.&#x20;
-
-**Art. 55: Compatibility**
-
-A Private Court shall always consider Liberland State Courts' verdicts valid and likewise shall recognise other Private Courts' decisions, even if those come from different communities with conflicting rules or traditions.
-
-**Art. 56: Hierarchy**
-
-All Private Courts shall recognise the Supreme Court as the ultimate instance of appeal in Liberland. The jurisprudence of the Supreme Court shall be binding upon the Private Courts as it is upon any State Court, and they shall not make decisions contrary to it.
-
-**Art. 57: Sanctions**
-
-§ 1
-
-Any verdict made by a Private Court in violation of the provisions of this Law shall be considered invalid.
-
-§ 2
-
-The State shall disestablish any Private Court repeatedly found in breach of the provisions of this Constitutional Amendment and any Law that may expand upon it that is found unwilling or unable to rectify the situation.
+#### Art. 64: Sanctions
+1. Any decision made by a Private Court in violation of the provisions of this Law shall be considered invalid.
+2. The State shall disestablish any Private Court repeatedly found in breach of the provisions of this Constitutional Amendment and any law expanding upon it if the court is found unwilling or unable to rectify the situation. The parties to cases adjudicated within the last 3 years by a disestablished court may use the process of appeal before their State court within the 20 days of being informed about the decision of disestablishment.
