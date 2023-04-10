@@ -25,16 +25,16 @@ The Immigration and Border Service (IBIS) shall be an agency within the Ministry
 Border Officers shall be responsible for enforcing border regulations and ensuring border security. They shall be authorized to act as Security Agents in relation to border-related events, situations, and offenses, including crimes.
 
 ### Article 5: Immigration Officers
-Immigration Officers shall be classified into three tiers, with powers allocated as follows:
-a) A First-Class Immigration Officer may waive one or more visa or entry requirements. The Director, the Minister of Interior, and the President shall possess equivalent powers to this rank by virtue of their respective offices.
-b) A Second-Class Immigration Officer may waive one or more, but not all, visa or entry requirements, subject to authorization from a higher-ranking Immigration Officer.
-c) A Third-Class Immigration Officer may not waive any visa or entry requirements.
+Immigration Officers shall be classified into three tiers, with powers allocated as follows:  
+a) A First-Class Immigration Officer may waive one or more visa or entry requirements. The Director, the Minister of Interior, and the President shall possess equivalent powers to this rank by virtue of their respective offices.  
+b) A Second-Class Immigration Officer may waive one or more, but not all, visa or entry requirements, subject to authorization from a higher-ranking Immigration Officer.  
+c) A Third-Class Immigration Officer may not waive any visa or entry requirements.  
 
 ### Article 6: IBIS Regulatory Authority
 The Border Service shall establish and maintain regulations pertaining to:
-a) Border delimitation;
-b) Border crossing procedures and required conduct when approaching borders; and
-c) Organizational and professional rules for IBIS personnel.
+a) Border delimitation;  
+b) Border crossing procedures and required conduct when approaching borders; and  
+c) Organizational and professional rules for IBIS personnel.  
 
 ## Section 3: Identification
 ### Article 7: Identity Verification
@@ -49,9 +49,9 @@ c) Organizational and professional rules for IBIS personnel.
     a) Past and current criminal convictions;  
     b) Affiliations with known terrorist or extremist groups; and  
     c) Previous visa refusals.  
-2) If an Immigration Officer has doubts regarding an Applicant's character, the officer may request that the Applicant provide specific evidence of good character, which may include but is not limited to:  
-    a) A Certificate of Good Conduct or similar document;  
-    b) A Police Certificate issued by national or local law enforcement authorities from  
+2) If an Immigration Officer has doubts regarding an Applicant's character, the officer may request that the Applicant provide specific evidence of good character, which may include but is not limited to a:  
+    a) Certificate of Good Conduct or similar document;  
+    b) Police Certificate issued by national or local law enforcement authorities from  
 ### Article 9: Health
 Any non-Citizen Applicant must comply with the immigration officer if asked to prove that they are not carrying a communicable disease, or their Application shall be denied.
 
@@ -90,19 +90,19 @@ An Immigration Officer First Class may derogate from these demands in cases wher
 2) A person holding the Residence Visa shall not be treated differently from Liberland Citizens performing similar gainful employment by reason of their nationality in respect of any conditions of employment and work, in particular as regards remuneration, dismissal, and, should they become unemployed, reinstatement or re-employment. They shall enjoy the same social and tax advantages as nationals in gainful employment.  
 
 #### § 2   
-1) The applicant for a Residence Visa shall be:
+1) The applicant for a Residence Visa shall be:  
    a) at least 17 years old or older;  
    b) a person intending genuine and honest work in the sense of gainful employment;  
-      i. by virtue of evidence of an official offer of employment by the prospective employer which is a Liberland-based person or institution,  
-      ii. by virtue of evidence of past record of employment or accepted professional qualifications, such as trade or university diplomas and at least 3000 USD of disposable income in provable possession; and  
+     > i. by virtue of evidence of an official offer of employment by the prospective employer which is a Liberland-based person or institution,  
+     > ii. by virtue of evidence of past record of employment or accepted professional qualifications, such as trade or university diplomas and at least 3000 USD of disposable income in provable possession; and  
    c) has at least 3 000 USD in disposable income in provable possession;  
    d) when not in gainful employment or not performing gainful economic activity, they shall actively seek such employment or economic activity; where they are unable to do so, they shall do their best to put themselves into the position of being able to do so in future.  
 2) If the applicant doesn't fulfill the requirements as listed above, the applicant needs to prove that they possess sufficient means to survive in Liberland, which include:  
    a) at least 120 000 USD in disposable income in provable possession; or  
    b) the written statement by another person or by an organization of repute testifying they will provide for them, where such a person or organization is in provable possession of at least 120 000 USD in disposable income; or  
    c) at least 12 000 USD and they are:  
-      i. students of any type of school, or  
-      ii. pro-bono workers performing work provably beneficial to others,  
+     > i. students of any type of school, or  
+     > ii. pro-bono workers performing work provably beneficial to others,  
    and their Residence Visa shall be retained for as long as their study or pro-bono work lasts plus 4 election terms  
 
 #### § 3  
