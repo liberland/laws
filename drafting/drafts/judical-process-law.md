@@ -3,7 +3,7 @@
 ## Preamble
 Recognizing the fundamental principles of justice, fairness, and the rule of law, the Judicial Process Law of Liberland establishes a framework for the administration of justice within the Liberland. This law outlines the essential requirements for a judicial process to be considered lawful and serves as the procedural foundation for the Supreme Court, state-funded lower courts, and private dispute resolution mechanisms within the territory of Liberland.
 
-## Chapter 1: General Principles   
+## Section 1: General Principles   
 
 ### Art. 1: Purpose  
 The purpose of this law is to provide for the establishment, organization, and functioning of the judicial system in Liberland, ensuring that justice is accessible, effective, and impartial for all who seek it.
@@ -60,7 +60,7 @@ A disciplinary process shall be where a Private Court adjudicates a case between
 1. Private courts, arbitration, mediation, and other alternative dispute resolution mechanisms may be established and operated within the territory of Liberland, subject to the general principles and minimum requirements set forth in this law.
 2. Private courts shall have the power to resolve disputes between parties in accordance with the agreed-upon rules and procedures, provided that they do not violate the fundamental principles of justice and fairness enshrined in this law and the Constitution of Liberland.
 
-## Book 2: Civil Process  
+## Section 2: Civil Process  
 
 ### Art. 14: Role of the Judge
 1. The judge is the official through which a court acts in matters of the judicial process.
@@ -108,110 +108,56 @@ Pleadings and motions shall be clear, concise, and set forth the parties' respec
 1. Parties to a civil proceeding shall be entitled to conduct discovery and obtain evidence in a manner prescribed by the rules of the court or applicable law.
 2. The court shall have the authority to issue orders and sanctions as necessary to ensure the proper and efficient conduct of discovery and the preservation of evidence.
 
-### Art. 23: Pre-Trial Conference and Settlement
+### Art. 23 Non-Controversial Cases
+
+#### § 1  
+1. Non-controversial cases shall be subject to a simplified and expedited judicial process, designed to resolve matters efficiently and without undue delay.
+2. The court may, at its discretion or upon request by a party, reclassify a case initially designated as non-controversial if it becomes apparent that the matter involves significant controversy, complexity, or the need for a more comprehensive judicial process.
+
+#### § 2  
+The court shall establish and maintain separate procedural rules for non-controversial cases, which may include, but are not limited to, streamlined pleadings, limited discovery, and shortened timelines for the submission of documents and the scheduling of hearings.
+
+#### § 3  
+In non-controversial cases, the court shall not require mandatory mediation or alternative dispute resolution methods as a prerequisite to proceeding with the judicial process.
+
+#### § 4    
+The court shall ensure that the special rules for non-controversial cases are accessible and comprehensible to all parties, including self-represented litigants, to facilitate their effective participation in the judicial process.
+
+### Art. 24: Pre-Trial Conference and Settlement
 1. Prior to the commencement of a trial, the court may convene a pre-trial conference to discuss and resolve procedural matters, narrow the issues in dispute, and explore the possibility of settlement.
 2. The court may encourage parties to reach a mutually acceptable resolution of their dispute through negotiation, mediation, or other alternative dispute resolution methods.
+ 
+### Art. 25: Withdrawal of the Application
+1. The applicant may terminate the judicial process by withdrawing their application. In non-controversial cases, they can do so at any time.
+2. In controversial cases, withdrawal is only permissible until the first respondent has been notified. After that point, the applicant and the respondents must jointly consent to the withdrawal for the case to be terminated.
+3. Any court costs incurred before the case is prematurely terminated shall remain the responsibility of the relevant parties.
 
+### Art. 25: Modification of the Application
 
-**Art. 22: Hearing the other Parties**
+#### § 1
+1. The applicant may modify the application at any time, which may result in changes to the case. If this leads to increased court costs, the applicant shall be responsible for paying these costs before the case can be amended.
+2. If the modification causes damages to a respondent, and those damages arise solely or predominantly from the applicant's negligence or frivolous modifications, the applicant shall be liable for compensating the respondent(s) for the damages and any additional court costs.
+3. The case shall be amended upon the applicant's payment of the full amount of court costs and damages to respondents, where applicable. Until full payment is made, the court shall proceed as if no modification was requested. Any court costs incurred during this time must also be paid before the change can take effect.
+4. If the applicant fails to pay the full amount of court costs and damages to respondents, where required, within 5 days after the modification is submitted, the modification shall be disregarded, and the case shall remain unchanged.
 
-§ 1
+#### § 2
+If the modification would cause significant damages or issues to the respondent(s), or if the modification is made solely or predominantly to directly harm the respondents, or if the court deems it to be entirely frivolous, the court may summarily dismiss the modification, and the case shall remain unchanged.
 
-Upon starting a Case upon an Action, the Court shall inform all the other designed Parties without unnecessary delays that the Applicant has filled an Action against them, and it shall deliver the Action to each of the other Parties.
+### Art. 26: Mandatory Mediation for Controversial Civil Cases
+In controversial civil cases, parties shall be required to participate in mandatory mediation before proceeding to a trial, with the aim of resolving disputes amicably and efficiently.
 
-§ 2
+### Art. 27: Appointment of Mediator
+The court shall appoint a qualified and impartial mediator to facilitate the mediation process, who shall assist the parties in exploring mutually acceptable resolutions to their dispute.
 
-1. The Court shall require each of the other Parties to write up a Response to describe their reaction to the Action.&#x20;
-2. They shall have 30 days for Cases of regular complexity and 60 days where the Object is worth more than 1 BTC. This shall be known as the Regular Timing.
+### Art. 28: Conduct of Mediation
+1. The mediator shall conduct the mediation in a neutral and confidential manner, ensuring that the parties have the opportunity to fully present their positions, interests, and concerns.
+2. The mediator shall not have the authority to impose a settlement or make binding decisions on behalf of the parties. Instead, the mediator shall work with the parties to help them reach a voluntary agreement.
 
-**Art. 23: Response**
+### Art. 29: Good Faith Participation
+The parties shall participate in the mediation process in good faith, actively engaging in discussions, exchanging relevant information, and considering the proposals and suggestions put forth by the mediator and the other party.
 
-The other Parties shall prepare and deliver to the Court their Response. The Response shall fulfil the same requirements as the Law sets upon an Action.
-
-**Art. 24: Pre-Hearing Conference**
-
-1. The Court shall invite each Party and their Legal Counsel to a pre-Hearing Conference, for the purpose of meeting the Party in person and hearing their claim and to be able to cross-examine their Case.&#x20;
-2. The Parties shall be free to accept or reject this invitation without special consequences for their standing during the Process. Where, however, the pre-Hearing Conference would have provided greater clarity about the Case and its absence would adversely influence the final decision, there shall be no recourse for the Party that has freely rejected the Invitation or failed to appear.
-
-**Art. 25: Taking back the Application**
-
-1. The Applicant may end the Process by Taking Back their Application. In Non-Controversial Cases, hey can do so at any time.&#x20;
-2. In Controversial Cases, they can only do that until the first Respondent has been informed. After that, the Applicant and the Respondents must agree with the Taking Back for the Case to end.
-3. The Court Costs that had been made before the Case is prematurely ended survive the ending.
-
-**Art. 26: Altering the Aplication**
-
-§ 1
-
-1. The Applicant may Alter the Application at any time, thereby changing the Case, but where this causes increased Court Costs, the Applicant shall pay these before the Case can be changed.
-2. Where this may cause damages to a Respondent and where those damages are caused solely or predominantly by the Applicant's negligence or frivolous Alterations, the Applicant shall pay the damages to the Respondent or Respondents as well as the Court Costs.
-3. The Case Changes by the Applicant paying the full amount of Court Costs and damages to Respondents where applicable. Until the full payment, the Court treats the Case as if no Alternation was taking place. Court Costs incurred during that time must be likewise paid before the change can take place.&#x20;
-4. Should the Applicant fail to pay the full amount of Court Costs and damages to Respondents where required within the 5 days after the Alternation is submitted, the Alternation shall be set aside and the Case shall remain unchanged.
-
-§ 1
-
-Where the Alternation should cause significat damages or issues to the Respondent or where the Alternation is made solely or predominantly in order to directly damage the Respondents, or where the Court judges it completely frivolous, the Court may summarily set aside the Alternation and the Case shall remain unchanged.
-
-**Art. 27: Preliminary verdict**
-
-§ 1
-
-Judge shall make a Preliminary verdict upon having studied the Case and the materials accompanying the Case and such facts as they have been able to obtain on their own accord, but without any further motions by the Parties.
-
-§ 2
-
-1. The Preliminary verdict shall be made after 10 workdays of study and preparations. It shall then be delivered to all the Parties without delay.&#x20;
-2. Where a Party doesn't react within the 7 days after the Preliminary verdict is delivered to them, the Party shall be assumed to have agreed with the Preliminary verdict in full.
-
-§ 3
-
-1. Where all Parties agree with the Preliminary verdict in full, the Process shall end, and the Preliminary verdict shall become the verdict deciding this Case.&#x20;
-2. Otherwise, the Judge shall attempt to mediate the case.
-
-**Art. 28: Non-controversial Cases**
-
-Where the Case is Non-Controversial, the Judge shall make their verdict deciding the Case in this phase and deliver it to the Applicant and other Parties, where necessary. There shall be no Mediation or Adjudication in Non-controversial Cases.
-
-#### Subsection 2: Mediation
-
-**Art. 29: Offering Mediation**
-
-The Judge shall ask the Parties whether they are interested in Mediation. Where one of the Parties is categorically opposed to Mediation, they will confirm their rejection in writing and deliver it to the Court without delay. There shall be no Mediation attempt in that case.
-
-**Art. 30: Mediation Process**
-
-§ 1
-
-Where the Parties agree to Mediation, the Judge shall assign the Case to a Mediator where the Court employs Mediators; otherwise, the Judge shall act as the Mediator.
-
-§ 2
-
-1. The Mediator shall meet with the Parties as often as required and shall attempt to bring them to a consensual conclusion of their Case.&#x20;
-2. The Mediator shall, together with the Parties, draft a Mediation proposal within ten working days, which they may prolong once in Case of an extremely difficult proposal.&#x20;
-
-§ 3
-
-1. The Mediation Proposal shall be a proposal of a compromise between the Parties based on what the Parties can agree upon, rather than an attempt at an objective verdict regarding the Case.
-2. The Mediation Proposal shall be, as much as possible, based on the facts of the Case supported by Evidence, just as a regular verdict would be.
-3. Where possible, the Case shall be split into individual Points, and the Judge shall strive to resolve as many of these Points during the Mediation Process as possible.
-
-**Art. 31: Mediation Proposal**
-
-§ 1
-
-1. The Judge shall present the Mediation Proposal to the Parties. The Mediation shall be open for 30 days. The Court shall make a Final verdict from all Points upon which all the Parties agree in full. The Court shall not deviate from the text of the Points as described in the Mediation Proposal.
-2. Where a Party doesn't react for the 3o days, the Court shall act as if that Party has agreed to the Mediation Proposal in full upon the passing of the 3oth day.
-
-§ 2
-
-The Final verdict coming out of a succesful Mediation shall have the same position in process law as a Final verdict of the last Appealing Instance. As such, no Appeal shall be possible against it.
-
-**Art. 32: Ending the Mediation**
-
-1. If one or more Points remain outstanding, the Applicant may put them together and document them with Evidence, according to the rules of making an Application.&#x20;
-2. They shall have 10 days to send this reworked Application to the Judge so that the Judge may schedule the adjudication of the dispute by the means of a Hearing.
-3. Alternatively, the Applicant may at this point take back the Application as to some or all these outstanding Points without paying additional Court Costs or damages connected to the Taking Back.
-4. Where the Applicant fails to send the reworked Application in 10 working days, the Judge shall assume that they have Taken Back the Application and shall conclude the Process by the accepted Mediation Proposal with all the consequences thereof.
+### Art. 30: Settlement Agreement and Court Approval
+If the parties reach an agreement through mediation, they shall submit the agreement to the court for approval. Once approved by the court, the agreement shall have the same legal effect as a judgment in a contested trial.
 
 #### Subsection 3: Hearing
 
