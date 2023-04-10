@@ -113,10 +113,11 @@ Liberland shall be divided into Districts to maintain security, and Personnel an
 #### § 3  
 1. The supreme body of Cantonal Security shall be the Cantonal Security Commission, which makes decisions regarding the organizational structure, rules, regulations, and policies governing the operations of Cantonal Security.
 2. The Cantonal Minister of Interior, or the corresponding official, shall establish Cantonal Security, with the Cantonal Director as its head. The other four members shall be:  
-a) a Cantonal Court Judge nominated by the Cantonal Minister of Justice, or the corresponding official, and appointed by the head of the Canton;  
-b) a representative of the Cantonal Congress, or the corresponding body;  
-c) a Senator nominated by the Senate and appointed by the President; and  
-d) a former senior Agent of the Security Agency with distinguished skills and an impeccable reputation, nominated by the Cantonal Minister of Interior, or the    corresponding official, and appointed by the head of the Canton.  
+<ol type="a">
+<li> a Cantonal Court Judge nominated by the Cantonal Minister of Justice, or the corresponding official, and appointed by the head of the Canton;</li> 
+<li> a representative of the Cantonal Congress, or the corresponding body; </li>
+<li> a Senator nominated by the Senate and appointed by the President; and </li> 
+<li> a former senior Agent of the Security Agency with distinguished skills and an impeccable reputation, nominated by the Cantonal Minister of Interior, or the    corresponding official, and appointed by the head of the Canton. </li></ol>
 
 #### § 4   
 1. The Commissioners shall perform their duties as part of their original office and shall not become Agents of Cantonal Security.  
@@ -162,7 +163,7 @@ e) Other Agents as required to fulfill the tasks of the Security Agency as outli
 #### § 1  
 1. Security Professionals shall be organized in a hierarchical structure. Professionals of lower ranks shall perform their tasks under the supervision and direction of their superiors, who shall hold higher ranks.  
 2. The following Ranks shall be assigned among the Security Professionals:    
-a) Security Agent, who shall be directly responsible for the fulfillment of the tasks of the State Security as outlined in this Law; their Agent Level shall be 2;
+a) Security Agent, who shall be directly responsible for the fulfillment of the tasks of the State Security as outlined in this Law; their Agent Level shall be 2;  
 b) Senior Security Agent, who shall guide and mentor junior Security Agents; their Agent Level shall be 3;  
 c) Commissar, who shall be responsible for organizing Security Agents at the operational level; one to four Security Officers, depending on the size of the District, shall form the leadership of every Security Office; their Agent Level shall be 4;  
 d) Security Chief shall be responsible for coordinating several Districts. Security Chiefs shall also be responsible for organizing Cantonal Security. The Cantonal Director shall also hold the rank of Security Chief; their Agent Level shall be 5; and  
