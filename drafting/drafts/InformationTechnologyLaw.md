@@ -43,22 +43,22 @@ e) petitioning the Government or other public institutions.
 ## Section 2: Personal Data Protection
 
 ### Article 5: Contract
-1) Where the information and personal data control is necessary for the performance of a contract to which the data subject is party or in order to take steps at the request of the data subject prior to entering into a contract, such control shall be permitted.
+Where the information and personal data control is necessary for the performance of a contract to which the data subject is party or in order to take steps at the request of the data subject prior to entering into a contract, such control shall be permitted.
 
 ### Article 6: Consent
 
 #### § 1: Definition of Consent  
-1) Government can control personal data where the data subject has given consent to the processing of his or her personal data for one or more specific purposes; the data subject shall always retain the right to take their consent back, at which point the personal data control shall cease; the data subject shall always retain the right to be forgotten and the response to the taking back of consent shall be immediate.
+Government can control personal data where the data subject has given consent to the processing of his or her personal data for one or more specific purposes; the data subject shall always retain the right to take their consent back, at which point the personal data control shall cease; the data subject shall always retain the right to be forgotten and the response to the taking back of consent shall be immediate.
 
 #### § 2: Limitations on Data Processing Based on Consent  
 1) Where data control is based on consent, the controller shall be able to demonstrate that the data subject has consented to processing of his or her personal data. If the data subject’s consent is given in the context of a written declaration which also concerns other matters, the request for consent shall be presented in a manner which is clearly distinguishable from the other matters, in an intelligible and easily accessible form, using clear and plain language.
 2) Where the data subject is a child below the age of 16 years, data control shall be lawful only if and to the extent that consent is given or authorised by the holder of parental responsibility over the child.
 
 #### § 3: Right to Withdraw Consent  
-1) The data subject shall have the right to withdraw his or her consent at any time. The withdrawal of consent shall not affect the lawfulness of processing based on consent before its withdrawal. Prior to giving consent, the data subject shall be informed thereof. It shall be as easy to withdraw as to give consent.
+The data subject shall have the right to withdraw his or her consent at any time. The withdrawal of consent shall not affect the lawfulness of processing based on consent before its withdrawal. Prior to giving consent, the data subject shall be informed thereof. It shall be as easy to withdraw as to give consent.
 
 ### Article 7: Constitutional and Legal License
-1) Where the Constitution or a law sets up a government function the correct exercise of which according to the best available practices and technology requires information and data control, such shall be performed with maximal care with respect to anyone who could be affected by this processing, above and beyond the standard of care prescribed for the other lawful purposes.
+Where the Constitution or a law sets up a government function the correct exercise of which according to the best available practices and technology requires information and data control, such shall be performed with maximal care with respect to anyone who could be affected by this processing, above and beyond the standard of care prescribed for the other lawful purposes.
 
 ### Article 8: Sensitive Information
 
