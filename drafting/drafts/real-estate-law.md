@@ -288,7 +288,9 @@ Upon the incorporation of Liberland, the Minister of Interior, acting in the nam
 #### § 1: Zoning Reservation
 
 Any lease of property shall be made with the reservation that the State retains the following rights to the land and any future real estate built on that land:  
+
 a) The property shall be used only in ways in which it or the underlying land parcel has been zoned for;  
+
 b) This restriction shall be retained even where future subleases between private parties take place and shall exist in perpetuity.  
 
 #### § 2: Retention of Zoning Rights
@@ -298,8 +300,11 @@ The State retains the right to change the zoning later on. This can be done unil
 ### Art. 29: Sanctions
 
 If the Ministry of Interior finds that land is not being used in line with the zoning, they shall be able to make a case before the Judiciary. The Judiciary shall use remedies of:  
+
 a) Suspension of citizenship rights;  
+
 b) Monetary fine, issuable repeatedly, up to a maximum of five percent of the market value of the property; and, ultimately;  
+
 c) Termination of the lease agreement and reclamation of the property by the State.  
 
 ## Section 8: Transitory and Final Provisions
