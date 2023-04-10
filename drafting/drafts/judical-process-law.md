@@ -34,11 +34,11 @@ Courts shall have the power to grant appropriate and effective remedies, includi
 
 ### Art. 9: Language   
 
-#### § 1  
-State courts shall communicate in Liberlandish, a dialect continuum of English, and parties are responsible for compliance. The judge may direct otherwise, but only if all parties jointly agree to use a language other than Liberlandish.
-When a party requests the service of a translator and/or interpreter, the judge shall arrange that at the expense of the requesting party.
+#### § 1: Liberlandish as the Default Process Language  
+1. State courts shall communicate in Liberlandish, a dialect continuum of English, and parties are responsible for compliance. The judge may direct otherwise, but only if all parties jointly agree to use a language other than Liberlandish.
+2. When a party requests the service of a translator and/or interpreter, the judge shall arrange that at the expense of the requesting party.
 
-#### § 2  
+#### § 2: Protection of a Weaker Party  
 When the protection of a weaker party, such as a party with a sensory impairment, requires interpretation or transcription to make the process understandable for that party, and the use of legal counsel is insufficient, or the party can prove that they have insufficient means to obtain such legal counsel, the judge shall waive the requirement for the party to cover the expenses for translation or interpretation services. Additionally, the judge shall make any necessary accommodations to allow the party to present their case reasonably.
 
 ### Art. 10: Civil process    
@@ -46,11 +46,13 @@ Civil process, a procedure concerning matters in private law between parties, sh
 
 ### Art. 11: Criminal process    
 
-#### § 1  
-1. Criminal process shall be between Liberland and a private party where the subject matter is alleged non-compliance with the legal system, and Liberland stands as the public accuser.
-2. Special procedural rules apply to criminal processes to protect the accused and ensure even higher standards of justice than the standard procedural rules.
+#### § 1: Defining Criminal Process
+Criminal process shall be between Liberland and a private party where the subject matter is alleged non-compliance with the legal system, and Liberland stands as the public accuser.
 
-#### § 2  
+#### § 1: Special Rules for Criminal Process
+Special procedural rules apply to criminal processes to protect the accused and ensure even higher standards of justice than the standard procedural rules.
+
+#### § 3: State Monopoly on Criminal Process  
 Only State courts shall possess the jurisdiction to decide on a Criminal process. Any contractual stipulations to the contrary shall be null and void.
 
 ### Art. 12: Disciplinary process    
@@ -77,12 +79,12 @@ No party shall be deprived of a judge assigned to them, except where the party g
 
 ### Art. 17: Judicial Conduct
 
-#### § 1  
+#### § 1: Impartiality  
 1. The judge shall act impartially and in the interest of justice, upholding legitimately obtained private property and being mindful of the personal situations of the parties and their power differences.
 2. The judge shall base each statement in any verdict on evidence and well-reasoned logic only, and according to law and principles of justice.
 After a case has commenced, there shall be no ex parte communication between the judge and the parties, or between the court and other persons relevant to the case, such as witnesses, unless explicitly permitted by consent of all parties.
 
-#### § 2  
+#### § 2: Partial Judges  
 1. A judge who has a personal connection to one or more of the parties or the object of the case shall be deemed partial where that connection is judged sufficient to influence their decision-making.
 2. If a party suspects partiality, they may appeal to the court, which shall appoint three judges to decide on the impartiality of the fellow judge. A judge in doubt of being partial may also initiate this process themselves.
 3. A partial judge shall be replaced according to the rules of the court. Partiality in itself shall not be counted against the judge without it having led to unjust decisions or breaches of due process, or without it having been found in extenuating circumstances (i.e., the judge must have known that they were partial and not reported it).
@@ -93,12 +95,12 @@ After a case has commenced, there shall be no ex parte communication between the
 2. A judicial decision may be made verbally or in writing. However, a written copy, signed and affirmed by the judge, shall always be made available at the judge's discretion or upon request by a party. When translation services are being used, simultaneous translations into other languages shall be provided in writing. The decision binds the court upon the judge's signature.
 
 ### Art. 19: Commencement of Civil Proceedings
-1. A civil proceeding shall be initiated by the filing of a complaint or petition by the plaintiff or petitioner with the appropriate court.
-2. The complaint or petition shall set forth the relevant facts, legal basis for the claim, and the relief sought by the plaintiff or petitioner.
+A civil proceeding shall be initiated by the filing of an application by the applicant with the appropriate court.
+The application shall set forth the relevant facts, legal basis for the claim, and the relief sought by the applicant.
 
 ### Art. 20: Service of Process
-1. Upon the filing of a complaint or petition, the court shall issue a summons or notice to the defendant or respondent, requiring them to appear and respond to the claim within a specified period.
-2. The summons or notice shall be served on the defendant or respondent in a manner prescribed by law or regulation, ensuring that they receive proper notice of the proceedings and an opportunity to defend themselves.
+1. Upon the filing of an application, the court shall issue a summons or notice to the respondent or respondents, requiring them to appear and respond to the claim within a specified period.
+2. The summons or notice shall be served on the respondent in a manner prescribed by law or regulation, ensuring that they receive proper notice of the proceedings and an opportunity to defend themselves.
 
 ### Art. 21: Pleadings and Motions
 Parties to a civil proceeding shall submit pleadings and motions in accordance with the rules and procedures established by the court or applicable law.
@@ -110,37 +112,33 @@ Pleadings and motions shall be clear, concise, and set forth the parties' respec
 
 ### Art. 23 Non-Controversial Cases
 
-#### § 1  
+#### § 1: Simplified Rules for Non-Controversial Cases 
 1. Non-controversial cases shall be subject to a simplified and expedited judicial process, designed to resolve matters efficiently and without undue delay.
-2. The court may, at its discretion or upon request by a party, reclassify a case initially designated as non-controversial if it becomes apparent that the matter involves significant controversy, complexity, or the need for a more comprehensive judicial process.
+2. The court shall establish and maintain separate procedural rules for non-controversial cases, which may include, but are not limited to, streamlined pleadings, limited discovery, and shortened timelines for the submission of documents and the scheduling of hearings.
+3. The court shall ensure that the special rules for non-controversial cases are accessible and comprehensible to all parties, including self-represented litigants, to facilitate their effective participation in the judicial process.
 
-#### § 2  
-The court shall establish and maintain separate procedural rules for non-controversial cases, which may include, but are not limited to, streamlined pleadings, limited discovery, and shortened timelines for the submission of documents and the scheduling of hearings.
+#### § 2: Reclasification of Non-Controversial Cases to Controversial Cases
+The court may, at its discretion or upon request by a party, reclassify a case initially designated as non-controversial if it becomes apparent that the matter involves significant controversy, complexity, or the need for a more comprehensive judicial process.  
 
-#### § 3  
+#### § 3: No Mandatory Mediation for Non-Controversial Cases  
 In non-controversial cases, the court shall not require mandatory mediation or alternative dispute resolution methods as a prerequisite to proceeding with the judicial process.
-
-#### § 4    
-The court shall ensure that the special rules for non-controversial cases are accessible and comprehensible to all parties, including self-represented litigants, to facilitate their effective participation in the judicial process.
-
-### Art. 24: Pre-Trial Conference and Settlement
-1. Prior to the commencement of a trial, the court may convene a pre-trial conference to discuss and resolve procedural matters, narrow the issues in dispute, and explore the possibility of settlement.
-2. The court may encourage parties to reach a mutually acceptable resolution of their dispute through negotiation, mediation, or other alternative dispute resolution methods.
  
-### Art. 25: Withdrawal of the Application
+### Art. 24: Withdrawal of the Application
 1. The applicant may terminate the judicial process by withdrawing their application. In non-controversial cases, they can do so at any time.
 2. In controversial cases, withdrawal is only permissible until the first respondent has been notified. After that point, the applicant and the respondents must jointly consent to the withdrawal for the case to be terminated.
 3. Any court costs incurred before the case is prematurely terminated shall remain the responsibility of the relevant parties.
 
 ### Art. 25: Modification of the Application
 
-#### § 1
+#### § 1: Right to Modify Application  
 1. The applicant may modify the application at any time, which may result in changes to the case. If this leads to increased court costs, the applicant shall be responsible for paying these costs before the case can be amended.
 2. If the modification causes damages to a respondent, and those damages arise solely or predominantly from the applicant's negligence or frivolous modifications, the applicant shall be liable for compensating the respondent(s) for the damages and any additional court costs.
 3. The case shall be amended upon the applicant's payment of the full amount of court costs and damages to respondents, where applicable. Until full payment is made, the court shall proceed as if no modification was requested. Any court costs incurred during this time must also be paid before the change can take effect.
-4. If the applicant fails to pay the full amount of court costs and damages to respondents, where required, within 5 days after the modification is submitted, the modification shall be disregarded, and the case shall remain unchanged.
 
-#### § 2
+#### § 2: Failure to Pay Modification Court Costs  
+If the applicant fails to pay the full amount of court costs and damages to respondents, where required, within 5 days after the modification is submitted, the modification shall be disregarded, and the case shall remain unchanged.
+
+#### § 3: Malicious Modifications
 If the modification would cause significant damages or issues to the respondent(s), or if the modification is made solely or predominantly to directly harm the respondents, or if the court deems it to be entirely frivolous, the court may summarily dismiss the modification, and the case shall remain unchanged.
 
 ### Art. 26: Mandatory Mediation for Controversial Civil Cases
@@ -159,178 +157,121 @@ The parties shall participate in the mediation process in good faith, actively e
 ### Art. 30: Settlement Agreement and Court Approval
 If the parties reach an agreement through mediation, they shall submit the agreement to the court for approval. Once approved by the court, the agreement shall have the same legal effect as a judgment in a contested trial.
 
-#### Subsection 3: Hearing
+### Art. 33: Pre-Trial Procedures
 
-**Art. 33: Preparing a Hearing**
+#### § 1: Pre-Trial Conference   
+1. Prior to the commencement of a trial, the court may convene a pre-trial conference to discuss and resolve procedural matters, narrow the issues in dispute, and explore the possibility of settlement.
+2. The court may encourage parties to reach a mutually acceptable resolution of their dispute through negotiation, mediation, or other alternative dispute resolution methods.
 
-§ 1
+#### § 2: Preparation for a Trial   
+1. Before the trial commences, the court shall ensure that all parties have had a reasonable opportunity to prepare their case, including the submission of pleadings, the gathering and exchange of evidence, and the completion of any mandatory mediation or alternative dispute resolution processes.
+2. The court shall schedule a trial date, taking into consideration the complexity of the case, the availability of the parties and their legal representatives, and any relevant statutory deadlines or time limits.
 
-Hearing occur in session or multiple sessions of the Court in the presence of all the Parties. The Judge shall preside upon the Hearing.
+#### § 3: Court Summons  
+The court shall notify the parties of the trial date and any relevant pre-hearing deadlines, ensuring that all parties are aware of their obligations and the expected timetable for the proceedings.
 
-§ 2
+### Art. 34: Trial Process
+1. The trial shall be conducted in a fair, impartial, and orderly manner, with due respect for the rights and interests of all parties.
+2. The presiding judge shall open the hearing by briefly outlining the nature of the case, the issues to be resolved, and the procedural rules that will govern the proceedings.
 
-The purpose of the Hearing is to adjudicate the Case. The Hearing shall end with a verdict deciding upon the Case.
+### Art. 35: Presentation of the Applicant's Case
+1. The applicant shall present their case first, providing an opening statement that summarizes their arguments, the evidence they intend to rely on, and the relief they are seeking.
+2. The applicant may then call witnesses, present documents and other evidence, and make legal submissions in support of their case.
 
-§ 3
+### Art. 36: Presentation of the Respondent's Case
+1. After the applicant has concluded their case, the respondent shall have the opportunity to present their defense.
+2. This may include an opening statement, the calling of witnesses, the presentation of documents and other evidence, and legal submissions that respond to the applicant's arguments and evidence.
 
-The Parties may provide, by written agreement and subject to consent of the Judge, for the waiver of oral hearings. If such hearing is waived, the Parties shall agree upon an alternative procedure which shall commence on the consent of the Judge. Where no procedure is agreed withing 5 days of the motion or the Judge doesn't consent, the oral hearing shall commence.
+### Art. 37: Evidence and Presentation of Claims
 
-**Art. 34: Summons**
+#### § 1: Presenting Claims Supported by Evidence  
+1. Claims made by the parties during the hearing must be supported by evidence, which should be disclosed to the judge and the opposing party either prior to or during the hearing. The judge shall have discretion in varying the procedure for presenting evidence, ensuring all parties have equal opportunity to present any material or relevant proof.
+2. Parties may submit evidence as they deem appropriate and may be required to produce additional evidence as determined by the judge for a comprehensive understanding and resolution of the dispute. This may be a reason for extending the hearing but shall not be applied more than once in a case.
 
-§ 1
+#### § 2: Dismissal of Non-Supported Claims  
+The judge may dismiss claims presented without supporting evidence, without providing further reasons.
 
-The Judge shall deliver Summons to all Parties, whereby they in writing invite them to a Hearing session. The Summons shall be delivered at least 8 working days before the session is to occur. The Parties that don't attend shall not be heard and all consequences of that shall be born by them without recourse.
+#### § 3: Matters of Law and Common Knowledge  
+The judge may accept as evidence undisputed facts, matters of law, or facts agreed upon by both parties without reservation.
 
-§ 2
+### Art. 38: Examination of Witnesses and Exhibits
 
-1. Where a Party calls for a witness, the Judge shall ask the witness for a written testimony. Where required by the Party that the witness should appear before the Court, the Judge shall issue Summons to the witnesses also.&#x20;
-2. The Summoned witness shall be required to participate and to submit to the examination by the Judge and by the Parties or their Legal Counsel, or suffer a serious financial penalty. They shall be compensated for this from the Court Costs born by the Party that required their presence.
-3. The Judge may, on their own motion, seek witness testimony from any person whom it deems relevant to the matter, provided that such testimony be sought in the presence of the parties and subject to such rebuttal as the parties deem appopriate. The Judge may likewise ask witnesses to be present during the hearing.
+#### § 1: Examining Witnesses  
+When witnesses are examined, all parties shall have the opportunity to question them before the judge.
 
-§ 3
+#### § 2: Presenting Exhibits  
+Exhibits offered by any party shall be accepted as evidence and appropriately marked.
 
-1. Where a Party can't attend for reasons that are serious enough to warrant an excemption, the Party shall, without any delay, inform the Judge about this and shall ask the Judge to Postpone the Hearing.&#x20;
-2. The Judge shall Postpone the Hearing except where the reasons are clearly frivolous, and inform the other Parties of this without delay, setting a new date for the Hearing after the original date.
+#### § 2: Evidence Excessively Difficult to Examine
+Evidence that is excessively difficult or impractical to examine and verify during the hearing must be disclosed in advance, or the judge may dismiss or assign less weight to such evidence due to the inability to fully examine it.
 
-**Art. 35: Costs of Summons**
+### Art. 39: Record of Witnesses and Exhibits
+The names and addresses of all witnesses, as well as descriptions of exhibits in the order received, shall be made a part of the case record.
 
-1. The Court Costs, should any be incurred because of the delay, shall be born by the Party that has asked to Postpone the Hearing.
-2. In addition, where this causes damages or lost revenue to a Respondent and the Respondent can clearly prove this with evidence, the Respondent might report this fact to the Judge and the damages and lost revenue shall likewise be born by the Party that has asked to Postpone the Hearing.
-3. Where the reasons for the Postponing were clearly caused by circulmstances beyond the control of the Party which has asked to Postpone the Hearing, the Judge shall waiver the requirement to pay Court Costs or the damages and lost revenue to the damaged Respondents.
+### Art. 40: Extension of Hearing
+1. The judge may extend the hearing, by exception, for serious reasons that must be clearly communicated to the parties. An extension may be granted no more than twice per case and only when necessary for the just and efficient resolution of the dispute.
+2. Upon deciding to extend the hearing, the judge shall promptly issue new summons for the date of the extended hearing.
 
-**Art. 36: Publicity**
+### Art. 41: Rebuttal and Rejoinder
+1. Following the presentation of the respondent's case, the applicant may be given an opportunity to present a rebuttal, addressing any new issues or evidence raised by the respondent.
+2. The respondent may then be allowed to present a rejoinder, responding to the applicant's rebuttal and providing any additional arguments or evidence that directly relate to the matters raised in the rebuttal.
 
-1. The Hearing shall be public, and they may be physical or online-based. Physical Hearing shall allow the presence of the public; online-based Hearing shall be made in ways allowing the public to log in and shall be announced at least ten days beforehand on the website of the Court.
-2. In exeptional cases worthy of special consideration, the Judge shall decide that the hearing shall be private and only persons required to participate as witnesses may join in and participate.
+### Art. 42: Closing Arguments
+1. After both parties have presented their cases, rebuttals, and rejoinders, they shall be given the opportunity to make closing arguments. The applicant shall present their closing argument first, summarizing the key points of their case and highlighting any particularly persuasive evidence or legal submissions.
+2. The respondent shall then present their closing argument, summarizing their defense and addressing any issues or arguments raised by the applicant's closing argument.
 
-ALTERNATIVE:
+### Art. 43: Deliberation and Decision
 
-1. The Hearing shall be private, but any person having a direct interest in the Hearing shall be entitled to attend and participate in the Hearing and be represented by a Legal Counsel who may likewise join in and participate in the Hearing.
-2. The Judge shall have the final say in deciding whether any other person may attend the hearings. The Judge shall exclude a witness other than a Party or their representatives during the testimony of any other witness unless all the concerned persons agree otherwise.
-3. The Judge shall arrange for the recording of the Proceedings unless all the parties jointly agree to waiver this right.
-4. At the requests and at the expense of a Party, the Judge shall arrange for a reporting service to prepare an official transcript of such a recording.
+#### § 1: Preparation of a Decision  
+1. Once the hearing has concluded, the presiding judge or panel of judges shall deliberate on the evidence and arguments presented by the parties.
+2. The court shall consider the facts, the applicable law, and the principles of justice and fairness in reaching a decision.
+3. 
 
-**Art. 37: Oaths**
+#### § 2: Announcing the Decision  
+4. The decision shall be announced in a timely manner and shall be accompanied by a written explanation of the court's reasoning, including the findings of fact, the legal basis for the decision, and any relevant procedural or evidentiary rulings.
 
-The Judge shall not be required to take any oath and shall not administer an oath to any Party or other participant.
+### Art. 44: Post-Hearing Procedures
+1.  After the decision has been announced, the court shall issue any necessary orders or judgments to give effect to the decision, including orders for the payment of damages, the performance or cessation of specific actions, or the enforcement of any other remedies provided by law.
+2. The parties shall be informed of their right to appeal the decision, the procedures for filing an appeal, and any relevant deadlines or time limits for doing so.
+3. The court shall also address any outstanding procedural or administrative matters, such as the allocation of costs or the submission of any additional documents or information required for the implementation of the court's decision.
 
-**Art. 38: Civility**
+### Art. 44: Enforcement of Judgments and Orders
+1. Upon the conclusion of the judicial process, including any appeals or reviews, the parties shall be required to comply with the final judgment or order issued by the court.
+2. The court may issue enforcement orders or take other measures to ensure compliance with its judgments or orders, as provided by law or the court's inherent authority.
+3. Failure to comply with a court's judgment or order may result in the imposition of sanctions, penalties, or other legal consequences as determined by the court or the applicable law.
 
-§ 1
+## Section 3 Appeal
 
-1. All who act and appear before the Court shall act in a civil manner according to the cultural norms prevalent in Liberland society. They shall dress for the occasion, even where the Hearing are online and shall act courteously towards one another.
-2. Where this should not be the case, the Judge shall warn the Party or actor in question and if this is not corrected after repeated warnings, they shall dismiss them from the Hearing.
+### Art. 41: Appeals Process
+1. A party that is dissatisfied with the court's decision may file an appeal by the court where the decision has been made, subject to the grounds for appeal and the procedures established by law.
+2. The notice of appeal must be filed within the prescribed time limit and must set forth the specific issues or errors that the appellant believes warrant a review by the higher court.
 
-§ 2
-
-Should a Party, as a result of such a dismissal, not be able to voice their position fully, this shall be considered their own fault unless the dismissal is declared groundless by a Court of Appeal.
-
-**Art.39: Order of the Hearing**
-
-§ 1
-
-The Judge shall begin the Hearing by introducing the Case. The Judge shall then give the word to the Applicant that they or their Legal Counsel, may present their claims and the Evidence supporting them.
-
-§ 2
-
-After the Applicant has presented their claims, the Judge shall give the word to the Respondents in the order that is most conducive to resolving the Case. They or their Legal Counsel shall, in turn, each present their counter-claims and the Evidence supporting them.
-
-§ 3
-
-After hearing the Parties, the Judge shall confirm that they do not wish to add anything to their Claims. After the last of the Parties confirms this, the Judge shall further lead the Hearing in ways that are the most conducive to the efficient and just resolution of the Case.
-
-**Art. 40: Recess**
-
-The Hearing may recess upon the request of any Party or upon its own initiative and shall recess when all the parties agree thereto. The Judge shall reconvene the Hearing without necessary delay or at the hour of that same day jointly agreed to by the parties.
-
-**Art. 41 Evidence**
-
-§ 1
-
-1. Claims the Parties make during the Hearing must be based on evidence which they make known to the Judge beforehand or at the latest during the Hearing. The Judge shall have discretion to vary procedure of presenting evidence but shall afford full and equal opportunity to all parties for the presentation of any material or relevant proof.
-2. The Parties may offer such evidence as they desire and shall produce such additional evidence as the Judge may deem necessary to an understanding and determination of the dispute. This shall be one of the reasons to Extend the hearing, but shall not be applied more than once in one Case.
-3. The Judge may dismiss claims presented without evidence without citing further reasons.
-
-§ 2
-
-1. Where witnesses are examined, all the Parties shall have the opportunity to examine them before the Judge.&#x20;
-2. Exhibits, when offered by any Party, shall be received in evidence and appropriately marked.
-
-§ 3
-
-1. Pieces of Evidence which are too difficult or clearly inpractical to examine and verify during the Hearing must be made known beforehand or the Judge may dismiss them or treat them as less valid by the virtue of their inability to fully examine them.&#x20;
-2. The Judge shall treat as Evidence also when a Party claims matters that are clearly known as fact and matters of law. They shall also accept as Evidence when both Parties agree on a fact without reservation.
-
-§ 4
-
-The names and addresses of all witnesses and the description of exhibis in the order received shall be made a part of the record.
-
-**Art. 42: Extending the Hearing**
-
-1. The Judge might Extend the Hearing, by way of exception, and based on serious reasons that they clearly communicate before the Parties. Extending is possible at most twice per Case and shall never be made unless the just and efficient resolution of the dispute clearly demands it.&#x20;
-2. The Judge shall then without delay issue new Summons for the date of the Extended Hearing.
-
-**Art. 43: Closing the Hearing**
-
-§ 1
-
-1. After the Judge has ordered and executed any motions they deemed necessary for the efficient and just resolution of the Case, the Judge shall specifically inquire of all the parties whether they have any further proof to offer or Witnesses to hear.&#x20;
-2. The Judge shall give space to the Parties to react to what has been said and presented and to offer their Final Word. The last Party to offer their Final Word shall be the Applicant.
-
-§ 2
-
-1. After receiving the confirmation of each Party that they con, the Judge shall Recess the Hearing and shall make their verdict deciding the Case. The Recess to make the verdict shall not take more than a number of hours and the verdict shall be declared before the parties on the same day.
-2. Only in exceptional circumstances shall the Judge Extend the Hearing for the purpose of preparing a verdict, but for no more than 10 days.
-
-**Art. 44: Reopening the Hearing**
-
-Before the verdict to decide the Case is made, the Judge may, upon their own motion or upon the reasoned application of a Party based on important facts which were not known or accessible during the original Hearing through no fault of that Party, reopen the Hearing at any time for taking additional evidence or hearing additional testimony.
-
-**Art. 45: The Verdict**
-
-The Judge shall present the verdict orally before the Parties and other persons present at the Hearing. The Judge shall also give the verdict in writing to each Party that they may read while the Judge presents, including the translations where necessary.
-
-### Section 3 Appeal
-
-**Art. 46: Submitting an Appeal**
-
-A Party may within twenty (20) workdays after they received their verdict Appeal against that verdict. The Party shall send the Appeal to the Court which has pronounced the original verdict. The Appeal shall fuflill the same requirements as an Application.
-
-**Art. 47: Remedial process**
-
-§ 1
-
-1. The Court shall examine the Appeal. Where there was&#x20;
-
+### Art. 49: Remedial Process
+#### § 1: Correction of Errors in Decision
+The court shall examine the appeal. If any of the following errors are identified:
 a) a mathematical miscalculation;
-
 b) a mistake in the description of any person;
-
-c) the remedy is based upon an issue not submitted to the Court and the award may be corrected without affecting the merits of the decision upon the issues submitted;&#x20;
-
+c) the remedy is based upon an issue not submitted to the court and the award may be corrected without affecting the merits of the decision upon the issues submitted;
 d) the remedy is imperfect in a matter of form not affecting the merits of the controversy;
+and the differential is in value less than 1 BTC or the equivalent in rem, the court shall correct the original decision and send it to all parties. The other parties will then have five (5) workdays to submit an appeal if they disagree with the remedial decision.
 
-and the differential is in value less than 1 BTC or the equivalent in rem, the Court shall remedy the original Decision and send it to all Parties, whereupon the other Parties will have five (5) workdays to submit an appeal if they disagree with the remedial decision.
+#### § 2: Clearly Meritless Appeal  
+If the appeal is clearly frivolous or without merit, the court shall set it aside and inform the party of this decision.
 
-1. If the Appeal is clearly frivolous or without merit, the Court shall set it aside and inform the Party about this.
+#### § 3: Referral to Court of Appeal
+1. If the appeal concerns other matters and has not been set aside, the court shall prepare a statement and send it, along with the appeal, to the appropriate Court of Appeal, considering the party, case type, or originating court. 
+2. In cases where a party-specific Court of Appeal exists, that court shall take precedence, followed by a Court of Appeal according to the case type, and lastly, according to the court that issued the original verdict.
 
-§ 2
+### Art. 42: Review by the Appellate Court
+1. Upon receipt of the notice of appeal, the appellate court shall review the case record, including the lower court's decision, the evidence and arguments presented during the hearing, and any relevant procedural or evidentiary rulings.
+2. The appellate court may request additional briefs or oral arguments from the parties to address specific issues or clarify particular points of law.
+3. The scope of the appellate court's review will be limited by the grounds for appeal raised by the appellant. In addition, it is not permissible for a party to claim facts or present evidence during the appellate review that were clearly available and present during the time of the original process, but through the fault of the party, were not presented before the court.
 
-If the Appeal is in other matters and has not been set aside, the Court shall make a Statement, and send it along with the Appeal to the Court of Appeal for the particular Party, Case type or Court. In case there is a Party-specific Court of Appeal, that Court shall take precedence, followed by a Court of Appeal according to the Case type and, lastly, according to which Cour has made the original verdict.
+### Art. 43: Appellate Decision
+1. After reviewing the case, the appellate court shall issue a decision affirming, reversing, or modifying the lower court's decision, or remanding the case for further proceedings.
+2. The appellate court's decision shall be accompanied by a written explanation of its reasoning, including its analysis of the legal issues, its evaluation of the lower court's factual findings, and any relevant procedural or evidentiary rulings.
+3. The appellate decision shall be binding on the lower court and the parties, subject to any further appeals or reviews allowed by law.
 
-#### Art. 48: Appeal Process
-
-§ 1
-
-For the Appeal process, the same rules apply as for the Core process, but there shall be no mediation. The Judge shall call for a Hearing in exceptional cases only where the dispute can't be resolved otherwise and shall end the process in the Written phase wherever possible.
-
-§ 2
-
-It is not permissible to claim facts and bring evidence that were clearly available and present during the time of the original process, but through the fault of the Party was not presented before the Court.
-
-§ 3
-
-The verdict of the Appeal Court shall have the character of a Final verdict. It shall gain legal force upon the Judge signing it, and there shall be no Appeal possible. The only means of recourse for the Parties is an appeal to the Supreme Court.
 
 ### Section 4: Supreme Court
 
