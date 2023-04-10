@@ -18,16 +18,21 @@ The Immigration and Border Service (IBIS) shall be an agency within the Ministry
 ### Article 3: IBIS Personnel
 1. The IBIS shall be led by the Director of Borders and Immigration (hereinafter referred to as "the Director"), appointed by the Minister of Interior.
 2. Personnel within the Border Service shall consist of:
-    a. Border Officers, responsible for the protection of the borders; and
-    b. Immigration Officers, responsible for determining eligibility for entry and residency in Liberland. Immigration Officers shall not have the authority to revoke a visa or immigration status, a power reserved for a Judge.
+ 
+a. Border Officers, responsible for the protection of the borders; and  
+    
+b. Immigration Officers, responsible for determining eligibility for entry and residency in Liberland. Immigration Officers shall not have the authority to revoke a visa or immigration status, a power reserved for a Judge.
 
 ### Article 4: Border Officers
 Border Officers shall be responsible for enforcing border regulations and ensuring border security. They shall be authorized to act as Security Agents in relation to border-related events, situations, and offenses, including crimes.
 
 ### Article 5: Immigration Officers
 Immigration Officers shall be classified into three tiers, with powers allocated as follows:  
+
 a) A First-Class Immigration Officer may waive one or more visa or entry requirements. The Director, the Minister of Interior, and the President shall possess equivalent powers to this rank by virtue of their respective offices.  
-b) A Second-Class Immigration Officer may waive one or more, but not all, visa or entry requirements, subject to authorization from a higher-ranking Immigration Officer.  
+
+b) A Second-Class Immigration Officer may waive one or more, but not all, visa or entry requirements, subject to authorization from a higher-ranking Immigration Officer.
+
 c) A Third-Class Immigration Officer may not waive any visa or entry requirements.  
 
 ### Article 6: IBIS Regulatory Authority
@@ -38,20 +43,31 @@ c) Organizational and professional rules for IBIS personnel.
 
 ## Section 3: Identification
 ### Article 7: Identity Verification
-1) An individual applying for a visa or entry (hereinafter referred to as "Applicant") must verify their identity through one or more of the following methods:  
+1) An individual applying for a visa or entry (hereinafter referred to as "Applicant") must verify their identity through one or more of the following methods: 
+
     a) A valid and recognized travel document;  
+    
     b) One or more government-issued documents from a reputable or Liberland-recognized government;  
+    
     c) Alternative documentation that clearly verifies the individual's identity in cases where the aforementioned documents are unobtainable.  
+    
 2) An Applicant shall disclose any relevant previous or current identities or aliases for establishing their identity, or when requested by an Immigration Officer. Additionally, Applicants shall provide any required supplementary information during an interview with an Immigration Officer.
 
 ### Article 8: Character Assessment
 1) A non-citizen Applicant must provide sufficient information for an Immigration Officer to assess their character, including but not limited to:  
+
     a) Past and current criminal convictions;  
+    
     b) Affiliations with known terrorist or extremist groups; and  
+    
     c) Previous visa refusals.  
+    
 2) If an Immigration Officer has doubts regarding an Applicant's character, the officer may request that the Applicant provide specific evidence of good character, which may include but is not limited to a:  
+
     a) Certificate of Good Conduct or similar document;  
+    
     b) Police Certificate issued by national or local law enforcement authorities from  
+   
 ### Article 9: Health
 Any non-Citizen Applicant must comply with the immigration officer if asked to prove that they are not carrying a communicable disease, or their Application shall be denied.
 
@@ -91,18 +107,31 @@ An Immigration Officer First Class may derogate from these demands in cases wher
 
 #### § 2   
 1) The applicant for a Residence Visa shall be:  
-   a) at least 17 years old or older;  
+
+   a) at least 17 years old or older; 
+   
    b) a person intending genuine and honest work in the sense of gainful employment;  
+   
      > i. by virtue of evidence of an official offer of employment by the prospective employer which is a Liberland-based person or institution,  
-     > ii. by virtue of evidence of past record of employment or accepted professional qualifications, such as trade or university diplomas and at least 3000 USD of disposable income in provable possession; and  
+    
+     > ii. by virtue of evidence of past record of employment or accepted professional qualifications, such as trade or university diplomas and at least 3000 USD of  disposable income in provable possession; and  
+   
    c) has at least 3 000 USD in disposable income in provable possession;  
+   
    d) when not in gainful employment or not performing gainful economic activity, they shall actively seek such employment or economic activity; where they are unable to do so, they shall do their best to put themselves into the position of being able to do so in future.  
+   
 2) If the applicant doesn't fulfill the requirements as listed above, the applicant needs to prove that they possess sufficient means to survive in Liberland, which include:  
+
    a) at least 120 000 USD in disposable income in provable possession; or  
+   
    b) the written statement by another person or by an organization of repute testifying they will provide for them, where such a person or organization is in provable possession of at least 120 000 USD in disposable income; or  
+   
    c) at least 12 000 USD and they are:  
+   
      > i. students of any type of school, or  
+     
      > ii. pro-bono workers performing work provably beneficial to others,  
+     
    and their Residence Visa shall be retained for as long as their study or pro-bono work lasts plus 4 election terms  
 
 #### § 3  
@@ -110,8 +139,11 @@ The standardized format of each type of visa shall be determined by Regulation i
 
 ### Article 15: Family Visa
 Where the applicant who doesn't fulfill the requirements for a Residence Visa is a family member of someone resident in Liberland and that person doesn't have sufficient means to be a sponsor for a Residence Visa for them, the requirement of disposable income will be waived if the prospective immigrant is:  
+ 
    a) a dependent child of the sponsor under the age 21,  
+
    b) the biological or legally adoptive parent of the sponsor,  
+   
    c) life partner with provable record of life partnership, for example by registered partnership, marriage or a consistent documentary record, including but not limited to statements of shared mortgage, statements of children, photographic record and statements by reputable witnesses; this record must be sufficiently robust to prove the relationship's existence without clear contradictions and beyond a reasonable doubt.  
 
 ### Article 16: Refugees
@@ -125,9 +157,12 @@ Where a Residency Visa regularly expires, the process shall be similar to the ex
 
 ### Art. 18: Prolongation and New Application  
 1) Where:  
+
    a) the Visa holder has Applied for a prolongation of a Visa or for a new Visa; and  
+   
    b) this new Application was made timely, in general at least a month before the expected expiration date of the Applicant's present Visa;  
 the expiration shall be postponed until such a time as the process regarding that Application finishes.   
+
 2) Where the Application wasn't made timely, the Visa holder shall exit Liberland as during a regular Visa Expiration; when the new Visa Application is successful, the Residency holder shall be free to return. The costs incurred by the exit and the return shall be borne by the Visa holder.  
 
 ## Section 7: Final Provisions
