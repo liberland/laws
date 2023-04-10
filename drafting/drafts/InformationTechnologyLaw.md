@@ -1,7 +1,7 @@
-# Government Information Act
+# Government Information Law
 
 ## Preamble
-This Act establishes regulations for the protection of individuals regarding the Government's processing of personal data and other information, as well as regulations for the free movement of personal data. It also sets rules for the Government's acquisition and utilization of information technology, particularly electronic communication methods and means of obtaining such technology and related services. The Act creates institutions responsible for the development, maintenance, utilization, and support of these services. Additionally, the Act enshrines Liberland's orientation towards free and open-source software into its legal order.
+This Law establishes regulations for the protection of individuals regarding the Government's processing of personal data and other information, as well as regulations for the free movement of personal data. It also sets rules for the Government's acquisition and utilization of information technology, particularly electronic communication methods and means of obtaining such technology and related services. The Law creates institutions responsible for the development, maintenance, utilization, and support of these services. Additionally, the Law enshrines Liberland's orientation towards free and open-source software into its legal order.
 
 ## Definitions
 **controller** - The natural or legal person, public authority, agency, or other body which, alone or jointly with others, determines the purposes and means of the processing of personal data.
@@ -21,7 +21,7 @@ This Act establishes regulations for the protection of individuals regarding the
 ## Section 1: Government Information Use
 
 ### Article 1: Government Information Use
-1) The Government shall collect and process, henceforth "control", information only for reasons and to fulfill aims listed in this Act, henceforth "lawful purposes", and only insofar and by means that this Act allows. 
+1) The Government shall collect and process, henceforth "control", information only for reasons and to fulfill aims listed in this Law, henceforth "lawful purposes", and only insofar and by means that this Law allows. 
 2) Information shall only be collected for specified, explicit, and legitimate purposes and not further processed in a manner that is incompatible with those purposes. 
 3) Collection and processing of information shall be adequate, relevant, and limited to what is necessary concerning the purposes for which they are processed (‘data minimization’).
 
