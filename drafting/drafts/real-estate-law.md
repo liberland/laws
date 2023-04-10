@@ -57,7 +57,7 @@ Unless the owner specifies otherwise, the landowner or other rights holder shall
 
 ### Art. 3: Real Estate Rights
 
-§ 1
+#### § 1: Typology of Real Estate Rights
 
 Real Estate Rights pertain to one or more pieces of Real Estate and include:
 
@@ -65,7 +65,7 @@ a) Real Rights, which attach to the given Real Estate and remain with it, even w
 
 b) Personal Rights, which attach to the given owner and do not remain with the Real Estate when ownership changes.
 
-§ 2
+#### § 2: Demonstrative Nature of Rights Enumerated in This Law
 
 The list of rights in this Law is demonstrative. Owners can create their own rights, which, if similar to a Real Right or a Personal Right, shall retain the nature of the right most closely resembling it.
 
@@ -83,35 +83,35 @@ Use entails the ability to inhabit or otherwise utilize the property, any of its
 
 2. Unless otherwise agreed by the parties, the creditor bears the risk of selling the Pledged Real Estate. A successful sale under reasonable market conditions and circumstances replaces the debt repayment, even if the sale proceeds do not cover the debt's nominal value. If the proceeds exceed the debt's nominal value, the debtor retains the surplus.
 
-#### Art. 7: Usufruct
+### Art. 7: Usufruct
 
 Usufruct is the right granted by the owner to the tenant, typically for regular payment, to use and enjoy another's property without destroying or wasting its substance. The tenant retains any produce reasonably obtained through the property's use.
 
-#### Art. 8: Mortgage
+### Art. 8: Mortgage
 
 A Mortgage is an agreement between a Real Estate owner or prospective buyer and a lender, concerning a loan that grants the lender the right to seize the property if the debtor fails to repay the loan.
 
-#### Art. 9: Habitation
+### Art. 9: Habitation
 
 1. Habitation is the right granted by the Owner to a tenant to regularly inhabit a piece of Real Estate, typically a home or living space. Unless further stipulated, the tenant may inhabit the premises with their immediate family, but not with pets, and is prohibited from bringing harmful substances.
 
 2. A Habitation exchanged for counter payment is referred to as a Lease.
 
-#### Art. 10: Predial Servitude
+### Art. 10: Predial Servitude
 
 Predial Servitude is a perpetual real right in another's property (the servient estate), granting the dominant estate owner permanent, specific entitlements to use and enjoy the servient estate.
 
 ## Section 3: Mandatory Registration
 
-#### Art. 11: Mandatory Land Registration
+### Art. 11: Mandatory Land Registration
 
-§ 1
+#### § 1: Registration Mandate
 
 1. All land and Real Estate built on it must be registered in the Liberland Land Registry, henceforth the "Land Registry".
 
 2. The Land Registry serves as the authoritative source of truth regarding land ownership and immovable property in Liberland.
 
-§ 2
+#### § 2: Parcels
 
 1. Land in the Land Registry is divided into Parcels, distinct pieces of land treated as separate units. Each Real Estate, other than land, is assigned to one or more Parcels.
 
@@ -124,7 +124,7 @@ Predial Servitude is a perpetual real right in another's property (the servient 
 The Liberland Registrar of Land, henceforth "the Registrar", is an agency under the Ministry of Interior responsible for establishing, managing, and operating Liberland's land registration and the Land Registry.
 ### Art. 13: Registered Information
 
-§ 1
+#### § 1: Data in the Registry for Parcels
 
 The Registrar shall maintain the following data for each Parcel in the Land Registry:
 
@@ -134,7 +134,7 @@ b) the Parcel's name; and
 
 c) the Identification Number, a unique alphanumeric identifier assigned by the Registrar.
 
-§ 2
+#### § 2: Data in the Registry for Land other than Parcels
 
 The Registrar shall maintain the following data for each Real Estate piece, excluding Parcels, in the Land Registry:
 
@@ -148,7 +148,7 @@ d) the Real Estate's name; and
 
 e) the Identification Number, a unique alphanumeric identifier assigned by the Registrar.
 
-§ 3
+#### § 3: Other Data in the Registry
 
 The Registrar shall maintain the following data for each registered property, regardless of nature:
 
@@ -176,31 +176,32 @@ Other transfer forms shall be null and void.
 
 ### Art. 15: Deed
 
+#### § 1: Purpose and Form of a Deed
 1. A Deed is a written document required for transferring Real Estate rights. To effect the transfer, the transferer and transferee must jointly submit the Deed to the Registrar.
-
 2. The rights transfer takes effect when the Registrar records the data in the Land Registry.
 
-A Deed must contain the following information:
+#### § 2: Mandatory Content of a Deed
+A Deed must contain the following information:  
 
-a) the Real Estate's name and description, including Identification Numbers;
+a) the Real Estate's name and description, including Identification Numbers;  
 
-b) the Parcel on which the Real Estate is built or connected, if applicable;
+b) the Parcel on which the Real Estate is built or connected, if applicable;  
 
-c) the transferer's name, address, and birthdate; for legal entities, the corresponding data, including Identification Number;
+c) the transferer's name, address, and birthdate; for legal entities, the corresponding data, including Identification Number;   
 
-d) the transferee's name, address, and birthdate; for legal entities, the corresponding data, including Identification Number;
+d) the transferee's name, address, and birthdate; for legal entities, the corresponding data, including Identification Number;  
 
-e) the transfer title;
+e) the transfer title;   
 
-f) the enumeration and description of transferred rights;
+f) the enumeration and description of transferred rights;  
 
-g) the transfer compensation, typically payment in a currency; and
+g) the transfer compensation, typically payment in a currency; and  
 
-h) other relevant transfer conditions.
+h) other relevant transfer conditions.  
 
 ### Art. 16: Open Transfer
 
-§ 1
+#### § 1: Rules for Open Transfers
 
 1. If the Owner intends to rent the property or a similar purpose with an open-ended number of potential rights holders and unpredictable changes, they are not required to submit each tenant's name to the Registrar.
 
@@ -214,7 +215,7 @@ h) other relevant transfer conditions.
 
   d) a description of the property's intended use by the Tenant (e.g., commercial, residence, or production).
 
-§ 2
+#### § 2: Actions of the Registrar Regarding Submission for Open Transfer
 
 1. The Registrar may reject the submission only if acceptance would clearly jeopardize this Law's objectives or seriously infringe on others' life, liberty, or property.
 
@@ -222,11 +223,11 @@ h) other relevant transfer conditions.
 
 3. The Owner shall have one month to comply.
 
-§ 3
+#### § 3: 
 
 The Owner must retain tenant identities, contracts, payment receipts, and provide them upon request from a Court or the Registrar.
 
-## Section 5: Initial Land Ownership
+## Section 5: State Land Ownership
 
 ### Art. 17: Initial Land Ownership
 
@@ -289,21 +290,19 @@ Upon the incorporation of Liberland, the Minister of Interior, acting in the nam
 
 ### Art. 28: Zoning and Tenancy
 
-§ 1
+#### § 1: Zoning Reservation
 
 Any lease of property shall be made with the reservation that the State retains the following rights to the land and any future real estate built on that land:  
 a) The property shall be used only in ways in which it or the underlying land parcel has been zoned for;  
 b) This restriction shall be retained even where future subleases between private parties take place and shall exist in perpetuity.  
 
-§ 2
+#### § 2: Retention of Zoning Rights
 
 The State retains the right to change the zoning later on. This can be done unilaterally to fulfill the purposes of this Law or the purposes of the Government, or upon request of the lessee or interested parties with the express written consent of all the lessees.
 
 ### Art. 29: Sanctions
 
-§ 1
-
-If the Ministry of Interior finds that land is not being used in line with the zoning, they shall be able to make a case before the Judiciary. The Judiciary shall use remedies of:
+If the Ministry of Interior finds that land is not being used in line with the zoning, they shall be able to make a case before the Judiciary. The Judiciary shall use remedies of:  
 a) Suspension of citizenship rights;  
 b) Monetary fine, issuable repeatedly, up to a maximum of five percent of the market value of the property; and, ultimately;  
 c) Termination of the lease agreement and reclamation of the property by the State.  
@@ -313,7 +312,7 @@ c) Termination of the lease agreement and reclamation of the property by the Sta
 ### Art. 32: Transitory Provision
 
 1. All existing tenancies on unzoned land shall be subject to the zoning system established by the Minister of Interior as per Art. 27 and the tenants shall submit to it. 
-2. 2. All lease contracts according to this law pertaining to unzoned land shall be subject to this provision.
+2. All lease contracts according to this law pertaining to unzoned land shall be subject to this provision.
 
 ### Art. 32: Legal Force
 
