@@ -112,12 +112,11 @@ Liberland shall be divided into Districts to maintain security, and Personnel an
 
 #### § 3  
 1. The supreme body of Cantonal Security shall be the Cantonal Security Commission, which makes decisions regarding the organizational structure, rules, regulations, and policies governing the operations of Cantonal Security.
-2. The Cantonal Minister of Interior, or the corresponding official, shall establish Cantonal Security, with the Cantonal Director as its head. The other four members shall be:  
-<ol type="a">
-<li> a Cantonal Court Judge nominated by the Cantonal Minister of Justice, or the corresponding official, and appointed by the head of the Canton;</li> 
-<li> a representative of the Cantonal Congress, or the corresponding body; </li>
-<li> a Senator nominated by the Senate and appointed by the President; and </li> 
-<li> a former senior Agent of the Security Agency with distinguished skills and an impeccable reputation, nominated by the Cantonal Minister of Interior, or the    corresponding official, and appointed by the head of the Canton. </li></ol>
+2. The Cantonal Minister of Interior, or the corresponding official, shall establish Cantonal Security, with the Cantonal Director as its head. The other four members shall be a:  
+a) Cantonal Court Judge nominated by the Cantonal Minister of Justice, or the corresponding official, and appointed by the head of the Canton;  
+b) representative of the Cantonal Congress, or the corresponding body;  
+c) Senator nominated by the Senate and appointed by the President; and  
+d) former senior Agent of the Security Agency with distinguished skills and an impeccable reputation, nominated by the Cantonal Minister of Interior, or the    corresponding official, and appointed by the head of the Canton.  
 
 #### § 4   
 1. The Commissioners shall perform their duties as part of their original office and shall not become Agents of Cantonal Security.  
