@@ -166,13 +166,8 @@ e) the entire history of titles and rights, including all Deeds and data from De
 
 ### Art. 14: Regulated Transfer of Rights
 
-§ 1
-
-Transfer of rights to Real Estate, including Ownership rights, shall follow the process described in this Law.
-
-§ 2
-
-Other transfer forms shall be null and void.
+1) Transfer of rights to Real Estate, including Ownership rights, shall follow the process described in this Law.
+2) Other transfer forms shall be null and void.
 
 ### Art. 15: Deed
 
@@ -223,7 +218,7 @@ h) other relevant transfer conditions.
 
 3. The Owner shall have one month to comply.
 
-#### § 3: 
+#### § 3: Owner's Data Retention Duties for Open Transfers
 
 The Owner must retain tenant identities, contracts, payment receipts, and provide them upon request from a Court or the Registrar.
 
