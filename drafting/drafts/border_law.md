@@ -37,8 +37,11 @@ c) A Third-Class Immigration Officer may not waive any visa or entry requirement
 
 ### Article 6: IBIS Regulatory Authority
 The Border Service shall establish and maintain regulations pertaining to:
+
 a) Border delimitation;  
+
 b) Border crossing procedures and required conduct when approaching borders; and  
+
 c) Organizational and professional rules for IBIS personnel.  
 
 ## Section 3: Identification
@@ -101,11 +104,11 @@ An Immigration Officer First Class may derogate from these demands in cases wher
 
 ### Article 14: Residence Visa
 
-#### § 1  
+#### § 1: Rights of Residence Visa Holders  
 1) A Residence Visa permits a non-Citizen Applicant to enter and exit the borders of Liberland and stay therein without limit for an unspecified duration of time. Only holders of an e-residence may apply for this type of visa.
 2) A person holding the Residence Visa shall not be treated differently from Liberland Citizens performing similar gainful employment by reason of their nationality in respect of any conditions of employment and work, in particular as regards remuneration, dismissal, and, should they become unemployed, reinstatement or re-employment. They shall enjoy the same social and tax advantages as nationals in gainful employment.  
 
-#### § 2   
+#### § 2: Conditions for Application for a Residence Visa   
 1) The applicant for a Residence Visa shall be:  
 
    a) at least 17 years old or older; 
@@ -134,7 +137,7 @@ An Immigration Officer First Class may derogate from these demands in cases wher
      
    and their Residence Visa shall be retained for as long as their study or pro-bono work lasts plus 4 election terms  
 
-#### § 3  
+#### § 3: Format of Reisdence Visa  
 The standardized format of each type of visa shall be determined by Regulation issued by the Ministry of Interior. Only an immigration officer with a first class delegation may issue a visa in a non-standardized format and only in cases where no other course would be just and reasonable.
 
 ### Article 15: Family Visa
