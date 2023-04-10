@@ -85,18 +85,18 @@ Processing confidential data, the further dissemination of which would clearly a
 #### § 3: Data on Foreign Criminal Convictions  
 Information on foreign criminal convictions shall only be retrieved from sources under the control or supervision of the appropriate foreign official authority, providing appropriate safeguards for the rights and freedoms of data subjects.
 
-## Section 2: Access to Government Information
+## Section 3: Access to Government Information
 
-### Article 5: Freedom of Information
+### Article 9: Freedom of Information
 1) The Government shall maintain an open and transparent approach to its operations and decisions. The public has a right to access government-held information, subject to limitations specified in this Act and any other relevant legislation.
 2) The Government shall periodically and proactively publish information about its activities, policies, and decision-making processes, while respecting the privacy of individuals and the security of sensitive information.
 
-### Article 6: Requesting Information
+### Article 10: Requesting Information
 1) Any person has the right to request information from the Government, subject to the limitations specified in this Act and any other relevant legislation.
 2) Requests for information shall be submitted in writing or electronically, specifying the information sought and the requester's contact details.
 3) The Government shall respond to requests for information within a reasonable timeframe, not exceeding 30 days from the date of receipt of the request, unless an extension is justified due to the complexity or volume of the requested information.
 
-### Article 7: Limitations on Access to Information
+### Article 11: Limitations on Access to Information
 1) Access to information may be limited or denied if disclosure of the information would:
 a) violate the privacy of an individual or the confidentiality of sensitive personal data;
 b) endanger the security of the nation, public safety, or the integrity of ongoing criminal investigations;
@@ -105,18 +105,18 @@ d) infringe on intellectual property rights;
 e) breach legal or professional privilege.
 2) Any decision to limit or deny access to information shall be based on a specific, legitimate, and clearly articulated reason, and the requester shall be informed of the reason for the decision.
 
-## Section 2: Access to Government Information
+## Section 4: Access to Government Information
 
-### Article 5: Freedom of Information
+### Article 12: Freedom of Information
 1) The Government shall maintain an open and transparent approach to its operations and decisions. The public has a right to access government-held information, subject to limitations specified in this Act and any other relevant legislation.
 2) The Government shall periodically and proactively publish information about its activities, policies, and decision-making processes, while respecting the privacy of individuals and the security of sensitive information.
 
-### Article 6: Requesting Information
+### Article 13: Requesting Information
 1) Any person has the right to request information from the Government, subject to the limitations specified in this Act and any other relevant legislation.
 2) Requests for information shall be submitted in writing or electronically, specifying the information sought and the requester's contact details.
 3) The Government shall respond to requests for information within a reasonable timeframe, not exceeding 30 days from the date of receipt of the request, unless an extension is justified due to the complexity or volume of the requested information.
 
-### Article 7: Limitations on Access to Information
+### Article 14: Limitations on Access to Information
 1) Access to information may be limited or denied if disclosure of the information would:
 a) violate the privacy of an individual or the confidentiality of sensitive personal data;
 b) endanger the security of the nation, public safety, or the integrity of ongoing criminal investigations;
@@ -125,7 +125,7 @@ d) infringe on intellectual property rights;
 e) breach legal or professional privilege.
 2) Any decision to limit or deny access to information shall be based on a specific, legitimate, and clearly articulated reason, and the requester shall be informed of the reason for the decision.
 
-### Art. 13: Mandatory Publication
+### Art. 15: Mandatory Publication
 
 1) The Government and every government organ shall set up an online portal to provide information about its:  
 a) functional setup,   
@@ -135,33 +135,33 @@ d) news.
 2) The portal shall also enable Citizens and residents of Liberland to effortlessly communicate with the given institution.  
 3) Referring to information provided on the portal shall be a valid response to a Public Access query.
 
-## Section 3: Information Technology in Government
+## Section 5: Information Technology in Government
 
-### Article 8: Government Use of Information Technology
+### Article 16: Government Use of Information Technology
 1) The Government shall adopt and utilize information technology (IT) systems and services to improve its efficiency, effectiveness, and transparency, and to enhance its interaction with the public.
 2) The Government shall prioritize the use of free and open-source software, except where proprietary software is necessary for specific, justified reasons.
 
-### Article 9: Procurement and Development of IT Systems and Services
+### Article 17: Procurement and Development of IT Systems and Services
 1) The Government shall establish transparent and competitive processes for the procurement of IT systems and services, and the development of IT infrastructure.
 2) The Government shall take measures to ensure the security, reliability, and interoperability of its IT systems and services, as well as their compatibility with international standards and best practices.
 
-### Art. 10: Proprietary Technology
+### Art. 18: Proprietary Technology
 
 1) The Government shall only enter contracts for proprietary information technology and information system-related services in ways that enable it to change the provider without excessive resource-spending within a maximum of 4 election terms. 
 2) If any provisions in a contract bind the government for longer or create, in their effect, the requirement of excessive spending or transition costs, those shall be considered natural obligations for the Government. The Government shall only be responsible for compensating the provider if the provider can prove a knowing intent to deceive them using this provision at the time of closing the contract.
 
-### Art. 11: Contractors
+### Art. 19: Contractors
 
 1) The Government shall attempt to resource its information technology internally wherever possible and economically feasible. 
 2) Where the use of contractors is necessary, the Government shall select entities owned or at least represented by Liberland citizens where possible. Only in cases of a clearly superior offer in price and quality can an outside contractor be hired. 
 
-### Article 10: Digital Inclusion and Accessibility
+### Article 20: Digital Inclusion and Accessibility
 1) The Government shall ensure that its IT systems and services are accessible and usable by all members of the public, including persons with disabilities.
 2) The Government shall promote digital literacy and provide training and support to enable citizens to access and use its IT systems and services effectively.
 
-## Section 4: Institutions
+## Section 6: Institutions
 
-### Art. 14: Agency for Information Technology and Information Security (AITIS)
+### Art. 21: Agency for Information Technology and Information Security (AITIS)
 
 #### § 1: Government AITIS  
 There shall be one government AITIS within the Office of the Government responsible for all government information technology in Liberland.
@@ -169,11 +169,11 @@ There shall be one government AITIS within the Office of the Government responsi
 #### § 2: Ministerial AITIS    
 Every ministry shall either set up its own AITIS or shall share AITIS with another ministry or the government where that should prove more efficient. If AITIS are shared, they shall nonetheless compartmentalize their processes, machines, data storages, etc., to conform to the best available security and professional practices.
 
-### Art. 15: Director of AITIS  
+### Art. 22: Director of AITIS  
 Each AITIS shall be headed by a director, appointed by the respective minister. The director for each AITIS shall be responsible for setting the organizational structure and day-to-day management of the AITIS.
 
-## Section 5: Final Provisions
+## Section 7: Final Provisions
 
-#### Art. 16: Legal Force
+#### Art. 23: Legal Force
 This Law shall gain Legal Force on … and it shall remain in force in perpetuity or until its legal effects should be terminated or until it should be replaced by another Law governing the same or similar subject matter.
 
