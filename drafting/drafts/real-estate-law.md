@@ -2,104 +2,104 @@
 
 ## Preface
 
-This Law governs the Real Estate in Liberland, its transfer, the mandatory registration of Real Estate, the initial land ownership, zoning and the Land Fee.
+This Law governs the real estate in Liberland, addressing its transfer, mandatory registration, initial land ownership, zoning, and the Land Fee.
 
 ## Definitions
 
-**Ownership** is a constitutional right of an individual towards their own body, their actions or things. It is a bundle of rights which are usually not severed, but could be severable if the Owner so desires. Those rights include and are not limited to:
+**Ownership** is an individual's constitutional right to their body, actions, or things. It comprises a bundle of rights, typically inseverable but severable at the owner's discretion, including but not limited to:
 
 * Possession;
 * Right to Modify;
 * Right to Destroy/Degrade;
 * Right to Relinquish;
 * Right to Transfer Use;
-* Right to Transfer the Obtainment of Produce (usufruct).
+* Right to Transfer Obtainment of Produce (usufruct).
 
-**Land Fee** is an institute required by the Constitution whereby holders of real estate in Liberland are mandated annually to pay a certain amount. The sole purpose of the Land Fee is to be the source of revenue for the administration on which it can always fall back, by which to cover its mandatory expenses.
+**Soil** refers to the Earth's fertile upper crust, consisting of mineral and organic materials, liquids, and gases, formed by natural processes and human activities.
 
-**Soil** is the upper unconsolidated and fertile layer of the Earth's crust which has formed under the effect of natural processes and human activities and which consists of mineral and organic material, liquids and gaseous substances;
+**Soil Degradation** denotes a decrease in soil's usability for economic, environmental protection, and cultural functions, resulting from natural processes or human activities.
 
-**Soil Degradation** signifies changes which have occurred or are taking place under the impact of natural processes or human activities and due to which the possibility of using soil in the implementation of economic, environmental protection, and cultural functions is decreasing;
+**Soil Recultivation** encompasses measures promoting soil fertility restoration.
 
-**Soil Recultivation** is a set of measures which promotes the restoration of fertility of soil;
+**Degraded Territory** is a territory with a damaged or destroyed upper ground layer or an abandoned area of construction, mineral resource extraction, economic, or military activities.
 
-**A Degraded Territory** shall be a territory with a destroyed or damaged upper layer of ground or an abandoned territory of construction, extraction of mineral resources, or economic or military activities;
+**Inland Public Waters** are the public lakes and rivers indicated in Annex I to this Law.
 
-**Inland Public Waters** are the public lakes and rivers indicated in Annex I to this Law;
+**Vacant Unit of Land** is land without structures or with structures not legally required to be recorded in the Land Registry.
 
-**Vacant Unit of Land** shall be land free of structures or on which only such structures are located which are not by Law to be recorded in the Land Registry.
+**Land Protection** includes measures to prevent land degradation and degradation risk and preserve land's useful properties.
 
-**Land Protection** shall be the measures for preventing land degradation and degradation risk and preserving the useful properties of land.
-
-**Land Degradation** is the reduction or disappearance of land and the economic or ecological value of the resources related to it as a result of action or failure to act of a human being or as a result of natural processes.
+**Land Degradation** refers to the reduction or disappearance of land and its associated economic or ecological value due to human action or inaction or natural processes.
 
 ## Section 1: Real Estate
 
-#### Art. 1: Real Estate
+### Art. 1: Real Estate
 
-This Law shall govern the ownership, development, destruction and preservation of Real Estate, which shall be&#x20;
+This Law governs the ownership, development, destruction, and preservation of Real Estate, comprising:
 
-a) the land within the State jurisdiction of Liberland; and&#x20;
+a) land within Liberland's State jurisdiction; and
 
-b) any other property built on the land or connected to it in ways which preclude separating it from the land without incurring excessive costs.
+b) any other property built on the land or connected to it in ways that preclude separation without excessive costs.
 
-#### Art. 2: Purpose of the Law
+### Art. 2: Purpose of the Law
 
-The purpose of this Law shall be to&#x20;
+The purpose of this Law is to:
 
-a) protect the land and allow regular development on it; and also&#x20;
+a) protect land and facilitate its regular development; and
 
-b) to regulate the ownership rights to Real Estate so that this area of human activity becomes transparent and easy to access to a non-expert.
+b) regulate ownership rights to Real Estate, making this area of human activity transparent and accessible to non-experts.
 
-#### Art. 3: Superficies Solo Coedit
+### Art. 3: Superficies Solo Coedit
 
-Unless stipulated otherwise by the owner, the owner of land or the holder of other rights towards it shall also be the owner of or the holder of these other rights towards the immovable property built on that land or permanently connected to it.
+Unless the owner specifies otherwise, the landowner or other rights holder shall also be the owner or holder of these other rights towards the immovable property built on that land or permanently connected to it.
 
 ## Section 2: Real Estate Rights
 
-#### Art. 3: Real Estate Rights
+### Art. 3: Real Estate Rights
 
 § 1
 
-Real Estate Rights shall be any rights which pertain to a piece or pieces of Real Estate. They shall be&#x20;
+Real Estate Rights pertain to one or more pieces of Real Estate and include:
 
-a) Real Rights, which attach to the given Real Estate and are retained by it even when ownership changes; and&#x20;
+a) Real Rights, which attach to the given Real Estate and remain with it, even when ownership changes; and
 
-b) Personal Rights, which attach to the given owner and aren't retained by the Real Estate where ownership changes.
+b) Personal Rights, which attach to the given owner and do not remain with the Real Estate when ownership changes.
 
 § 2
 
-The list of rights in this Law is demonstrative, and Owners shall be able to construe their own rights; where these new rights bear any similarity to either a Real Right or a Personal Right, the new right shall retain the Real Right or Personal Right nature of the right closest in similarity to it.
+The list of rights in this Law is demonstrative. Owners can create their own rights, which, if similar to a Real Right or a Personal Right, shall retain the nature of the right most closely resembling it.
 
-#### Art. 4: Ownership
+### Art. 4: Ownership
 
-Ownership shall be the full Property to the given piece of Real Estate. Ownership in Real Estate shall be the same as ownership in any other thing, but its transfer shall be limited to the forms permitted in this Law.
+Ownership refers to the full property rights to a given piece of Real Estate. Ownership in Real Estate is equivalent to ownership of any other property, but its transfer is limited to the forms permitted in this Law.
 
-#### Art. 5: Use
+### Art. 5: Use
 
-Use shall entail the ability to inhabit or otherwise use any the property, any of its parts or functions. The Use in question can be full, or the Owner can separate the property and allot the Uses to different persons..
+Use entails the ability to inhabit or otherwise utilize the property, any of its parts, or functions. The Use in question can be full, or the Owner can divide the property and allocate the Uses to different individuals.
 
-#### Art. 6: Pledge
+### Art. 6: Pledge
 
-1. Pledge places a possessory title upon the Real Estate owed by a debtor to a creditor as a collateral to another debt. Where the debtor can't pay their original debt, the creditor shall be allowed to demand the sale of the Real Estate under Pledge in order to have the debt repaid.&#x20;
-2. Where the parties don't stipulate otherwise, the risk of the sale of the Pledged Real Estate is born by the creditor; the successful sale under reasonable market conditions and circumstances replaces the repayment of the debt, even if the proceeds from the sale wouldn't satisfy the nominal value of the debt; where the proceeds are greater than the nominal value of the debt, the overvalue shall be retained by the debtor.
+1. Pledge places a possessory title on the Real Estate owned by a debtor and serves as collateral for another debt to a creditor. If the debtor cannot repay the original debt, the creditor may demand the sale of the Pledged Real Estate to repay the debt.
+
+2. Unless otherwise agreed by the parties, the creditor bears the risk of selling the Pledged Real Estate. A successful sale under reasonable market conditions and circumstances replaces the debt repayment, even if the sale proceeds do not cover the debt's nominal value. If the proceeds exceed the debt's nominal value, the debtor retains the surplus.
 
 #### Art. 7: Usufruct
 
-Usufruct shall be the right provided by the user to the tenant, typically for regular payment, to enjoy the use and advantages of another's property short of the destruction or waste of its substance. The produce as may be expected by reasonable use of the property shall be retained by the tenant.
+Usufruct is the right granted by the owner to the tenant, typically for regular payment, to use and enjoy another's property without destroying or wasting its substance. The tenant retains any produce reasonably obtained through the property's use.
 
 #### Art. 8: Mortgage
 
-A Mortgage shall be an agreement between an owner of Real Estate or a prospective buyer of Real Estate and a lender regarding a loan between them that gives the lender the right to take the property if the debtor fails to repay the loan.
+A Mortgage is an agreement between a Real Estate owner or prospective buyer and a lender, concerning a loan that grants the lender the right to seize the property if the debtor fails to repay the loan.
 
-#### Art.9: Habitation
+#### Art. 9: Habitation
 
-1. A Habitation shall be the right of a tenant given by the Owner to regularly inhabit the piece of Real Estate, typically a home or a space suited for living. In the absence of further stipulation, they shall be allowed to inhabit the premises with their immediate family, but not with pets and they shall be prohibited from bringing in any harmful substances.&#x20;
-2. A Habitation given in exchange for a counter payment shall be called a Lease.
+1. Habitation is the right granted by the Owner to a tenant to regularly inhabit a piece of Real Estate, typically a home or living space. Unless further stipulated, the tenant may inhabit the premises with their immediate family, but not with pets, and is prohibited from bringing harmful substances.
+
+2. A Habitation exchanged for counter payment is referred to as a Lease.
 
 #### Art. 10: Predial Servitude
 
-A Predial Servitude is a perpetual real right in the property of another (the servient estate) which confers on the owner of the dominant estate permanent, specific entitlements of use and enjoyment (beneficial interest) of the servient estate.
+Predial Servitude is a perpetual real right in another's property (the servient estate), granting the dominant estate owner permanent, specific entitlements to use and enjoy the servient estate.
 
 ## Section 3: Mandatory Registration
 
@@ -107,225 +107,215 @@ A Predial Servitude is a perpetual real right in the property of another (the se
 
 § 1
 
-1. All land and all other Real Estate built on it shall be registered in the Liberland Land Registry, henceforth the "Land Registry".&#x20;
-2. The Land Registry shall be the authoritative source of truth regarding land ownership and immovable property in Liberland.
+1. All land and Real Estate built on it must be registered in the Liberland Land Registry, henceforth the "Land Registry".
+
+2. The Land Registry serves as the authoritative source of truth regarding land ownership and immovable property in Liberland.
 
 § 2
 
-1. Land in the Land Registry shall be divided into Parcels, which shall be distinct pieces of land treated by the Land Registry as distinct units. Each Real Estate other than land shall be assigned to one or more Parcels.
-2. The owners shall be entitled to motion the Registrar to split and merge two or more Parcels they own. The Registrar shall either confirm their decision or cite reasons why the merging or the splitting is detrimental to the purposes of the Law.&#x20;
-3. The initial land division into Parcels shall be the Annex II of this Law.
+1. Land in the Land Registry is divided into Parcels, distinct pieces of land treated as separate units. Each Real Estate, other than land, is assigned to one or more Parcels.
+
+2. Owners may request the Registrar to split or merge two or more Parcels they own. The Registrar will either confirm their decision or provide reasons why the merging or splitting is detrimental to the Law's purposes.
+
+3. The initial land division into Parcels is outlined in Annex II of this Law.
 
 #### Art. 12: Registrar
 
-The Liberland Registrar of Land, henceforth "the Registrar", shall be an Agency under the Ministry of Interior mandated to set up, manage and operate the registration of land in Liberland and the Land Registry.&#x20;
-
-#### Art. 13: Registered Information
+The Liberland Registrar of Land, henceforth "the Registrar", is an agency under the Ministry of Interior responsible for establishing, managing, and operating Liberland's land registration and the Land Registry.
+### Art. 13: Registered Information
 
 § 1
 
-The Registrar shall keep the following set of data about each Parcel in the Land Registry:
+The Registrar shall maintain the following data for each Parcel in the Land Registry:
 
-a) the parcel area, the description of its borders, and a graphical representation of this information;
+a) the parcel area, border descriptions, and graphical representations;
 
-b) the name of the Parcel; and
+b) the Parcel's name; and
 
-c) the Identification Number, a unique alphanumeric identifier given to the Parcel by the Registrar.
+c) the Identification Number, a unique alphanumeric identifier assigned by the Registrar.
 
 § 2
 
-The Registrar shall keep the following set of data about each piece of Real Estate other than Parcels in the Land Registry:
+The Registrar shall maintain the following data for each Real Estate piece, excluding Parcels, in the Land Registry:
 
-a) the parcel or parcels on which the Real Estate stands;
+a) the parcel(s) on which the Real Estate is situated;
 
-b) the description of the Real Estate;
+b) the Real Estate description;
 
-c) the graphical representation of the Real Estate, including photographs;
+c) graphical representations, including photographs;
 
-d) the name of the Real Estate; and
+d) the Real Estate's name; and
 
-e)  the Identification Number, a unique alphanumeric identifier given to the Immovable Property by the Registrar.
+e) the Identification Number, a unique alphanumeric identifier assigned by the Registrar.
 
 § 3
 
-The Registrar shall keep the following set of data about each registered property, regardless of its nature:
+The Registrar shall maintain the following data for each registered property, regardless of nature:
 
 a) the list of Owners;
 
-b) the titles of these Owners towards the property;
+b) the Owners' titles;
 
 c) the Real Rights pertaining to the property;
 
-d) the Personal Rights of persons other than Owners currently pertaining to the property if applicable; and
+d) the Personal Rights of non-Owners, if applicable; and
 
-e) the entire history of these titles and rights, including all the Deeds and the data from the Deeds.
+e) the entire history of titles and rights, including all Deeds and data from Deeds.
 
 ## Section 4: Transfer of Rights to Real Estate
 
-#### Art. 14: Regulated Transfer of Rights
+### Art. 14: Regulated Transfer of Rights
 
 § 1
 
-Transfer of rights to Real Estate, including and not limited to Ownership rights, shall only take place according to the process described in this Law.
+Transfer of rights to Real Estate, including Ownership rights, shall follow the process described in this Law.
 
 § 2
 
-Other forms of transfer shall be null and void.
+Other transfer forms shall be null and void.
 
-#### Art. 15: Deed
+### Art. 15: Deed
 
-1. The document required to transfer Real Estate rights shall be known as a Deed. It shall take a written form. To effect the transfer of rights, the transferer and the transferee must jointly submit the Deed to the Registrar.
-2. The rights transfer shall take effect by the Registrar writing the data from it in the Land Registry.
+1. A Deed is a written document required for transferring Real Estate rights. To effect the transfer, the transferer and transferee must jointly submit the Deed to the Registrar.
 
-A Deed shall contain at least the following information:
+2. The rights transfer takes effect when the Registrar records the data in the Land Registry.
 
-a) the name and description of the piece or pieces of Real Estate, including their Identification Numbers;
+A Deed must contain the following information:
 
-b) the Parcel on this the Real Estate is built or to which it is connected, where applicable;
+a) the Real Estate's name and description, including Identification Numbers;
 
-c) the name, address and birthdate of the transferer; if they are an entity with legal personality other than that of its owner or owners, the corresponding data uniquely identifying that entity, including its Identification Number;
+b) the Parcel on which the Real Estate is built or connected, if applicable;
 
-d) the name, address and birthdate of the transferee; if they are an entity with legal personality other than that of its owner or owners, the corresponding data uniquely identifying that entity, including its Identification Number;
+c) the transferer's name, address, and birthdate; for legal entities, the corresponding data, including Identification Number;
 
-e) the title for the transfer;
+d) the transferee's name, address, and birthdate; for legal entities, the corresponding data, including Identification Number;
 
-f) the enumeration and description of the rights being transferred;
+e) the transfer title;
 
-g) the compensation for the transfer, usually the payment, denominated in a currency; and
+f) the enumeration and description of transferred rights;
 
-h) other conditions relevant for the transfer.
+g) the transfer compensation, typically payment in a currency; and
 
-#### Art. 16: Open Transfer
+h) other relevant transfer conditions.
+
+### Art. 16: Open Transfer
 
 § 1
 
-1. Where the Owner intends to rent out the property or intends a purpose similar to renting out, where there is an open ended number of possible holders of the rights and one can expect these to change over time without a clearly predictable schedule, they shall not have to submit the name of each tenant to the Registrar.
-2. The Owner shall instead make a submission to the Registrar where they
+1. If the Owner intends to rent the property or a similar purpose with an open-ended number of potential rights holders and unpredictable changes, they are not required to submit each tenant's name to the Registrar.
 
-a) identify the property uniquely;
+2. The Owner shall submit the following to the Registrar:
 
-b) set the beginning date and, where applicable, end date for the Rental; and
+  a) unique property identification;
 
-c) clearly describe which rights shall be left open for Rental; only rights which a rational person would associate with rental or related acts can be issued in such a submission.
+  b) Rental start date and, if applicable, end date;
 
-d) describe the purpose of the intended use of the piece of real estate by the Tenant, i.e. commercial, own residence or as a place for production.
+  c) a clear description of open rights for Rental (only rights reasonably associated with rental or related acts);
+
+  d) a description of the property's intended use by the Tenant (e.g., commercial, residence, or production).
 
 § 2
 
-1. The Registrar shall have the right to reject this submission only where the acceptance would clearly jeopardize the goals of this Law or is a serious infringement in the life, liberty or property of others.&#x20;
-2. Where the Registrar receives proof backed up by evidence that the continued use of this right by the Owner infringes seriously the life, liberty or property of others, they shall inform the Owner that they cannot use this right anymore and must report each transfer of rights as per the provisions of this Law.&#x20;
+1. The Registrar may reject the submission only if acceptance would clearly jeopardize this Law's objectives or seriously infringe on others' life, liberty, or property.
+
+2. If the Registrar receives evidence-backed proof of the Owner's continued use of this right seriously infringing others' life, liberty, or property, the Registrar will inform the Owner that they can no longer use this right and must report each rights transfer per this Law's provisions.
+
 3. The Owner shall have one month to comply.
 
 § 3
 
-The Owner shall be required to keep the identity of the tenants, the contracts and receipts of payment and shall be required to produce them when asked by a Court or by the Registrar.
+The Owner must retain tenant identities, contracts, payment receipts, and provide them upon request from a Court or the Registrar.
 
 ## Section 5: Initial Land Ownership
 
-#### Art. 17: Initial Land Ownership
+### Art. 17: Initial Land Ownership
 
-The Provisional Government of Liberland has ensured that the land may be legally used by freeing it from its status as a terra nullius that prevented most forms of useful activity internationally. As a result, the Provisional Government of Liberland has mixed its labour with the entirety of the land of Gornja Siga. As per Liberland's Founding on the 13th of March 2015, until the date this Law gains legal force, the entirety of the land is and has been since owned by Liberland.
+The Provisional Government of Liberland has established the legal use of land by resolving its status as terra nullius, which previously hindered most forms of international activity. Consequently, the Provisional Government has claimed the entirety of Gornja Siga. Since Liberland's founding on March 13, 2015, until this Law takes effect, Liberland has owned the entire territory.
 
-#### Art. 18: Retention of Land
+### Art. 18: Retention of Land
 
-Given how scarce land is as a resource, its extreme usefulness and the potential for disaster given the possible wrong use of that land, Liberland shall retain the ownership of the entirety of the land in Liberland for an indeterminate time.
+Considering the scarcity of land, its immense utility, and potential consequences of misuse, Liberland will retain ownership of all its land.
 
-#### Art. 19: Land Sale
+### Art. 19: Land Leasing
 
-1. It is not in the nature of a Libertarian State to own all the land on its territory. Liberland shall, through its Administration, ensure that the greater portion of the land is sold for a price and under conditions favourable to the Budget and the Treasury of the Administration.&#x20;
-2. This land sale shall proceed as if Liberland was a private owner seeking to sell its land for the greatest profit.
+1. Liberland will lease its land to the public, rather than selling it, to ensure efficient and sustainable land use.
+2. The Government will establish a long-term land leasing system, offering leases with fixed terms and conditions to individuals and entities.
+3. The leasing system will be designed to promote economic development, social stability, and environmental sustainability.
 
-#### Art. 20: Land Distribution
+### Art. 20: Land Lease Types
+
+1. Liberland shall offer two types of land leases: residential leases and commercial leases. 
+2. Residential leases shall be available to individuals for housing purposes, while commercial leases shall be provided for businesses, industries, and other enterprises.
+3. Lease terms for both types may vary, but shall generally be long-term to encourage investment, stability, and community development.
+
+### Art. 21: Lease Conditions and Fees
+
+1. The Government shall establish lease conditions and fees based on land use and market conditions. 
+2. Lease fees shall be periodically reviewed to ensure they remain equitable and reflect current market trends.
+3. Leaseholders shall be required to comply with all relevant land use regulations and zoning laws, as well as any specific conditions stipulated in their lease agreements.
+
+### Art. 22: Lease Renewal and Termination
+
+1. Leaseholders may apply for renewal of their leases upon expiration, provided they have complied with all lease terms and conditions.
+2. The Government reserves the right to deny lease renewal requests if the land is required for public use, urban redevelopment, or other essential projects.
+3. Leaseholders shall be notified of non-renewal at least one year before the lease's expiration date and shall be fairly compensated for their investments in the land.
+
+### Art. 23: Transfer of Leases
+
+1. Leaseholders may transfer their leases to other eligible parties, subject to the Government's approval and payment of any applicable transfer fees.
+2. Lease transfers shall not extend the original lease term, and the new leaseholder must adhere to all existing lease conditions and obligations.
+
+### Art. 24: Land Use Regulations
+
+1. The Government shall establish land use regulations to ensure efficient and sustainable land use, protect the environment, and maintain community harmony.
+2. Land use regulations shall cover topics such as zoning, building codes, environmental protection, and heritage conservation.
+3. Leaseholders shall be required to comply with all applicable land use regulations, as well as any additional conditions specified in their lease agreements.
+
+### Art. 25: Enforcement and Dispute Resolution
+
+1. The Government shall be responsible for enforcing lease terms, conditions, and land use regulations.
+2. Leaseholders who fail to comply with their lease terms or land use regulations may face penalties, including fines, lease termination, or legal action.
+3. Disputes between leaseholders and the Government, or between leaseholders, shall be resolved through negotiation, mediation, or arbitration before resorting to legal action.
+
+### Art. 26: Land Management
+
+Liberland will retain ownership of all land and manage it for public benefit. The land will be leased for profitable economic activities, public services, and other purposes that contribute to the well-being of Liberlanders. The Government will establish rules and regulations for land use, ensuring sustainable development and environmental conservation.
+
+## Section 5: Zoning
+
+### Art. 27: Establishment of Zoning System
+
+Upon the incorporation of Liberland, the Minister of Interior, acting in the name of the owner of the land, Liberland, shall promptly establish a zoning system and present it as a draft Law.
+
+### Art. 28: Zoning and Tenancy
 
 § 1
 
-1. The duty to sell the land shall not preclude Liberland from&#x20;
-
-a) honouring its promises or obligations made during the time it hasn't had full control over the land; or&#x20;
-
-b) extraordinarily, from awarding portions of the land to parties instrumental in Liberland gaining full control over the land.&#x20;
-
-1. This Land Distribution may be realized as a gift or sale under conditions other than those of the market.
+Any lease of property shall be made with the reservation that the State retains the following rights to the land and any future real estate built on that land:  
+a) The property shall be used only in ways in which it or the underlying land parcel has been zoned for;  
+b) This restriction shall be retained even where future subleases between private parties take place and shall exist in perpetuity.  
 
 § 2
 
-1. Land Distribution proposals shall be a special case of a Budget proposal and shall follow the constitutional and legal rules for Budget Proposals with the exceptions outlined in this Law.&#x20;
-2. The Enactment Period for Land Distribution proposals shall be no less than two months.
+The State retains the right to change the zoning later on. This can be done unilaterally to fulfill the purposes of this Law or the purposes of the Government, or upon request of the lessee or interested parties with the express written consent of all the lessees.
 
-§ 3
-
-1. The Minister of Interior shall draft any proposals for Land Distribution, which need to be countersigned by the President to be submitted to Congress.&#x20;
-2. Congress shall decide upon Land Distribution Proposals. The passing of a Land Distribution Proposal shall require the ⅔ majority vote of all the Members of Congress to pass.&#x20;
-3. As with any Budget proposals, the Senate shall be the final arbiter of whether or not the Land Distribution Proposals shall be realized.
-4. The Public Veto shall be allowed to cancel any Land Distribution proposals during its Enactment Period.&#x20;
-
-§ 4
-
-1. Under no circumstances shall more than 25 % of the total land area be subjected to Land Distribution, even should that mean that certain previous promises shall not be honoured and obligations remain unfulfilled. &#x20;
-2. Where there is a need to decide which of the previous promises should be honoured, the earlier promises shall take precedence over the latter promises, but the President shall have, with the approval of the Senate, the right ad hoc to deviate from this rule.
-3. Those damaged by this provision shall be given recourse in movable property and, where possible, in money.
-4. Any amendment of this provision shall require the standard supermajority tally in the Referendum for the motion to pass, no matter the origin of the Referendum proposal.
-
-#### Art. 21: Retention of Land
-
-Liberland shall be allowed to retain a portion of the land no greater than 15 percent of the total area for its purposes. It shall, wherever possible, put the land to profitable economic use, but where impossible, it shall ensure that the development of the land benefits the greatest number of Liberlanders.
-
-## Section 6: Zoning
-
-#### Art. 22: Zoning
+### Art. 29: Sanctions
 
 § 1
 
-1. Upon its incorporation while all the land is owned by Liberland, the Minister of Interior shall without delay set up a zoning system. The Congress shall vote on this system by simple majority vote.
-2. The zoning system shall entail a series of documents and maps describing in detail the intended use of the various pieces of land.
+If the Ministry of Interior finds that land is not being used in line with the zoning, they shall be able to make a case before the Judiciary. The Judiciary shall use remedies of:
+a) Suspension of citizenship rights;  
+b) Monetary fine, issuable repeatedly, up to a maximum of five percent of the market value of the property; and, ultimately;  
+c) Termination of the lease agreement and reclamation of the property by the State.  
 
-§ 2
+## Section 8: Transitory and Final Provisions
 
-No Land Sale or Land Distribution shall take place unless the given land has been zoned.
+### Art. 32: Transitory Provision
 
-#### Art. 23: Retention of Zoning
+1. All existing tenancies on unzoned land shall be subject to the zoning system established by the Minister of Interior as per Art. 27 and the tenants shall submit to it. 
+2. 2. All lease contracts according to this law pertaining to unzoned land shall be subject to this provision.
 
-§ 1
-
-Any transfer of property into private hands shall be made with the reservation that the State retains the following rights to the land and to any future Real Estate built on that land:
-
-§ 2
-
-a) the property shall be used only in ways in which it or the underlying land parcel has been zoned for;
-
-b) this restriction shall be retained even where future transfers between private owners take place and shall exist unto perpetuity.
-
-§ 3
-
-The State retains the right to change the zoning later on. This can be done unilaterally, to fulfil the purposes of this Law or the purposes of the Administration, or upon request of the owner or of interested parties with the express written consent of all the owners.
-
-1.
-
-#### Art. 24: Sanctions
-
-§ 1
-
-Where the Ministry of Interior finds that a land is not used in line with the Zoning, they shall be able to make a case before the Judiciary. The Judiciary shall use remedies of:
-
-a) suspension of Citizenship rights;
-
-b) monetary fine, issuable repeatedly, to the maximum of five percent of the market value of the property ; and, ultimately;
-
-c) enforced sale of the property for market conditions; the proceeds minus the costs of the sale will go to the sanctioned owner.
-
-## Section 7: Land Fee.
-
-#### Art. 25: Land Fee
-
-1. Along with the zoning plan, the Minister of Interior shall also set up the system according to which the duty to pay the Land Fee shall be determined. This system shall be enshrined by a Law which the Congress shall propose for a Referendum.&#x20;
-2. Where Law is silent, the Land Fee shall be a payable at a flat rate amounting to 1 percent of the market cost of the property per annum determined by the last sale of the land as registered in the Land Registry.&#x20;
-
-#### Art. 26: Regular Review
-
-The Minister of Interior shall regularly review the Land Fee rules, ensuriing that they follow the current market conditions. The Minister of Interior shall annually submit draft amendments for the Congress to propose for Referendum.
-
-## Section 8: Final Provisions
-
-#### Art. 27: Legal Force
+### Art. 32: Legal Force
 
 This Law takes legal force at the end of a standard Enactment Period following its adoption in the Referendum.
+
