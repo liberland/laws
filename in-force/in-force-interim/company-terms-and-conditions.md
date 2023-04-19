@@ -1,8 +1,11 @@
 # Terms & Conditions for Company Registration
 ## Preface
 This document contains and codifies the Terms and Conditions to Liberland’s services regarding the setting up, the registration, the business life, and the termination of companies in Liberland and also the Company itself, understood in the broadest possible sense, henceforth “Company services.” 
+
 The purpose of this document is to prevent misunderstandings and manage certain expectations that Liberland, Liberland Limited, and other affiliated entities and persons, hereafter the “Provider,” might not be able to fully satisfy regarding the functions and consequences that are usually understood as part of company registration in extant states. 
+
 These Terms and Conditions are temporary and shall be in force only until such a time as Liberland gains, in form or fact, the recognition of a significant part of the community of nations which will enable it to resume the regular duties one might expect of a State and declares these Terms and Conditions to have been revoked in part or whole.
+
 Rest assured that we are doing all that is in our power to hasten the day this document will be relegated to the history archives.
 
 ## Terms and Conditions
@@ -35,7 +38,7 @@ h) You have read, understood, and agreed to our Privacy policy.
 
 We will require you to provide certain information about yourself, and we may, in our sole discretion, require you to provide further information and/or documents at any stage during your use of the Company Services. 
 
-#### § 2: Operation of those Conditions
+#### § 2: Operation of these Conditions
 1) You give your full consent that through our KYC and/or flagging procedure, we may, in our sole discretion, refuse, decline, suspend or disable your access or use of the Company Services. 
 2) Regardless of disabling the access through the Company Services, all direct interactions with the Liberland Blockchain interfaces are out of the Provider’s control. 
 
