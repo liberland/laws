@@ -202,7 +202,7 @@ When witnesses are examined, all parties shall have the opportunity to question 
 #### § 2: Presenting Exhibits  
 Exhibits offered by any party shall be accepted as evidence and appropriately marked.
 
-#### § 2: Evidence Excessively Difficult to Examine
+#### § 3: Evidence Excessively Difficult to Examine
 Evidence that is excessively difficult or impractical to examine and verify during the hearing must be disclosed in advance, or the judge may dismiss or assign less weight to such evidence due to the inability to fully examine it.
 
 ### Art. 39: Record of Witnesses and Exhibits
@@ -278,7 +278,7 @@ If the appeal is clearly frivolous or without merit, the court shall set it asid
 1. The Supreme Court may select cases to review based on requests from the parties involved or on its own initiative. 
 2. The Supreme Court has the authority to review any case resulting from the regular judicial process, but it generally prioritizes cases concerning the validity of treaties or laws. The Supreme Court may also review ongoing cases that are in the appellate process.
 
-#### § 1: Aged Cases
+#### § 2: Aged Cases
 As a general rule, the Supreme Court will not review cases where the decision is more than ten years old, except in exceptional circumstances, such as when there is a strong indication that the case was resolved in a grossly unjust manner, with significant consequences for the parties involved, the justice system in Liberland, or individual liberty.
 
 ### Art. 49: Reopening the Case
