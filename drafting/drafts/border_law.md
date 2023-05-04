@@ -19,6 +19,8 @@ The specific coordinates delineating the borders of Liberland shall be specified
 ### Article 4: Border Markers
 Physical markers may be placed along the borders of Liberland to provide clear demarcation of the boundaries on the ground. The design, placement, and maintenance of these markers shall be the responsibility of a designated government agency, subject to any international agreements or treaties governing the maintenance of border markers.
 
+## Section 2: Border Crossing
+
 ### Article 5: Crossing of the State Border at a Border Crossing Point
 1. All persons, vehicles, and goods entering or exiting the territory of Liberland shall do so through designated border crossing points, in accordance with applicable laws, regulations, and procedures.
 2. The government of Liberland shall establish and maintain official border crossing points to facilitate the legal and orderly movement of people, vehicles, and goods across its borders.
@@ -54,6 +56,35 @@ The arrangement and equipment of a border crossing point shall be determined by 
 ### Article 13: Marking a Border Crossing Point and Its Zone
 1. Border crossing points and their zones shall be clearly marked with appropriate signage and other visual indicators to facilitate the identification and understanding of their boundaries and functions.
 2. The design, placement, and maintenance of border crossing point markings shall be the responsibility of a designated government agency, subject to any international agreements or treaties governing the marking of border crossing points.
+
+## Section 3: Border Controls
+
+### Article 14: Term
+For the purposes of this Section, "border controls" refer to the measures and procedures employed by the government of Liberland to regulate the entry and exit of persons, vehicles, and goods across its state border, in accordance with applicable laws, regulations, and international agreements.
+
+### Article 17: Place for Performing Border Controls
+1. Border controls shall be conducted at designated border crossing points, as well as in the surrounding zones established to ensure the effective and secure operation of border control functions.
+2. The government of Liberland may also establish additional locations for border controls, such as checkpoints along major transportation routes, in accordance with applicable law and international agreements.
+
+### Article 18: Obligations of a Person Who Is Crossing the State Border
+1. All persons crossing the state border of Liberland shall comply with applicable laws, regulations, and procedures, including the presentation of valid travel documents and the declaration of any goods subject to customs controls.
+2. Persons crossing the state border shall also cooperate with border control officers by providing accurate and complete information, as well as submitting to any required inspections or searches.
+
+### Article 19: Control of the Vehicle and Objects
+Vehicles and objects, including luggage, cargo, and personal belongings, may be subject to inspection and search as part of the border control process.
+Border control officers shall have the authority to conduct inspections and searches in accordance with applicable law, and may seize or detain any items that are prohibited, restricted, or otherwise in violation of customs regulations.
+
+### Article 20: Procedure with Found Objects
+1. Any objects found during border control inspections that are suspected of being connected to criminal activity, posing a threat to public safety, or otherwise in violation of applicable law shall be seized and secured by border control officers.
+2. The relevant government authorities shall be notified of the seized objects and shall initiate appropriate investigative, legal, or administrative procedures, as required by law.
+
+### Article 21: Minimum Border Control
+1. The government of Liberland shall implement a minimum level of border control that ensures the effective enforcement of its laws, regulations, and international agreements, while also facilitating the efficient and orderly movement of persons, vehicles, and goods across its state border.
+2. The specific procedures and requirements for minimum border control shall be determined by the relevant government authority and may be adjusted as necessary to address changing circumstances or threats.
+
+### Article 22: Verification of Crossing of the State Border
+1. The government of Liberland shall establish procedures for verifying the crossing of the state border by persons, vehicles, and goods, including the collection and retention of relevant data and documentation.
+2. Such verification procedures shall be conducted in accordance with applicable law and shall respect the privacy and personal data protection rights of individuals, as well as any applicable international agreements or treaties governing the sharing or transfer of personal data.
 
 ## Section 2: Immigration and Border Service (IBIS)
 
