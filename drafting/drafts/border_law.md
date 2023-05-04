@@ -19,6 +19,42 @@ The specific coordinates delineating the borders of Liberland shall be specified
 ### Article 4: Border Markers
 Physical markers may be placed along the borders of Liberland to provide clear demarcation of the boundaries on the ground. The design, placement, and maintenance of these markers shall be the responsibility of a designated government agency, subject to any international agreements or treaties governing the maintenance of border markers.
 
+### Article 5: Crossing of the State Border at a Border Crossing Point
+1. All persons, vehicles, and goods entering or exiting the territory of Liberland shall do so through designated border crossing points, in accordance with applicable laws, regulations, and procedures.
+2. The government of Liberland shall establish and maintain official border crossing points to facilitate the legal and orderly movement of people, vehicles, and goods across its borders.
+
+### Article 6: Crossing of the State Border Outside a Border Crossing Point
+Crossing the state border outside a designated border crossing point is prohibited, except in cases of emergency or other exceptional circumstances as provided by law.
+Unauthorized crossing of the state border outside a designated border crossing point may result in penalties, including fines, detention, and deportation, as determined by applicable law.
+
+### Article 7: Cross-Border Permit
+1. A cross-border permit may be issued by the relevant government authority for specific purposes, such as the conduct of scientific research, maintenance of border infrastructure, or other legitimate activities that require access to border areas.
+2. Applicants for a cross-border permit must meet the requirements set forth in relevant laws and regulations and must not pose a threat to the security, public order, or public health of Liberland.
+
+### Article 8: Border Crossing Point Types
+Border crossing points shall be classified into types based on their purpose and the categories of persons, vehicles, or goods they serve. The types may include, but are not limited to, international, regional, local, and temporary border crossing points.
+The government of Liberland shall establish and maintain a list of all border crossing points and their respective types, which shall be made available to the public.
+
+### Article 9: Border Crossing Points for International and Local Traffic
+1. International border crossing points shall be designated for the entry and exit of persons, vehicles, and goods traveling between Liberland and foreign countries.
+2. Local border crossing points shall be designated for the entry and exit of persons, vehicles, and goods traveling between Liberland and neighboring states, subject to any bilateral agreements governing such local traffic.
+
+### Article 10: Temporary Border Crossing Point
+1, The government of Liberland may establish temporary border crossing points for special events or other situations that require additional capacity for border control and management.
+2. Temporary border crossing points shall be subject to the same laws, regulations, and procedures as permanent border crossing points and shall be operated and maintained by the relevant government authorities.
+
+### Article 11: Zone of a Border Crossing Point
+1. A zone shall be established around each border crossing point to ensure the effective and secure operation of border control functions.
+2. The size, boundaries, and specific regulations governing the zone of a border crossing point shall be determined by the relevant government authority, in accordance with applicable law.
+
+### Article 12: Arrangement and Equipment of a Border Crossing Point
+Border crossing points shall be equipped with appropriate facilities and infrastructure to enable the efficient and secure processing of persons, vehicles, and goods.
+The arrangement and equipment of a border crossing point shall be determined by the relevant government authority, in accordance with best practices and applicable law.
+
+### Article 13: Marking a Border Crossing Point and Its Zone
+1. Border crossing points and their zones shall be clearly marked with appropriate signage and other visual indicators to facilitate the identification and understanding of their boundaries and functions.
+2. The design, placement, and maintenance of border crossing point markings shall be the responsibility of a designated government agency, subject to any international agreements or treaties governing the marking of border crossing points.
+
 ## Section 2: Immigration and Border Service (IBIS)
 
 ### Article 2: Establishment of IBIS
