@@ -10,6 +10,15 @@ This Law establishes the framework for border delimitation and management, as we
 ### Article 1: Border Delimitation
 The borders of Liberland shall be defined using a geospatial coordinate system of sufficient precision to avoid confusion in common activities, such as acquiring, using, and transacting land, or constructing and maintaining real estate.
 
+### Article 2: Geospatial Coordinate System
+The geospatial coordinate system utilized for defining the borders of Liberland shall be the World Geodetic System 1984 (WGS 84), or any other internationally recognized coordinate system as may be determined by law or regulation.
+
+### Article 3: Border Coordinates
+The specific coordinates delineating the borders of Liberland shall be specified in an annex to this law, and may be amended by law as necessary to reflect any changes in international agreements, treaties, or other relevant factors affecting the territory of Liberland.
+
+### Article 4: Border Markers
+Physical markers may be placed along the borders of Liberland to provide clear demarcation of the boundaries on the ground. The design, placement, and maintenance of these markers shall be the responsibility of a designated government agency, subject to any international agreements or treaties governing the maintenance of border markers.
+
 ## Section 2: Immigration and Border Service (IBIS)
 
 ### Article 2: Establishment of IBIS
