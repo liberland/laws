@@ -86,6 +86,20 @@ Border control officers shall have the authority to conduct inspections and sear
 1. The government of Liberland shall establish procedures for verifying the crossing of the state border by persons, vehicles, and goods, including the collection and retention of relevant data and documentation.
 2. Such verification procedures shall be conducted in accordance with applicable law and shall respect the privacy and personal data protection rights of individuals, as well as any applicable international agreements or treaties governing the sharing or transfer of personal data.
 
+## Section 4: Weapons
+
+### Article 23: Bringing Weapons and Ammunition into and Taking Them out of the Country
+1. The import and export of weapons and ammunition across the state border of Liberland shall be subject to specific laws, regulations, and licensing requirements, in accordance with national and international law.
+2. Persons intending to bring weapons and ammunition into or out of the country shall declare such items to border control officers and provide any necessary permits, licenses, or other documentation as required by law.
+
+### Article 24: Weapons Brought for Hunting Purposes or in Transit
+1. Weapons and ammunition brought into Liberland for hunting purposes or in transit to another country shall be subject to special regulations and procedures, as determined by the relevant government authority.
+2. Persons bringing weapons and ammunition for hunting purposes or in transit must comply with applicable laws and regulations, including the possession of valid permits, licenses, and proof of lawful ownership.
+
+### Article 25: Weapons and Ammunition of Shooting Sports Organizations
+1. Weapons and ammunition belonging to shooting sports organizations may be imported, exported, or transported across the state border of Liberland, subject to specific regulations and requirements established by the relevant government authority.
+2. Shooting sports organizations shall be responsible for ensuring the proper handling, storage, and transport of weapons and ammunition in accordance with applicable laws and regulations.
+
 ## Section 2: Immigration and Border Service (IBIS)
 
 ### Article 2: Establishment of IBIS
