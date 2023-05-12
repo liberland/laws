@@ -58,7 +58,7 @@ c) [Additional Land Border Crossings to be Determined Later On] - Further land P
 Points of Entry shall be equipped with appropriate facilities and infrastructure to enable the efficient and secure processing of persons, vehicles, and goods.
 The arrangement and equipment of a border crossing point shall be determined by the relevant government authority, in accordance with best practices and applicable law.
 
-### Article 11: Marking a Border Crossing Point and Its Zone
+### Article 11: Marking a Point of Entry and Its Zone
 1. Border crossing points and their zones shall be clearly marked with appropriate signage and other visual indicators to facilitate the identification and understanding of their boundaries and functions.
 2. The design, placement, and maintenance of border crossing point markings shall be the responsibility of a designated government agency, subject to any international agreements or treaties governing the marking of border crossing points.
 
