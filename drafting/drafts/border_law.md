@@ -29,41 +29,33 @@ Physical markers may be placed along the borders of Liberland to provide clear d
 Crossing the state border outside a designated border crossing point is prohibited, except in cases of emergency or other exceptional circumstances as provided by law.
 Unauthorized crossing of the state border outside a designated border crossing point may result in penalties, including fines, detention, and deportation, as determined by applicable law.
 
-### Article 7: Cross-Border Permit
-#### § 1: River Border Points
-1. The following river harbors shall be recognized as official river border points of Liberland, subject to the regulations and stipulations of this law:
+### Article 7: Points of Entry
+#### § 1: River Points of Entry
+The following river harbors shall be recognized as official river points of entry of Liberland, subject to the regulations and stipulations of this law:
 
 a) The River Port of Mainland Liberland, [address, coordinates to be determined later] shall act as the primary point of ingress and egress for maritime traffic into Liberland from neighboring jurisdictions.
 
 b) The Harbor of Liberty Island, [address, coordinates to be determined later], while also functioning as a point of ingress and egress, shall primarily serve the purpose of facilitating local and tourist maritime traffic.
 
-#### § 2: Land Border Crossings
-Liberland recognizes several official land border crossings, which are enumerated below. The number and designation of these crossings may be amended by legislation or regulation as circumstances require.
+#### § 2: Land Points of Entry
+Liberland recognizes several official land Points of Entry, which are enumerated below:
 
-a) [Land Border Crossing A] - Functioning as the main crossing point, [Land Border Crossing A] is equipped with full customs and immigration facilities.
+a) [Land Border Crossing A] - Functioning as the main Point of Entry, [Land Border Crossing A] is equipped with full customs and immigration facilities.
 
-b) [Land Border Crossing B] - Serving as a secondary point of entry and exit, [Land Border Crossing B] is primarily used for local and pedestrian traffic.
+b) [Land Border Crossing B] - Serving as a secondary Point of Entry, [Land Border Crossing B] is primarily used for local and pedestrian traffic.
 
-c) [Additional Land Border Crossings to be Determined Later On] - Further land border crossings, their exact locations, and their specific regulations will be specified in subsequent amendments or regulations as required.
+c) [Additional Land Border Crossings to be Determined Later On] - Further land Points of Entry, their exact locations, and their specific regulations will be specified in subsequent amendments or regulations as required.
 
-### Article 8: Border Crossing Point Types
-Border crossing points shall be classified into types based on their purpose and the categories of persons, vehicles, or goods they serve. The types may include, but are not limited to, international, regional, local, and temporary border crossing points.
-The government of Liberland shall establish and maintain a list of all border crossing points and their respective types, which shall be made available to the public.
+### Article 8: Ad-Hoc Points of Entry
+1. Beyond the designated border crossings stipulated in this law, the Minister of Interior may, by Edict, establish ad-hoc Points of Entry for the period of up to the termination of the Election Term after the Election Term in which the Point of Entry is established..
+2. This period may be extended only once, before the expiry and only until the end of the next Election Term after the term in which the period expires. An extension of the period may take place solely in circumstances of exigent need.
 
-### Article 9: Border Crossing Points for International and Local Traffic
-1. International border crossing points shall be designated for the entry and exit of persons, vehicles, and goods traveling between Liberland and foreign countries.
-2. Local border crossing points shall be designated for the entry and exit of persons, vehicles, and goods traveling between Liberland and neighboring states, subject to any bilateral agreements governing such local traffic.
-
-### Article 10: Temporary Border Crossing Point
-1, The government of Liberland may establish temporary border crossing points for special events or other situations that require additional capacity for border control and management.
-2. Temporary border crossing points shall be subject to the same laws, regulations, and procedures as permanent border crossing points and shall be operated and maintained by the relevant government authorities.
-
-### Article 11: Zone of a Border Crossing Point
-1. A zone shall be established around each border crossing point to ensure the effective and secure operation of border control functions.
+### Article 11: Border Zones
+1. A zone shall be established around each border crossing point to ensure the effective and secure operation of border control functions, henceforth "Border Zone".
 2. The size, boundaries, and specific regulations governing the zone of a border crossing point shall be determined by the relevant government authority, in accordance with applicable law.
 
-### Article 12: Arrangement and Equipment of a Border Crossing Point
-Border crossing points shall be equipped with appropriate facilities and infrastructure to enable the efficient and secure processing of persons, vehicles, and goods.
+### Article 12: Arrangement and Equipment of a Point of Entry
+Points of Entry shall be equipped with appropriate facilities and infrastructure to enable the efficient and secure processing of persons, vehicles, and goods.
 The arrangement and equipment of a border crossing point shall be determined by the relevant government authority, in accordance with best practices and applicable law.
 
 ### Article 13: Marking a Border Crossing Point and Its Zone
