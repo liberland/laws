@@ -1,79 +1,77 @@
-# Elections Law
+# Liberland Elections Law
 
-## Preface
-This law governs the elections to the Liberland Congress and to other representative bodies in Liberland, setting the rules, the conditions for declaring results and the basic principles governing all elections.
+## Introduction
+This legislation prescribes the management and regulation of elections to the Liberland Congress and other representative bodies in Liberland. It establishes the rules, conditions for declaring results, and fundamental principles governing all elections.
 
-## Section 1: Organizing Elections
+## Part I: Election Organization
 
-### Art. 1: Basic Principles
+### Article 1: Fundamental Principles
 
-#### § 1: Election Form  
-1. All elections in Liberland shall be periodic, genuine, fair and transparent, held by secret vote or by equivalent free voting procedures. 
-2. No Citizen shall be bared from participation in elections based on grounds such as sex, race, colour, ethnic or social origin, genetic features, language, religion or belief, political or any other opinion, membership of a national minority, property, birth, disability, age or sexual orientation.
+#### § 1: Nature of Elections  
+1. All elections within Liberland must be regular, authentic, equitable, and transparent, executed through confidential voting or equivalent unrestricted voting processes. 
+2. Citizenship cannot be denied election participation on the grounds of sex, race, color, ethnic or social origin, genetic attributes, language, religion or belief, political or any other opinion, membership of a national minority, property, birth, disability, age, or sexual orientation.
 
-#### § 2: Purpose of the Elections
-The purpose of the election is to determine the setup of an elected organ in Liberland politics for the duration of the next election term.
+#### § 2: Election Objectives
+Elections aim to ascertain the composition of a chosen body in Liberland's political structure for the subsequent electoral term.
 
-### Art. 2: Organizer of Elections
-1) The Ministry of Justice shall organize all elections into the central government of Liberland. 
-2) Municipal and other sectoral elections shall be organized analogically to central elections by the official appointed for this by the founding document of the given institution.
+### Article 2: Election Administration
+1) The Ministry of Justice shall administer all elections to the central government of Liberland. 
+2) Municipal and other sectoral elections will be analogously organized by the appointed official according to the founding document of the respective institution.
 
-### Art. 3: Election Platform
-1. Wherever possible, all elections take place on a platform of electronic communication. 
-2. Where no suitable platform of electronic communication is available, elections can take place using other mean.
+### Article 3: Election Platform
+1. Wherever feasible, all elections occur on an electronic communication platform. 
+2. In the absence of an appropriate electronic communication platform, other means can be employed for elections.
 
-### Art. 4: Voters
-All Citizen above 15 years of age who have a pooled Liberland Merit (LLM) balance of at least 5000 are eligible to vote.
+### Article 4: Electorate
+All citizens above 15 years old who maintain a cumulative Liberland Merit (LLM) balance of at least 5000 are entitled to vote.
 
-### Art. 5: Eligibility
-A Citizen who can vote shall also be eligible to apply for an elected office.
+### Article 5: Candidacy
+Any citizen with the right to vote can also qualify for an elected office.
 
-### Art. 6: Application
+### Article 6: Application
 
-#### § 1: Scope of Application  
-The Government shall abide by this law always when organizing elections of any kind, while other entities might opt-in voluntarily. 
+#### § 1: Application Jurisdiction  
+The Government shall adhere to this legislation when conducting any type of election, while other entities may opt in voluntarily. 
 
-#### § 2: Voluntary opt-in  
-Entities opting in voluntarily shall be granted access to the platform of electronic communication which the Government currently uses to build, at their own expense and on their own accord, an election system conform with this Law.
+#### § 2: Voluntary Inclusion  
+Voluntarily participating entities will be granted access to the electronic communication platform currently in use by the Government to develop their own election system in accordance with this Law, at their own expense and discretion.
 
-## Section 2: Election Process
+## Part II: Election Procedure
 
-### Art. 7: Publication
-The Minsiter of Justice shall announce elections ahead of time to be visible for the general public and the Citizens in particular using methods of electronic communications or other means where appropriate.
+### Article 7: Announcement
+The Minister of Justice shall publicize upcoming elections to ensure visibility for the general public and particularly for citizens, using electronic communication methods or other means as suitable.
 
-### Art. 8: Voting
+### Article 8: Voting Process
 
 #### § 1: Voter Registration  
-1. Voting shall be registered at any point during an election term. It shall be counted upon the ending of the current election term.
-2. If one voter votes twice or more times during a single election term, only the last vote cast shall be counted.
-3. The system shall register every vote cast and all LLM shall posess equal weight.
+1. Votes can be registered at any point during an election term and will be counted at the conclusion of the current election term.
+2. If a voter casts more than one vote during a single election term, only the most recent vote will be counted.
+3. The system shall document each vote cast, and all LLMs shall carry equal weight.
 
-#### § 2: Safeguarding Representativeness  
-To increase the system's representativeness, the use of alternative voting or similar methods shall be permissible. The voter may have the opportunity to vote for more candidates and assign them priorities. In case the candidate of their first choice doesn't pass the vote, their vote shall be transferred to the candidate of their second choice and so on. The maximal number of candidates shall be capped so that it is reasonable within the overal logic of the system.
+#### § 2: Ensuring Representativeness  
+To enhance system representation, the use of alternative voting or similar methods will be permitted. Voters may have the option to vote for multiple candidates and assign them priorities. If their first-choice candidate fails to secure the vote, their vote will be reassigned to their second-choice candidate, and so forth. The maximum number of candidates will be limited to maintain system logic.
 
-### Art. 9: Confirmation
+### Article 9: Verification
 
-#### § 1: Ensuring Legitimacy  
-1. The system shall entail measures to effectively check whether or not the action to vote was performed by the given voter's account. 
-2. The system shall likewise check whether or not the voter has the personal control over their vote using measures like or better than two-factor authentication.
+#### § 1: Legitimacy Assurance  
+1. The system will incorporate measures to confirm whether the voting action was carried out by the registered voter's account. 
+2. The system will also verify the voter's personal control over their vote using methods equivalent to or more robust than two-factor authentication.
 
 #### § 2: Vote Delegation   
-1. Delegation of vote to other eligible voters, including when this is done for monetary gains, shall be freely allowed. 
-2. Delegation of vote to other than eligible voters shall be a first class misdemeanor of the highest severity.
+1. Delegating votes to other eligible voters, even for monetary benefit, will be permitted. 
+2. Vote delegation to non-eligible voters will be treated as a first-class misdemeanor of the highest severity.
 
-### Art. 10: Anonymity
-Voting shall be annonymous. The system shall employ cryptographic means to ensure that matching a vote with a voter shall be functionally impossible. These shall utilize the technology of zero-knowledge protocol or something equally or more efficient.
+### Article 10: Anonymity
+Voting will be conducted anonymously. The system will employ cryptographic methods to ensure that associating a vote with a voter is practically impossible. Such methods will use zero-knowledge protocol technology or something equally or more effective.
 
-### Art. 11: Tallying
+### Article 11: Vote Counting
 
-#### § 1: Automatic Vote Counting  
-The system shall count the votes automatically and in real time as those are registered. 
+#### § 1: Real-Time Vote Counting  
+The system will automatically and real-time tally votes as they are registered. 
 
-#### § 2 Final Tally  
-1. The final tally for the given election period shall take place upon the moment and according to the situation as of the ending of the given election period. 
-2. That tally shall directly translate into the setup of the organ being voted in.
+#### § 2 Final Count  
+1. The final count for a given election term will be conducted at the end of the said term. 
+2. This final count will directly influence the formation of the elected body.
 
-### Art. 12: Formula
-The formula for counting the vote and turning the result into the setup of the elected organ for the next election period shall be a simple and easy to understand one and one which the relevant academic fields consider sound. It shall never cause two voting instruments to be counted with a different weight.
-
-
+### Article 12: Calculation Method
+The formula for tallying the vote and converting the result into the composition of the elected body for the next election term will be simple and comprehensible, and one which is deemed valid by relevant academic fields. It will ensure that two voting instruments are never counted with differing weights.
