@@ -3,7 +3,7 @@
 ## Introduction
 This legislation prescribes the management and regulation of elections to the Liberland Congress and other representative bodies in Liberland. It establishes the rules, conditions for declaring results, and fundamental principles governing all elections.
 
-## Part I: Election Organization
+## Section 1: Election Organization
 
 ### Article 1: Fundamental Principles
 
@@ -36,7 +36,7 @@ The Government shall adhere to this legislation when conducting any type of elec
 #### § 2: Voluntary Inclusion  
 Voluntarily participating entities will be granted access to the electronic communication platform currently in use by the Government to develop their own election system in accordance with this Law, at their own expense and discretion.
 
-## Part II: Election Procedure
+## Section 2: Election Procedure
 
 ### Article 7: Announcement
 The Minister of Justice shall publicize upcoming elections to ensure visibility for the general public and particularly for citizens, using electronic communication methods or other means as suitable.
@@ -75,3 +75,45 @@ The system will automatically and real-time tally votes as they are registered.
 
 ### Article 12: Calculation Method
 The formula for tallying the vote and converting the result into the composition of the elected body for the next election term will be simple and comprehensible, and one which is deemed valid by relevant academic fields. It will ensure that two voting instruments are never counted with differing weights.
+
+## Section 3: Election Results
+### Article 13: Results Declaration
+#### § 1: Results Announcement
+The Ministry of Justice shall publicly declare the results within 24 hours of the conclusion of the voting process.
+The result shall detail the names of the elected candidates, the number of votes each candidate received, and any relevant information as deemed necessary by the Ministry of Justice.
+
+#### § 2: Results Archive
+The Ministry of Justice will maintain an archive of all election results, which shall be publicly accessible.
+This archive will include records of all past elections, the participants, the vote count, and the outcome.
+
+### Article 14: Result Verification
+#### § 1: Public Auditability
+The voting platform should provide a means for anyone to verify the correctness of the result without compromising voter anonymity.
+
+#### § 2: Independent Auditing
+An independent body or organization shall be appointed to conduct an audit of the election results.
+The appointed body shall submit an audit report to the Ministry of Justice within two weeks of the conclusion of the election.
+
+## Section 4: Disputes and Penalties
+### Article 15: Election Disputes
+#### § 1: Dispute Resolution
+1. Any disputes arising from the conduct of elections shall be addressed by the Liberland Supreme Court.
+2. The Supreme Court's decision on any dispute will be final.
+
+#### § 2: Time Frame for Dispute Submission
+1. Disputes must be lodged within one week of the declaration of results.
+2. Any dispute lodged after this time frame will not be considered.
+
+### Article 16: Electoral Offences
+#### § 1: Manipulation of Election Results
+1. Any act of tampering, manipulation, or fraudulent behavior that affects the election process or results will be treated as a criminal offence.
+2. The guilty party will be liable to lawful penalties as deemed appropriate by the Supreme Court of Liberland according to the Criminal Code as applicable in Liberland.
+
+#### § 2: Impersonation and Misrepresentation
+1. Impersonation or misrepresentation of any form with the intent to manipulate the voting process is strictly prohibited and will be treated as a criminal 2. offence.
+2. The guilty party will be liable to lawful penalties as deemed appropriate by the Supreme Court of Liberland according to the Criminal Code as applicable in Liberland.
+
+## Section 5: Temporary and Final Provisions
+
+### Article 17: Final Provision
+This Law shall gain Legal Force on … and it shall remain in force in perpetuity or until its legal effects should be terminated or until it should be replaced by another Law governing the same or similar subject matter.
