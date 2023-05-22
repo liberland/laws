@@ -110,7 +110,7 @@ The appointed body shall submit an audit report to the Ministry of Justice withi
 2. The guilty party will be liable to lawful penalties as deemed appropriate by the Supreme Court of Liberland according to the Criminal Code as applicable in Liberland.
 
 #### § 2: Impersonation and Misrepresentation
-1. Impersonation or misrepresentation of any form with the intent to manipulate the voting process is strictly prohibited and will be treated as a criminal 2. offence.
+1. Impersonation or misrepresentation of any form with the intent to manipulate the voting process is strictly prohibited and will be treated as a criminal  offence.
 2. The guilty party will be liable to lawful penalties as deemed appropriate by the Supreme Court of Liberland according to the Criminal Code as applicable in Liberland.
 
 ## Section 5: Temporary and Final Provisions
