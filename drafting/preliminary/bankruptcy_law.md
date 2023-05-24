@@ -2,13 +2,15 @@
 
 ## Preamble
 
-This Law establishes the framework for the processes related to insolvency and bankruptcy in the Free Republic of Liberland, predicated on the principles of individual freedom, personal responsibility, and the inviolability of private property.
+This Law establishes the framework for the processes related to insolvency and bankruptcy in the Free Republic of Liberland, predicated on the principles of individual freedom.
 
 ## Section 1: Insolvency and Bankruptcy
 
 ### Article 1: Definition of Insolvency
 
-Insolvency shall be defined as a state where an individual or entity is unable to repay their debts when they are due.
+Insolvency shall be defined as a state where an individual or entity is unable to repay their debts when they are due. They must have
+a) two creditors or more,
+b) deb
 
 ### Article 2: Definition of Bankruptcy
 
