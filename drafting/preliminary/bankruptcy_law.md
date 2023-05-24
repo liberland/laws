@@ -4,9 +4,7 @@
 
 This Law establishes the framework for the processes related to insolvency and bankruptcy in the Free Republic of Liberland, predicated on the principles of individual freedom, personal responsibility, and the inviolability of private property.
 
-## Definitions
-
-### Section 1: Insolvency and Bankruptcy
+## Section 1: Insolvency and Bankruptcy
 
 ### Article 1: Definition of Insolvency
 
