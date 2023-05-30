@@ -2,60 +2,98 @@
 
 ## Preface
 
-This Law establishes the framework for the processes related to insolvency and bankruptcy in the Free Republic of Liberland, predicated on the principles of individual freedom.
+This Law sets forth the regulations and procedures pertaining to insolvency and bankruptcy within the jurisdiction of the Free Republic of Liberland, grounded on the ethos of individual liberty.
 
 ## Section 1: Insolvency and Bankruptcy
 
-### Article 1: Definition of Insolvency
+### Article 1: Insolvency
 
-1) An individual or an entity is insolvent where they are unable to repay their debts when they are due. For the purpose of this law, an individual or an entity is insolvent when they:
+1 An individual or entity shall be deemed insolvent if they are incapable of discharging their financial obligations as and when they fall due. For the purpose of this law, insolvency is constituted when:
 
-a) have two creditors or more,
+a) there exist two or more creditors,
 
-b) have outstanding monetary obligations which can be denominated in any kind of money, and these obligations are overdue for more than 30 days, and
+b) outstanding monetary liabilities, irrespective of the form of currency, persist for a period exceeding 30 days, and
 
-c) are unable to fulfill these monetary obligations.
+c) the individual or entity is unable to fulfill these financial obligations.
 
-2) A debtor shall be recognized as unable to fulfill its monetary obligations if:
+2 A debtor shall be recognized as unable to fulfill their financial obligations if:
 
-a) they have ceased payments of a significant portion of their monetary obligations,
+a) they have discontinued the payment of a significant proportion of their financial obligations,
 
-b) they have failed to fulfill such obligations for a period exceeding 3 months after the due date,
+b) they have defaulted on such obligations for a period extending 3 months beyond the due date,
 
-c) it is impossible to satisfy any of the due monetary claims against the debtor through decision enforcement or execution, or
+c) any of the debtor's due monetary claims cannot be satisfied through decision enforcement or execution, or
 
-d) they have failed to submit the lists referred to in § 104 paragraph 1, as ordered by the insolvency court.
+d) they have failed to submit the lists required under § 104 paragraph 1, as mandated by the insolvency court.
 
-### Article 2: Definition of Bankruptcy
+3 A presumption of insolvency applies to an individual when, considering all circumstances, it is reasonably foreseeable that the debtor will fail to meet a substantial part of their financial obligations in a timely and appropriate manner.
 
-Bankruptcy is a legal proceeding involving an individual or business that is unable to repay outstanding debts.
+4 This law shall not apply to Liberland, its government or any agency directly and formally within the governmental hierarchy. However, it shall apply to entities or individuals formally within the governmental hierarchy where a substantial part of their activities is private in nature, irrespective of whether such activities are commercial or non-profit.
+
+### Article 2: Bankrupcy Proceedings
+
+1 Bankruptcy refers to a legal process pertaining to an individual or business unable to repay their outstanding debts.
+
+2 The principles underpinning bankruptcy proceedings are:
+
+a) they should be conducted in a manner ensuring no participant is unjustly disadvantaged or unlawfully favored, while seeking prompt, economical, and maximal satisfaction of creditors,
+
+b) creditors in essentially the same or similar positions, as per this law, should have equal opportunities in insolvency proceedings,
+
+c) unless otherwise stipulated by this law, the rights of creditors acquired in good faith prior to the initiation of insolvency proceedings shall not be curtailed by the insolvency court's decision or the insolvency administrator's procedures,
+
+d) creditors are required to abstain from actions aiming to satisfy their claims outside of insolvency proceedings, unless expressly permitted by law.
 
 ### Article 3: Declaration of Bankruptcy
 
-Bankruptcy may be declared voluntarily by the debtor, or involuntarily by creditors meeting specific criteria stipulated by this law.
+Bankruptcy may be declared:
 
-### Article 4: Types of Bankruptcy
+a) voluntarily by the debtor presumed to be insolvent, or
 
-There shall be two primary types of bankruptcy, namely:
-
-a) Personal Bankruptcy: Applicable to individuals who are unable to repay their debts.
-
-b) Corporate Bankruptcy: Applicable to business entities that are unable to repay their debts.
+b) involuntarily by creditors meeting the specific criteria established by this law.
 
 ## Section 2: Bankruptcy Procedures
+### Article 4: Bankruptcy Process
 
-### Article 5: Voluntary Bankruptcy**
+1. The competent court for the debtor's domicile shall be responsible for adjudicating their bankruptcy procedures.
+
+2.The procedural subjects pursuant to this law comprise:
+
+a) the debtor,
+
+b) the bankruptcy court,
+
+c) creditors exercising their rights against the debtor,
+
+d) the liquidator of the debtor.
+
+3. With respect to procedure, a bankruptcy process shall be a form of disciplinary process with the following participants to the process
+
+a) the debtor, and
+
+b) the creditors exercising their rights against the debtor.
+
+where the debtor's position shall be analogous to that of the accused and the creditor's position analogous to that of a putative victim.
+
+### Article 5: Voluntary Bankruptcy
 
 #### § 1: Filing for Bankruptcy
-A debtor may file for bankruptcy by submitting an application to the appropriate government agency.
+1. A debtor who is presumed insolvent may file for bankruptcy by submitting an application to the bankruptcy court.
+2. The debtor filling for their own bankruptcy shall provide the court with the following documentation:
+
+a) a list of all their belongings including the obligations,
+
+b) a list of all known creditors matched with the obligations,
+
+c) documentation to support the presumption of this debtor's insolvence.
 
 #### § 2: Approval of Bankruptcy
-The designated government agency shall review the bankruptcy application and approve it if the debtor meets the criteria defined by this law.
+The court shall review the bankruptcy application and approve it if the debtor meets the criteria defined by this law and if the application is complete and concise.
 
 ### Article 6: Involuntary Bankruptcy
 
 #### § 1: Filing against a Debtor
-A creditor or group of creditors may file for bankruptcy against a debtor who is insolvent and has failed to meet the terms of their debt agreements.
+A creditor or group of creditors may file for bankruptcy against a debtor who is insolvent. 
 
 #### § 2: Approval of Bankruptcy
 The designated government agency shall review the involuntary bankruptcy application and approve it if the creditor or creditors meet the criteria defined by this law.
