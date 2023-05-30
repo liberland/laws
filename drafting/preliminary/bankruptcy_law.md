@@ -1,6 +1,6 @@
 # Bankruptcy Law
 
-## Preamble
+## Preface
 
 This Law establishes the framework for the processes related to insolvency and bankruptcy in the Free Republic of Liberland, predicated on the principles of individual freedom.
 
@@ -8,9 +8,23 @@ This Law establishes the framework for the processes related to insolvency and b
 
 ### Article 1: Definition of Insolvency
 
-Insolvency shall be defined as a state where an individual or entity is unable to repay their debts when they are due. They must have
-a) two creditors or more,
-b) deb
+1) An individual or an entity is insolvent where they are unable to repay their debts when they are due. For the purpose of this law, an individual or an entity is insolvent when they:
+
+a) have two creditors or more,
+
+b) have outstanding monetary obligations which can be denominated in any kind of money, and these obligations are overdue for more than 30 days, and
+
+c) are unable to fulfill these monetary obligations.
+
+2) A debtor shall be recognized as unable to fulfill its monetary obligations if:
+
+a) they have ceased payments of a significant portion of their monetary obligations,
+
+b) they have failed to fulfill such obligations for a period exceeding 3 months after the due date,
+
+c) it is impossible to satisfy any of the due monetary claims against the debtor through decision enforcement or execution, or
+
+d) they have failed to submit the lists referred to in § 104 paragraph 1, as ordered by the insolvency court.
 
 ### Article 2: Definition of Bankruptcy
 
