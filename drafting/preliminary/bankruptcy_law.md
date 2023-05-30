@@ -16,7 +16,7 @@ b) outstanding monetary liabilities, irrespective of the form of currency, persi
 
 c) the individual or entity is unable to fulfill these financial obligations.
 
-2 A debtor shall be recognized as unable to fulfill their financial obligations if:
+2. A debtor shall be recognized as unable to fulfill their financial obligations if:
 
 a) they have discontinued the payment of a significant proportion of their financial obligations,
 
@@ -32,9 +32,9 @@ d) they have failed to submit the lists required under § 104 paragraph 1, as ma
 
 ### Article 2: Bankrupcy Proceedings
 
-1 Bankruptcy refers to a legal process pertaining to an individual or business unable to repay their outstanding debts.
+1. Bankruptcy refers to a legal process pertaining to an individual or business unable to repay their outstanding debts.
 
-2 The principles underpinning bankruptcy proceedings are:
+2. The principles underpinning bankruptcy proceedings are:
 
 a) they should be conducted in a manner ensuring no participant is unjustly disadvantaged or unlawfully favored, while seeking prompt, economical, and maximal satisfaction of creditors,
 
