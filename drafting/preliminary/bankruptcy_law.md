@@ -25,8 +25,6 @@ Establishing the regulatory framework and procedural mechanisms for insolvency a
     (b) They have defaulted on such obligations for a period extending three months past the due date.
     
     (c) Any of the debtor's due financial claims cannot be satisfied via decision enforcement or execution.
-    
-    (d) They have not submitted the lists required under § 104(1), as ordered by the insolvency court.
 
 #### § 2: Insolvency Presumption
 Insolvency presumption applies to an individual when it is reasonably foreseeable that the debtor will fail to meet a substantial part of their financial obligations promptly and appropriately.
@@ -84,8 +82,7 @@ The procedural subjects pursuant to this law comprise:
 
     (a) The debtor.
 
-    (b) The creditors exercising```markdown
-their rights against the debtor.
+    (b) The creditors exercising their rights against the debtor.
 
 2. In this process, the debtor's position is comparable to that of the accused and the creditor's position is comparable to that of a potential victim.
 
