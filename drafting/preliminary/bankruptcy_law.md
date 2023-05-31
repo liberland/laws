@@ -29,10 +29,10 @@ Establishing the regulatory framework and procedural mechanisms for insolvency a
     (d) They have not submitted the lists required under § 104(1), as ordered by the insolvency court.
 
 #### § 2: Insolvency Presumption
-3. Insolvency presumption applies to an individual when it is reasonably foreseeable that the debtor will fail to meet a substantial part of their financial obligations promptly and appropriately.
+Insolvency presumption applies to an individual when it is reasonably foreseeable that the debtor will fail to meet a substantial part of their financial obligations promptly and appropriately.
 
 #### § 3: Exclusion from this Law's Competency
-4. This law excludes Liberland, its government, or any directly and formally government-associated agency. However, it applies to entities or individuals formally within the governmental hierarchy where a substantial part of their activities is private, regardless of the nature of these activities.
+This law excludes Liberland, its government, or any directly and formally government-associated agency. However, it applies to entities or individuals formally within the governmental hierarchy where a substantial part of their activities is private, regardless of the nature of these activities.
 
 ## Title II: Bankruptcy Procedures
 
