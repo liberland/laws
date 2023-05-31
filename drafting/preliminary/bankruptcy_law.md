@@ -1,4 +1,4 @@
-#Liberland Bankruptcy Law
+# Liberland Bankruptcy Law
 
 ## Preamble
 
