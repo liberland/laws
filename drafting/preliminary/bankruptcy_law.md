@@ -8,7 +8,7 @@ This Law sets forth the regulations and procedures pertaining to insolvency and 
 
 ### Article 1: Insolvency
 
-1 An individual or entity shall be deemed insolvent if they are incapable of discharging their financial obligations as and when they fall due. For the purpose of this law, insolvency is constituted when:
+1) An individual or entity shall be deemed insolvent if they are incapable of discharging their financial obligations as and when they fall due. For the purpose of this law, insolvency is constituted when:
 
 a) there exist two or more creditors,
 
@@ -16,7 +16,7 @@ b) outstanding monetary liabilities, irrespective of the form of currency, persi
 
 c) the individual or entity is unable to fulfill these financial obligations.
 
-2. A debtor shall be recognized as unable to fulfill their financial obligations if:
+2) A debtor shall be recognized as unable to fulfill their financial obligations if:
 
 a) they have discontinued the payment of a significant proportion of their financial obligations,
 
@@ -26,15 +26,15 @@ c) any of the debtor's due monetary claims cannot be satisfied through decision 
 
 d) they have failed to submit the lists required under § 104 paragraph 1, as mandated by the insolvency court.
 
-3 A presumption of insolvency applies to an individual when, considering all circumstances, it is reasonably foreseeable that the debtor will fail to meet a substantial part of their financial obligations in a timely and appropriate manner.
+3) A presumption of insolvency applies to an individual when, considering all circumstances, it is reasonably foreseeable that the debtor will fail to meet a substantial part of their financial obligations in a timely and appropriate manner.
 
-4 This law shall not apply to Liberland, its government or any agency directly and formally within the governmental hierarchy. However, it shall apply to entities or individuals formally within the governmental hierarchy where a substantial part of their activities is private in nature, irrespective of whether such activities are commercial or non-profit.
+4) This law shall not apply to Liberland, its government or any agency directly and formally within the governmental hierarchy. However, it shall apply to entities or individuals formally within the governmental hierarchy where a substantial part of their activities is private in nature, irrespective of whether such activities are commercial or non-profit.
 
 ### Article 2: Bankrupcy Proceedings
 
-1. Bankruptcy refers to a legal process pertaining to an individual or business unable to repay their outstanding debts.
+1) Bankruptcy refers to a legal process pertaining to an individual or business unable to repay their outstanding debts.
 
-2. The principles underpinning bankruptcy proceedings are:
+2) The principles underpinning bankruptcy proceedings are:
 
 a) they should be conducted in a manner ensuring no participant is unjustly disadvantaged or unlawfully favored, while seeking prompt, economical, and maximal satisfaction of creditors,
 
@@ -55,9 +55,9 @@ b) involuntarily by creditors meeting the specific criteria established by this 
 ## Section 2: Bankruptcy Procedures
 ### Article 4: Bankruptcy Process
 
-1. The competent court for the debtor's domicile shall be responsible for adjudicating their bankruptcy procedures.
+1) The competent court for the debtor's domicile shall be responsible for adjudicating their bankruptcy procedures.
 
-2.The procedural subjects pursuant to this law comprise:
+2) The procedural subjects pursuant to this law comprise:
 
 a) the debtor,
 
@@ -67,7 +67,7 @@ c) creditors exercising their rights against the debtor,
 
 d) the liquidator of the debtor.
 
-3. With respect to procedure, a bankruptcy process shall be a form of disciplinary process with the following participants to the process
+3) With respect to procedure, a bankruptcy process shall be a form of disciplinary process with the following participants to the process
 
 a) the debtor, and
 
@@ -78,8 +78,8 @@ where the debtor's position shall be analogous to that of the accused and the cr
 ### Article 5: Voluntary Bankruptcy
 
 #### § 1: Filing for Bankruptcy
-1. A debtor who is presumed insolvent may file for bankruptcy by submitting an application to the bankruptcy court.
-2. The debtor filling for their own bankruptcy shall provide the court with the following documentation:
+1) A debtor who is presumed insolvent may file for bankruptcy by submitting an application to the bankruptcy court.
+2) The debtor filling for their own bankruptcy shall provide the court with the following documentation:
 
 a) a list of all their belongings including the obligations,
 
