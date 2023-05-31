@@ -60,7 +60,7 @@ Bankruptcy may be declared:
 
 2. The bankruptcy court has exclusive jurisdiction over all matters arising under bankruptcy law, including all cases and proceedings in bankruptcy.
 
-### Article 8: Subjects of the Bankruptcy Procedure
+### Article 7: Subjects of the Bankruptcy Procedure
 
 The procedural subjects pursuant to this law comprise:
 
