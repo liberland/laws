@@ -54,9 +54,9 @@ This law excludes Liberland, its government, or any directly and formally govern
 
 Bankruptcy may be declared:
 
-    (a) Voluntarily by the debtor presumed to be insolvent, or
+(a) Voluntarily by the debtor presumed to be insolvent, or
 
-    (b) Involuntarily by creditors meeting the specific criteria established by this law.
+(b) Involuntarily by creditors meeting the specific criteria established by this law.
 
 ### Article 3: Bankruptcy Court
 
@@ -68,13 +68,13 @@ Bankruptcy may be declared:
 
 The procedural subjects pursuant to this law comprise:
 
-    (a) The debtor.
+(a) The debtor.
 
-    (b) The bankruptcy court.
+(b) The bankruptcy court.
 
-    (c) Creditors exercising their rights against the debtor.
+(c) Creditors exercising their rights against the debtor.
 
-    (d) The liquidator of the debtor.
+(d) The liquidator of the debtor.
 
 ### Article 5: Bankruptcy Process Rules
 
