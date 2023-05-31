@@ -8,8 +8,6 @@ Establishing the regulatory framework and procedural mechanisms for insolvency a
 
 ### Article 1: Insolvency
 
-#### §1: Definition of Insolvency
-
 1. Insolvency is determined when an individual or entity is unable to fulfill their financial obligations as they mature. Insolvency is established when:
 
     (a) The individual or entity has two or more creditors.
@@ -26,17 +24,17 @@ Establishing the regulatory framework and procedural mechanisms for insolvency a
     
     (c) Any of the debtor's due financial claims cannot be satisfied via decision enforcement or execution.
 
-#### § 2: Insolvency Presumption
+### Article 2: Insolvency Presumption
 Insolvency presumption applies to an individual when it is reasonably foreseeable that the debtor will fail to meet a substantial part of their financial obligations promptly and appropriately.
 
-#### § 3: Exclusion from this Law's Competency
+### Article 3: Exclusion from this Law's Competency
 This law excludes Liberland, its government, or any directly and formally government-associated agency. However, it applies to entities or individuals formally within the governmental hierarchy where a substantial part of their activities is private, regardless of the nature of these activities.
 
 ## Title II: Bankruptcy Procedures
 
-### Article 2: Bankruptcy Proceedings
+### Article 4: Bankruptcy Proceedings
 
-#### §2. Definition of Bankruptcy and Principles of Bankruptcy Proceedings
+#### § 1: Definition of Bankruptcy and Principles of Bankruptcy Proceedings
 
 1. Bankruptcy is a legal process relating to an individual or business that cannot repay their outstanding debts.
 
@@ -50,7 +48,7 @@ This law excludes Liberland, its government, or any directly and formally govern
     
     (d) Creditors must refrain from actions seeking to satisfy their claims outside of insolvency proceedings unless expressly permitted by law.
 
-#### §3. Declaration of Bankruptcy
+#### § 2: Declaration of Bankruptcy
 
 Bankruptcy may be declared:
 
@@ -58,13 +56,13 @@ Bankruptcy may be declared:
 
 (b) Involuntarily by creditors meeting the specific criteria established by this law.
 
-### Article 3: Bankruptcy Court
+### Article 5: Bankruptcy Court
 
 1. The court competent for the debtor's domicile is responsible for adjudicating their bankruptcy procedures.
 
 2. The bankruptcy court has exclusive jurisdiction over all matters arising under bankruptcy law, including all cases and proceedings in bankruptcy.
 
-### Article 4: Subjects of the Bankruptcy Procedure
+### Article 6: Subjects of the Bankruptcy Procedure
 
 The procedural subjects pursuant to this law comprise:
 
@@ -76,7 +74,7 @@ The procedural subjects pursuant to this law comprise:
 
 (d) The liquidator of the debtor.
 
-### Article 5: Bankruptcy Process Rules
+### Article 7: Bankruptcy Process Rules
 
 1. Regarding procedure, a bankruptcy process is a form of disciplinary process with the following participants:
 
