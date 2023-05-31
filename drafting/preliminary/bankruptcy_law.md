@@ -1,8 +1,8 @@
-# Free Republic of Liberland Bankruptcy Law
+#Liberland Bankruptcy Law
 
 ## Preamble
 
-Establishing the regulatory framework and procedural mechanisms for insolvency and bankruptcy within the jurisdiction of the Free Republic of Liberland, founded on the principles of individual freedom.
+Establishing the regulatory framework and procedural mechanisms for insolvency and bankruptcy within the jurisdiction of Liberland, founded on the principles of individual freedom.
 
 ## Section 1: Insolvency and Bankruptcy
 
@@ -32,9 +32,7 @@ This law excludes Liberland, its government, or any directly and formally govern
 
 ## Title II: Bankruptcy Procedures
 
-### Article 4: Bankruptcy Proceedings
-
-#### § 1: Definition of Bankruptcy and Principles of Bankruptcy Proceedings
+### Article 4: Principles of Bankruptcy Proceedings
 
 1. Bankruptcy is a legal process relating to an individual or business that cannot repay their outstanding debts.
 
@@ -48,7 +46,7 @@ This law excludes Liberland, its government, or any directly and formally govern
     
     (d) Creditors must refrain from actions seeking to satisfy their claims outside of insolvency proceedings unless expressly permitted by law.
 
-#### § 2: Declaration of Bankruptcy
+### Article 5: Declaration of Bankruptcy
 
 Bankruptcy may be declared:
 
@@ -56,13 +54,13 @@ Bankruptcy may be declared:
 
 (b) Involuntarily by creditors meeting the specific criteria established by this law.
 
-### Article 5: Bankruptcy Court
+### Article 6: Bankruptcy Court
 
 1. The court competent for the debtor's domicile is responsible for adjudicating their bankruptcy procedures.
 
 2. The bankruptcy court has exclusive jurisdiction over all matters arising under bankruptcy law, including all cases and proceedings in bankruptcy.
 
-### Article 6: Subjects of the Bankruptcy Procedure
+### Article 8: Subjects of the Bankruptcy Procedure
 
 The procedural subjects pursuant to this law comprise:
 
@@ -74,7 +72,7 @@ The procedural subjects pursuant to this law comprise:
 
 (d) The liquidator of the debtor.
 
-### Article 7: Bankruptcy Process Rules
+### Article 8: Bankruptcy Process Rules
 
 1. Regarding procedure, a bankruptcy process is a form of disciplinary process with the following participants:
 
