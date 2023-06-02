@@ -4,65 +4,92 @@
 
 Establishing the regulatory framework and procedural mechanisms for insolvency and bankruptcy within the jurisdiction of Liberland, founded on the principles of individual freedom.
 
-## Section 1: Insolvency and Bankruptcy
+## Section 1: Definitions and Application of the Law
 
-### Article 1: Insolvency
+### Article 1: Definition of Insolvency
 
-1. Insolvency is determined when an individual or entity is unable to fulfill their financial obligations as they mature. Insolvency is established when:
+1. An individual or entity is deemed insolvent when they are incapable of meeting their financial obligations as they mature. This determination is based on:
 
-    (a) The individual or entity has two or more creditors.
+    (a) The existence of two or more creditors.
+
+    (b) Unsettled financial liabilities persisting beyond a period of 30 days, irrespective of the form of currency.
+
+    (c) The individual or entity's inability to discharge these financial obligations.
+
+2. A debtor is considered incapable of meeting their financial obligations if:
+
+    (a) They have stopped payment of a significant portion of their financial obligations.
+
+    (b) They have remained in default of such obligations for a period extending three months past the due date.
+
+    (c) The debtor's financial obligations cannot be satisfied through decision enforcement or execution.
+
+### Article 2: Presumption of Insolvency
+A presumption of insolvency applies when it is reasonably foreseeable that the debtor will fail to promptly and appropriately meet a substantial part of their financial obligations.
+
+### Article 3: Exemptions from the Application of this Law
+This law does not apply to Liberland, its government, or any directly and formally associated government agency. However, it does apply to entities or individuals within the governmental structure, provided a substantial part of their activities is private, irrespective of the nature of these activities or in case of a malicious attempt to abuse the fact that they would otherwise be exempt.
+
+## Section 2: Bankruptcy Procedures
+
+### Article 4: Guiding Principles of Bankruptcy Proceedings
+
+1. Bankruptcy is a legal process applied to an individual or business unable to repay their outstanding debts.
+
+2. The principles guiding bankruptcy proceedings include:
+
+    (a) Proceedings should be conducted ensuring no participant is unjustly disadvantaged or unlawfully favored, targeting swift, economical, and maximum satisfaction of creditors.
     
-    (b) Outstanding financial liabilities persist beyond a 30-day period, irrespective of the currency form.
+    (b) Creditors in similar positions should be granted equal opportunities in insolvency proceedings.
     
-    (c) The individual or entity is unable to meet these financial obligations.
-
-2. A debtor is regarded as incapable of meeting their financial obligations if:
-
-    (a) They have ceased payment of a significant portion of their financial obligations.
+    (c) The rights of creditors, acquired in good faith prior to the initiation of insolvency proceedings, shall not be restricted by the insolvency court or the insolvency administrator's actions unless otherwise specified by this law.
     
-    (b) They have defaulted on such obligations for a period extending three months past the due date.
-    
-    (c) Any of the debtor's due financial claims cannot be satisfied via decision enforcement or execution.
+    (d) Creditors must abstain from actions aiming to satisfy their claims outside of insolvency proceedings unless expressly permitted by law.
 
-### Article 2: Insolvency Presumption
-Insolvency presumption applies to an individual when it is reasonably foreseeable that the debtor will fail to meet a substantial part of their financial obligations promptly and appropriately.
+### Article 5: Procedure for Declaring Bankruptcy
 
-### Article 3: Exclusion from this Law's Competency
-This law excludes Liberland, its government, or any directly and formally government-associated agency. However, it applies to entities or individuals formally within the governmental hierarchy where a substantial part of their activities is private, regardless of the nature of these activities.
-
-## Title II: Bankruptcy Procedures
-
-### Article 4: Principles of Bankruptcy Proceedings
-
-1. Bankruptcy is a legal process relating to an individual or business that cannot repay their outstanding debts.
-
-2. The principles guiding bankruptcy proceedings are:
-
-    (a) Proceedings should be conducted ensuring no participant is unjustly disadvantaged or unlawfully favored, aiming for speedy, economical, and maximum satisfaction of creditors.
-    
-    (b) Creditors in similar positions should have equal opportunities in insolvency proceedings.
-    
-    (c) Unless otherwise stated by this law, the rights of creditors acquired in good faith prior to insolvency proceedings initiation shall not be limited by the insolvency court or the insolvency administrator's actions.
-    
-    (d) Creditors must refrain from actions seeking to satisfy their claims outside of insolvency proceedings unless expressly permitted by law.
-
-### Article 5: Declaration of Bankruptcy
-
-Bankruptcy may be declared:
+The Bankruptcy Court alone can declare bankruptcy. The petition may be filed:
 
 (a) Voluntarily by the debtor presumed to be insolvent, or
 
 (b) Involuntarily by creditors meeting the specific criteria established by this law.
 
-### Article 6: Bankruptcy Court
+### Article 6: Competence of the Bankruptcy Court
 
 1. The court competent for the debtor's domicile is responsible for adjudicating their bankruptcy procedures.
 
-2. The bankruptcy court has exclusive jurisdiction over all matters arising under bankruptcy law, including all cases and proceedings in bankruptcy.
+2. The bankruptcy court has exclusive jurisdiction over all matters arising under bankruptcy law, encompassing all cases and proceedings in bankruptcy.
 
-### Article 7: Subjects of the Bankruptcy Procedure
+### Article 7: Procedure for Voluntary Bankruptcy
+1. A debtor presumed insolvent may file for bankruptcy by submitting an application to the bankruptcy court.
+2. The debtor filing for their own bankruptcy must provide the court with:
 
-The procedural subjects pursuant to this law comprise:
+a) A complete list of their assets and liabilities,
+
+b) A list of all known creditors associated with their obligations,
+
+c) Documentation supporting the presumption of their insolvency.
+
+### Article 8: Procedure for Involuntary Bankruptcy
+
+#### § 1: Filing against a Debtor
+A creditor or a group of creditors can file for bankruptcy against an insolvent debtor. 
+
+#### § 2: Creditor's Filing
+1. A creditor may file bankruptcy individually, or as part of a group. The filing should identify the debtor or their representatives:
+
+a) A natural person should be identified by their full name and residential address, and in the case of an entrepreneur, also by an identification number. 
+
+b) A legal entity should be identified by its business name or name, registered office, and identification number. 
+
+2. A creditor must attach to the bankruptcy filing a list of their outstanding claims against the debtor, including clear evidence that the obligation has been duly acknowledged by the debtor. 
+
+#### § 3: Group of Creditors
+When operating as a group, creditors bear responsibility for their internal operations but must ensure transparency to the court and the debtor. They must designate a spokesperson or spokespeople to represent them before the court and the debtor.
+
+### Article 9: Parties to the Bankruptcy Procedure
+
+The parties to the procedure under this law include:
 
 (a) The debtor.
 
@@ -70,52 +97,21 @@ The procedural subjects pursuant to this law comprise:
 
 (c) Creditors exercising their rights against the debtor.
 
-(d) The liquidator of the debtor.
+(d) The liquidator of the debtor's assets.
 
-### Article 8: Bankruptcy Process Rules
+### Article 10: Bankruptcy Process Rules
 
-1. Regarding procedure, a bankruptcy process is a form of disciplinary process with the following participants:
+1. A bankruptcy process is a variant of civil process involving the following parties:
 
     (a) The debtor.
 
     (b) The creditors exercising their rights against the debtor.
 
-2. In this process, the debtor's position is comparable to that of the accused and the creditor's position is comparable to that of a potential victim.
+2. The bankruptcy process does not accommodate succession of parties or the withdrawal of applications.
 
-## Section 3: Filling for Bankruptcy
-#### Article 7: Filling for Voluntary Bankruptcy
-#### § 1: Filling for Bankruptcy
-1. A debtor who is presumed insolvent may file for bankruptcy by submitting an application to the bankruptcy court.
-2. The debtor filling for their own bankruptcy shall provide the court with the following documentation:
+### Article 11: Approval of Bankruptcy
+The court is obligated to review the bankruptcy application and the facts of the case. It shall approve the bankruptcy if it determines the debtor to be insolvent.
 
-a) a list of all their belongings including the obligations,
-
-b) a list of all known creditors matched with the obligations,
-
-c) documentation to support the presumption of this debtor's insolvence.
-
-#### § 2: Approval of Bankruptcy
-The court shall review the bankruptcy application and approve it if the debtor meets the criteria defined by this law and if the application is complete and concise.
-
-### Article 8: Involuntary Bankruptcy
-
-#### § 1: Filing against a Debtor
-A creditor or group of creditors may file for bankruptcy against a debtor who is insolvent. 
-
-#### § 2: Creditor's Filling
-1. A creditor may fill bankruptcy alone, or in a group of creditors. The creditor's filling shall contain the designation of the debtor to whom it relates, or the designation of their representatives:
-
-a) A natural person must be identified by name, surname and place of residence (seat) and, in the case of an entrepreneur, also by an identification number. 
-
-b) A legal entity must be identified by a business name or name, registered office and identification number. 
-
-2. A creditor shall add to the bankruptcy filling the list of their outstanding obligations against the debtor, including a clear proof that the obligation has been well received and accepted by the debtor. 
-
-#### § 3: Group of Creditors
-Where they work for a group of creditors, the internal working of the group shall be the responsibility of the creditors though they shall make it transparent to the court and the debtors. The creditors shall designate a spokesman or spokesmen to the court and the debtors.
-
-### Article 9: Approval of Bankruptcy
-The designated government agency shall review the involuntary bankruptcy application and approve it if the creditor or creditors meet the criteria defined by this law.
 
 ### Article 10: Liquidation and Reorganization
 
@@ -124,6 +120,8 @@ In the event of bankruptcy, assets may be liquidated to repay creditors. The ord
 
 #### § 2: Reorganization
 In cases of corporate bankruptcy, a plan may be submitted to reorganize the business in an effort to become profitable again. This plan must be approved by a majority of creditors.
+
+## Section 3: Bankruptcy Discharge
 
 ## Section 3: Bankruptcy Discharge
 
