@@ -28,7 +28,7 @@ Establishing the regulatory framework and procedural mechanisms for insolvency a
 A presumption of insolvency applies when it is reasonably foreseeable that the debtor will fail to promptly and appropriately meet a substantial part of their financial obligations.
 
 ### Article 3: Exemptions from the Application of this Law
-This law does not apply to Liberland, its government, or any directly and formally associated government agency. However, it does apply to entities or individuals within the governmental structure, provided a substantial part of their activities is private, irrespective of the nature of these activities or in case of a malicious attempt to abuse the fact that they would otherwise be exempt.
+This law does not apply to Liberland, its government, or any directly and formally associated government agency. However, it does apply to entities or individuals within the governmental structure, provided a substantial part of their activities is private, irrespective of the nature of these activities or where there is a malicious attempt to exploit potential exemptions
 
 ## Section 2: Bankruptcy Procedures
 
@@ -93,7 +93,7 @@ The parties to the procedure under this law include:
 
 (a) The debtor.
 
-(b) The bankruptcy court.
+(b) The Bankruptcy Court.
 
 (c) Creditors exercising their rights against the debtor.
 
@@ -110,10 +110,41 @@ The parties to the procedure under this law include:
 2. The bankruptcy process does not accommodate succession of parties or the withdrawal of applications.
 
 ### Article 11: Approval of Bankruptcy
-The court is obligated to review the bankruptcy application and the facts of the case. It shall approve the bankruptcy if it determines the debtor to be insolvent.
+
+1. The Bankruptcy Court is obligated to review the bankruptcy application and the facts of the case. The court shall declare the debtor bankrupt if it determines the debtor to be insolvent.
+
+2. The bankruptcy shall cover the entire property and all rights and interests and liabilities of the debtor at the time of the declaration of bankruptcy as well as anything he will acquire during the bankruptcy.
+
+## Section 3: State of Bankruptcy
+
+### Article 10: Loss of Disposition Rights
+
+As a result of the declaration of bankruptcy the bankrupt debtor loses the right to dispose of and to administer his assets (estate), this with effect from and including the day on which the bankruptcy order is rendered.
+
+### Article 11: Obligations arisen after the declaration of bankruptcy
+
+The bankrupt debtor's estate is only liable for obligations of the debtor that have arisen after the declaration of bankruptcy to the extent that the estate benefits from such obligations.
+
+### Article 12: Legal proceedings against the bankrupt debtor
+
+#### § 1: Legal proceedings started by the debtor and still pending on the day of the declaration of bankruptcy
+
+1. If a legal action, started by the bankrupt debtor, is still pending during bankruptcy, and this lawsuit regards their ownership in things, then the legal proceedings will be stayed upon the request of the defendant in order to give him the opportunity to summon the bankruptcy trustee, within a period to be set by court, to take over the proceedings.
+2. If the bankruptcy trustee does not respond to such summons, the defendant has the right to request that the legal proceedings against him will be dismissed to the extend to which it entails the bankrupt debtor's ownership in things; failing such a request, the legal proceedings between the bankrupt debtor and the defendant may be continued, yet without any liability or disadvantage for the bankrupt debtor's estate.
+3. The bankruptcy trustee is at all times entitled, even without being summoned, to take over the legal proceedings and cause the removal of the bankrupt debtor from the legal proceedings.
+
+#### § 2: Legal proceedings started against the debtor and still pending on the day of the declaration of bankruptcy
+
+1. If a egal action, started against the bankrupt debtor, is still pending during bankruptcy, then the plaintiff is entitled to request a stay of legal proceedings in order to give him the opportunity to summon the bankruptcy trustee, within a period to be set by court, to appear in the proceedings.
+2. By his appearance, the bankruptcy trustee will take over the legal proceedings as a result of which the bankrupt debtor is removed as a party from the proceedings by operation of law.
+3. If the bankruptcy trustee, after his appearance, immediately acknowledges the legal claim of the plaintiff, the costs of proceedings of the opposing party shall not constitute an estate debt.
+4. If the bankruptcy trustee does not appear in court, the provision of Article 25, paragraph 2, does not apply to a judgment to be obtained against the bankrupt debtor.
+
+#### § 3: Legal proceedings started against the debtor and still pending on the day of the declaration of bankruptcy
+
+To the extent that legal actions, pending at the moment of the declaration of bankruptcy, have as objective the performance of an obligation from the bankrupt debtor's estate, the legal proceedings shall be stayed after the bankruptcy order and will only be continued if verification of the claim is disputed. In such case the person disputing the verification will become a party to the proceedings instead of the bankrupt debtor.
 
 
-### Article 10: Liquidation and Reorganization
 
 #### § 1: Liquidation
 In the event of bankruptcy, assets may be liquidated to repay creditors. The order of priority for repayment shall be determined by contractual agreement and failing that, by law.
