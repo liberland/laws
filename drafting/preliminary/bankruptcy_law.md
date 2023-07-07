@@ -117,15 +117,15 @@ The parties to the procedure under this law include:
 
 ## Section 3: State of Bankruptcy
 
-### Article 10: Loss of Disposition Rights
+### Article 12: Loss of Disposition Rights
 
 As a result of the declaration of bankruptcy the bankrupt debtor loses the right to dispose of and to administer his assets (estate), this with effect from and including the day on which the bankruptcy order is rendered.
 
-### Article 11: Obligations arisen after the declaration of bankruptcy
+### Article 13: Obligations arisen after the declaration of bankruptcy
 
 The bankrupt debtor's estate is only liable for obligations of the debtor that have arisen after the declaration of bankruptcy to the extent that the estate benefits from such obligations.
 
-### Article 12: Legal proceedings against the bankrupt debtor
+### Article 14: Legal proceedings against the bankrupt debtor
 
 #### § 1: Legal proceedings started by the debtor and still pending on the day of the declaration of bankruptcy
 
@@ -144,8 +144,6 @@ The bankrupt debtor's estate is only liable for obligations of the debtor that h
 
 To the extent that legal actions, pending at the moment of the declaration of bankruptcy, have as objective the performance of an obligation from the bankrupt debtor's estate, the legal proceedings shall be stayed after the bankruptcy order and will only be continued if verification of the claim is disputed. In such case the person disputing the verification will become a party to the proceedings instead of the bankrupt debtor.
 
-
-
 #### § 1: Liquidation
 In the event of bankruptcy, assets may be liquidated to repay creditors. The order of priority for repayment shall be determined by contractual agreement and failing that, by law.
 
@@ -156,18 +154,18 @@ In cases of corporate bankruptcy, a plan may be submitted to reorganize the busi
 
 ## Section 3: Bankruptcy Discharge
 
-### Article 10: Discharge of Debts
+### Article 15: Discharge of Debts
 Upon completion of bankruptcy proceedings, any remaining unsecured debts may be discharged, granting the debtor a 'fresh start'. Certain types of debts, such as those for child support or taxes, may not be dischargeable as determined by law.
 
-### Article 11: Rejection of Discharge
+### Article 16: Rejection of Discharge
 A discharge may be denied if the debtor failed to complete a course in financial management, hid property to defraud creditors, or committed other forms of bankruptcy fraud.
 
-### Article 12: Post-Discharge
+### Article 17: Post-Discharge
 Once the discharge is granted, the debtor is released from personal liability for the discharged debts. Creditors may not take any action to collect discharged debts from the debtor.
 
 ## Section 4: Role of the Bankruptcy Trustee
 
-### Article 13: Bankruptcy Trustee
+### Article 18: Bankruptcy Trustee
 
 #### § 1: Appointment of the Bankruptcy Trustee
 1. Upon the court confirming that a debtor in a bankruptcy case is insolvent, the court shall appoint a bankruptcy trustee from the official list of bankruptcy trustees. A bankruptcy trustee shall be a natural person, not an institution. 
@@ -185,11 +183,11 @@ Once the discharge is granted, the debtor is released from personal liability fo
 #### § 2: Dismissal of the Bankruptcy Trustee
 Where the court finds the bankruptcy trustee unwilling or incapable to fulfil their duties or they are judged partial, the court shall replace them with another bankruptcy trustee. The court may do this based on its own findings or on the motion of a party to the bankruptcy proceeding
 
-### Article 15: Rights and Powers of the Trustee
+### Article 19: Rights and Powers of the Trustee
 
 ## Section 5: Rights of Creditors and Debtors
 
-### Article 16: Rights of Creditors
+### Article 20: Rights of Creditors
 
 #### § 1: Secured creditors
 Secured creditors have a claim on the collateral pledged for their loan. They have the right to take possession of and sell the collateral if the debtor fails to repay the loan.
@@ -197,7 +195,7 @@ Secured creditors have a claim on the collateral pledged for their loan. They ha
 #### § 2: Unsecured creditors
 Unsecured creditors do not have a claim on any particular asset of the debtor. In the case of liquidation, they are entitled to be repaid out of the general assets of the debtor after the claims of secured creditors have been satisfied.
 
-### Article 17: Rights of Debtors
+### Article 21: Rights of Debtors
 
 #### § 1: Exempt property
 The debtor has the right to keep certain property, as specified by law, that is exempt from the claims of creditors. This could include, for example, a certain amount of equity in the debtor's primary residence, or certain personal items.
@@ -205,13 +203,13 @@ The debtor has the right to keep certain property, as specified by law, that is 
 #### § 2: Fresh start
 After the discharge of debts, the debtor has the right to a "fresh start." This means that the debtor is freed from the obligation to repay the debts that have been discharged, and creditors are prohibited from attempting to collect those debts.
 
-### Article 18: Powers of the Court
+### Article 22: Powers of the Court
 
 The court has the power to issue orders for relief, to approve or confirm plans of reorganization, to grant discharges, and to enter final judgments in all bankruptcy cases and proceedings.
 
 ## Section 7: Bankruptcy Fraud
 
-### Article 19: Definition of Bankruptcy Fraud
+### Article 23: Definition of Bankruptcy Fraud
 
 Bankruptcy fraud includes (but is not limited to) the following acts committed by the debtor:
 
@@ -223,30 +221,30 @@ c) Filing multiple times for bankruptcy in several jurisdictions with false info
 
 d) Bribing a court-appointed trustee.
 
-### Article 20: Penalties for Bankruptcy Fraud
+### Article 24: Penalties for Bankruptcy Fraud
 
 Any individual or entity found guilty of bankruptcy fraud will be subject to penalties including, but not limited to, fines, imprisonment, and denial of discharge of debts in bankruptcy.
 
 ### Section 8: Post-Bankruptcy Financial Management 
 
-### Article 21: Financial Management Education
+### Article 25: Financial Management Education
 
 Individuals filing for bankruptcy are required to attend a course in personal financial management. 
 
-### Article 22: Role of Financial Management Education
+### Article 26: Role of Financial Management Education
 
 The aim of the financial management course is to help individuals avoid future financial problems.
 
 ## Section 9: Final Provisions
 
-### Article 23: Application
+### Article 27: Application
 
 This law applies to all individuals and business entities within the jurisdiction of the Free Republic of Liberland.
 
-### Article 24: Interpretation
+### Article 28: Interpretation
 
 In the event of a dispute over the interpretation of this law, the decision of the Liberland Supreme Court is final.
 
-### Article 25: Entry into Force
+### Article 29: Entry into Force
 
 This law enters into force on the day following its publication in the Official Gazette of the Free Republic of Liberland.
