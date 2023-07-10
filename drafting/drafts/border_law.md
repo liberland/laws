@@ -254,7 +254,7 @@ the expiration shall be postponed until such a time as the process regarding tha
 
 2) Where the Application wasn't made timely, the Visa holder shall exit Liberland as during a regular Visa Expiration; when the new Visa Application is successful, the Residency holder shall be free to return. The costs incurred by the exit and the return shall be borne by the Visa holder.  
 
-## Section X: Appeals Process
+## Section 9: Appeals Process
 ### Article 39: Right to Appeal
 1) Any individual who has been denied entry, residency, or whose visa has been revoked, shall have the right to appeal the decision. The appeal must be lodged within 30 days from the date of the decision.
 
@@ -269,7 +269,7 @@ the expiration shall be postponed until such a time as the process regarding tha
 
 3) The appellant shall be informed in writing of the outcome of the review. If the appeal is successful, the decision shall be reversed or amended as appropriate. If the appeal is unsuccessful, the reasons for the decision shall be clearly explained.
 
-## Section Y: Asylum Process
+## Section 10: Asylum Process
 ### Article 41: Right to Seek Asylum
 1) Any person who is outside their country of nationality or habitual residence and is unable or unwilling to return due to a well-founded fear of being persecuted for reasons of race, religion, nationality, membership of a particular social group, or political opinion, as defined in the 1951 Refugee Convention, shall have the right to seek asylum in Liberland.
 
@@ -294,6 +294,17 @@ the expiration shall be postponed until such a time as the process regarding tha
 
 2) The applicant shall be informed in writing of the decision. If the application is successful, the applicant shall be granted refugee status and issued a refugee travel document in accordance with the 1951 Refugee Convention. If the application is unsuccessful, the reasons for the decision shall be clearly explained.
 
-## Section 9: Final Provisions
-### Article 45: Legal Force
+## Section 11: Final Provisions
+### Article 45: International Cooperation
+1. Liberland shall seek to establish agreements with neighboring countries
+
+a) to ensure the mutual recognition and respect of the state borders. Such agreements may include provisions for joint border surveys, exchange of geospatial data, and resolution of any border disputes.
+
+b) for the joint management of border crossing points. Such agreements may include provisions for joint border control operations, exchange of information, and mutual assistance in case of emergencies.
+
+c) for the mutual recognition of travel documents and visas. Such agreements may include provisions for the exchange of information on lost or stolen travel documents, fraudulent documents, and persons of interest.
+
+2. IBIS shall seek to establish cooperation with equivalent agencies in other countries for the exchange of information, joint operations, training, and capacity building. Such cooperation shall be subject to the laws of Liberland and respect for human rights and personal data protection.
+
+### Article 46: Legal Force
 This Law shall gain Legal Force on … and it shall remain in force in perpetuity or until its legal effects should be terminated or until it should be replaced by another Law governing the same or similar subject matter.
