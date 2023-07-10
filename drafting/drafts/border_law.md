@@ -254,6 +254,28 @@ the expiration shall be postponed until such a time as the process regarding tha
 
 2) Where the Application wasn't made timely, the Visa holder shall exit Liberland as during a regular Visa Expiration; when the new Visa Application is successful, the Residency holder shall be free to return. The costs incurred by the exit and the return shall be borne by the Visa holder.  
 
+## Section X: Appeals Process
+### Article 39: Right to Appeal
+1) Any individual who has been denied entry, residency, or whose visa has been revoked, shall have the right to appeal the decision. The appeal must be lodged within 30 days from the date of the decision.
+
+2) The appeal shall be submitted in writing to the designated authority within the Immigration and Border Service (IBIS), as determined by the Ministry of Interior.
+
+3) The appeal should clearly state the grounds for the appeal and provide any supporting evidence or documentation.
+
+### Article 40: Review of Appeal
+1) Upon receipt of an appeal, the designated authority shall review the decision in light of the grounds for appeal and any new evidence or information provided.
+
+2) The review process should be completed within a reasonable time, not exceeding 60 days from the date of receipt of the appeal.
+
+3) The appellant shall be informed in writing of the outcome of the review. If the appeal is successful, the decision shall be reversed or amended as appropriate. If the appeal is unsuccessful, the reasons for the decision shall be clearly explained.
+
+### Article 41: Further Appeals
+1) If the appellant is not satisfied with the outcome of the review, they may lodge a further appeal to an independent appeals tribunal or court, as established by law.
+
+2) The further appeal must be lodged within 30 days from the date of the decision on the initial appeal.
+
+3) The independent appeals tribunal or court shall review the decision in accordance with the principles of due process and fairness, and its decision shall be final.
+
 ## Section 9: Final Provisions
-### Article 39: Legal Force
+### Article 42: Legal Force
 This Law shall gain Legal Force on … and it shall remain in force in perpetuity or until its legal effects should be terminated or until it should be replaced by another Law governing the same or similar subject matter.
