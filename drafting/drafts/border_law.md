@@ -269,13 +269,31 @@ the expiration shall be postponed until such a time as the process regarding tha
 
 3) The appellant shall be informed in writing of the outcome of the review. If the appeal is successful, the decision shall be reversed or amended as appropriate. If the appeal is unsuccessful, the reasons for the decision shall be clearly explained.
 
-### Article 41: Further Appeals
-1) If the appellant is not satisfied with the outcome of the review, they may lodge a further appeal to an independent appeals tribunal or court, as established by law.
+## Section Y: Asylum Process
+### Article 41: Right to Seek Asylum
+1) Any person who is outside their country of nationality or habitual residence and is unable or unwilling to return due to a well-founded fear of being persecuted for reasons of race, religion, nationality, membership of a particular social group, or political opinion, as defined in the 1951 Refugee Convention, shall have the right to seek asylum in Liberland.
 
-2) The further appeal must be lodged within 30 days from the date of the decision on the initial appeal.
+2) The right to seek asylum shall also apply to stateless persons under the same conditions.
 
-3) The independent appeals tribunal or court shall review the decision in accordance with the principles of due process and fairness, and its decision shall be final.
+### Article 42: Asylum Application
+1) Asylum applications shall be submitted in writing to the designated authority within IBIS, as determined by the Ministry of Interior.
+
+2) The application should include detailed information about the applicant's identity, nationality, and reasons for seeking asylum, as well as any supporting evidence or documentation.
+
+3) IBIS shall register the application and provide the applicant with a confirmation of registration.
+
+### Article 43: Assessment of Asylum Application
+1) The IBIS shall assess the asylum application in accordance with the criteria and procedures outlined in the 1951 Refugee Convention and other relevant international standards.
+
+2) The assessment shall take into account the applicant's personal circumstances, the conditions in their country of origin, and any other relevant factors.
+
+3) The applicant shall be given the opportunity to present their case in person and to provide additional information or evidence as necessary.
+
+### Article 44: Decision on Asylum Application
+1) The decision on the asylum application shall be made within a reasonable time, not exceeding 90 days from the date of application.
+
+2) The applicant shall be informed in writing of the decision. If the application is successful, the applicant shall be granted refugee status and issued a refugee travel document in accordance with the 1951 Refugee Convention. If the application is unsuccessful, the reasons for the decision shall be clearly explained.
 
 ## Section 9: Final Provisions
-### Article 42: Legal Force
+### Article 45: Legal Force
 This Law shall gain Legal Force on … and it shall remain in force in perpetuity or until its legal effects should be terminated or until it should be replaced by another Law governing the same or similar subject matter.
