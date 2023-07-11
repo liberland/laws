@@ -232,13 +232,19 @@ An Immigration Officer First Class may derogate from these demands in cases wher
 The standardized format of each type of visa shall be determined by Regulation issued by the Ministry of Interior. Only an immigration officer with a first class delegation may issue a visa in a non-standardized format and only in cases where no other course would be just and reasonable.
 
 ### Article 36: Family Visa
-Where the applicant who doesn't fulfill the requirements for a Residence Visa is a family member of someone resident in Liberland and that person doesn't have sufficient means to be a sponsor for a Residence Visa for them, the requirement of disposable income will be waived if the prospective immigrant is:  
+1. Where the applicant who doesn't fulfill the requirements for a Residence Visa is a family member of someone resident in Liberland, and that person doesn't have sufficient means to be a sponsor for a Residence Visa for them, the requirement of disposable income will be waived if the prospective immigrant is:  
  
    a) a dependent child of the sponsor under the age 21,  
 
    b) the biological or legally adoptive parent of the sponsor,  
    
-   c) life partner with provable record of life partnership, for example by registered partnership, marriage or a consistent documentary record, including but not limited to statements of shared mortgage, statements of children, photographic record and statements by reputable witnesses; this record must be sufficiently robust to prove the relationship's existence without clear contradictions and beyond a reasonable doubt.  
+   c) a life partner with a provable record of a life partnership, for example, by registered partnership, marriage, or a consistent documentary record, including but not limited to statements of shared mortgage, statements of children, photographic records, and statements by reputable witnesses; this record must be sufficiently robust to prove the relationship's existence without clear contradictions and beyond a reasonable doubt.
+
+2. Applications for immigration aimed toward family reunification shall be accorded priority in processing. 
+
+### Article 37: Immigration Quotas
+1. The Cabinet may establish annual immigration quotas based on the country's economic needs, demographic trends, and international obligations. These quotas shall be determined in a transparent and equitable manner, taking into account factors such as the skills and qualifications of applicants, family reunification needs, and humanitarian considerations.
+2. Notwithstanding any established immigration quotas, the immigration of immediate family members shall not be impeded by such quotas having been fulfilled. 
 
 ### Article 37: Refugees
 1) The requirements for a Residence Visa shall be waived for a person recognized as a Refugee under the applicable norms of public international law. This includes gaining a conditional Residence Visa to a person who merely applies for the status of a Refugee and the decision hasn't yet been made. The conditional Residency Visa shall expire upon the condition of the applicant not being granted a Refugee status.
