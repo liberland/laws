@@ -25,8 +25,22 @@ The General Administrative Process comprises a sequence of orderly actions, begi
 #### § 3: Appeal Mechanism
 In all instances, the Administrative Process shall provide a mechanism for appeal, ensuring that decisions can be reviewed and, if necessary, revised.
 
-### Article 3: Scope and Applicability of this Law
-1. This Law shall govern the actions of all bodies of the Executive without exception. Additionally, it shall extend to the actions of other public bodies within Liberland, where application is reasonably possible. 
-3. The principles outlined in this law shall apply to all public bodies without exception.
+### Article 3: Applicability of this Law
+#### § 1: Universal Applicability
+1. This Law shall preside over the actions of all bodies of the Executive without exception. Furthermore, it shall apply to the actions of all other public bodies within Liberland, provided its application is reasonably feasible.
+2. Other entities, including private individuals and institutions, may voluntarily adopt the rules of the Administrative Process, thereby binding themselves to its provisions.
+3. Any entity or body of any nature that applies the Administrative Process shall be referred to as an "Administrative Organ."
+
+#### § 2: Unconditional Application of Principles
+The principles delineated in this Law shall apply universally to all Administrative Organs and all public bodies, without exception.
+
+### Article 4: Subsidiary Application of the Process Law
+Where this or other Laws remain silent, the Process Law shall apply.
 
 ## Section 2: General Administrative Process
+### Article 4: Starting the Administrative Process
+#### § 1: Application
+The Administrative Process shall start by an Application. This Application shall be governed by the same rules as an Application before a court.
+
+#### § 2: Ex-Officio
+Where a special Law gives an 
