@@ -15,16 +15,18 @@ The principles of fairness, transparency, and due process shall govern the Admin
 
 ### Article 2: Mandatory Steps in an Administrative Process
 #### § 1: Progression of Actions
-The Administrative Process comprises a sequence of orderly actions, beginning with the submission of an application or request. This is followed by a review and evaluation by the competent authority, leading to the issuance of a decision.
+The General Administrative Process comprises a sequence of orderly actions, beginning with the submission of an application or request. This is followed by a review and evaluation by the competent authority, leading to the issuance of a decision.
 
-#### § 2: Appeal Mechanism
+#### § 2: Forms of the Administrative Process
+1. The General Administrative Process shall serve as the standard form of the Administrative Process. 
+2. In particular cases where the unique nature of a process before a specific administrative organ necessitates a different approach, such variations shall be outlined by this Law or by another dedicated law pertaining to that process. Where such a law does not provide guidance, the provisions of this Law and of the General Administrative Process outlined therein shall apply. 
+2. Notwithstanding any special provisions, the principles governing the Administrative Process as defined in this Law shall remain in effect.
+
+#### § 3: Appeal Mechanism
 In all instances, the Administrative Process shall provide a mechanism for appeal, ensuring that decisions can be reviewed and, if necessary, revised.
 
 ### Article 3: Scope and Applicability of this Law
+1. This Law shall govern the actions of all bodies of the Executive without exception. Additionally, it shall extend to the actions of other public bodies within Liberland, where application is reasonably possible. 
+3. The principles outlined in this law shall apply to all public bodies without exception.
 
-#### § 1: General Applicability
-This Law shall govern the actions of all bodies of the Executive without exception. Additionally, it shall extend to the actions of other public bodies within the Free Republic of Liberland, where applicable.
-
-#### § 2: Special Provisions
-1. In instances where the unique nature of a process before a specific administrative organ necessitates a different approach, such variations shall be outlined by a dedicated law pertaining to that process. Where such a law does not provide guidance, the provisions of this Law shall apply. 
-2. Notwithstanding any special provisions, the principles governing the Administrative Process as defined in this Law shall remain in effect.
+## Section 2: General Administrative Process
