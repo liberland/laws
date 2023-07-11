@@ -65,7 +65,6 @@ In specific instances, as prescribed by this Law or other specific laws, additio
 The Administrative Process shall predominantly be conducted in writing, employing as a rule asynchronous modes of communication.
 
 ### Article 9: Synchronous Proceedings
-#### § 1: Synchronous Proceedings
 1. The Administrative Organ shall organize and hold synchronous proceedings when all parties, excluding the Administrative Organ, who are in a contradictory position towards each other, have collectively agreed to such a process.
 2. Alternatively, synchronous proceedings shall be initiated upon the request of a weaker party to safeguard their interests. The Administrative Organ shall organize and hold synchronous proceedings when there is a clear and immediate need to uphold the fairness of the process. This provision shall apply even in instances where there is only one party in addition to the Administrative Organ, with the Administrative Organ being considered the stronger entity.
 
