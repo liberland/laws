@@ -38,9 +38,9 @@ The principles delineated in this Law shall apply universally to all Administrat
 Where this or other Laws remain silent, the Process Law shall apply.
 
 ## Section 2: General Administrative Process
-### Article 4: Starting the Administrative Process
-#### § 1: Application
-The Administrative Process shall start by an Application. This Application shall be governed by the same rules as an Application before a court.
+### Article 4: Initiation of the Administrative Process
+#### § 1: Application-Driven Initiation
+The Administrative Process shall commence upon the submission of an Application. The rules governing this Application shall be consistent with those applicable to an Application before a court.
 
-#### § 2: Ex-Officio
-Where a special Law gives an 
+#### § 2: Ex-Officio Initiation
+In instances where a specific Law permits, the Administrative Organ may initiate the Administrative Process autonomously, exercising its own authority.
