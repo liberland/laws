@@ -1,7 +1,6 @@
 # Legislative Rules of Liberland
 
 ## Preface
-## Preface
 This Law establishes the obligatory standards for the formulation of legislation in the Republic of Liberland. The Law provides explicit regulations pertaining to the interpretation, language use, terminology, and structural format that legislative drafters must comply with. 
 
 In the interest of systematic consistency and clarity, this Act delineates a binding framework for the organization of laws into articles and paragraphs. This structure is intended to promote coherence, facilitate comprehension, and provide an easy reference for legislative authorities and the public alike.
