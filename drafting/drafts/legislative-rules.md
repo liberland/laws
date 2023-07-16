@@ -44,6 +44,9 @@ In instances where the legislative author deems it judicious to accompany the pr
 2. Legislation within Liberland shall be drafted with the anticipation that its provisions will be interpreted in accordance with contemporary and established rules and techniques of statutory interpretation, routinely employed by expert legal professionals in jurisdictions considered peers to Liberland.
 
 ### Article 6: Specific Rules of Interpretation
+
+#### § 1. Conflict between legal normas
+
 In instances of uncertainty pertaining to the precedence of one norm over another, the legislative drafter shall consider the following rules as valid:
 
 a) A norm of superior hierarchical stature shall supersede a norm of inferior hierarchical stature; for example, an international custom prevails over an international treaty, an international treaty prevails over the Constitution within the framework designed to resolve this conflict, the Constitution prevails over the Law, and the Law prevails over any other Regulation.
@@ -52,4 +55,6 @@ b) A specific norm shall interpret and hold precedence over general norms.
 
 c) A more recent norm shall interpret and hold precedence over earlier norms.
 
-
+#### § 2. Employment of Originalist Interpretation
+1) In instances where a literal interpretation fails to yield a clear legal understanding, the legislative drafter shall resort to the application of the Originalist Interpretation method. This method calls for the interpretation of the Law of Liberland in accordance with the original intent and significance underpinning the legislative creation at the time when the legal instrument assumed lawful validity.
+2) Should such an interpretative approach yield conspicuously absurd outcomes or those manifestly detrimental to the liberty of the individual, the law shall instead be construed in accordance with the intention of the legislature, discerned by identifying the issue or issues it sought to resolve and establishing the optimal solutions thereto. This interpretation shall endeavor to maintain fidelity to the literal meaning and originalist interpretation as closely as feasible.
