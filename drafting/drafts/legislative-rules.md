@@ -40,8 +40,8 @@ In instances where the legislative author deems it judicious to accompany the pr
 
 ## Section II: Guidelines for Interpretation
 ### Article 5: General Rules of Interpretation
-1. Legislation within Liberland shall be construed according to its plain, literal, and ordinary meaning, as discernible to an informed, typical resident of Liberland reading with a commonly assumed level of dilligence.
-2. Legislation within Liberland shall be drafted with the anticipation that its provisions will be interpreted in accordance with contemporary and established rules and techniques of statutory interpretation, routinely employed by expert legal professionals in jurisdictions considered comparable to Liberland.
+1. Legislation within Liberland shall be understood and interpreted according to its plain, literal, and ordinary meaning, as discernible to an informed, typical resident of Liberland reading with a commonly assumed level of dilligence.
+2. Legislation within Liberland shall be drafted with the anticipation that its provisions will be interpreted in accordance with contemporary and established rules and techniques of statutory interpretation, routinely employed by expert legal professionals in jurisdictions considered peers to Liberland.
 
 ### Article 6: Specific Rules of Interpretation
 In instances of uncertainty pertaining to the precedence of one norm over another, the legislative drafter shall consider the following rules as valid:
