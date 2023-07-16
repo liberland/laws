@@ -26,3 +26,30 @@ The terminology applied shall consistently be interpreted within the context of 
 1. In instances where it becomes imperative to deviate from the universally accepted interpretation of a term, the legislative authority shall employ a "Legislative Definition." This shall be initiated by the term "henceforth," or by an equivalent word that unequivocally introduces a new definition. Subsequently, the term being defined shall be capitalized in its entirety, e.g., "Legislative Definition."
 2. All terms defined for the purpose of legislative comprehension within the Constitution and Laws of Liberland shall be cataloged in Appendix A of this Legislation.
 3. Legislators drafting Regulations other than the Constitution or Laws, are not permitted to define terminologies by means of a Legislative Definition beyond what is already defined in the Constitution and the Laws.
+
+### Article 4: Classification of Linguistic Styles
+#### § 1. Primary Adoption of Prescriptive Linguistic Form
+1. The predominant form of language employed shall be of prescriptive or normative nature, whereby legislative instructions are conveyed through explicit directives or prohibitions to an indeterminate body of recipients.
+2. The aforementioned recipients may either remain unspecified, wherein all individuals under the jurisdiction of Liberland are implicitly encompassed, or be identified according to their distinct characteristics.
+
+#### § 2. Supplementary Use of Explanatory Linguistic Form
+In circumstances where the legislative author anticipates potential confusion or ambiguity amongst the informed, non-specialist demographic of Liberland, they are permitted to supplement the prescriptive text with elucidations, descriptions, and clarifications to foster comprehension.
+
+#### § 3. Linguistic Form to Facilitate Judicial and Official Interpretation
+In instances where the legislative author deems it judicious to accompany the prescriptive text with additional statements to aid legal interpretation, such provisions are permissible, provided these do not compromise the readability and the intrinsic normative character of the legal text.
+
+## Section II: Guidelines for Interpretation
+### Article 5: General Rules of Interpretation
+1. Legislation within Liberland shall be construed according to its plain, literal, and ordinary meaning, as discernible to an informed, typical resident of Liberland reading with a commonly assumed level of dilligence.
+2. Legislation within Liberland shall be drafted with the anticipation that its provisions will be interpreted in accordance with contemporary and established rules and techniques of statutory interpretation, routinely employed by expert legal professionals in jurisdictions considered comparable to Liberland.
+
+### Article 6: Specific Rules of Interpretation
+In instances of uncertainty pertaining to the precedence of one norm over another, the legislative drafter shall consider the following rules as valid:
+
+a) A norm of superior hierarchical stature shall supersede a norm of inferior hierarchical stature; for example, an international custom prevails over an international treaty, an international treaty prevails over the Constitution within the framework designed to resolve this conflict, the Constitution prevails over the Law, and the Law prevails over any other Regulation.
+
+b) A specific norm shall interpret and hold precedence over general norms.
+
+c) A more recent norm shall interpret and hold precedence over earlier norms.
+
+
