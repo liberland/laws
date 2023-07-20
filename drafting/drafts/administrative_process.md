@@ -86,31 +86,35 @@ The Administrative Organ is mandated to conduct a comprehensive investigation pe
 ### § 3: Principle of Impartiality
 The Administrative Organ is required to exercise absolute impartiality concerning the interests of all parties involved throughout the entire procedural process. Concurrently, it shall also function as a faithful representative of Liberland. In instances where these two obligations appear to conflict, the principle of impartiality shall take precedence.
 
-### Article 12: Decision
-### § 1: Purpose of the Decision
-1. A decision shall be an individual act of the Administrative Organ, issued in writing, by which rights, legally protected interests or obligations are established, changed, abolished or determined, or by which a request or protest is rejected or dismissed.
-2. A Decision shall be the conclusion of the Administrative Process, and it shall contain, in writing, the reasoning and shall refer to all the evidence used not only for the drafting of the decision, but also for all the actions that preceded it.
+### Article 12: Issuance of Administrative Decisions
 
-### § 2: Form of the Decision
-1) A Decision shall be made in writing and shall be sent in an official copy to each party of the Administrative Process, as well as keeping a copy for itself. Its form shall be official and conducive to the readability and understandability of the content by the given party or by the general informed public in case of the official copy pertaining to the Arministrative Organ. 
-2) A Decision shall contain the following information:
+#### § 1: Purpose and Composition of the Decision
+1. A decision shall constitute a distinct act of the Administrative Organ, promulgated in writing, through which rights, legally protected interests, or obligations are established, modified, nullified, or ascertained, or through which a request or protest is dismissed or rejected.
+2. A decision shall represent the culmination of the Administrative Process and shall incorporate, in written form, the rationale and reference to all evidence utilized not only in the formulation of the decision but also in all preceding actions.
 
-a) Identification of the Administrative Organ: The decision should clearly identify the administrative organ that is issuing the decision.
+#### § 2 Section 2: Form and Content of the Decision
+1) A decision shall be rendered in writing and dispatched in an official copy to each party involved in the Administrative Process, with a duplicate retained by the Administrative Organ. The format of the decision shall be official, designed to facilitate readability and comprehension of the content by the concerned party or by the informed public in the case of the official copy pertaining to the Administrative Organ.
+2) A decision shall encompass the following elements:
 
-b) Parties Involved: The decision should specify the parties involved in the case.
+a) Identification of the Administrative Organ: The decision shall unambiguously identify the Administrative Organ issuing the decision.
 
-c) Facts of the Case: The decision should detail the facts of the case, including any relevant evidence.
+b) Parties Involved: The decision shall delineate the parties implicated in the case.
 
-d) Legal Basis: The decision should cite the legal basis for the decision, including any relevant laws or regulations.
+c) Facts of the Case: The decision shall detail the facts of the case, inclusive of any pertinent evidence.
 
-e) Reasoning: The decision should provide a clear and detailed reasoning for the decision, explaining how the facts of the case and the applicable law led to the decision.
+d) Legal Basis: The decision shall cite the legal foundation for the decision, inclusive of any applicable laws or regulations.
 
-f) Decision: The decision itself should be clearly stated.
+e) Reasoning: The decision shall provide a lucid and comprehensive rationale for the decision, elucidating how the facts of the case and the applicable law informed the decision.
 
-g) Instructions for Appeal: If applicable, the decision should provide instructions on how to appeal the decision, including any deadlines for filing an appeal.
+f) Decision: The decision itself shall be clearly articulated.
 
-h) Date and Signature: The decision should be dated and signed by the appropriate official from the administrative organ.
+g) Instructions for Appeal: If applicable, the decision shall provide instructions on the process for lodging an appeal, inclusive of any deadlines for filing an appeal.
 
+h) Date and Signature: The decision shall be dated and signed by the appropriate official from the Administrative Organ.
+
+#### § 3: Legal Effect
+1) The decision shall acquire legal effect eight days subsequent to its issuance, thereby concluding the Administrative Process in the concerned matter.
+2) In the event that the decision is appealed against, it shall not acquire legal effect.
 
 ## Section 3: Payment order
 
