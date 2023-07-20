@@ -81,12 +81,36 @@ The conduct of Synchronous Proceedings shall adhere to the rules of the Trial as
 The Administrative Organ is obligated to ensure that its conduct and resultant decisions are in strict compliance with the prevailing legal framework. Furthermore, the Administrative Organ shall only proceed with actions when it possesses a substantial degree of factual certainty. All actions must be predicated upon information that is both accurate and reliable.
 
 ### § 2: Duty of Investigation and Evidentiary Requirements
-The Administrative Organ is mandated to conduct a comprehensive investigation pertaining to the case. This includes the obligation to gather all necessary evidence and to resolve any existing ambiguities or uncertainties.
+The Administrative Organ is mandated to conduct a comprehensive investigation pertaining to the case and must provide a clear and detailed reasoning for its actions. This reasoning must be based on the facts of the case and the applicable law. This includes the obligation to gather all necessary evidence and to resolve any existing ambiguities or uncertainties.
 
 ### § 3: Principle of Impartiality
 The Administrative Organ is required to exercise absolute impartiality concerning the interests of all parties involved throughout the entire procedural process. Concurrently, it shall also function as a faithful representative of Liberland. In instances where these two obligations appear to conflict, the principle of impartiality shall take precedence.
 
-### Article 14: Decision
+### Article 12: Decision
+### § 1: Purpose of the Decision
+1. A decision shall be an individual act of the Administrative Organ, issued in writing, by which rights, legally protected interests or obligations are established, changed, abolished or determined, or by which a request or protest is rejected or dismissed.
+2. A Decision shall be the conclusion of the Administrative Process, and it shall contain, in writing, the reasoning and shall refer to all the evidence used not only for the drafting of the decision, but also for all the actions that preceded it.
+
+### § 2: Form of the Decision
+1) A Decision shall be made in writing and shall be sent in an official copy to each party of the Administrative Process, as well as keeping a copy for itself. Its form shall be official and conducive to the readability and understandability of the content by the given party or by the general informed public in case of the official copy pertaining to the Arministrative Organ. 
+2) A Decision shall contain the following information:
+
+a) Identification of the Administrative Organ: The decision should clearly identify the administrative organ that is issuing the decision.
+
+b) Parties Involved: The decision should specify the parties involved in the case.
+
+c) Facts of the Case: The decision should detail the facts of the case, including any relevant evidence.
+
+d) Legal Basis: The decision should cite the legal basis for the decision, including any relevant laws or regulations.
+
+e) Reasoning: The decision should provide a clear and detailed reasoning for the decision, explaining how the facts of the case and the applicable law led to the decision.
+
+f) Decision: The decision itself should be clearly stated.
+
+g) Instructions for Appeal: If applicable, the decision should provide instructions on how to appeal the decision, including any deadlines for filing an appeal.
+
+h) Date and Signature: The decision should be dated and signed by the appropriate official from the administrative organ.
+
 
 ## Section 3: Payment order
 
