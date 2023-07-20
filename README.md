@@ -38,6 +38,7 @@ Ready for your recommendations, including thorought ones and requests to not dra
 * [Police Law](drafting/drafts/police-law.md)
 * [Procurement Law](drafting/drafts/procurement-law.md)
 * [Referendum Law](drafting/drafts/referendum-law.md)
+* [Legislative Rules](https://github.com/liberland/laws/blob/Laws-Current/drafting/drafts/legislative-rules.md)
 
 ## Preliminary
 
