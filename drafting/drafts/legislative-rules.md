@@ -57,7 +57,7 @@ c) A more recent norm shall interpret and hold precedence over earlier norms.
 1) In instances where a literal interpretation fails to yield a clear legal understanding, the legislative drafter shall resort to the application of the Originalist Interpretation method. This method calls for the interpretation of the Law of Liberland in accordance with the original intent and significance underpinning the legislative creation at the time when the legal instrument assumed lawful validity.
 2) Should such an interpretative approach yield conspicuously absurd outcomes or those manifestly detrimental to the liberty of the individual, the law shall instead be construed in accordance with the intention of the legislature, discerned by identifying the issue or issues it sought to resolve and establishing the optimal solutions thereto. This interpretation shall endeavor to maintain fidelity to the literal meaning and originalist interpretation as closely as feasible.
 
-## Section 3: Dividing the law
+## Section 3: Structuring and Segmenting the Legislation
 ### Article 7: Articles: Fundamental Textual Segments
 #### § 1. Structure of Articles
 1. The primary segment of text shall be constituted as an Article, embodying a solitary declaration or a cluster of associated declarations.
@@ -75,3 +75,4 @@ c) A more recent norm shall interpret and hold precedence over earlier norms.
 ### Article 9: Division into Books
 1. In instances where a legislative document encapsulates a complex array of systematically interrelated components, it may be divided into larger, autonomous units referred to as Books. While each Book is designed to encapsulate a comprehensive set of standalone legal directives, it forms an integral part of the overarching legislative document. 
 2. These Books are suitable for independent printing and reading. Nevertheless, they should be understood and interpreted within the broader context of the complete legislative document. This ensures the holistic comprehension of the legislative intent and interconnectedness of legal provisions.
+
