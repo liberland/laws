@@ -140,12 +140,24 @@ The party to which the Payment Order is directed may lodge an Objection within e
 2) The party addressed may decline to accept the On-Site Payment Order, which shall be understood by the Administrative Organ as lodging an Objection to it.
 
 ### Article 16: Submission of a Reasoned Objection
-1) In general, if the addressed party accepts the On-Site Payment Order, they shall be deemed to have waived their right to lodge objections. However, if the party can demonstrate that they were uninformed, incapable of providing informed consent, or subject to other extenuating circumstances, they may, within one month of their acceptance, submit a Reasoned Objection.
+1) In general, if the addressed party accepts the On-Site Payment Order, they shall be deemed to have waived their right to lodge objections. However, if the party can demonstrate that they were uninformed, incapable of providing informed consent, or subject to other extenuating circumstances, they may submit a Reasoned Objection within one month of their acceptance.
 2) Unlike a standard Objection, a Reasoned Objection shall incorporate the reasons elucidating the circumstances and providing evidence in support of their assertions.
 3) The Administrative Organ shall review the Reasoned Objection and, if it determines that the arguments possess merit, shall rescind the Payment Order, and it will be as if an Objection was lodged within the prescribed timeframe. When there is doubt, the Administrative Organ shall accept the Reasoned Objection.
 
-## Section 4: Administrative Organ Actions
-### Article 17: Intervention in Cases of Necessity
+## Section 4: Actions of the Administrative Organ
+
+### Article 17: Conduct in official capacity
+1) A Responsible Person of an Administrative Organ, while acting in their official capacity, shall adhere to the principles of legality, impartiality, and transparency. They are obligated to uphold the rights and interests of the public, and to perform their duties in a manner that is consistent with the laws, regulations, and policies governing their role and the Administrative Organ.
+2) In the execution of their official duties, the Responsible Person shall exercise their authority in a fair, unbiased, and objective manner. They shall avoid any actions or decisions that may result in a conflict of interest or that may compromise the integrity of the Administrative Organ.
+3) The Responsible Person is expected to maintain a high standard of professional conduct. They shall demonstrate respect, courtesy, and fairness in their interactions with the public and their colleagues. They shall also strive to promote a culture of accountability and excellence within the Administrative Organ.
+
+### Article 18: Documentation, review
+Any actions taken by the Responsible Person in their official capacity shall be properly documented and subject to review. This is to ensure transparency and accountability in the operations of the Administrative Organ.
+
+### Article 19: Continuous improvement
+The Responsible Person shall continually seek to enhance their professional competence and to keep abreast of changes in laws, regulations, and best practices relevant to their role. They shall also support the professional development of their colleagues and contribute to the overall effectiveness and efficiency of the Administrative Organ.
+
+### Article 18: Intervention in Cases of Necessity
 1. In instances where a Responsible Person of an Administrative Organ, tasked with the protection of a certain public good, discerns that a person, property, or other entity under their protection is being compromised—either damaged or exposed to clear and imminent danger—due to the action or omission of a person or institution, the Responsible Person is obligated to intervene to prevent further compromise of their charges.
 2. When intervening in this manner, the Responsible Person shall adopt the least intrusive approach that is overwhelmingly likely to result in the cessation of the actions that pose a threat or cause damage to their charges.
 
