@@ -137,12 +137,15 @@ The party to which the Payment Order is directed may lodge an Objection within e
 
 ### Article 15: Issuance of On-Site Payment Orders
 1) An On-Site Payment Order, such as a traffic fine, shall be issued by the Administrative Organ when the conditions for the issuance of a standard payment order are satisfied, and the grounds for issuance have been directly observed by the Responsible Official or by an individual assisting them who is under their authority, and the facts of the case are sufficiently evidenced to the Responsible Official.
-2) The party addressed may decline to accept the On-Site Payment Order, which shall be construed as an objection to it.
+2) The party addressed may decline to accept the On-Site Payment Order, which shall be understood by the Administrative Organ as lodging an Objection to it.
 
 ### Article 16: Submission of a Reasoned Objection
 1) In general, if the addressed party accepts the On-Site Payment Order, they shall be deemed to have waived their right to lodge objections. However, if the party can demonstrate that they were uninformed, incapable of providing informed consent, or subject to other extenuating circumstances, they may, within one month of their acceptance, submit a Reasoned Objection.
 2) Unlike a standard Objection, a Reasoned Objection shall incorporate the reasons elucidating the circumstances and providing evidence in support of their assertions.
 3) The Administrative Organ shall review the Reasoned Objection and, if it determines that the arguments possess merit, shall rescind the Payment Order, and it will be as if an Objection was lodged within the prescribed timeframe. When there is doubt, the Administrative Organ shall accept the Reasoned Objection.
 
-## Section 5: Administrative Act
+## Section 4: Administrative Organ Actions
+### Article 17: Intervention in Cases of Necessity
+1. In instances where a Responsible Person of an Administrative Organ, tasked with the protection of a certain public good, discerns that a person, property, or other entity under their protection is being compromised—either damaged or exposed to clear and imminent danger—due to the action or omission of a person or institution, the Responsible Person is obligated to intervene to prevent further compromise of their charges.
+2. When intervening in this manner, the Responsible Person shall adopt the least intrusive approach that is overwhelmingly likely to result in the cessation of the actions that pose a threat or cause damage to their charges.
 
