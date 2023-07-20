@@ -135,4 +135,14 @@ e) Information Regarding the Issuance of an Objection: The Payment Order shall p
 ### Article 14: Procedure for Lodging an Objection
 The party to which the Payment Order is directed may lodge an Objection within eight working days of the issuance of the Payment Order. Upon receipt of the Objection, the Payment Order loses legal force and is considered as if it had never been issued. At this juncture, the Administrative Organ may choose to terminate the Administrative Process or may proceed as if the process had commenced at the time of receipt of the Objection.
 
-## Section 4: Resolving the case on-site
+### Article 15: Issuance of On-Site Payment Orders
+1) An On-Site Payment Order, such as a traffic fine, shall be issued by the Administrative Organ when the conditions for the issuance of a standard payment order are satisfied, and the grounds for issuance have been directly observed by the Responsible Official or by an individual assisting them who is under their authority, and the facts of the case are sufficiently evidenced to the Responsible Official.
+2) The party addressed may decline to accept the On-Site Payment Order, which shall be construed as an objection to it.
+
+### Article 16: Submission of a Reasoned Objection
+1) In general, if the addressed party accepts the On-Site Payment Order, they shall be deemed to have waived their right to lodge objections. However, if the party can demonstrate that they were uninformed, incapable of providing informed consent, or subject to other extenuating circumstances, they may, within one month of their acceptance, submit a Reasoned Objection.
+2) Unlike a standard Objection, a Reasoned Objection shall incorporate the reasons elucidating the circumstances and providing evidence in support of their assertions.
+3) The Administrative Organ shall review the Reasoned Objection and, if it determines that the arguments possess merit, shall rescind the Payment Order, and it will be as if an Objection was lodged within the prescribed timeframe. When there is doubt, the Administrative Organ shall accept the Reasoned Objection.
+
+## Section 5: Administrative Act
+
