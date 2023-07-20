@@ -116,9 +116,29 @@ h) Date and Signature: The decision shall be dated and signed by the appropriate
 1) The decision shall acquire legal effect eight days subsequent to its issuance, thereby concluding the Administrative Process in the concerned matter.
 2) In the event that the decision is appealed against, it shall not acquire legal effect.
 
+### Article 13: Conduct in official capacity
+1) A Responsible Person of an Administrative Organ, while acting in their official capacity, shall adhere to the principles of legality, impartiality, and transparency. They are obligated to uphold the rights and interests of the public, and to perform their duties in a manner that is consistent with the laws, regulations, and policies governing their role and the Administrative Organ.
+2) In the execution of their official duties, the Responsible Person shall exercise their authority in a fair, unbiased, and objective manner. They shall avoid any actions or decisions that may result in a conflict of interest or that may compromise the integrity of the Administrative Organ.
+3) The Responsible Person is expected to maintain a high standard of professional conduct. They shall demonstrate respect, courtesy, and fairness in their interactions with the public and their colleagues. They shall also strive to promote a culture of accountability and excellence within the Administrative Organ.
+
+### Article 14: Documentation, review
+Any actions taken by the Responsible Person in their official capacity shall be properly documented and subject to review. This is to ensure transparency and accountability in the operations of the Administrative Organ.
+
+### Article 15: Continuous improvement
+The Responsible Person shall continually seek to enhance their professional competence and to keep abreast of changes in laws, regulations, and best practices relevant to their role. They shall also support the professional development of their colleagues and contribute to the overall effectiveness and efficiency of the Administrative Organ.
+
+### Article 16: Confidentiality
+The Responsible Person, in their official capacity, shall maintain the confidentiality of all sensitive information that they have access to, unless disclosure is required by law or is necessary for the performance of their duties.
+
+### Article 17: Communication
+The Responsible Person shall ensure effective and timely communication with the public, colleagues, and other stakeholders. They shall provide clear, accurate, and complete information and respond to inquiries in a professional and respectful manner.
+
+### Article 18: Compliance with Ethical Standards
+The Responsible Person shall comply with all established ethical standards applicable to their role and the Administrative Organ. They shall conduct themselves with integrity, honesty, and respect for the rights and dignity of others. Any violation of these ethical standards may result in disciplinary action, up to and including dismissal.
+
 ## Section 3: Issuance of Payment Orders
 
-### Article 13: Procedure for Issuing a Payment Order
+### Article 19: Procedure for Issuing a Payment Order
 1) In instances where an Administrative Process is initiated against one or more parties and it becomes evident to the Administrative Organ from the outset that they are likely obligated to remit payment to the Administrative Organ, such as in the case of a misdemeanor, the Administrative Organ shall issue a Payment Order.
 2) The Payment Order shall incorporate the following information:
 
@@ -132,36 +152,17 @@ d) Duty to Pay: The Payment Order shall specify the obligation of the addressee 
 
 e) Information Regarding the Issuance of an Objection: The Payment Order shall provide information on the process for lodging an Objection in accordance with this law.
 
-### Article 14: Procedure for Lodging an Objection
+### Article 20: Procedure for Lodging an Objection
 The party to which the Payment Order is directed may lodge an Objection within eight working days of the issuance of the Payment Order. Upon receipt of the Objection, the Payment Order loses legal force and is considered as if it had never been issued. At this juncture, the Administrative Organ may choose to terminate the Administrative Process or may proceed as if the process had commenced at the time of receipt of the Objection.
 
-### Article 15: Issuance of On-Site Payment Orders
+### Article 21: Issuance of On-Site Payment Orders
 1) An On-Site Payment Order, such as a traffic fine, shall be issued by the Administrative Organ when the conditions for the issuance of a standard payment order are satisfied, and the grounds for issuance have been directly observed by the Responsible Official or by an individual assisting them who is under their authority, and the facts of the case are sufficiently evidenced to the Responsible Official.
 2) The party addressed may decline to accept the On-Site Payment Order, which shall be understood by the Administrative Organ as lodging an Objection to it.
 
-### Article 16: Submission of a Reasoned Objection
+### Article 22: Submission of a Reasoned Objection
 1) In general, if the addressed party accepts the On-Site Payment Order, they shall be deemed to have waived their right to lodge objections. However, if the party can demonstrate that they were uninformed, incapable of providing informed consent, or subject to other extenuating circumstances, they may submit a Reasoned Objection within one month of their acceptance.
 2) Unlike a standard Objection, a Reasoned Objection shall incorporate the reasons elucidating the circumstances and providing evidence in support of their assertions.
 3) The Administrative Organ shall review the Reasoned Objection and, if it determines that the arguments possess merit, shall rescind the Payment Order, and it will be as if an Objection was lodged within the prescribed timeframe. When there is doubt, the Administrative Organ shall accept the Reasoned Objection.
 
-## Section 4: Actions of the Administrative Organ
 
-### Article 17: Conduct in official capacity
-1) A Responsible Person of an Administrative Organ, while acting in their official capacity, shall adhere to the principles of legality, impartiality, and transparency. They are obligated to uphold the rights and interests of the public, and to perform their duties in a manner that is consistent with the laws, regulations, and policies governing their role and the Administrative Organ.
-2) In the execution of their official duties, the Responsible Person shall exercise their authority in a fair, unbiased, and objective manner. They shall avoid any actions or decisions that may result in a conflict of interest or that may compromise the integrity of the Administrative Organ.
-3) The Responsible Person is expected to maintain a high standard of professional conduct. They shall demonstrate respect, courtesy, and fairness in their interactions with the public and their colleagues. They shall also strive to promote a culture of accountability and excellence within the Administrative Organ.
 
-### Article 18: Documentation, review
-Any actions taken by the Responsible Person in their official capacity shall be properly documented and subject to review. This is to ensure transparency and accountability in the operations of the Administrative Organ.
-
-### Article 19: Continuous improvement
-The Responsible Person shall continually seek to enhance their professional competence and to keep abreast of changes in laws, regulations, and best practices relevant to their role. They shall also support the professional development of their colleagues and contribute to the overall effectiveness and efficiency of the Administrative Organ.
-
-### Article 20: Confidentiality
-The Responsible Person, in their official capacity, shall maintain the confidentiality of all sensitive information that they have access to, unless disclosure is required by law or is necessary for the performance of their duties.
-
-### Article 21: Communication
-The Responsible Person shall ensure effective and timely communication with the public, colleagues, and other stakeholders. They shall provide clear, accurate, and complete information and respond to inquiries in a professional and respectful manner.
-
-### Article 22: Compliance with Ethical Standards
-The Responsible Person shall comply with all established ethical standards applicable to their role and the Administrative Organ. They shall conduct themselves with integrity, honesty, and respect for the rights and dignity of others. Any violation of these ethical standards may result in disciplinary action, up to and including dismissal.
