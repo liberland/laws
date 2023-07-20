@@ -58,8 +58,7 @@ c) A more recent norm shall interpret and hold precedence over earlier norms.
 2) Should such an interpretative approach yield conspicuously absurd outcomes or those manifestly detrimental to the liberty of the individual, the law shall instead be construed in accordance with the intention of the legislature, discerned by identifying the issue or issues it sought to resolve and establishing the optimal solutions thereto. This interpretation shall endeavor to maintain fidelity to the literal meaning and originalist interpretation as closely as feasible.
 
 ## Section 3: Dividing the law
-### Article 7: Fundamental Textual Segments
-
+### Article 7: Articles: Fundamental Textual Segments
 #### § 1. Structure of Articles
 1. The primary segment of text shall be constituted as an Article, embodying a solitary declaration or a cluster of associated declarations.
 2. Articles shall be assigned a sequential numbering format ranging from 1 through N, where N denotes the concluding article in the designated legal instrument.
@@ -69,3 +68,10 @@ c) A more recent norm shall interpret and hold precedence over earlier norms.
 1. In circumstances where the declarations encompassed within a single Article are intrinsically linked, to the extent that their segregation would result in a significant alteration or loss of meaning, they shall be consolidated within a single paragraph.
 2. Conversely, if the declarations maintain a degree of connectivity, yet not so profound as to necessitate their conflation, they shall be distributed across separate paragraphs.
 
+### Article 8: Division into Sections and Subsections
+1. Legislative documents shall conform to a hierarchical structure with primary division into Sections. This ensures clear delineation of legislative content and ease of navigation for the reader.
+2. In cases of increased complexity, a secondary tier of division shall be employed. Legislative documents may be further divided into Subsections within the primary Sections. This additional layer of categorization enables a more granular breakdown of content, enhancing comprehension and systematic analysis of the legislative material.
+
+### Article 9: Division into Books
+1. In instances where a legislative document encapsulates a complex array of systematically interrelated components, it may be divided into larger, autonomous units referred to as Books. While each Book is designed to encapsulate a comprehensive set of standalone legal directives, it forms an integral part of the overarching legislative document. 
+2. These Books are suitable for independent printing and reading. Nevertheless, they should be understood and interpreted within the broader context of the complete legislative document. This ensures the holistic comprehension of the legislative intent and interconnectedness of legal provisions.
