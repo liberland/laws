@@ -74,3 +74,20 @@ Synchronous proceedings shall be conducted before the Administrative Organ and s
 
 #### § 2: Rules Governing Proceedings
 The conduct of Synchronous Proceedings shall adhere to the rules of the Trial as stipulated by the Process Law.
+
+### Article 11: Procedural Standards for the Administrative Organ
+
+### § 1: Adherence to Legal Principles and Factual Accuracy
+The Administrative Organ is obligated to ensure that its conduct and resultant decisions are in strict compliance with the prevailing legal framework. Furthermore, the Administrative Organ shall only proceed with actions when it possesses a substantial degree of factual certainty. All actions must be predicated upon information that is both accurate and reliable.
+
+### § 2: Duty of Investigation and Evidentiary Requirements
+The Administrative Organ is mandated to conduct a comprehensive investigation pertaining to the case. This includes the obligation to gather all necessary evidence and to resolve any existing ambiguities or uncertainties.
+
+### § 3: Principle of Impartiality
+The Administrative Organ is required to exercise absolute impartiality concerning the interests of all parties involved throughout the entire procedural process. Concurrently, it shall also function as a faithful representative of Liberland. In instances where these two obligations appear to conflict, the principle of impartiality shall take precedence.
+
+### Article 14: Decision
+
+## Section 3: Payment order
+
+## Section 4: Resolving the case on-site
