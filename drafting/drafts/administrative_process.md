@@ -157,7 +157,11 @@ Any actions taken by the Responsible Person in their official capacity shall be 
 ### Article 19: Continuous improvement
 The Responsible Person shall continually seek to enhance their professional competence and to keep abreast of changes in laws, regulations, and best practices relevant to their role. They shall also support the professional development of their colleagues and contribute to the overall effectiveness and efficiency of the Administrative Organ.
 
-### Article 18: Intervention in Cases of Necessity
-1. In instances where a Responsible Person of an Administrative Organ, tasked with the protection of a certain public good, discerns that a person, property, or other entity under their protection is being compromised—either damaged or exposed to clear and imminent danger—due to the action or omission of a person or institution, the Responsible Person is obligated to intervene to prevent further compromise of their charges.
-2. When intervening in this manner, the Responsible Person shall adopt the least intrusive approach that is overwhelmingly likely to result in the cessation of the actions that pose a threat or cause damage to their charges.
+### Article 20: Confidentiality
+The Responsible Person, in their official capacity, shall maintain the confidentiality of all sensitive information that they have access to, unless disclosure is required by law or is necessary for the performance of their duties.
 
+### Article 21: Communication
+The Responsible Person shall ensure effective and timely communication with the public, colleagues, and other stakeholders. They shall provide clear, accurate, and complete information and respond to inquiries in a professional and respectful manner.
+
+### Article 22: Compliance with Ethical Standards
+The Responsible Person shall comply with all established ethical standards applicable to their role and the Administrative Organ. They shall conduct themselves with integrity, honesty, and respect for the rights and dignity of others. Any violation of these ethical standards may result in disciplinary action, up to and including dismissal.
