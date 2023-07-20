@@ -116,6 +116,23 @@ h) Date and Signature: The decision shall be dated and signed by the appropriate
 1) The decision shall acquire legal effect eight days subsequent to its issuance, thereby concluding the Administrative Process in the concerned matter.
 2) In the event that the decision is appealed against, it shall not acquire legal effect.
 
-## Section 3: Payment order
+## Section 3: Issuance of Payment Orders
+
+### Article 13: Procedure for Issuing a Payment Order
+1) In instances where an Administrative Process is initiated against one or more parties and it becomes evident to the Administrative Organ from the outset that they are likely obligated to remit payment to the Administrative Organ, such as in the case of a misdemeanor, the Administrative Organ shall issue a Payment Order.
+2) The Payment Order shall incorporate the following information:
+
+a) Identification of the Administrative Organ: The Payment Order shall unambiguously identify the Administrative Organ issuing the order.
+
+b) Parties Involved: The Payment Order shall delineate the parties implicated in the case and the party to which the Payment Order is directed.
+
+c) Simplified Facts of the Case: A concise summary of the facts of the case, presented in a manner that is easily comprehensible to the average person.
+
+d) Duty to Pay: The Payment Order shall specify the obligation of the addressee to remit payment to the Administrative Organ within eight working days, including the exact amount to be paid.
+
+e) Information Regarding the Issuance of an Objection: The Payment Order shall provide information on the process for lodging an Objection in accordance with this law.
+
+### Article 14: Procedure for Lodging an Objection
+The party to which the Payment Order is directed may lodge an Objection within eight working days of the issuance of the Payment Order. Upon receipt of the Objection, the Payment Order loses legal force and is considered as if it had never been issued. At this juncture, the Administrative Organ may choose to terminate the Administrative Process or may proceed as if the process had commenced at the time of receipt of the Objection.
 
 ## Section 4: Resolving the case on-site
