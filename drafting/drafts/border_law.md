@@ -157,9 +157,8 @@ The Ministry of Interior has the power to specify additional locations for execu
 2) Upon request, the border service officer is required to provide a certificate to individuals crossing the state border with an identification card. This certificate serves as proof of their entry or exit from the country.
 3) The appearance and content of the stamp, the format of the certificate, as well as the methods for recording entry denials and other relevant data on the documents designated for border crossing, will be defined by the regulations established by the Minister of Interior. Where practical, the stamp and the certificate should be issued electronically using modern digital communication methods, although the option of paper issuance will be maintained as necessary.
 
-### Article 18: Entry and Exit of Weapons and Ammunition
-1. The import and export of weapons and ammunition across the state border of Liberland shall be subject to specific laws, regulations, and licensing requirements, in accordance with national and international law.
-2. Persons intending to bring weapons and ammunition into or out of the country shall declare such items to border control officers and provide any necessary permits, licenses, or other documentation as required by law.
+### Article 18: Strict Limitations on the Import and Export of Weapons and Ammunition
+The import and export of weapons and ammunition are strictly prohibited. A specific exemption is applicable solely for security personnel who are part of foreign state delegations officially visiting Liberland. This exemption is operational immediately before and during the duration of the official visit, subject to reciprocal agreements and its operation shall be further regulated by a Regulation issued by the Minister of Interior.
 
 ### Article 19: Children and other vulnerable groups
 1. In all actions concerning children, the best interests of the child shall be a primary consideration. Unaccompanied and separated children shall be provided with appropriate assistance and protection.
