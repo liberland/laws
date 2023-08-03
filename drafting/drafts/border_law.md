@@ -240,89 +240,90 @@ b. Immigration Officers, responsible for determining eligibility for entry and r
 
 ## Section 2: Border Officers and their duties
 
-### Article 31: Border Officers
+### Article 31: Authority and Limitations of Border Officers
 
-#### § 1: Status and Powers of Border Officers
+#### § 1: Designation and Authority of Border Officers
 
-1) Border Officers are hereby designated as the primary agents for the enforcement of border regulations and the safeguarding of border security within Liberland's borders, both on the land and on the river, and in areas directly adjacent to these and relevant to keeping the border secure, henceforth "Border Domain". 
+1) Border Officers are hereby appointed as the primary enforcers of border regulations and protectors of border security within the territorial boundaries of Liberland, inclusive of terrestrial and riverine borders, and areas immediately adjacent thereto, collectively referred to as the "Border Domain".
 
-2) Border Officers, when acting in response to border-related incidents, situations, or offences, inclusive of criminal acts, are conferred the authority to act in the capacity of Security Agents of the Police.
+2) In the event of border-related incidents, situations, or offenses, including criminal acts, Border Officers are vested with the authority to function as Security Agents of the Police.
 
-#### § 2: Powers and Responsibilities of Border Officers
+#### § 2: Duties and Responsibilities of Border Officers
 
-(1) In the course of duty, the Border Officer is mandated to perform, but not limited to, the following activities:
+1) In the execution of their duties, Border Officers are required to undertake, but are not limited to, the following activities:
 
-a) Verify the authenticity of travel and other requisite documents required for state border crossing.
+a) Authenticate travel and other necessary documents for border crossing.
 
-b) Confirm the identity of individuals and perform identity checks in specified records.
+b) Verify the identity of individuals and cross-check with specified records.
 
-c) In circumstances of suspicious identity or document validity, procure fingerprints, palm prints, and other relevant biometric data of individuals.
+c) In cases of questionable identity or document validity, collect fingerprints, palm prints, and other relevant biometric data.
 
-d) Assess an individual's compliance with the entry/exit prerequisites for travel to The Free Republic of Liberland.
+d) Evaluate an individual's adherence to the entry/exit requirements for travel to The Free Republic of Liberland.
 
-e) Authenticate the state border crossing by entering the necessary data in the relevant travel or other required documents. This may include data on denied entry, the transport and transit of weapons and ammunition, and other pertinent data.
+e) Validate border crossing by recording necessary data in the relevant documents. This may include information on denied entry, transport and transit of weapons and ammunition, and other relevant data.
 
-f) Ascertain the purpose of an individual's travel.
+f) Determine the purpose of an individual's travel.
 
-g) In situations where an alternative check of individuals is not feasible, perform examinations and searches.
+g) Conduct examinations and searches when alternative checks are not feasible.
 
-h) Detain individuals for the requisite time to conduct thorough checks, while ensuring expedited and uninterrupted control.
+h) Detain individuals for the necessary duration to conduct comprehensive checks, while ensuring efficient and uninterrupted control.
 
-i) Demand that individuals crossing the state border reveal and allow examination of items and objects in their possession or vehicle.
+i) Require individuals crossing the border to disclose and permit examination of items and objects in their possession or vehicle.
 
-j) Inspect the interior and exterior of vehicles and conduct record checks when there is suspicion of concealed individuals, or prohibited or specially-regulated items or objects. The aim is to verify the identities of these individuals, prevent unauthorized state border crossing, and discover concealed items or objects.
+j) Inspect vehicles internally and externally, and conduct record checks when there is suspicion of concealed individuals, or prohibited or specially-regulated items. The aim is to verify identities, prevent unauthorized border crossing, and discover concealed items.
 
 k) Dismantle specific parts of a vehicle when a comprehensive search is necessary.
 
-l) Deploy technical devices, utilize service dogs, and establish barriers as measures to deter unauthorized state border crossing.
+l) Utilize technical devices, service dogs, and establish barriers to deter unauthorized border crossing.
 
-2) Aside from the primary tasks enumerated above, Border Officers are also obliged to fulfill Police duties within the Border Domain.
+2) In addition to the primary tasks listed above, Border Officers are also required to perform Police duties within the Border Domain.
 
-#### § 3: Application of Authority
-The Border Officer might perform the following activities in fulfilling their responsibilities:
+#### § 3: Exercise of Authority
+Border Officers may undertake the following activities in the fulfillment of their responsibilities:
 
-a) Issuing a warning or order to a person or prohibition of entry and stay in a protected facility
+a) Issue warnings or orders to individuals, or prohibit entry and stay in protected facilities.
 
-b) Personal identity checks, person and vehicle examination
+b) Conduct personal identity checks, and person and vehicle examinations.
 
-c) Temporary retention of an individual
+c) Temporarily detain individuals.
 
-d) Use of binding agents
+d) Use binding agents.
 
-e) Use of physical force
+e) Apply physical force.
 
-f) Use of gas spray
+f) Use gas spray.
 
-g) Use of specially trained dogs
+g) Deploy specially trained dogs.
 
-h) Use of firearms
+h) Use firearms.
 
-#### § 4: Principles of Border Security Officer
-The border security officer is obliged to adhere to the following principles:
+### Article 32: Constraints on Border Officers
+#### § 1: Principles Governing Border Officers
+Border Officers are obligated to adhere to the following principles:
 
-a) Authorizations will be applied exclusively in situations when there is no other way to perform the task.
+a) Authorizations will be exercised solely when no alternative means to perform the task exist.
 
-b) The application of the authority must be proportionate to the legitimate purpose of their use and carried out in a manner that does not offend dignity, reputation, honor or other guaranteed human rights.
+b) The exercise of authority must be proportionate to the legitimate purpose of its use and must respect dignity, reputation, honor, and other guaranteed human rights.
 
-c) No one shall be subjected to torture, inhuman or degrading treatment in the exercise of the authority.
+c) No individual shall be subjected to torture, inhuman or degrading treatment in the exercise of authority.
 
-d) A border security officer may act only in the manner established by law and these rules, so that the execution of tasks is achieved with the least harmful consequences.
+d) A Border Officer may act only in accordance with the law and these rules, ensuring that tasks are executed with minimal harmful consequences.
 
-e) These authorizations cannot be used against persons under the age of 14, obviously sick and debilitated persons, severely disabled persons and pregnant women whose pregnancy is visible or who warn that they are pregnant, unless someone of those persons endangers the life of a person with a firearm, tool or other dangerous object.
+e) These authorizations cannot be used against individuals under the age of 14, visibly ill or weakened individuals, severely disabled individuals, and visibly pregnant women, unless such individuals pose a threat to life with a firearm, tool, or other dangerous object.
 
-f) The border security officer is obliged to provide first aid to a person who is injured by exercise of authorization and immediately notify the medical service.
+f) A Border Officer is required to provide first aid to any individual injured by the exercise of authority and promptly notify medical services.
 
-g) On the use of the authority, the border security officer submits a written report immediately, and within 8 hours deadline, to his superior, who must make an assessment on the justification of the use of the authority within 48 hours. The assessment on the justification of the application of the authorization is submitted to the person against whom the authorization was applied.
+g) Following the use of authority, a Border Officer must submit a written report to their superior within 8 hours, who must evaluate the justification of the use of authority within 48 hours. The assessment must be provided to the individual against whom the authority was exercised.
 
-#### § 5: Restrictions on Border Officer Powers
+#### § 2: Limitations on Border Officer Powers
 
-1) In the course of executing state border protection duties, a Border Officer is limited to the utilization of powers, measures, and activities that serve lawful objectives exclusively.
+1) In the execution of border protection duties, a Border Officer is restricted to the use of powers, measures, and activities that exclusively serve lawful objectives.
 
-2) A Border Officer must exercise prudence when employing these powers, measures, and activities, ensuring that the resultant impact or harm does not outweigh the originally intended objective of their deployment.
+2) A Border Officer must exercise discretion when employing these powers, measures, and activities, ensuring that the resultant harm does not exceed the intended objective of their use.
 
-3) The application of these powers, measures, and activities by a Border Officer is permitted only until the targeted objective has been realized, or it becomes evident that the particular power or measure is ineffective in achieving the desired result.
+3) The use of these powers, measures, and activities by a Border Officer is permitted only until the targeted objective has been achieved, or it becomes apparent that the particular power or measure is ineffective in achieving the desired result.
 
-### Article 32: IBIS Regulatory Authority
+### Article 33: IBIS Regulatory Authority
 The Border Service shall establish and maintain regulations pertaining to:
 
 a) Border delimitation;  
@@ -331,7 +332,7 @@ b) Border crossing procedures and required conduct when approaching borders; and
 
 c) Organizational and professional rules for IBIS personnel.  
 
-### Article 33: Immigration Officers
+### Article 34: Immigration Officers
 Immigration Officers shall be classified into three tiers, with powers allocated as follows:  
 
 a) A First-Class Immigration Officer may waive one or more visa or entry requirements. The Director, the Minister of Interior, and the President shall possess equivalent powers to this rank by virtue of their respective offices.  
@@ -344,17 +345,17 @@ c) A Third-Class Immigration Officer may not waive any visa or entry requirement
 
 ## Section 1: Visa for Non-Citizens
 
-### Article 34: Visa
+### Article 35: Visa
 1) A visa shall be a document that confers to the visa holder the privilege of crossing the border of Liberland and staying on its soil for a certain time and with certain limitations when compared to a citizenship status.  
 2) The holder of a Visa shall be allowed to work and perform other gainful activity under the Law, henceforth "gainful employment".  
 3) Visa holders shall not have the political rights and responsibilities accorded to a Liberlandian citizen, such as the right to carry a Liberland passport, to run for public office, or to vote in elections and referendums, bear arms, among others.  
 
-### Article 35: Temporary Visa
+### Article 36: Temporary Visa
 1) A temporary visa permits a non-Citizen Applicant to enter and exit the borders of Liberland and stay therein for a specified duration of time, whether given as a duration (e.g., 6 months) or an expiry date (i.e., until 01 January 2023).
 2) The upper limit for one Temporary Visa shall be 4 Election Terms. There will be no limit to the number of times that a Temporary Visa holder may enter or exit the border on a valid (unexpired) temporary visa and as a rule, they shall be subject to prolongation.
 3) A holder of Temporary Visa may be treated differently from Liberland Citizens performing gainful employment in cases clearly connected to the temporary nature of their residency.
 
-### Article 36: Residence Visa
+### Article 37: Residence Visa
 
 #### § 1: Rights of Residence Visa Holders  
 1) A Residence Visa permits a non-Citizen Applicant to enter and exit the borders of Liberland and stay therein without limit for an unspecified duration of time. Only holders of an e-residence may apply for this type of visa.
@@ -392,7 +393,7 @@ c) A Third-Class Immigration Officer may not waive any visa or entry requirement
 #### § 3: Format of Reisdence Visa  
 The standardized format of each type of visa shall be determined by Regulation issued by the Ministry of Interior. Only an immigration officer with a first class delegation may issue a visa in a non-standardized format and only in cases where no other course would be just and reasonable.
 
-### Article 37: Family Visa
+### Article 38: Family Visa
 1. Where the applicant who doesn't fulfill the requirements for a Residence Visa is a family member of someone resident in Liberland, and that person doesn't have sufficient means to be a sponsor for a Residence Visa for them, the requirement of disposable income will be waived if the prospective immigrant is:  
  
    a) a dependent child of the sponsor under the age 21,  
@@ -403,20 +404,20 @@ The standardized format of each type of visa shall be determined by Regulation i
 
 2. Applications for immigration aimed toward family reunification shall be accorded priority in processing. 
 
-### Article 38: Immigration Quotas
+### Article 39: Immigration Quotas
 1. The Cabinet may establish annual immigration quotas based on the country's economic needs, demographic trends, and international obligations. These quotas shall be determined in a transparent and equitable manner, taking into account factors such as the skills and qualifications of applicants, family reunification needs, and humanitarian considerations.
 2. Notwithstanding any established immigration quotas, the immigration of immediate family members shall not be impeded by such quotas having been fulfilled. 
 
-### Article 39: Refugees
+### Article 40: Refugees
 1) The requirements for a Residence Visa shall be waived for a person recognized as a Refugee under the applicable norms of public international law. This includes gaining a conditional Residence Visa to a person who merely applies for the status of a Refugee and the decision hasn't yet been made. The conditional Residency Visa shall expire upon the condition of the applicant not being granted a Refugee status.
 2) A person applying for a Refugee status who also fulfills the conditions for Liberland Residency shall be awarded Residency Visa. Where they also later gain the Refugee status, those two shall be held in parallel. Where the Residence Visa should be lost, the person shall fall back on the Refugee status before expulsion can be considered.
 
 ## Section 2: Expiration of Visa and Expulsion
 
-### Article 40: Expiration of Residency Visa
+### Article 41: Expiration of Residency Visa
 Where a Residency Visa regularly expires, the process shall be similar to the expiration of a Temporary Visa, but the former Visa holder shall have 1/3 of an Election term counted from the day of expiration to exit Liberland voluntarily.
 
-### Article 41: Prolongation and New Application  
+### Article 42: Prolongation and New Application  
 1) Where:  
 
    a) the Visa holder has Applied for a prolongation of a Visa or for a new Visa; and  
@@ -427,7 +428,7 @@ the expiration shall be postponed until such a time as the process regarding tha
 2) Where the Application wasn't made timely, the Visa holder shall exit Liberland as during a regular Visa Expiration; when the new Visa Application is successful, the Residency holder shall be free to return. The costs incurred by the exit and the return shall be borne by the Visa holder.  
 
 ## Section 3: Identification
-### Article 42: Identity Verification
+### Article 43: Identity Verification
 1) An individual applying for a visa (hereinafter referred to as "Applicant") must verify their identity through one or more of the following methods: 
 
     a) A valid and recognized travel document that is compliant with the standards determined by the International Civil Aviation Organization (ICAO);  
@@ -438,7 +439,7 @@ the expiration shall be postponed until such a time as the process regarding tha
     
 2) An Applicant shall disclose any relevant previous or current identities or aliases for establishing their identity, or when requested by an Immigration Officer. Additionally, Applicants shall provide any required supplementary information during an interview with an Immigration Officer.
 
-### Article 43: Character Assessment
+### Article 44: Character Assessment
 1) A non-citizen Applicant must provide sufficient information for an Immigration Officer to assess their character, including but not limited to:  
 
     a) Past and current criminal convictions;  
@@ -453,10 +454,10 @@ the expiration shall be postponed until such a time as the process regarding tha
     
     b) Police Certificate issued by national or local law enforcement authorities from  
    
-### Article 44: Health
+### Article 45: Health
 Any non-Citizen Applicant must comply with the immigration officer if asked to prove that they are not carrying a communicable disease, or their Application shall be denied.
 
-### Article 45: Grounds for Restricting Entry and Visa Issuance
+### Article 46: Grounds for Restricting Entry and Visa Issuance
 #### § 1: Citizens Entering Liberland
 Citizens shall always be allowed to enter Liberland as long as they have been identified and their citizenship confirmed.
 
@@ -473,14 +474,14 @@ A non-citizen shall have their Application denied where their entry would effect
 An Immigration Officer First Class may derogate from these demands in cases where the benefits to Liberland clearly outweigh the dangers of the person's entry.
 
 ## Section 4: Special Provisions for the Appeals Process
-### Article 46: Right to Appeal
+### Article 47: Right to Appeal
 1) Any individual who has been denied entry, residency, or whose visa has been revoked, shall have the right to appeal the decision. The appeal must be lodged within 30 days from the date of the decision.
 
 2) The appeal shall be submitted in writing to the designated authority within the Immigration and Border Service (IBIS), as determined by the Ministry of Interior.
 
 3) The appeal should clearly state the grounds for the appeal and provide any supporting evidence or documentation.
 
-### Article 47: Review of Appeal
+### Article 48: Review of Appeal
 1) Upon receipt of an appeal, the designated authority shall review the decision in light of the grounds for appeal and any new evidence or information provided.
 
 2) The review process should be completed within a reasonable time, not exceeding 60 days from the date of receipt of the appeal.
@@ -488,31 +489,31 @@ An Immigration Officer First Class may derogate from these demands in cases wher
 3) The appellant shall be informed in writing of the outcome of the review. If the appeal is successful, the decision shall be reversed or amended as appropriate. If the appeal is unsuccessful, the reasons for the decision shall be clearly explained.
 
 ## Section 5: Asylum Process
-### Article 48: Right to Seek Asylum
+### Article 49: Right to Seek Asylum
 1) Any person who is outside their country of nationality or habitual residence and is unable or unwilling to return due to a well-founded fear of being persecuted for reasons of race, religion, nationality, membership of a particular social group, or political opinion, as defined in the 1951 Refugee Convention, shall have the right to seek asylum in Liberland.
 
 2) The right to seek asylum shall also apply to stateless persons under the same conditions.
 
-### Article 49: Asylum Application
+### Article 50: Asylum Application
 1) Asylum applications shall be submitted in writing to the designated authority within IBIS, as determined by the Ministry of Interior.
 
 2) The application should include detailed information about the applicant's identity, nationality, and reasons for seeking asylum, as well as any supporting evidence or documentation.
 
 3) IBIS shall register the application and provide the applicant with a confirmation of registration.
 
-### Article 50: Assessment of Asylum Application
+### Article 51: Assessment of Asylum Application
 1) The IBIS shall assess the asylum application in accordance with the criteria and procedures outlined in the 1951 Refugee Convention and other relevant international standards.
 
 2) The assessment shall take into account the applicant's personal circumstances, the conditions in their country of origin, and any other relevant factors.
 
 3) The applicant shall be given the opportunity to present their case in person and to provide additional information or evidence as necessary.
 
-### Article 51: Decision on Asylum Application
+### Article 52: Decision on Asylum Application
 1) The decision on the asylum application shall be made within a reasonable time, not exceeding 90 days from the date of application.
 
 2) The applicant shall be informed in writing of the decision. If the application is successful, the applicant shall be granted refugee status and issued a refugee travel document in accordance with the 1951 Refugee Convention. If the application is unsuccessful, the reasons for the decision shall be clearly explained.
 
-### Article 52: International Cooperation
+### Article 53: International Cooperation
 1. Liberland shall seek to establish agreements with neighbouring countries
 
 a) to ensure the mutual recognition and respect of the state borders. Such agreements may include provisions for joint border surveys, the exchange of geospatial data, and the resolution of any border disputes.
@@ -523,5 +524,5 @@ c) for the mutual recognition of travel documents and visas. Such agreements may
 
 2. IBIS shall seek to establish cooperation with equivalent agencies in other countries for the exchange of information, joint operations, training, and capacity building. Such cooperation shall be subject to the laws of Liberland and respect for human rights and personal data protection.
 
-### Article 53: Legal Force
+### Article 54: Legal Force
 This Law shall gain Legal Force on … and it shall remain in force in perpetuity or until its legal effects should be terminated or until it should be replaced by another Law governing the same or similar subject matter.
