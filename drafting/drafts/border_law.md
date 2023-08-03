@@ -30,9 +30,15 @@ In cases where the border line isn't easily discernible, special warning signs w
 2) Affixing or placing additional signs or signals that could obstruct the visibility of warning signs and signals is prohibited.
 3) The design, content, and installation process for these warning signs and signals will be determined by a Regulation issued by the Minister of Interior.
 
-### Article 5: Border Surveillance
+### Article 5: Border Line Visibility and Maintenance
+In accordance with international agreements stipulating the removal of trees, shrubs, and other vegetation that may obstruct the visibility of border markers or the border line itself, the state administrative authority responsible for land surveying will ensure that the border line remains clearly visible, unless otherwise specified in the international agreement.
+
+### Article 6: Border Surveillance
 1) Border surveillance comprises actions, powers, and preventive measures enacted along the state border, at the border crossing points during non-operational hours, and between the border crossing points. The objective of these measures is to prevent unauthorized border crossings and to safeguard the integrity of the state border.
 2) The implementation of border surveillance may employ technical and electronic resources as appropriate.
+
+### Article 7: Cross-Border Cooperation
+Cross-border cooperation encompasses activities conducted by Liberland's border service within a foreign state's territory, mutual collaboration with foreign border services, officer exchange programs, information sharing, as well as operations carried out by foreign border services within the territory of Liberland, all in accordance with applicable international agreements and only when such agreements exist.
 
 ## Section 2: Border Crossing Points
 
@@ -56,7 +62,7 @@ In cases where the border line isn't easily discernible, special warning signs w
 
 (3) At locations where Border Crossing Points are shared with a neighboring state, the delineation of the Border Zone will also be established in compliance with the respective international agreement.
 
-### Article 7: Regulations Governing Movement and Stationing within a Border Crossing Point Zone
+### Article 6: Regulations Governing Movement and Stationing within a Border Crossing Point Zone
 
 #### § 1: Movement and Stationing Restrictions
 
@@ -73,7 +79,6 @@ In cases where the border line isn't easily discernible, special warning signs w
 3) For temporary activities requiring short-term movement and stationing within the border crossing zone, a temporary permit valid for up to 60 days may be issued.
 
 4) Persons demonstrating a clear and documented need, constituting a justified reason, shall also be accorded an ad-hoc permit for movement and stationing within the border crossing zone.
-
 
 #### § 3: Procedural Rules for Permit Issuance and Revocation
 
