@@ -3,8 +3,6 @@
 ## Preamble
 This Law establishes the framework for border delimitation and management, as well as the processes related to entry, residency, and immigration within the territory of Liberland.
 
-## Definitions
-
 ## Section 1: Borders
 
 ### Article 1: Border Delimitation
@@ -103,7 +101,9 @@ Border control officers shall have the authority to conduct inspections and sear
 ## Section 4: Immigration and Border Service (IBIS)
 
 ### Article 20: Establishment of IBIS
-The Immigration and Border Service (IBIS) shall be an agency within the Ministry of Interior, responsible for delineating, securing, and maintaining order at Liberland's borders.
+1) The Immigration and Border Service (IBIS) shall be an agency within the Ministry of Interior, responsible for delineating, securing, and maintaining order at Liberland's borders. 
+2) IBIS shall be headed by a Director, appointed directly by the Minister of Interior.
+3) The regulations governing IBIS and it's hierarchical structure and operations shall be drafted and maintained by the Minister of Interior.
 
 ### Article 21: IBIS Personnel
 1. The IBIS shall be led by the Director of Borders and Immigration (hereinafter referred to as "the Director"), appointed by the Minister of Interior.
@@ -115,7 +115,42 @@ b. Immigration Officers, responsible for determining eligibility for entry and r
 3. All Border Officers are immigration officers and should possess a designation that is appropriate for their duties. Not all immigration officers are border officers, until they are approved for transfer to perform border control duties at a Point of Entry.]
 
 ### Article 22: Border Officers
-Border Officers shall be responsible for enforcing border regulations and ensuring border security. They shall be authorized to act as Security Agents in relation to border-related events, situations, and offenses, including crimes.
+
+#### § 1: Status and Powers of Border Officers
+
+(1) Border Officers are hereby designated as the primary agents for the enforcement of border regulations and the safeguarding of border security within and around areas defined as "Border Domain". 
+
+(2) Border Officers, when acting in response to border-related incidents, situations, or offences, inclusive of criminal acts, are conferred the authority to act in the capacity of Security Agents of the Police.
+
+#### § 2: Responsibilities of Border Officers
+
+(1) In the course of duty, the Border Officer is mandated to perform, but not limited to, the following activities:
+
+a) Verify the authenticity of travel and other requisite documents required for state border crossing.
+
+b) Confirm the identity of individuals and perform identity checks in specified records.
+
+c) In circumstances of suspicious identity or document validity, procure fingerprints, palm prints, and other relevant biometric data of individuals.
+
+d) Assess an individual's compliance with the entry/exit prerequisites for travel to The Free Republic of Liberland.
+
+e) Authenticate the state border crossing by entering the necessary data in the relevant travel or other required documents. This may include data on denied entry, the transport and transit of weapons and ammunition, and other pertinent data.
+
+f) Ascertain the purpose of an individual's travel.
+
+g) In situations where an alternative check of individuals is not feasible, perform examinations and searches.
+
+h) Detain individuals for the requisite time to conduct thorough checks, while ensuring expedited and uninterrupted control.
+
+i) Demand that individuals crossing the state border reveal and allow examination of items and objects in their possession or vehicle.
+
+j) Inspect the interior and exterior of vehicles and conduct record checks when there is suspicion of concealed individuals, or prohibited or specially-regulated items or objects. The aim is to verify the identities of these individuals, prevent unauthorized state border crossing, and discover concealed items or objects.
+
+k) Dismantle specific parts of a vehicle when a comprehensive search is necessary.
+
+l) Deploy technical devices, utilize service dogs, and establish barriers as measures to deter unauthorized state border crossing.
+
+(2) Aside from the primary tasks enumerated above, Border Officers are also obliged to fulfill Police duties within the Border Domain.
 
 ### Article 23: Immigration Officers
 Immigration Officers shall be classified into three tiers, with powers allocated as follows:  
