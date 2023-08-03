@@ -128,26 +128,25 @@ As a general rule, the state border of Liberland shall only be crossed at design
 #### § 3: Unauthorized crossing of the State Border outside a designated border crossing points
 Unauthorized crossing of the state border outside a designated border crossing point may result in penalties, including fines, detention, and deportation, as determined by applicable law.
 
-## Section 3: Border Controls
+## Section 3: Border Checks
 
-### Article 12: Term
-For the purposes of this Section, "border controls" refer to the measures and procedures employed by the government of Liberland to regulate the entry and exit of persons, vehicles, and goods across its state border, in accordance with applicable laws, regulations, and international agreements.
+### Article 12: Definition
+Border checks shall involve the examination of individuals, their travel documents, vehicles, and belongings within the zone of a border crossing point relating to intended or immediate post-border crossing. It also encompasses other legislated controls on the flow of individuals, goods, services, vehicles, animals, and plants across the state border.
 
-### Article 13: Place for Performing Border Controls
-#### § 1: Primary Locations for Border Control
-Border controls shall be primarily conducted at designated Border Crossing Points, inclusive of Border Zones, and extended to other locations as necessary, when circumstances necessitate such an extension and border control execution cannot reasonably be confined to conventional locations.
+### Article 13: Border Control Locations
+#### § 1: Primary Checkpoints
+Primarily, border checks are conducted at specific Border Crossing Points, including their surrounding Zones, but can extend to other locations when circumstances deem it necessary and confinement to standard locations isn't practical.
 
-#### § 2: Additional Border Control Locations
-The Ministry of Interior retains the authority to designate additional locations for the conduct of border controls, including but not limited to, checkpoints established along significant transportation routes. Such designations shall be conducted with due consideration to prevailing circumstances.
+#### § 2: Additional Checkpoints
+The Ministry of Interior has the power to specify additional locations for executing border checks, which can include checkpoints along significant transportation routes. These specifications are made in response to existing conditions.
 
-### Article 14: Obligations of Travellers at Points of Entry
-1. All persons crossing the state border of Liberland shall comply with applicable laws, regulations, and procedures, including the presentation of valid travel documents and the declaration of any goods subject to customs controls.
-2. Persons crossing the state border shall also cooperate with border control officers by providing accurate and complete information, as well as submitting to any required inspections or searches.
-3. Failure to comply with a request for such additional information may result in immediate refusal of entry.
+### Article 14: Obligations of Border Crossers
+1) Individuals crossing or who have already crossed the state border must present valid border-crossing documents to a border officer during a border check and comply with the border control process.
+2) They cannot leave the border crossing zone until the check is completed. They should provide any information relevant to the border crossing to the border officer and follow the given instructions and orders. Non-compliance with a request for such additional information can lead to an immediate denial of entry.
 
-### Article 15: Control of the Vehicle and Objects
-Vehicles and objects, including luggage, cargo, and personal belongings, may be subject to inspection and search as part of the border control process.
-Border control officers shall have the authority to conduct inspections and searches in accordance with applicable law, and may seize or detain any items that are prohibited, restricted, or otherwise in violation of customs regulations.
+### Article 15: Vehicle and Object Control
+1) As part of the border check process, vehicles and objects, such as luggage, cargo, and personal items, may be subject to inspection and search.
+2) Border officers are authorized to carry out these inspections and searches following the law, and may seize or detain any items found in violation of customs regulations, or those that are restricted or prohibited.
 
 ### Article 16: Procedure with Found Objects
 1. Any objects found during border control inspections that are suspected of being connected to criminal activity, posing a threat to public safety, or otherwise in violation of applicable law shall be seized and secured by border control officers.
@@ -165,6 +164,11 @@ Border control officers shall have the authority to conduct inspections and sear
 1. In all actions concerning children, the best interests of the child shall be a primary consideration. Unaccompanied and separated children shall be provided with appropriate assistance and protection.
 
 2. Special measures shall be taken to ensure the protection and assistance of other vulnerable groups, such as elderly persons, persons with disabilities, victims of trafficking, and victims of torture and other forms of violence.
+
+### Article 20: Provision for Minimum Border Control
+1) If specific situations prevent comprehensive border control and might result in unacceptable delays or other significant disruptions in border crossing point traffic, despite fully employing personnel and organizational resources, the border service may temporarily order a partial suspension of border controls.
+2) During the enactment of the Minimum Border Control the border service must implement minimum border control measures. These include identity verification and the reliable validity check of individuals crossing the state border.
+3) The Minister of Interior or a designated agent in charge of organizing and managing border controls must establish priority objectives for border controls, adapted to specific security conditions to maximize border control effectiveness. When setting these priority objectives, entry border controls take precedence over exit checks. The border service should communicate any measures for Minimum Border Control enacted to the border crossing point of the neighbouring state.
 
 ## Section 4: Immigration and Border Service (IBIS)
 
