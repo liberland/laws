@@ -230,13 +230,14 @@ The import and export of weapons and ammunition are strictly prohibited. A speci
 3) The regulations governing IBIS and its hierarchical structure and operations shall be drafted and maintained by the Minister of Interior.
 
 ### Article 30: IBIS Personnel
-1. The IBIS shall be led by the Director of Borders and Immigration (hereinafter referred to as "the Director"), appointed by the Minister of Interior.
-2. Personnel within the Border Service shall consist of:
+1) The IBIS shall be led by the Director of Borders and Immigration (hereinafter referred to as "the Director"), appointed by the Minister of Interior.
+2) Personnel within the Border Service shall consist of:
  
 a. Border Officers, responsible for the protection of the borders; and  
     
 b. Immigration Officers, responsible for determining eligibility for entry and residency in Liberland. Immigration Officers shall not have the authority to revoke a visa or immigration status, a power reserved for a Judge.
-3. All Border Officers are immigration officers and should possess a designation that is appropriate for their duties. Not all immigration officers are border officers, until they are approved for transfer to perform border control duties at a Point of Entry.
+
+3) An individual shall be permitted to concurrently hold the positions of Border Officer and Immigration Officer.
 
 ### Article 31: IBIS Regulatory Authority
 The Border Service shall establish and maintain regulations pertaining to:
