@@ -17,14 +17,34 @@ The specific coordinates delineating the borders of Liberland shall be specified
 ### Article 4: Border Markers
 Physical markers may be placed along the borders of Liberland to provide clear demarcation of the boundaries on the ground. The design, placement, and maintenance of these markers shall be the responsibility of a designated government agency, subject to any international agreements or treaties governing the maintenance of border markers.
 
+### Article 5: Border Crossing Points
+
+(1) A Border Crossing Point shall be a location established for state border crossing within the territory of Liberland, as stipulated by this law and further outlined by the Regulations of the Ministry of Interior. It comprises the immediate vicinity of the border crossing point, inclusive of the demarcated zone where border crossing control is administered, as well as other controls prescribed by law. This also extends to the public road section within this zone and the requisite facilities, installations, and equipment that facilitate secure and efficient traffic across the state border. Collectively, these areas warrant enhanced security and are safeguarded in accordance with this law.
+
+(3) A Temporary Border Crossing Point refers to a location provisionally appointed by the Ministry of Interior to function as a Border Crossing Point for a specified duration, with exceptions as mentioned in the Decision that designates it.
+
 ## Section 2: Border Crossing
 
 ### Article 5: Crossing of the State Border at a Border Crossing Point
-1. All persons, vehicles, and goods entering or exiting the territory of Liberland shall do so through designated border crossing points, known as "points of entry". Any entry of persons or goods can occur outside of points of entry is referred to as "unlawful entry" and subject to immediate law enforcement action per Acticle 6.
+1. The state border may be crossed, as a rule, only at border crossing points with valid travel document or other document prescribed for crossing of the state border, in the time specified for traffic at the border crossing point and in a manner in compliance with the purpose of the border crossing point.
 2. The government of Liberland shall establish and maintain official points of entry to facilitate the legal and orderly movement of people, vehicles, and goods across its borders.
 
-### Article 6: Crossing of the State Border Outside a Border Crossing Point
-Crossing the state border outside a designated border crossing point is prohibited, except in cases of emergency or other exceptional circumstances as provided by law.
+### Article 6: Crossing of the State Border Outside a border crossing point
+
+#### § 1: River Points of Entry
+
+1) The state border may be crossed outside a border crossing point in case of force majeure or if it is provided by an international agreement.
+
+2) The state border may be crossed anywhere and anytime in case of force majeure. Persons crossing the state border because of force majeure must inform the border service thereof without delay, i.e. as soonas the reasons for such crossing of the state border cease to exist.
+
+#### § 2: Cross-Border Permit for crossing the state border outside a border crossing point
+
+1) The border service may issue, given a justified interest in compliance with the international agreement,i.e. with consent of the competent authority of the neighboring state, in agreement with the competent customs office, at request of a group of persons or individuals, cross-border permit for crossing of the state border outside a border crossing point, i.e. for the crossing of the state border at a border crossing point outside laid down modes of border crossing and outside operating hours of the border crossing point.
+2) Cross-border permits are issued personally and are valid for up to one year.
+3) Cross-border permits shall be taken away in case of abuse or if reasons for their issuance cease to exist.
+4)Cross-border permit application form, cross-border permit form, method and terms of issuance shall be  determined by the minister responsible for internal affairs.
+
+#### § 3: Unauthorized crossing of the State Border outside a designated border crossing points
 Unauthorized crossing of the state border outside a designated border crossing point may result in penalties, including fines, detention, and deportation, as determined by applicable law.
 
 ### Article 7: Points of Entry
@@ -118,11 +138,11 @@ b. Immigration Officers, responsible for determining eligibility for entry and r
 
 #### § 1: Status and Powers of Border Officers
 
-(1) Border Officers are hereby designated as the primary agents for the enforcement of border regulations and the safeguarding of border security within and around areas defined as "Border Domain". 
+(1) Border Officers are hereby designated as the primary agents for the enforcement of border regulations and the safeguarding of border security within Liberland's borders, both on the land and on the river, and in areas directly adjacent to these and relevant to keeping the border secure, henceforth "Border Domain". 
 
 (2) Border Officers, when acting in response to border-related incidents, situations, or offences, inclusive of criminal acts, are conferred the authority to act in the capacity of Security Agents of the Police.
 
-#### § 2: Responsibilities of Border Officers
+#### § 2: Powers and Responsibilities of Border Officers
 
 (1) In the course of duty, the Border Officer is mandated to perform, but not limited to, the following activities:
 
@@ -151,6 +171,14 @@ k) Dismantle specific parts of a vehicle when a comprehensive search is necessar
 l) Deploy technical devices, utilize service dogs, and establish barriers as measures to deter unauthorized state border crossing.
 
 (2) Aside from the primary tasks enumerated above, Border Officers are also obliged to fulfill Police duties within the Border Domain.
+
+#### § 3: Restrictions on Border Officer Powers
+
+(1) In the course of executing state border protection duties, a Border Officer is limited to the utilization of powers, measures, and activities that serve lawful objectives exclusively.
+
+(2) A Border Officer must exercise prudence when employing these powers, measures, and activities, ensuring that the resultant impact or harm does not outweigh the originally intended objective of their deployment.
+
+(3) The application of these powers, measures, and activities by a Border Officer is permitted only until the targeted objective has been realized, or it becomes evident that the particular power or measure is ineffective in achieving the desired result.
 
 ### Article 23: Immigration Officers
 Immigration Officers shall be classified into three tiers, with powers allocated as follows:  
