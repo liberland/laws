@@ -23,7 +23,7 @@ Physical markers may be placed along the borders of Liberland to provide clear d
 
 #### § 1: Definition of a Border Crossing Point
 
-(1) A Border Crossing Point is hereby defined as a location specifically designated for state border crossing within the jurisdiction of Liberland. This definition is set forth in this law and is further elaborated in the Regulations of the Ministry of Interior. It encompasses the immediate surrounding area of the border crossing point, which includes the marked zone where border crossing control is performed, as well as any other controls mandated by law.
+(1) A Border Crossing Point shall be a location specifically designated for state border crossing within the jurisdiction of Liberland. This definition is set forth in this law and is further elaborated in the Regulations of the Ministry of Interior. It encompasses the immediate surrounding area of the border crossing point, which includes the marked zone where border crossing control is performed, as well as any other controls mandated by law.
 
 #### § 2: Structure and Equipment of a Border Crossing Point
 
@@ -49,9 +49,9 @@ Physical markers may be placed along the borders of Liberland to provide clear d
 
 A Temporary Border Crossing Point shall refer to a location provisionally appointed by the Ministry of Interior to function as a Border Crossing Point for a specified duration, with exceptions as mentioned in the Decision that designates it.
 
-### Article 7: State Border Crossing at a Border Crossing Point
+### Article 7: Liberland State Border Crossing at a Border Crossing Point
 
-As a general rule, the state border is to be crossed at designated Border Crossing Points. This must be done using valid travel documents or other documents prescribed for state border crossing, during the specified operating hours of the border crossing point, and in a manner consistent with the intended purpose of the border crossing point.
+As a general rule, the state border of Liberland shall only be crossed at designated Border Crossing Points. A Liberland state border crossing necessitates the use of valid travel documents or other specified documents for state border crossing as designated by this Law. Furthermore, such crossings should be performed within the designated operating hours of the Border Crossing Point and must adhere to the stipulated procedures in line with the intended purpose of the border crossing point.
 
 ### Article 8: State Border Crossing Outside a Border Crossing Point
 
