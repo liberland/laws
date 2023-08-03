@@ -15,8 +15,20 @@ The geospatial coordinate system utilized for defining the borders of Liberland 
 ### Article 3: Border Coordinates
 The specific coordinates delineating the borders of Liberland shall be specified in an annex to this law, and may be amended by law as necessary to reflect any changes in international agreements, treaties, or other relevant factors affecting the territory of Liberland.
 
-### Article 4: Border Markers
-Physical markers may be placed along the borders of Liberland to provide clear demarcation of the boundaries on the ground. The design, placement, and maintenance of these markers shall be the responsibility of a designated government agency, subject to any international agreements or treaties governing the maintenance of border markers.
+### Article 4: Border Marker Placement and Maintenance
+
+#### § 1: Establishment of Border Markers
+1) For tangible demarcation, physical markers may be installed along Liberland's borders.
+2) The design, format, and installation process of these border markers will be guided by international agreements. In the absence of such agreements, these specifications will be defined by a Regulation issued by the Minister of Interior.
+3) The responsibility for measuring, establishing, restoring, and maintaining border markers rests with the state administrative authority overseeing measurement and cadastral matters.
+
+#### § 2: Border Indications for Travellers
+In cases where the border line isn't easily discernible, special warning signs will be placed near the border line on roads and other communication channels to alert travellers of their proximity to the border.
+
+#### § 3: Special Warning Signs
+1) The state administrative authority responsible for the organization and security of the traffic system installs and maintains the special warning signs and signals mentioned in the preceding paragraph, upon request by the border police.
+2) Affixing or placing additional signs or signals that could obstruct the visibility of warning signs and signals is prohibited.
+3) The design, content, and installation process for these warning signs and signals will be determined by a Regulation issued by the Minister of Interior.
 
 ### Article 5: Border Surveillance
 1) Border surveillance comprises actions, powers, and preventive measures enacted along the state border, at the border crossing points during non-operational hours, and between the border crossing points. The objective of these measures is to prevent unauthorized border crossings and to safeguard the integrity of the state border.
