@@ -278,7 +278,43 @@ l) Deploy technical devices, utilize service dogs, and establish barriers as mea
 
 2) Aside from the primary tasks enumerated above, Border Officers are also obliged to fulfill Police duties within the Border Domain.
 
-#### § 3: Restrictions on Border Officer Powers
+#### § 3: Application of Authority
+The Border Officer might perform the following activities in fulfilling their responsibilities:
+
+a) Issuing a warning or order to a person or prohibition of entry and stay in a protected facility
+
+b) Personal identity checks, person and vehicle examination
+
+c) Temporary retention of an individual
+
+d) Use of binding agents
+
+e) Use of physical force
+
+f) Use of gas spray
+
+g) Use of specially trained dogs
+
+h) Use of firearms
+
+#### § 4: Principles of Border Security Officer
+The border security officer is obliged to adhere to the following principles:
+
+a) Authorizations will be applied exclusively in situations when there is no other way to perform the task.
+
+b) The application of the authority must be proportionate to the legitimate purpose of their use and carried out in a manner that does not offend dignity, reputation, honor or other guaranteed human rights.
+
+c) No one shall be subjected to torture, inhuman or degrading treatment in the exercise of the authority.
+
+d) A border security officer may act only in the manner established by law and these rules, so that the execution of tasks is achieved with the least harmful consequences.
+
+e) These authorizations cannot be used against persons under the age of 14, obviously sick and debilitated persons, severely disabled persons and pregnant women whose pregnancy is visible or who warn that they are pregnant, unless someone of those persons endangers the life of a person with a firearm, tool or other dangerous object.
+
+f) The border security officer is obliged to provide first aid to a person who is injured by exercise of authorization and immediately notify the medical service.
+
+g) On the use of the authority, the border security officer submits a written report immediately, and within 8 hours deadline, to his superior, who must make an assessment on the justification of the use of the authority within 48 hours. The assessment on the justification of the application of the authorization is submitted to the person against whom the authorization was applied.
+
+#### § 5: Restrictions on Border Officer Powers
 
 1) In the course of executing state border protection duties, a Border Officer is limited to the utilization of powers, measures, and activities that serve lawful objectives exclusively.
 
