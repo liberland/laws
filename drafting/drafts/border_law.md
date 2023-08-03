@@ -152,9 +152,10 @@ The Ministry of Interior has the power to specify additional locations for execu
 1. Any objects found during border control inspections that are suspected of being connected to criminal activity, posing a threat to public safety, or otherwise in violation of applicable law shall be seized and secured by border control officers.
 2. The relevant government authorities shall be notified of the seized objects and shall initiate appropriate investigative, legal, or administrative procedures, as required by law.
 
-### Article 17: Verification of Crossing of the State Border
-1. The government of Liberland shall establish procedures for verifying the crossing of the state border by persons, vehicles, and goods, including the collection and retention of relevant data and documentation.
-2. Such verification procedures shall be conducted in accordance with applicable law and shall respect the privacy and personal data protection rights of individuals, as well as any applicable international agreements or treaties governing the sharing or transfer of personal data.
+### Article 17: Verification Procedures for State Border Crossing
+1) Unless specified differently by an international agreement, crossing the state border of Liberland shall be validated using a stamp. For citizens of Liberland, this stamp is issued upon their departure from the country, and upon request, also upon their entry. Foreign nationals will receive this stamp only upon their entry into Liberland.
+2) Upon request, the border service officer is required to provide a certificate to individuals crossing the state border with an identification card. This certificate serves as proof of their entry or exit from the country.
+3) The appearance and content of the stamp, the format of the certificate, as well as the methods for recording entry denials and other relevant data on the documents designated for border crossing, will be defined by the regulations established by the Minister of Interior. Where practical, the stamp and the certificate should be issued electronically using modern digital communication methods, although the option of paper issuance will be maintained as necessary.
 
 ### Article 18: Entry and Exit of Weapons and Ammunition
 1. The import and export of weapons and ammunition across the state border of Liberland shall be subject to specific laws, regulations, and licensing requirements, in accordance with national and international law.
