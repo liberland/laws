@@ -17,46 +17,55 @@ The specific coordinates delineating the borders of Liberland shall be specified
 ### Article 4: Border Markers
 Physical markers may be placed along the borders of Liberland to provide clear demarcation of the boundaries on the ground. The design, placement, and maintenance of these markers shall be the responsibility of a designated government agency, subject to any international agreements or treaties governing the maintenance of border markers.
 
-### Article 5: Border Crossing Points
+### Article 5: Border Crossing Point
 
-(1) A Border Crossing Point shall be a location established for state border crossing within the territory of Liberland, as stipulated by this law and further outlined by the Regulations of the Ministry of Interior. It comprises the immediate vicinity of the border crossing point, inclusive of the demarcated zone where border crossing control is administered, as well as other controls prescribed by law. This also extends to the public road section within this zone and the requisite facilities, installations, and equipment that facilitate secure and efficient traffic across the state border. Collectively, these areas warrant enhanced security and are safeguarded in accordance with this law.
+#### § 1: Border Crossing Point
 
-(3) A Temporary Border Crossing Point refers to a location provisionally appointed by the Ministry of Interior to function as a Border Crossing Point for a specified duration, with exceptions as mentioned in the Decision that designates it.
+1) A Border Crossing Point shall be a location established for state border crossing within the territory of Liberland, as stipulated by this law and further outlined by the Regulations of the Ministry of Interior. It comprises the immediate vicinity of the border crossing point, inclusive of the demarcated zone where border crossing control is administered, as well as other controls prescribed by law.
+
+3) This also extends to the public road section within this zone and the requisite facilities, installations, and equipment that facilitate secure and efficient traffic across the state border. Collectively, these areas warrant enhanced security and are safeguarded in accordance with this law.
+
+#### § 2: Temporary Border Crossing Point
+
+A Temporary Border Crossing Point shall refer to a location provisionally appointed by the Ministry of Interior to function as a Border Crossing Point for a specified duration, with exceptions as mentioned in the Decision that designates it.
 
 ## Section 2: Border Crossing
 
-### Article 5: Crossing of the State Border at a Border Crossing Point
-1. The state border may be crossed, as a rule, only at border crossing points with valid travel document or other document prescribed for crossing of the state border, in the time specified for traffic at the border crossing point and in a manner in compliance with the purpose of the border crossing point.
-2. The government of Liberland shall establish and maintain official points of entry to facilitate the legal and orderly movement of people, vehicles, and goods across its borders.
+### Article 5: State Border Crossing at a Border Crossing Point
 
-### Article 6: Crossing of the State Border Outside a border crossing point
+As a general rule, the state border is to be crossed at designated Border Crossing Points. This must be done using valid travel documents or other documents prescribed for state border crossing, during the specified operating hours of the border crossing point, and in a manner consistent with the intended purpose of the border crossing point.
 
-#### § 1: River Points of Entry
+### Article 6: State Border Crossing Outside a Border Crossing Point
 
-1) The state border may be crossed outside a border crossing point in case of force majeure or if it is provided by an international agreement.
+#### § 1: Force Majeure State Border Crossing Outside a Border Crossing Point
 
-2) The state border may be crossed anywhere and anytime in case of force majeure. Persons crossing the state border because of force majeure must inform the border service thereof without delay, i.e. as soonas the reasons for such crossing of the state border cease to exist.
+(1) The state border may be crossed outside of a Border Crossing Point under conditions of force majeure or as provided by an international agreement.
 
-#### § 2: Cross-Border Permit for crossing the state border outside a border crossing point
+(2) In situations of immediate and pressing necessity due to force majeure, the state border may be crossed at any location and at any time. Individuals who cross the state border under force majeure circumstances are required to notify the border service without undue delay.
 
-1) The border service may issue, given a justified interest in compliance with the international agreement,i.e. with consent of the competent authority of the neighboring state, in agreement with the competent customs office, at request of a group of persons or individuals, cross-border permit for crossing of the state border outside a border crossing point, i.e. for the crossing of the state border at a border crossing point outside laid down modes of border crossing and outside operating hours of the border crossing point.
-2) Cross-border permits are issued personally and are valid for up to one year.
-3) Cross-border permits shall be taken away in case of abuse or if reasons for their issuance cease to exist.
-4)Cross-border permit application form, cross-border permit form, method and terms of issuance shall be  determined by the minister responsible for internal affairs.
+#### § 2: Cross-Border Permits for State Border Crossing Outside a Border Crossing Point
+
+(1) Upon establishing a justified interest in line with an international agreement, and with the consent of the competent authority of the neighboring state in conjunction with the appropriate customs office, the Ministry of Interior may issue cross-border permits to groups or individuals. These permits authorize state border crossings outside of a Border Crossing Point or border crossings at a Border Crossing Point outside of standard modes of border crossing and operating hours.
+
+(2) Cross-border permits are issued to individuals directly and remain valid for a period of up to one year.
+
+(3) Cross-border permits may be revoked in cases of misuse or if the reasons justifying their issuance are no longer applicable.
+
+(4) The form of the cross-border permit application, the cross-border permit itself, and the method and conditions of issuance shall be determined by the minister responsible for internal affairs.
 
 #### § 3: Unauthorized crossing of the State Border outside a designated border crossing points
 Unauthorized crossing of the state border outside a designated border crossing point may result in penalties, including fines, detention, and deportation, as determined by applicable law.
 
-### Article 7: Points of Entry
-#### § 1: River Points of Entry
-The following river harbors shall be recognized as official river points of entry of Liberland, subject to the regulations and stipulations of this law:
+### Article 7: Border Crossing Points
+#### § 1: River Border Crossing Points
+The following river harbors shall be recognized as river Border Crossing Points of Liberland, subject to the regulations and stipulations of this law:
 
 a) The River Port of Mainland Liberland, [address, coordinates to be determined later] shall act as the primary point of ingress and egress for maritime traffic into Liberland from neighboring jurisdictions.
 
 b) The Harbor of Liberty Island, [address, coordinates to be determined later], while also functioning as a point of ingress and egress, shall primarily serve the purpose of facilitating local and tourist maritime traffic.
 
-#### § 2: Land Points of Entry
-Liberland recognizes several official land Points of Entry, which are enumerated below:
+#### § 2: Land Border Crossing Points
+Liberland recognizes several official land Border Crossing Points, which are enumerated below:
 
 a) [Land Border Crossing A] - Functioning as the main Point of Entry, [Land Border Crossing A] is equipped with full customs and immigration facilities.
 
