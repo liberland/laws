@@ -33,17 +33,17 @@ Physical markers may be placed along the borders of Liberland to provide clear d
 
 #### § 3: Border Zone
 
-(1) A specific zone, referred to as the "Border Zone," will be established surrounding each Border Crossing Point. This is intended to enhance the effectiveness and security of border control operations.
+(1) Every Border Crossing Point will be equipped with a dedicated zone intended for executing border checks, accompanied by the necessary facilities to ensure efficient and secure transit.
 
-(2) The dimension, boundaries, and specific regulations applicable to the zone of a Border Crossing Point will be established by the relevant government authority, in accordance with relevant legislation.
+(2) Specific procedures and regulations concerning each Border Zone will be determined by a decision of the Ministry, subject to approval from the appropriate state administrative authorities that conduct border checks.
 
-(3) The Border Zone also includes the public road sections within its area and any necessary facilities, installations, and equipment required to ensure safe and efficient movement across the state border. These combined areas are subject to enhanced security measures and are protected under the provisions of this law.
+(3) At locations where Border Crossing Points are shared with a neighboring state, the delineation of the Border Zone will also be established in compliance with the respective international agreement.
 
 #### § 4: Demarcation of a Border Crossing Point and Its Zone
 
-(1) Border Crossing Points and their respective zones must be visibly marked with suitable signage and other visual identifiers to aid in distinguishing their boundaries and functions.
+(1) Both the Border Crossing Point and its associated zone will be indicated through designated warning and supplementary signage. The signage may be in the official language and script, as well as in Latin script and foreign languages where necessary. The form, content, and method of installing these warning and supplementary signs will be determined by the Ministry of Interior.
 
-(2) The design, positioning, and upkeep of Border Crossing Point markings fall under the jurisdiction of a designated government agency. This responsibility is subject to any international agreements or treaties governing the demarcation of border crossing points.
+(2) Upon request of the Ministry of Interior, the installation and maintenance of the warning and supplementary signs, regardless of their location at standard roadways or at airports, ports, and railway stations, will be carried out by the state administrative authority responsible for traffic system regulation or the corresponding operators, respectively.
 
 ### Article 6: Temporary Border Crossing Point
 
@@ -98,15 +98,15 @@ For the purposes of this Section, "border controls" refer to the measures and pr
 
 ### Article 13: Place for Performing Border Controls
 #### § 1: Primary Locations for Border Control
-Border controls shall be primarily conducted at designated Points of Entry, inclusive of Border Zones, and extended to other locations as necessary, when circumstances necessitate such an extension and border control execution cannot reasonably be confined to conventional locations.
+Border controls shall be primarily conducted at designated Border Crossing Points, inclusive of Border Zones, and extended to other locations as necessary, when circumstances necessitate such an extension and border control execution cannot reasonably be confined to conventional locations.
 
 #### § 2: Additional Border Control Locations
-The Liberland Government retains the authority to designate additional locations for the conduct of border controls, including but not limited to, checkpoints established along significant transportation routes. Such designations shall be conducted with due consideration to prevailing circumstances.
+The Ministry of Interior retains the authority to designate additional locations for the conduct of border controls, including but not limited to, checkpoints established along significant transportation routes. Such designations shall be conducted with due consideration to prevailing circumstances.
 
 ### Article 14: Obligations of Travellers at Points of Entry
 1. All persons crossing the state border of Liberland shall comply with applicable laws, regulations, and procedures, including the presentation of valid travel documents and the declaration of any goods subject to customs controls.
 2. Persons crossing the state border shall also cooperate with border control officers by providing accurate and complete information, as well as submitting to any required inspections or searches.
-3. Failure to comply with a request for such additional information will result in immediate refusal of entry.
+3. Failure to comply with a request for such additional information may result in immediate refusal of entry.
 
 ### Article 15: Control of the Vehicle and Objects
 Vehicles and objects, including luggage, cargo, and personal belongings, may be subject to inspection and search as part of the border control process.
