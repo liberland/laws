@@ -53,15 +53,15 @@ A Temporary Border Crossing Point shall refer to a location provisionally appoin
 
 As a general rule, the state border of Liberland shall only be crossed at designated Border Crossing Points. A Liberland state border crossing necessitates the use of valid travel documents or other specified documents for state border crossing as designated by this Law. Furthermore, such crossings should be performed within the designated operating hours of the Border Crossing Point and must adhere to the stipulated procedures in line with the intended purpose of the border crossing point.
 
-### Article 8: State Border Crossing Outside a Border Crossing Point
+### Article 8: Liberland State Border Crossing Outside a Border Crossing Point
 
-#### § 1: Force Majeure State Border Crossing Outside a Border Crossing Point
+#### § 1: Force Majeure Liberland State Border Crossing Outside a Border Crossing Point
 
-(1) The state border may be crossed outside of a Border Crossing Point under conditions of force majeure or as provided by an international agreement.
+(1) The Liberland state border may be crossed outside of a Border Crossing Point under conditions of force majeure or as provided by an international agreement.
 
 (2) In situations of immediate and pressing necessity due to force majeure, the state border may be crossed at any location and at any time. Individuals who cross the state border under force majeure circumstances are required to notify the border service without undue delay.
 
-#### § 2: Cross-Border Permits for State Border Crossing Outside a Border Crossing Point
+#### § 2: Cross-Border Permits for Liberland State Border Crossing Outside a Border Crossing Point
 
 (1) Upon establishing a justified interest in line with an international agreement, and with the consent of the competent authority of the neighboring state in conjunction with the appropriate customs office, the Ministry of Interior may issue cross-border permits to groups or individuals. These permits authorize state border crossings outside of a Border Crossing Point or border crossings at a Border Crossing Point outside of standard modes of border crossing and operating hours.
 
