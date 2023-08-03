@@ -115,15 +115,30 @@ b) [Land Border Crossing B] - Serving as a secondary Point of Entry, [Land Borde
 
 c) [Additional Land Border Crossings to be Determined Later On] - Further land Points of Entry, their exact locations, and their specific regulations will be specified in subsequent amendments or regulations as required.
 
-### Article 10: Performing works on a Border Crossing Point or in the zone of a Border Crossing Point
+### Article 10: Guidelines for Undertaking Works at Border Crossing Points or within Border Zones
 
-Construction, installation of facilities, change of their purpose as well as installation of utilities, equipment,
-and devices in the zone of a border crossing point must not hinder conducting of border checks and
-implementation of safety measures at the state border.
-Investor or designing office must provide the Ministry's consent for the works referred to in paragraph 1
-of this Article.
-The consent referred to in paragraph 2 of this Article shall not be issued if such works hinder border control
-and implementation of safety measures at the state border.
+#### § 1: Scope and Limitations of Works
+
+Any construction, installation of facilities, change of their usage, or installation of utilities, equipment, and devices within a border crossing point or its associated border zone shall not disrupt or obstruct the effective conduct of border checks or compromise the enforcement of safety measures at the state border.
+
+#### § 2: Consent for Undertaking Works
+
+1. Before undertaking any works at a Border Crossing Point or within the Border Zone, the investor or designing entity must obtain prior consent from the Ministry. 
+
+2. Such consent shall only be issued upon an evaluation that the proposed works will not impede border control operations or compromise the implementation of safety measures at the state border. 
+
+3. If the evaluation reveals potential disruption to border control or safety measures, the consent shall not be granted. 
+
+4. The specific procedures for applying for consent and the criteria for evaluation will be established by subsequent regulations. 
+
+#### § 3: Compliance
+
+Non-compliance with the regulations stipulated in this Article may result in penalties, to be defined by subsequent regulations.
+
+### Article 10: Performing works on a Border Crossing Point or in the Border Zone
+
+1) Construction, installation of facilities, change of their purpose as well as installation of utilities, equipment, and devices in the zone of a border crossing point must not hinder conducting of border checks and implementation of safety measures at the state border.
+2) The investor or designing office must provide the Ministry's consent for the works on a Border Crossing Point or in the Border Zone. The consent shall not be issued if such works hinder border control and implementation of safety measures at the state border.
 
 ## Section 3: Border Crossing
 
