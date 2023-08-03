@@ -5,8 +5,9 @@ This Law establishes the framework for border delimitation and management, as we
 
 ## Section 1: Borders
 
-### Article 1: Border Delimitation
-The borders of Liberland shall be defined using a geospatial coordinate system of sufficient precision to avoid confusion in common activities, such as acquiring, using, and transacting land, or constructing and maintaining real estate.
+### Article 1: Border Demarcation
+1) The territorial boundaries of Liberland, herein referred to as "Borders", will be clearly established using a high-precision geospatial coordinate system to support clarity in activities like land transactions, usage, acquisition, and infrastructural development. The specific state borders will be determined by international agreement.
+2) The Minister of Foreign Affairs and relevant state authorities will conduct the preparations for initiating international agreements on border demarcation. This process will be governed by a methodology provided by the Government, in collaboration with competent authorities from neighboring states, and in adherence to the principles laid down in the Constitution and the Law
 
 ### Article 2: Geospatial Coordinate System
 The geospatial coordinate system utilized for defining the borders of Liberland shall be the World Geodetic System 1984 (WGS 84), or any other internationally recognized coordinate system as may be determined by law or regulation.
@@ -16,6 +17,10 @@ The specific coordinates delineating the borders of Liberland shall be specified
 
 ### Article 4: Border Markers
 Physical markers may be placed along the borders of Liberland to provide clear demarcation of the boundaries on the ground. The design, placement, and maintenance of these markers shall be the responsibility of a designated government agency, subject to any international agreements or treaties governing the maintenance of border markers.
+
+### Article 5: Border Surveillance
+1) Border surveillance comprises actions, powers, and preventive measures enacted along the state border, at the border crossing points during non-operational hours, and between the border crossing points. The objective of these measures is to prevent unauthorized border crossings and to safeguard the integrity of the state border.
+2) The implementation of border surveillance may employ technical and electronic resources as appropriate.
 
 ## Section 2: Border Crossing Points
 
@@ -103,19 +108,19 @@ and implementation of safety measures at the state border.
 
 ## Section 3: Border Crossing
 
-### Article 7: Liberland State Border Crossing at a Border Crossing Point
+### Article 7: Border Crossing at a Border Crossing Point
 
-As a general rule, the state border of Liberland shall only be crossed at designated Border Crossing Points. A Liberland state border crossing necessitates the use of valid travel documents or other specified documents for state border crossing as designated by this Law. Furthermore, such crossings should be performed within the designated operating hours of the Border Crossing Point and must adhere to the stipulated procedures in line with the intended purpose of the border crossing point.
+As a general rule, the Borders of Liberland shall only be crossed at designated Border Crossing Points. The crossing of a Border necessitates the use of valid travel documents or other specified documents for state border crossing as designated by this Law. Furthermore, such crossings should be performed within the designated operating hours of the Border Crossing Point and must adhere to the stipulated procedures in line with the intended purpose of the border crossing point.
 
-### Article 8: Liberland State Border Crossing Outside a Border Crossing Point
+### Article 8: Border Crossing Outside a Border Crossing Point
 
-#### § 1: Force Majeure Liberland State Border Crossing Outside a Border Crossing Point
+#### § 1: Border Crossing Outside a Border Crossing Point
 
-(1) The Liberland state border may be crossed outside of a Border Crossing Point under conditions of force majeure or as provided by an international agreement.
+(1) A Border may be crossed outside of a Border Crossing Point under conditions of force majeure or as provided by an international agreement.
 
 (2) In situations of immediate and pressing necessity due to force majeure, the state border may be crossed at any location and at any time. Individuals who cross the state border under force majeure circumstances are required to notify the border service without undue delay.
 
-#### § 2: Cross-Border Permits for Liberland State Border Crossing Outside a Border Crossing Point
+#### § 2: Cross-Border Permits for a Border crossing outside a Border Crossing Point
 
 (1) Upon establishing a justified interest in line with an international agreement, and with the consent of the competent authority of the neighboring state in conjunction with the appropriate customs office, the Ministry of Interior may issue cross-border permits to groups or individuals. These permits authorize state border crossings outside of a Border Crossing Point or border crossings at a Border Crossing Point outside of standard modes of border crossing and operating hours.
 
@@ -125,8 +130,8 @@ As a general rule, the state border of Liberland shall only be crossed at design
 
 (4) The form of the cross-border permit application, the cross-border permit itself, and the method and conditions of issuance shall be determined by the minister responsible for internal affairs.
 
-#### § 3: Unauthorized crossing of the State Border outside a designated border crossing points
-Unauthorized crossing of the state border outside a designated border crossing point may result in penalties, including fines, detention, and deportation, as determined by applicable law.
+#### § 3: Unauthorized Border crossing outside a designated border crossing points
+Unauthorized crossing of the state border outside a designated Border Crossing Point may result in penalties, including fines, detention, and deportation, as determined by applicable law.
 
 ## Section 3: Border Checks
 
@@ -161,7 +166,7 @@ The Ministry of Interior has the power to specify additional locations for execu
 3) Masters of vessels shall not allow the disembarkation of individuals in port without border police approval, including those referred to in paragraph 1 of this Article or those denied entry to Liberland.
 4) Masters of vessels are responsible for covering the stay and travel expenses of individuals denied entry to Liberland who embarked at port without border police approval.
 
-### Article 26: Regulations Governing the Movement of Foreign Yachts and Leisure Boats
+### Article 18: Regulations Governing the Movement of Foreign Yachts and Leisure Boats
 1) Upon crossing the state border, foreign leisure and sports yachts and leisure boats are permitted to navigate, anchor, and dock in the inland waters of Liberland where international navigation standards apply, subject to the approval of the appropriate maritime authority. This approval is valid for a period of up to 30 days.
 2) The stipulations of this Law are equally applicable to crew members and passengers aboard foreign leisure and sports yachts and boats.
 
