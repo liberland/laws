@@ -17,25 +17,43 @@ The specific coordinates delineating the borders of Liberland shall be specified
 ### Article 4: Border Markers
 Physical markers may be placed along the borders of Liberland to provide clear demarcation of the boundaries on the ground. The design, placement, and maintenance of these markers shall be the responsibility of a designated government agency, subject to any international agreements or treaties governing the maintenance of border markers.
 
+## Section 2: Border Crossing
+
 ### Article 5: Border Crossing Point
 
-#### § 1: Border Crossing Point
+#### § 1: Definition of a Border Crossing Point
 
-1) A Border Crossing Point shall be a location established for state border crossing within the territory of Liberland, as stipulated by this law and further outlined by the Regulations of the Ministry of Interior. It comprises the immediate vicinity of the border crossing point, inclusive of the demarcated zone where border crossing control is administered, as well as other controls prescribed by law.
+(1) A Border Crossing Point is hereby defined as a location specifically designated for state border crossing within the jurisdiction of Liberland. This definition is set forth in this law and is further elaborated in the Regulations of the Ministry of Interior. It encompasses the immediate surrounding area of the border crossing point, which includes the marked zone where border crossing control is performed, as well as any other controls mandated by law.
 
-3) This also extends to the public road section within this zone and the requisite facilities, installations, and equipment that facilitate secure and efficient traffic across the state border. Collectively, these areas warrant enhanced security and are safeguarded in accordance with this law.
+#### § 2: Structure and Equipment of a Border Crossing Point
 
-#### § 2: Temporary Border Crossing Point
+(1) A Border Crossing Point should be furnished with suitable facilities and infrastructure, which are intended to facilitate the safe and efficient processing of individuals, vehicles, and goods.
+
+(2) The design and equipment of a Border Crossing Point are to be determined by the Ministry of Interior, adhering to best practices and in accordance with applicable domestic and international laws and regulations.
+
+#### § 3: Border Zone
+
+(1) A specific zone, referred to as the "Border Zone," will be established surrounding each Border Crossing Point. This is intended to enhance the effectiveness and security of border control operations.
+
+(2) The dimension, boundaries, and specific regulations applicable to the zone of a Border Crossing Point will be established by the relevant government authority, in accordance with relevant legislation.
+
+(3) The Border Zone also includes the public road sections within its area and any necessary facilities, installations, and equipment required to ensure safe and efficient movement across the state border. These combined areas are subject to enhanced security measures and are protected under the provisions of this law.
+
+#### § 4: Demarcation of a Border Crossing Point and Its Zone
+
+(1) Border Crossing Points and their respective zones must be visibly marked with suitable signage and other visual identifiers to aid in distinguishing their boundaries and functions.
+
+(2) The design, positioning, and upkeep of Border Crossing Point markings fall under the jurisdiction of a designated government agency. This responsibility is subject to any international agreements or treaties governing the demarcation of border crossing points.
+
+### Article 6: Temporary Border Crossing Point
 
 A Temporary Border Crossing Point shall refer to a location provisionally appointed by the Ministry of Interior to function as a Border Crossing Point for a specified duration, with exceptions as mentioned in the Decision that designates it.
 
-## Section 2: Border Crossing
-
-### Article 5: State Border Crossing at a Border Crossing Point
+### Article 7: State Border Crossing at a Border Crossing Point
 
 As a general rule, the state border is to be crossed at designated Border Crossing Points. This must be done using valid travel documents or other documents prescribed for state border crossing, during the specified operating hours of the border crossing point, and in a manner consistent with the intended purpose of the border crossing point.
 
-### Article 6: State Border Crossing Outside a Border Crossing Point
+### Article 8: State Border Crossing Outside a Border Crossing Point
 
 #### § 1: Force Majeure State Border Crossing Outside a Border Crossing Point
 
@@ -56,7 +74,7 @@ As a general rule, the state border is to be crossed at designated Border Crossi
 #### § 3: Unauthorized crossing of the State Border outside a designated border crossing points
 Unauthorized crossing of the state border outside a designated border crossing point may result in penalties, including fines, detention, and deportation, as determined by applicable law.
 
-### Article 7: Border Crossing Points
+### Article 9: Border Crossing Points of Liberland
 #### § 1: River Border Crossing Points
 The following river harbors shall be recognized as river Border Crossing Points of Liberland, subject to the regulations and stipulations of this law:
 
@@ -65,29 +83,13 @@ a) The River Port of Mainland Liberland, [address, coordinates to be determined 
 b) The Harbor of Liberty Island, [address, coordinates to be determined later], while also functioning as a point of ingress and egress, shall primarily serve the purpose of facilitating local and tourist maritime traffic.
 
 #### § 2: Land Border Crossing Points
-Liberland recognizes several official land Border Crossing Points, which are enumerated below:
+Liberland shall recognize several official land Border Crossing Points, which are enumerated below:
 
 a) [Land Border Crossing A] - Functioning as the main Point of Entry, [Land Border Crossing A] is equipped with full customs and immigration facilities.
 
 b) [Land Border Crossing B] - Serving as a secondary Point of Entry, [Land Border Crossing B] is primarily used for local and pedestrian traffic.
 
 c) [Additional Land Border Crossings to be Determined Later On] - Further land Points of Entry, their exact locations, and their specific regulations will be specified in subsequent amendments or regulations as required.
-
-### Article 8: Ad-Hoc Points of Entry
-1. Beyond the designated border crossings stipulated in this law, the Minister of Interior may, by Edict, establish ad-hoc Points of Entry for the period of up to the termination of the Election Term after the Election Term in which the Point of Entry is established..
-2. This period may be extended only once, before the expiry and only until the end of the next Election Term after the term in which the period expires. An extension of the period may take place solely in circumstances of exigent need.
-
-### Article 9: Border Zones
-1. A zone shall be established around each border crossing point to ensure the effective and secure operation of border control functions, henceforth "Border Zone".
-2. The size, boundaries, and specific regulations governing the zone of a border crossing point shall be determined by the relevant government authority, in accordance with applicable law.
-
-### Article 10: Arrangement and Equipment of a Point of Entry
-Points of Entry shall be equipped with appropriate facilities and infrastructure to enable the efficient and secure processing of persons, vehicles, and goods.
-The arrangement and equipment of a border crossing point shall be determined by the relevant government authority, in accordance with best practices and applicable law.
-
-### Article 11: Marking a Point of Entry and Its Zone
-1. Border crossing points and their zones shall be clearly marked with appropriate signage and other visual indicators to facilitate the identification and understanding of their boundaries and functions.
-2. The design, placement, and maintenance of border crossing point markings shall be the responsibility of a designated government agency, subject to any international agreements or treaties governing the marking of border crossing points.
 
 ## Section 3: Border Controls
 
