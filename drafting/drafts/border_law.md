@@ -48,21 +48,21 @@ Cross-border cooperation encompasses activities conducted by Liberland's border 
 
 #### § 1: Definition of a Border Crossing Point
 
-(1) A Border Crossing Point shall be a location specifically designated for state border crossing within the jurisdiction of Liberland. This definition is set forth in this law and is further elaborated in the Regulations of the Ministry of Interior. It encompasses the immediate surrounding area of the border crossing point, which includes the marked zone where border crossing control is performed, as well as any other controls mandated by law.
+A Border Crossing Point shall be a location specifically designated for state border crossing within the jurisdiction of Liberland. This definition is set forth in this law and is further elaborated in the Regulations of the Ministry of Interior. It encompasses the immediate surrounding area of the border crossing point, which includes the marked zone where border crossing control is performed, as well as any other controls mandated by law.
 
 #### § 2: Structure and Equipment of a Border Crossing Point
 
-(1) A Border Crossing Point should be furnished with suitable facilities and infrastructure, which are intended to facilitate the safe and efficient processing of individuals, vehicles, and goods.
+1) A Border Crossing Point should be furnished with suitable facilities and infrastructure, which are intended to facilitate the safe and efficient processing of individuals, vehicles, and goods.
 
-(2) The design and equipment of a Border Crossing Point are to be determined by the Ministry of Interior, adhering to best practices and in accordance with applicable domestic and international laws and regulations.
+2) The design and equipment of a Border Crossing Point are to be determined by the Ministry of Interior, adhering to best practices and in accordance with applicable domestic and international laws and regulations.
 
 ### Article 9: Border Zone
 
-(1) Every Border Crossing Point will be equipped with a dedicated zone intended for executing border checks, accompanied by the necessary facilities to ensure efficient and secure transit.
+1) Every Border Crossing Point will be equipped with a dedicated zone intended for executing border checks, accompanied by the necessary facilities to ensure efficient and secure transit.
 
-(2) Specific procedures and regulations concerning each Border Zone will be determined by a decision of the Ministry, subject to approval from the appropriate state administrative authorities that conduct border checks.
+2) Specific procedures and regulations concerning each Border Zone will be determined by a decision of the Ministry, subject to approval from the appropriate state administrative authorities that conduct border checks.
 
-(3) At locations where Border Crossing Points are shared with a neighboring state, the delineation of the Border Zone will also be established in compliance with the respective international agreement.
+3) At locations where Border Crossing Points are shared with a neighboring state, the delineation of the Border Zone will also be established in compliance with the respective international agreement.
 
 ### Article 10: Regulations Governing Movement and Stationing within a Border Crossing Point Zone
 
@@ -90,9 +90,9 @@ Cross-border cooperation encompasses activities conducted by Liberland's border 
 
 ### Article 11: Demarcation of a Border Crossing Point and Its Zone
 
-(1) Both the Border Crossing Point and its associated zone will be indicated through designated warning and supplementary signage. The signage may be in the official language and script, as well as in Latin script and foreign languages where necessary. The form, content, and method of installing these warning and supplementary signs will be determined by the Ministry of Interior.
+1) Both the Border Crossing Point and its associated zone will be indicated through designated warning and supplementary signage. The signage may be in the official language and script, as well as in Latin script and foreign languages where necessary. The form, content, and method of installing these warning and supplementary signs will be determined by the Ministry of Interior.
 
-(2) Upon request of the Ministry of Interior, the installation and maintenance of the warning and supplementary signs, regardless of their location at standard roadways or at airports, ports, and railway stations, will be carried out by the state administrative authority responsible for traffic system regulation or the corresponding operators, respectively.
+2) Upon request of the Ministry of Interior, the installation and maintenance of the warning and supplementary signs, regardless of their location at standard roadways or at airports, ports, and railway stations, will be carried out by the state administrative authority responsible for traffic system regulation or the corresponding operators, respectively.
 
 ### Article 12: Temporary Border Crossing Point
 
@@ -123,13 +123,13 @@ Any construction, installation of facilities, change of their usage, or installa
 
 #### § 2: Consent for Undertaking Works
 
-1. Before undertaking any works at a Border Crossing Point or within the Border Zone, the investor or designing entity must obtain prior consent from the Ministry. 
+1) Before undertaking any works at a Border Crossing Point or within the Border Zone, the investor or designing entity must obtain prior consent from the Ministry. 
 
-2. Such consent shall only be issued upon an evaluation that the proposed works will not impede border control operations or compromise the implementation of safety measures at the state border. 
+2) Such consent shall only be issued upon an evaluation that the proposed works will not impede border control operations or compromise the implementation of safety measures at the state border. 
 
-3. If the evaluation reveals potential disruption to border control or safety measures, the consent shall not be granted. 
+3) If the evaluation reveals potential disruption to border control or safety measures, the consent shall not be granted. 
 
-4. The specific procedures for applying for consent and the criteria for evaluation will be established by subsequent regulations. 
+4) The specific procedures for applying for consent and the criteria for evaluation will be established by subsequent regulations. 
 
 #### § 3: Compliance
 
@@ -145,19 +145,19 @@ As a general rule, the Borders of Liberland shall only be crossed at designated 
 
 #### § 1: Border Crossing Outside a Border Crossing Point
 
-(1) A Border may be crossed outside of a Border Crossing Point under conditions of force majeure or as provided by an international agreement.
+1) A Border may be crossed outside of a Border Crossing Point under conditions of force majeure or as provided by an international agreement.
 
-(2) In situations of immediate and pressing necessity due to force majeure, the state border may be crossed at any location and at any time. Individuals who cross the state border under force majeure circumstances are required to notify the border service without undue delay.
+2) In situations of immediate and pressing necessity due to force majeure, the state border may be crossed at any location and at any time. Individuals who cross the state border under force majeure circumstances are required to notify the border service without undue delay.
 
 #### § 2: Cross-Border Permits for a Border crossing outside a Border Crossing Point
 
-(1) Upon establishing a justified interest in line with an international agreement, and with the consent of the competent authority of the neighboring state in conjunction with the appropriate customs office, the Ministry of Interior may issue cross-border permits to groups or individuals. These permits authorize state border crossings outside of a Border Crossing Point or border crossings at a Border Crossing Point outside of standard modes of border crossing and operating hours.
+1) Upon establishing a justified interest in line with an international agreement, and with the consent of the competent authority of the neighboring state in conjunction with the appropriate customs office, the Ministry of Interior may issue cross-border permits to groups or individuals. These permits authorize state border crossings outside of a Border Crossing Point or border crossings at a Border Crossing Point outside of standard modes of border crossing and operating hours.
 
-(2) Cross-border permits are issued to individuals directly and remain valid for a period of up to one year.
+2) Cross-border permits are issued to individuals directly and remain valid for a period of up to one year.
 
-(3) Cross-border permits may be revoked in cases of misuse or if the reasons justifying their issuance are no longer applicable.
+3) Cross-border permits may be revoked in cases of misuse or if the reasons justifying their issuance are no longer applicable.
 
-(4) The form of the cross-border permit application, the cross-border permit itself, and the method and conditions of issuance shall be determined by the minister responsible for internal affairs.
+4) The form of the cross-border permit application, the cross-border permit itself, and the method and conditions of issuance shall be determined by the minister responsible for internal affairs.
 
 #### § 3: Unauthorized Border crossing outside a designated border crossing points
 Unauthorized crossing of the state border outside a designated Border Crossing Point may result in penalties, including fines, detention, and deportation, as determined by applicable law.
@@ -244,9 +244,9 @@ b. Immigration Officers, responsible for determining eligibility for entry and r
 
 #### § 1: Status and Powers of Border Officers
 
-(1) Border Officers are hereby designated as the primary agents for the enforcement of border regulations and the safeguarding of border security within Liberland's borders, both on the land and on the river, and in areas directly adjacent to these and relevant to keeping the border secure, henceforth "Border Domain". 
+1) Border Officers are hereby designated as the primary agents for the enforcement of border regulations and the safeguarding of border security within Liberland's borders, both on the land and on the river, and in areas directly adjacent to these and relevant to keeping the border secure, henceforth "Border Domain". 
 
-(2) Border Officers, when acting in response to border-related incidents, situations, or offences, inclusive of criminal acts, are conferred the authority to act in the capacity of Security Agents of the Police.
+2) Border Officers, when acting in response to border-related incidents, situations, or offences, inclusive of criminal acts, are conferred the authority to act in the capacity of Security Agents of the Police.
 
 #### § 2: Powers and Responsibilities of Border Officers
 
@@ -276,15 +276,15 @@ k) Dismantle specific parts of a vehicle when a comprehensive search is necessar
 
 l) Deploy technical devices, utilize service dogs, and establish barriers as measures to deter unauthorized state border crossing.
 
-(2) Aside from the primary tasks enumerated above, Border Officers are also obliged to fulfill Police duties within the Border Domain.
+2) Aside from the primary tasks enumerated above, Border Officers are also obliged to fulfill Police duties within the Border Domain.
 
 #### § 3: Restrictions on Border Officer Powers
 
-(1) In the course of executing state border protection duties, a Border Officer is limited to the utilization of powers, measures, and activities that serve lawful objectives exclusively.
+1) In the course of executing state border protection duties, a Border Officer is limited to the utilization of powers, measures, and activities that serve lawful objectives exclusively.
 
-(2) A Border Officer must exercise prudence when employing these powers, measures, and activities, ensuring that the resultant impact or harm does not outweigh the originally intended objective of their deployment.
+2) A Border Officer must exercise prudence when employing these powers, measures, and activities, ensuring that the resultant impact or harm does not outweigh the originally intended objective of their deployment.
 
-(3) The application of these powers, measures, and activities by a Border Officer is permitted only until the targeted objective has been realized, or it becomes evident that the particular power or measure is ineffective in achieving the desired result.
+3) The application of these powers, measures, and activities by a Border Officer is permitted only until the targeted objective has been realized, or it becomes evident that the particular power or measure is ineffective in achieving the desired result.
 
 ### Article 32: IBIS Regulatory Authority
 The Border Service shall establish and maintain regulations pertaining to:
