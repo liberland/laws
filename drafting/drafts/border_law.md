@@ -148,6 +148,23 @@ The Ministry of Interior has the power to specify additional locations for execu
 1) As part of the border check process, vehicles and objects, such as luggage, cargo, and personal items, may be subject to inspection and search.
 2) Border officers are authorized to carry out these inspections and searches following the law, and may seize or detain any items found in violation of customs regulations, or those that are restricted or prohibited.
 
+### Article 16: International River Traffic Embarkation and Disembarkation
+
+1) Individuals arriving in or departing from Liberland by vessel must embark or disembark exclusively at designated international water traffic border crossing points, unless stipulated otherwise by international agreements.
+2) Masters of vessels in international traffic shall neither permit individuals without valid border-crossing documents on board, nor allow embarkation or disembarkation outside of border crossing points, with the exception of emergency rescue situations.
+3) If individuals are embarked or disembarked outside of a border crossing point, the vessel's master must promptly report this to the nearest Border Crossing Point.
+
+### Article 17: Duties of Masters of vessels in International River Traffic 
+
+1) Upon arrival from abroad or prior to departure, masters of vessels in international river traffic must submit to border services a copy of the crew member list and passenger list for their vessel, unless otherwise specified by international agreements. They are also required to facilitate the examination of any documents necessary for border crossing.
+2) Upon arrival at port, masters must report to border services any individuals found onboard without appropriate border-crossing documents or those who embarked without the master's permission.
+3) Masters of vessels shall not allow the disembarkation of individuals in port without border police approval, including those referred to in paragraph 1 of this Article or those denied entry to Liberland.
+4) Masters of vessels are responsible for covering the stay and travel expenses of individuals denied entry to Liberland who embarked at port without border police approval.
+
+### Article 26: Regulations Governing the Movement of Foreign Yachts and Leisure Boats
+1) Upon crossing the state border, foreign leisure and sports yachts and leisure boats are permitted to navigate, anchor, and dock in the inland waters of Liberland where international navigation standards apply, subject to the approval of the appropriate maritime authority. This approval is valid for a period of up to 30 days.
+2) The stipulations of this Law are equally applicable to crew members and passengers aboard foreign leisure and sports yachts and boats.
+
 ### Article 16: Procedure with Found Objects
 1. Any objects found during border control inspections that are suspected of being connected to criminal activity, posing a threat to public safety, or otherwise in violation of applicable law shall be seized and secured by border control officers.
 2. The relevant government authorities shall be notified of the seized objects and shall initiate appropriate investigative, legal, or administrative procedures, as required by law.
