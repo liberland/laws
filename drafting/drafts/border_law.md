@@ -3,6 +3,8 @@
 ## Preamble
 This Law establishes the framework for border delimitation and management, as well as the processes related to entry, residency, and immigration within the territory of Liberland.
 
+# Book 1: Borders and Establishing their Security
+
 ## Section 1: Borders
 
 ### Article 1: Border Demarcation
@@ -150,7 +152,7 @@ As a general rule, the Borders of Liberland shall only be crossed at designated 
 #### § 3: Unauthorized Border crossing outside a designated border crossing points
 Unauthorized crossing of the state border outside a designated Border Crossing Point may result in penalties, including fines, detention, and deportation, as determined by applicable law.
 
-## Section 3: Border Checks
+## Section 4: Border Checks
 
 ### Article 12: Definition
 Border checks shall involve the examination of individuals, their travel documents, vehicles, and belongings within the zone of a border crossing point relating to intended or immediate post-border crossing. It also encompasses other legislated controls on the flow of individuals, goods, services, vehicles, animals, and plants across the state border.
@@ -209,7 +211,9 @@ The import and export of weapons and ammunition are strictly prohibited. A speci
 2) During the enactment of the Minimum Border Control the border service must implement minimum border control measures. These include identity verification and the reliable validity check of individuals crossing the state border.
 3) The Minister of Interior or a designated agent in charge of organizing and managing border controls must establish priority objectives for border controls, adapted to specific security conditions to maximize border control effectiveness. When setting these priority objectives, entry border controls take precedence over exit checks. The border service should communicate any measures for Minimum Border Control enacted to the border crossing point of the neighbouring state.
 
-## Section 4: Immigration and Border Service (IBIS)
+# Book 2: Immigration and Border Service (IBIS)
+
+## Section 1: IBIS as an Agency in the Ministry of Interior
 
 ### Article 20: Establishment of IBIS
 1) The Immigration and Border Service (IBIS) shall be an agency within the Ministry of Interior, responsible for delineating, securing, and maintaining order at Liberland's borders. 
@@ -224,6 +228,8 @@ a. Border Officers, responsible for the protection of the borders; and
     
 b. Immigration Officers, responsible for determining eligibility for entry and residency in Liberland. Immigration Officers shall not have the authority to revoke a visa or immigration status, a power reserved for a Judge.
 3. All Border Officers are immigration officers and should possess a designation that is appropriate for their duties. Not all immigration officers are border officers, until they are approved for transfer to perform border control duties at a Point of Entry.]
+
+## Section 2: Border Officers and their duties
 
 ### Article 22: Border Officers
 
@@ -271,16 +277,7 @@ l) Deploy technical devices, utilize service dogs, and establish barriers as mea
 
 (3) The application of these powers, measures, and activities by a Border Officer is permitted only until the targeted objective has been realized, or it becomes evident that the particular power or measure is ineffective in achieving the desired result.
 
-### Article 23: Immigration Officers
-Immigration Officers shall be classified into three tiers, with powers allocated as follows:  
-
-a) A First-Class Immigration Officer may waive one or more visa or entry requirements. The Director, the Minister of Interior, and the President shall possess equivalent powers to this rank by virtue of their respective offices.  
-
-b) A Second-Class Immigration Officer may waive one or more, but not all, visa or entry requirements, subject to authorization from a higher-ranking Immigration Officer.
-
-c) A Third-Class Immigration Officer may not waive any visa or entry requirements.  
-
-### Article 24: IBIS Regulatory Authority
+### Article 23: IBIS Regulatory Authority
 The Border Service shall establish and maintain regulations pertaining to:
 
 a) Border delimitation;  
@@ -289,7 +286,18 @@ b) Border crossing procedures and required conduct when approaching borders; and
 
 c) Organizational and professional rules for IBIS personnel.  
 
-## Section 5: Identification
+### Article 24: Immigration Officers
+Immigration Officers shall be classified into three tiers, with powers allocated as follows:  
+
+a) A First-Class Immigration Officer may waive one or more visa or entry requirements. The Director, the Minister of Interior, and the President shall possess equivalent powers to this rank by virtue of their respective offices.  
+
+b) A Second-Class Immigration Officer may waive one or more, but not all, visa or entry requirements, subject to authorization from a higher-ranking Immigration Officer.
+
+c) A Third-Class Immigration Officer may not waive any visa or entry requirements.  
+
+# Book 3: Immigration and Visas
+
+## Section 1: Identification
 ### Article 25: Identity Verification
 1) An individual applying for a visa (hereinafter referred to as "Applicant") must verify their identity through one or more of the following methods: 
 
@@ -319,7 +327,7 @@ c) Organizational and professional rules for IBIS personnel.
 ### Article 27: Health
 Any non-Citizen Applicant must comply with the immigration officer if asked to prove that they are not carrying a communicable disease, or their Application shall be denied.
 
-## Section 6: Grounds for Restricting Entry and Visa Issuance
+## Section 2: Grounds for Restricting Entry and Visa Issuance
 ### Article 28: Citizens Entering Liberland
 Citizens shall always be allowed to enter Liberland as long as they have been identified and their citizenship confirmed.
 
@@ -404,7 +412,7 @@ The standardized format of each type of visa shall be determined by Regulation i
 1) The requirements for a Residence Visa shall be waived for a person recognized as a Refugee under the applicable norms of public international law. This includes gaining a conditional Residence Visa to a person who merely applies for the status of a Refugee and the decision hasn't yet been made. The conditional Residency Visa shall expire upon the condition of the applicant not being granted a Refugee status.
 2) A person applying for a Refugee status who also fulfills the conditions for Liberland Residency shall be awarded Residency Visa. Where they also later gain the Refugee status, those two shall be held in parallel. Where the Residence Visa should be lost, the person shall fall back on the Refugee status before expulsion can be considered.
 
-## Section 8: Expiration of Visa and Expulsion
+## Section 3: Expiration of Visa and Expulsion
 
 ### Article 38: Expiration of Residency Visa
 Where a Residency Visa regularly expires, the process shall be similar to the expiration of a Temporary Visa, but the former Visa holder shall have 1/3 of an Election term counted from the day of expiration to exit Liberland voluntarily.
@@ -419,7 +427,7 @@ the expiration shall be postponed until such a time as the process regarding tha
 
 2) Where the Application wasn't made timely, the Visa holder shall exit Liberland as during a regular Visa Expiration; when the new Visa Application is successful, the Residency holder shall be free to return. The costs incurred by the exit and the return shall be borne by the Visa holder.  
 
-## Section 9: Appeals Process
+## Section 4: Appeals Process
 ### Article 40: Right to Appeal
 1) Any individual who has been denied entry, residency, or whose visa has been revoked, shall have the right to appeal the decision. The appeal must be lodged within 30 days from the date of the decision.
 
@@ -459,7 +467,7 @@ the expiration shall be postponed until such a time as the process regarding tha
 
 2) The applicant shall be informed in writing of the decision. If the application is successful, the applicant shall be granted refugee status and issued a refugee travel document in accordance with the 1951 Refugee Convention. If the application is unsuccessful, the reasons for the decision shall be clearly explained.
 
-## Section 11: Final Provisions
+## Section 5: Final Provisions
 ### Article 46: International Cooperation
 1. Liberland shall seek to establish agreements with neighboring countries
 
