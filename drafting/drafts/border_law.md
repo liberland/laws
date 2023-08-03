@@ -236,11 +236,20 @@ The import and export of weapons and ammunition are strictly prohibited. A speci
 a. Border Officers, responsible for the protection of the borders; and  
     
 b. Immigration Officers, responsible for determining eligibility for entry and residency in Liberland. Immigration Officers shall not have the authority to revoke a visa or immigration status, a power reserved for a Judge.
-3. All Border Officers are immigration officers and should possess a designation that is appropriate for their duties. Not all immigration officers are border officers, until they are approved for transfer to perform border control duties at a Point of Entry.]
+3. All Border Officers are immigration officers and should possess a designation that is appropriate for their duties. Not all immigration officers are border officers, until they are approved for transfer to perform border control duties at a Point of Entry.
 
-## Section 2: Border Officers and their duties
+### Article 31: IBIS Regulatory Authority
+The Border Service shall establish and maintain regulations pertaining to:
 
-### Article 31: Designation, Authority, and Duties of Border Officers
+a) Border delimitation;  
+
+b) Border crossing procedures and required conduct when approaching borders; and  
+
+c) Organizational and professional rules for IBIS personnel.  
+
+## Section 2: Border and Immigration Officers and their duties
+
+### Article 32: Designation, Authority, and Duties of Border Officers
 
 #### § 1: Designation and Authority of Border Officers
 
@@ -278,7 +287,7 @@ l) Utilize technical devices, service dogs, and establish barriers to deter unau
 
 2) In addition to the primary tasks listed above, Border Officers are also required to perform Police duties within the Border Domain.
 
-### Article 32: Exercise of Authority by Border Officers
+### Article 33: Exercise of Authority by Border Officers
 
 Border Officers may undertake the following activities in the fulfillment of their responsibilities:
 
@@ -298,7 +307,7 @@ g) Deploy specially trained dogs.
 
 h) Use firearms.
 
-### Article 33: Constraints on Border Officers
+### Article 34: Constraints on Border Officers
 
 #### § 1: Principles Governing Border Officers
 Border Officers are obligated to adhere to the following principles:
@@ -324,15 +333,6 @@ g) Following the use of authority, a Border Officer must submit a written report
 2) A Border Officer must exercise discretion when employing these powers, measures, and activities, ensuring that the resultant harm does not exceed the intended objective of their use.
 
 3) The use of these powers, measures, and activities by a Border Officer is permitted only until the targeted objective has been achieved, or it becomes apparent that the particular power or measure is ineffective in achieving the desired result.
-
-### Article 34: IBIS Regulatory Authority
-The Border Service shall establish and maintain regulations pertaining to:
-
-a) Border delimitation;  
-
-b) Border crossing procedures and required conduct when approaching borders; and  
-
-c) Organizational and professional rules for IBIS personnel.  
 
 ### Article 35: Immigration Officers
 Immigration Officers shall be classified into three tiers, with powers allocated as follows:  
