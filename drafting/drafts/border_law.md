@@ -393,7 +393,7 @@ c) A Third-Class Immigration Officer may not waive any visa or entry requirement
      
    and their Residence Visa shall be retained for as long as their study or pro-bono work lasts plus 4 election terms  
 
-#### § 3: Format of Reisdence Visa  
+#### § 3: Format of Residence Visa  
 The standardized format of each type of visa shall be determined by Regulation issued by the Ministry of Interior. Only an immigration officer with a first class delegation may issue a visa in a non-standardized format and only in cases where no other course would be just and reasonable.
 
 ### Article 39: Family Visa
