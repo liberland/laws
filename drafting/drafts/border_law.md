@@ -222,10 +222,10 @@ The import and export of weapons and ammunition are strictly prohibited. A speci
 2) During the enactment of the Minimum Border Control the border service must implement minimum border control measures. These include identity verification and the reliable validity check of individuals crossing the state border.
 3) The Minister of Interior or a designated agent in charge of organizing and managing border controls must establish priority objectives for border controls, adapted to specific security conditions to maximize border control effectiveness. When setting these priority objectives, entry border controls take precedence over exit checks. The border service should communicate any measures for Minimum Border Control enacted to the border crossing point of the neighbouring state.
 
-## Section 5: Immigration and Border Service (IBIS)
+## Section 5: Immigration and Border Integrity Service (IBIS)
 
 ### Article 29: Establishment of IBIS
-1) The Immigration and Border Service (IBIS) shall be an agency within the Ministry of Interior responsible for delineating, securing, and maintaining order at Liberland's borders. 
+1) The Immigration and Border Integrity Service (IBIS) shall be an agency within the Ministry of Interior responsible for delineating, securing, and maintaining order at Liberland's borders. 
 2) IBIS shall be headed by a Director, appointed directly by the Minister of Interior.
 3) The regulations governing IBIS and its hierarchical structure and operations shall be drafted and maintained by the Minister of Interior.
 
