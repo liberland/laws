@@ -81,11 +81,11 @@ No person shall be denied citizenship or access to related functions and service
 1. The Applicant shall be required to sign the Citizenship Contract, in which they confirm their commitment to becoming a citizen and agree to follow additional rules of conduct pertaining to the status of a citizen.
 2. The template for the Citizenship Contract shall be an attachment to this Act. The template shall include a provision whereby the citizen agrees that Liberland reserves the right to modify the contract later through an amendment to this Act.
 
-## Section 3: Ius Soli and Ius Sanguini
+## Section 3: Ius Sanguini
 
 ### Article 11: Liberland Nationals
 
-Individuals who have at least one citizen parent or are born within the territory of Liberland shall be considered Liberland Nationals and shall be eligible to obtain citizenship by virtue of their descent.
+Individuals who have at least one citizen parent shall be considered Liberland Nationals and shall be eligible to obtain citizenship by virtue of their descent.
 
 ### Article 12: Rights of Liberland Nationals
 
