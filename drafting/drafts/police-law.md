@@ -1,27 +1,28 @@
 # Police Law
 
 ## Preamble
+This Law establishes the governance, procedures, and functions of the Liberland Police, as well as other agencies engaged in law enforcement or bearing arms. It delineates the specific Agencies that shall serve as Liberland's police force and outlines their operations at both the national and, where applicable, cantonal levels. The Liberland Police and other arms-bearing agencies are entrusted with the duty of safeguarding the lives, health, and property of individuals, particularly in circumstances where such individuals are unable or temporarily incapacitated to protect themselves. Furthermore, these agencies shall cooperate with police authorities or other relevant agencies of other nations and shall endeavour to prevent and combat criminal activity at both the national and international levels.
 
-This Law establishes the structure, organization, procedures, and functions of the Liberland Community Watch (hereinafter referred to as the "Watch"), as well as its operations on the national and cantonal levels.
+## Chapter 1: Liberland Police
+### Article 1: Limitations on the Authority of Armed Agencies
+#### Section 1: Scope of Authority 
+1. Agencies and agents serving as the police force of Liberland, as well as other agencies in which individuals bear arms or enforce the law, hereinafter collectively referred to as "Armed Agencies," shall only exercise authority as expressly conferred upon them by the Constitution and the laws of Liberland, as further delineated and circumscribed by subordinate regulations. Any action not explicitly authorized by these legal instruments shall be prohibited.
+2. In the discharge of their duties, Armed Agencies shall be guided by the principles of impartiality, non-discrimination, non-partisanship, fairness, and objectivity.
 
-## Section 1: Liberland Police
+#### Section 2: Duty to Protect
+Armed Agencies shall, at all times, act in the best interests of the citizens and other residents of Liberland. They shall be responsible for the protection of all private property that has been legitimately and legally acquired, whether owned by citizens, other residents, foreign individuals or institutions, or public bodies. They shall protect all such property with an equal level of attention and vigour.
 
-### Art. 1: Security Agency
+#### Section 3: Constitutional Adherence
+1. Armed Agencies shall conduct themselves in accordance with the principles enshrined in the Constitution of Liberland, particularly those set forth in its first Book. Accordingly, Armed Agencies shall refrain from the aggressive use of force and shall only employ force in defence against aggression.
+2. In all matters, Armed Agencies shall exercise their powers judiciously and shall not abuse their authority against individuals. Under no circumstances shall Armed Agencies infringe upon the liberties and rights enshrined in the Constitution of Liberland.
 
-#### § 1  
-This Act establishes the Security Agency under the Ministry of Interior. The purpose of this agency shall be to serve as Liberland's police force.
-
-#### § 2  
-1. The responsibilities and duties of the Security Agency shall be to:  
+### Art. 2: The Watch
+ 
+The Watch shall be an Agency under the Ministry of Interior. The purpose of this Agency shall be to serve as Liberland's police force. As such, the responsibilities and duties of the Security Agency shall be to:  
 a) protect the property of individuals, including their life, health, and belongings;  
-b) prevent, suppress, and investigate delicts;  
+b) prevent delicts, suppress and stop ongoing delicts, and investigate all delicts;  
 c) apprehend suspects;  
 d) address other affairs concerning the maintenance of public safety and order.  
-2. The protection of the life and health of an agent shall be on an equal footing with other individuals. The protection of an agent's property shall be secondary to the protection of property belonging to others.
-
-#### § 3  
-1. Activities of the Security Agency shall be strictly limited to the extent provided for in the preceding paragraph, and in performing their duties, they shall adhere to the principles of impartiality, non-partisanship, fairness, and objectivity.  
-2. The Security Agency shall never abuse its powers against individuals and shall never interfere with the liberties and rights guaranteed by the Constitution.
 
 ### Art. 2: Congressional Oversight
 1. Congress shall have direct oversight over all aspects of the Security Agency. It shall be empowered to conduct ad hoc and regular investigations, demand witness presence and testimony, or require the production of records.  
@@ -138,12 +139,13 @@ If Liberland expands to the extent that it becomes expedient to have Security Ac
 
 ### Art. 10: Personnel
 
-The Security Agency, including the Cantonal Security where applicable and the individual Security Offices, shall employ the following personnel as their Agents:  
+1) The Security Agency, including the Cantonal Security where applicable and the individual Security Offices, shall employ the following personnel as their Agents:  
 a) Security Officers, who shall be trained professionals in the field of maintaining security and modern democratic policing (hereinafter referred to as "Security Professionals"), directly responsible for fulfilling the tasks of the Security Agency as outlined in this Law;  
 b) State Guard Agents, who shall be Security Professionals assigned specifically to protect State Property and State Officials; the State Guard Agents may also be   assigned to fulfill the tasks of the Security Agency as outlined in this Law and shall maintain these as their constant objective alongside their regular duties;  
 c) Clerical Agents, who shall support Security Professionals by performing back office and front office duties that do not require a person specifically trained in maintaining security;  
 d) Technical Agents, who shall maintain the technical readiness of equipment, real estate, and tools of other Agents, as well as the information security of the Agency at all levels; and  
-e) Other Agents as required to fulfill the tasks of the Security Agency as outlined in this Law.  
+e) Other Agents as required to fulfill the tasks of the Security Agency as outlined in this Law.
+2) The protection of the life and health of an agent of the Watch shall be on an equal footing with other individuals. The protection of an agent's property shall be secondary to the protection of property belonging to others.
 
 ### Art. 11: Ranks
 
