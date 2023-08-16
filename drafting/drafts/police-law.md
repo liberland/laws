@@ -68,7 +68,7 @@ o) Standards of appointment, performance of duties, and activities of Armed Agen
 
 p) Necessary inspections related to the performance of Security affairs.
 
-#### Article 3: Cantonal Security Commission 
+### Article 3: Cantonal Security Commission 
 1) In the event that Liberland is divided into Cantons or similar organizational units, a Cantonal Security Commission shall be established for each Canton.
 2) The Cantonal Security Commission shall perform the functions of the Security Commission within its respective Canton. It shall report all findings to the Security Commission and shall cooperate with the Security Commission and other Cantonal Security Commissions to ensure the security of Liberland.
 3) The Cantonal Minister of Interior, or the equivalent official, shall establish and preside over the Cantonal Security Commission. The Commission shall consist of five members, including the presiding official. The other four members shall be:
