@@ -19,10 +19,10 @@ Armed Agencies shall, at all times, act in the best interests of the citizens an
 
 ### Article 2: Security Commission
 #### Section 1: Creation and Purpose
-The Minister of Interior shall establish the Security Commission of Liberland (hereinafter referred to as the "Security Commission"). The Security Commission shall be responsible for establishing the organizational structure of all Armed Agencies within the boundaries of this law. It shall also be tasked with drafting and enforcing processes and rules applicable to all Armed Agencies in Liberland.
+1) The Minister of Interior shall establish the Security Commission of Liberland (hereinafter referred to as the "Security Commission"). The Security Commission shall be responsible for establishing the organizational structure of all Armed Agencies within the boundaries of this law. It shall also be tasked with drafting and enforcing processes and rules applicable to all Armed Agencies in Liberland.
 
 #### Section 2: Composition 
-The Security Commission shall be composed of four Commissioners, each appointed for four consecutive Election Terms, with each Commissioner having equal authority. The Commissioners shall be as follows:
+1) The Security Commission shall be composed of four Commissioners, each appointed for four consecutive Election Terms, with each Commissioner having equal authority. The Commissioners shall be as follows:
 
 a) A Supreme Court Justice, nominated by the Chief Justice and appointed by the President;
 
@@ -90,7 +90,7 @@ p) Necessary inspections related to the performance of Security affairs.
 ## Chapter 2: Policing Liberland
 ### Article 5: Liberland Community Watch
 #### Section 1: Authority of the Watch
-The Liberland Community Watch, henceforth the "Watch", shall be an Agency under the Ministry of Interior. The purpose of this Agency shall be to serve as Liberland's primary police force and the only general-purpose police Liberland shall know. As such, the responsibilities and duties of the Watch shall be to:
+1) The Liberland Community Watch, henceforth the "Watch", shall be an Agency under the Ministry of Interior. The purpose of this Agency shall be to serve as Liberland's primary police force and the only general-purpose police Liberland shall know. As such, the responsibilities and duties of the Watch shall be to:
 
 a) protect the property of individuals, including their life, health, and belongings;  
 
@@ -101,12 +101,12 @@ c) apprehend suspects;
 d) address other affairs concerning the maintenance of public safety and order.
 
 #### Section 2: Congressional Oversight
-1. Congress shall have direct oversight over all aspects of the Security Agency. It shall be empowered to conduct ad hoc and regular investigations, demand witness presence and testimony, or require the production of records.
-2. Congress shall have the power to remove any agent of the Security Agency from office by its Decision and reorganize the functioning of the Security Agency at any level by means of a decision.
+1) Congress shall have direct oversight over all aspects of the Security Agency. It shall be empowered to conduct ad hoc and regular investigations, demand witness presence and testimony, or require the production of records.
+2) Congress shall have the power to remove any agent of the Security Agency from office by its Decision and reorganize the functioning of the Security Agency at any level by means of a decision.
 
 #### Section 3: Commander
-1. The head of the Watch shall be the Commander of the Watch of Liberland (hereinafter referred to as the "Commander"), nominated by the Minister of Interior and appointed by the President. All Age
-2. The Commander shall be responsible for the regular management and direction of the Security Agency operations, as well as the supervision and direction of the Security personnel.
+1) The head of the Watch shall be the Commander of the Watch of Liberland (hereinafter referred to as the "Commander"), nominated by the Minister of Interior and appointed by the President. All Age
+2) The Commander shall be responsible for the regular management and direction of the Security Agency operations, as well as the supervision and direction of the Security personnel.
 
 ### Article 6: Watch Post
 
@@ -165,7 +165,7 @@ d) Major, coordinating several Districts or heading the Cantonal Watch (Agent Le
 e) Commander, the highest rank, coordinating all districts and Cantonal Watches (Agent Level 6).
 
 #### Section 2: Ranks of other Agents  
-Other Agents of the Watch shall be organized in the following ranks:
+1) Other Agents of the Watch shall be organized in the following ranks:
 
 a) Administration Professional, responsible for routine administration (EQF 5, Agent Level 2);
 
@@ -178,15 +178,15 @@ d) Director, responsible for top-level management and coordination (EQF 7, Agent
 ### Article 12: Weapons
 
 #### Section 1: Weapons of Watchmen and Watchwomen
-1. Watchmen and Watchwomen shall be equipped with sidearms, other weapons, and defensive and offensive equipment. They shall receive thorough training in the use of these weapons and equipment, as well as in combat tactics and strategy, particularly for urban combat or combat in other environments prevalent in their assigned District.
-2. Watchmen and Watchwomen shall prioritize the use of equipment that minimizes damage to property and non-lethal weapons, resorting to lethal means only when strictly necessary for protecting their own lives and health, or the lives, health, and property of others.
-3. Watchmen and Watchwomen shall be trained in first aid to provide assistance to victims of their weapon use and injured bystanders. Injured bystanders shall be given precedence over the perpetrator when triage is necessary, but assistance shall be provided to the perpetrator whenever possible, at least to preserve their life, especially when more seriously injured than the bystander.
+1) Watchmen and Watchwomen shall be equipped with sidearms, other weapons, and defensive and offensive equipment. They shall receive thorough training in the use of these weapons and equipment, as well as in combat tactics and strategy, particularly for urban combat or combat in other environments prevalent in their assigned District.
+2) Watchmen and Watchwomen shall prioritize the use of equipment that minimizes damage to property and non-lethal weapons, resorting to lethal means only when strictly necessary for protecting their own lives and health, or the lives, health, and property of others.
+3) Watchmen and Watchwomen shall be trained in first aid to provide assistance to victims of their weapon use and injured bystanders. Injured bystanders shall be given precedence over the perpetrator when triage is necessary, but assistance shall be provided to the perpetrator whenever possible, at least to preserve their life, especially when more seriously injured than the bystander.
 
 #### Section 2: Weapons of Other Watch Personnel
-Other Agents of the Watch shall be equipped with sidearms and trained in their use for self-protection. They shall also be trained in combat tactics concerning combat in environments prevalent in their assigned District.
+1) Other Agents of the Watch shall be equipped with sidearms and trained in their use for self-protection. They shall also be trained in combat tactics concerning combat in environments prevalent in their assigned District.
 
 ### Article 13: Liberland Guard
-The Liberland Guard shall consist of special Watch Posts assigned specifically to protect State Property and State Officials. State Guard Agents may also be assigned to fulfil the regular tasks of the Watch where necessary. Watchmen and Watchwomen assigned to this duty shall be referred to as Guardsmen and Guardswomen.
+1) The Liberland Guard shall consist of special Watch Posts assigned specifically to protect State Property and State Officials. State Guard Agents may also be assigned to fulfil the regular tasks of the Watch where necessary. Watchmen and Watchwomen assigned to this duty shall be referred to as Guardsmen and Guardswomen.
 
 ### Article 14: Complaint
 
@@ -195,7 +195,7 @@ The Liberland Guard shall consist of special Watch Posts assigned specifically t
 2) Complaints shall always be lodged with the highest institution to which the Agent subject to the complaint belongs or to which the situation pertains.
 
 #### Section 2: Institutions for Handling Complaints
-Each organ of the Watch shall establish institutions to handle complaints in a just, lawful, impartial, and faithful manner. If establishing such institutions proves impractical, the organ shall present the complaint and all related documentation to the appropriate institutions of the District or Cantonal Watch, or the central Watch.
+1) Each organ of the Watch shall establish institutions to handle complaints in a just, lawful, impartial, and faithful manner. If establishing such institutions proves impractical, the organ shall present the complaint and all related documentation to the appropriate institutions of the District or Cantonal Watch, or the central Watch.
 
 ## Chapter 2: Police Powers
 
@@ -206,7 +206,7 @@ a) Questioning, whereby the Agent may comply others to answer questions,
 
 b) Protection, whereby an Agent may offer their authority and strength to protect a person in need,
 
-c) Refuge from a disaster, where an Agent may provide binding instructions to others,
+c) Emergency response, where an Agent may provide binding instructions to others,
 
 d) Measures to prevent or suspend criminal activity, and
 
@@ -216,15 +216,15 @@ c) Entry and No-Knock Entry.
 
 3) Only when it becomes apparent that the individual won't comply with the instructions and loss of life, health, or property is at stake may an agent proceed to use measures of violence, including threats of violence, to enforce these actions.
 
-### Art. 17: Questioning
+### Article 17: Questioning
 #### Section I: Rules for Questioning
 1) An Agent on police duty may stop and question any person reasonably suspected of having committed or being about to commit a crime based on their unusual behavior and/or other surrounding circumstances, or who is deemed to have information on a crime that has already been committed or is about to be committed.
 2) If an Agent on police duty believes that questioning on the spot will disadvantage the subject person or impede traffic, they may ask the person to accompany them to a nearby Watch Post.
 
 #### Section II: Limitation on Enforcement
-Persons subjected to questioning shall not be detained by the authorities, taken to a Watch Post by force, or coerced to answer questions against their will unless specific legal provisions concerning the particular criminal procedure apply. Where a person is detained in accordance with the law relating to the specific criminal procedure, an Agent on police duty may also search their personal belongings for potential weapons or, if no other means suffice to obtain answers and the law allows it, enforce compliance.
+1) Persons subjected to questioning shall not be detained by the authorities, taken to a Watch Post by force, or coerced to answer questions against their will unless specific legal provisions concerning the particular criminal procedure apply. Where a person is detained in accordance with the law relating to the specific criminal procedure, an Agent on police duty may also search their personal belongings for potential weapons or, if no other means suffice to obtain answers and the law allows it, enforce compliance.
 
-### Art. 18: Protection
+### Article 18: Protection
 
 #### Section 1: Providing aid and offering protection
 1) If an Agent on police duty encounters a person for whom they have reasonable grounds to believe requires emergency aid and protection, the Security Agent must provide immediate protection and ensure safe transportation to an appropriate location, such as a Security Office, hospital, or relief facility.
@@ -234,18 +234,21 @@ Persons subjected to questioning shall not be detained by the authorities, taken
 1) Police protection under this paragraph shall not exceed 24 hours unless a judge's warrant authorizing further protection is obtained; the warrant must expressly state the inevitable circumstances deemed to exist.
 2) Where individuals are placed under police protection for more than 24 hours, Watch Posts and other bases of operation for Agents on police duty shall notify the Court weekly of the names and addresses of individuals placed under police protection, the reasons for protection, the dates of protection and delivery, and the names of the persons or services to whom the protected individuals are handed over.
 
-### Art. 19: Refuge
+### Article 19: Emergency Response
+1) In the event of a dangerous situation, such as a natural disaster, incident, structural collapse, traffic accident, hazardous material explosion, the presence of a dangerous animal, excessive congestion of people, or similar circumstances, hereinafter referred to as "dangerous situation," which may endanger lives, health, or cause significant property damage, an Agent on police duty may issue necessary warnings to those at the scene.
+2) In cases of extreme urgency during a dangerous situation, an Agent on police duty may direct endangered individuals to seek shelter within the limits of necessity to escape the imminent danger, even enforcing such directives by force or threats of force where this should become necessary. In such cases, the Agent on police duty may also order individuals at the scene to take generally accepted necessary measures to prevent dangers or take such measures themselves. Individuals shall obey and cooperate with the Agent.
 
-#### § 1  
-In the event of a dangerous situation, such as a natural disaster, incident, structural collapse, traffic accident, hazardous material explosion, the presence of a dangerous animal, excessive congestion of people, or similar circumstances, hereinafter referred to as "dangerous situation," which may endanger lives, health, or cause significant property damage, a Security Agent may issue necessary warnings to those at the scene.
+### Article 20: Crime Prevention and Suppression
+1) An Agent on police duty may issue necessary warnings to individuals involved when they observe a crime about to occur or to prevent its occurrence.
 
-#### § 2  
-1. In cases of extreme urgency during a dangerous situation, a Security Agent may use Measures of Force to direct endangered individuals to take refuge within the limits of necessity to escape the imminent danger.
-2. In such cases, the Security Agent may also order individuals at the scene to take generally accepted necessary measures to prevent dangers or take such measures themselves. Individuals shall obey and cooperate with the Security Agent.
+2) If the actions of a person who
 
-### Art. 20: Prevention and Suppression of Criminal Activity
-1. A Security Agent may issue necessary warnings to individuals involved when they observe a crime about to occur or to prevent its occurrence.
-2. If the actions of a person who a) is clearly about to commit a crime, b) is in the process of committing a crime, or c) has just committed a crime, are deemed likely to endanger lives, health, or cause serious property damage and the situation is urgent, the Security Agent shall use Enforcement to prevent or suppress the commission of the crime.
+a) is clearly about to commit a crime,
+
+b) is in the process of committing a crime, or
+
+c) has just committed a crime, 
+are deemed likely to endanger lives, health, or cause serious property damage and the situation is urgent, the Agent on police duty may use violence or threat of violence to prevent or suppress the commission of the crime.
 
 ### Art. 21: Entry
 
