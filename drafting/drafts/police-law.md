@@ -192,25 +192,21 @@ The Liberland Guard shall consist of special Watch Posts assigned specifically t
 #### Section 2: Institutions for Handling Complaints
 Each organ of the Watch shall establish institutions to handle complaints in a just, lawful, impartial, and faithful manner. If establishing such institutions proves impractical, the organ shall present the complaint and all related documentation to the appropriate institutions of the District or Cantonal Watch, or the central Watch.
 
-## Chapter 2: Police Enforcement
+## Chapter 2: Police Powers
 
-### Art. 15: Rules of Enforcement
-1. When authorized by law, an Agent on police duty may employ measures of aggressive violence, as prescribed by this law, to enforce compliance from an individual, provided that such measures are necessary to perform the Agent's duties and no other solution would clearly achieve the intended or comparable results.
-2.  An Agent may use offensive and defensive equipment and non-lethal weapons to ensure compliance when other, less invasive and less damaging measures would be clearly insufficient.
-3.  Lethal weapons may be used as measures of last resort when all other means have clearly failed or when it can be assumed with overwhelming conviction that such less damaging measures would clearly fail.
+### Art. 15: Enforcing Compliance
+1. When authorized by law, an Agent on police duty may employ measures of violence, including the use of offensive and defensive equipment and non-lethal weapons, as prescribed by this law, to enforce compliance from an individual. Such measures may be used provided that they are necessary to perform the Agent's duties and no other solution would be expected to achieve the intended or comparable results.
+2. An Agent may use force to ensure compliance when other, less invasive and less damaging measures would be insufficient in the following circumstances:
 
-### Art. 16: Use of Weapon
+a) Protecting the lives, health, or property of others in situations where significant property loss is clearly imminent or occurring, and the use of force is clearly likely to stop or mitigate the damage;
 
-#### § 1  
-A Security Agent may use their weapon when there is reasonable ground to deem it necessary for:  
-a) protecting others' lives, health, or property in situations where significant property loss is clearly about to occur or is occurring, and the use of a weapon is clearly likely to stop or mitigate the damage;  
-b) self-protection with respect to their life and health;  
-c) suppressing resistance against the execution of their official duty within limits judged reasonably necessary in the situation; and  
-d) apprehending a dangerous or violent criminal or preventing their escape when the use of the weapon is deemed necessary.  
+b) Self-protection with respect to the Agent's life and health;
 
-#### § 2  
-1. Whenever possible, the Agent shall use a non-lethal weapon; only when this is deemed clearly insufficient shall a lethal weapon be used.
-2. When using a lethal weapon, the Security Agent shall, whenever possible without clearly compromising the purpose of the weapon use, aim to injure rather than kill the person being targeted.
+c) Suppressing resistance against the execution of their official duty within limits judged reasonably necessary in the situation; and
+
+d) Apprehending a dangerous or violent criminal or preventing their escape when the use of force is deemed necessary.
+
+3. Lethal weapons may be used as a last resort when all other means have clearly failed or when it can be assumed with overwhelming conviction that such less damaging measures would clearly fail. When using a lethal weapon, the Agent shall, whenever possible without clearly compromising the purpose of the weapon use, aim to injure rather than kill the targeted person.
 
 ### Art. 17: Questioning
 
