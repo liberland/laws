@@ -117,7 +117,7 @@ d) address other affairs concerning the maintenance of public safety and order.
 4) All Watch Posts shall be required to cooperate with one another and to maintain professional and cordial relationships.
 
 #### Section 2: Duties of Agents assigned to Watch Posts
-1) The primary responsibilities of Agents assigned to a specific Watch Post shall encompass regular visits to all residences, offices, shops, public places and business establishments within their assigned District. During these visits, Agents shall assess the general condition and situation of residents, employees and other denizens and provide advice on crime prevention measures.
+1) The primary responsibilities of Agents assigned to a specific Watch Post shall provide security for all residences, offices, shops, public places and business establishments within their assigned District. Agents shall assess the general condition and situation of residents, employees and other denizens, and where this is requested, they will provide advice on crime prevention measures.
 2) In addition to their primary duties, Agents of a Watch Post shall offer community services, including but not limited to providing directions to individuals and serving as a repository for lost-and-found items.
 
 ### Article 7: District Watch
