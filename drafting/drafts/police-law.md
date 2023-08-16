@@ -250,26 +250,17 @@ b) is in the process of committing a crime, or
 c) has just committed a crime, 
 are deemed likely to endanger lives, health, or cause serious property damage and the situation is urgent, the Agent on police duty may use violence or threat of violence to prevent or suppress the commission of the crime.
 
-### Art. 21: Entry
+### Article 21: Right of Entry
+#### Section 1: Enforcing Entry
+1) In the event of a dangerous situation or an imminent crime that is likely to endanger lives, health, or cause serious property damage, an Agent on police duty may enter any person's land, building, vessel, or vehicle within reasonably necessary limits, without obtaining informed consent from the owner, if deemed inevitably necessary to prevent danger, contain damage, stop or prevent the crime, or provide emergency response or relief to victims. An Agent on police duty may enforce entry when faced with opposition, including from the owner.
+2) An Agent on police duty exercising their right of entry shall not arbitrarily interfere with the lawful operation of the concerned person's business. Before exercising their right of entry, the Security Agent shall disclose the reason for entry to the on-site manager, proprietor, or person in a corresponding position and present their identification as a Security Agent.
 
-#### § 1  
-1. In the event of a dangerous situation or an imminent crime that is likely to endanger lives, health, or cause serious property damage, a Security Agent may enter any person's land, building, vessel, or vehicle within reasonably necessary limits, without obtaining informed consent from the owner, if deemed inevitably necessary to prevent danger, contain damage, stop or prevent the crime, or provide relief to victims. 
-2. The Security Agent may enforce entry when faced with opposition, including from the owner.
+#### Section 2: No-knock Entry
+1) If an Agent on police duty of at least the Constable rank determines it is absolutely necessary to protect the life, liberty, or property of others or to prevent a dangerous or violent crime, they shall inform a Judge of their intent to perform a clandestine entry without introducing themselves to individuals on-site.
+2) The Agent should obtain a warrant from the Judge whenever possible, regardless of the urgency level. In cases where the urgency is so great that obtaining a warrant would negate the purpose of the no-knock entry, the Agent shall merely inform the Judge beforehand by whatever means are available.
+3) After executing the no-knock entry and apprehending individuals, the Agent shall immediately identify themselves as soon as it is reasonably safe and does not interfere with the purpose of the no-knock entry. They shall also give a full report to the Judge, who will be able to retroactively declare the entry as legal or illegal. Where the entry is declared illegal, those damaged by it may seek recourse by the Court against Liberland.
 
-#### § 2  
-1. A Security Agent exercising their right of entry shall not arbitrarily interfere with the lawful operation of the concerned person's business.
-2. Before exercising their right of entry, the Security Agent shall disclose the reason for entry to the on-site manager, proprietor, or person in a corresponding position and present their identification as a Security Agent.
-
-### Art. 22: No-Knock Entry
-
-#### § 1  
-1. If a Security Agent determines it is absolutely necessary to protect the life, liberty, or property of others or to prevent a dangerous or violent crime, they shall inform a Judge of their intent to perform a clandestine entry without introducing themselves to individuals on-site.
-2. The Agent should obtain a warrant from the Judge whenever possible, regardless of the urgency level. In cases where the urgency is so great that obtaining a warrant would negate the purpose of the no-knock entry, the Agent shall merely inform the Judge.
-
-#### § 2  
-After executing the no-knock entry and apprehending individuals, the Security Agent shall immediately identify themselves as soon as it is reasonably safe and does not interfere with the purpose of the no-knock entry.
-
-### Article XX: Weapon Use
+### Article 22: Weapon Use
 
 1. While on active duty, an Agent may use offensive or defensive weapons and equipment to secure compliance from others to prevent them from causing damage, but only when other, less invasive and less damaging measures would be insufficient. This shall only apply in the following circumstances:
 
@@ -281,8 +272,8 @@ c) Suppressing resistance against the execution of their official duty within li
 
 d) Apprehending a dangerous or violent criminal or preventing their escape when the use of force is deemed necessary to accomplish this.
 
-2. Lethal weapons may be used as a last resort when all other means have clearly failed or when it can be assumed with overwhelming conviction that such less damaging measures would clearly fail. When using a lethal weapon, the Agent shall, whenever possible without clearly compromising the purpose of the weapon use, aim to injure rather than kill the targeted person.
+2. Lethal weapons may be used as a last resort when all other means have clearly failed or when it can be assumed with overwhelming conviction that such less damaging measures would clearly fail. When using a lethal weapon, the Agent shall aim to injure rather than kill the targeted person whenever possible without clearly compromising the purpose of the weapon use.
 
-### Art. 23: Sunset Clause
+### Art. 23: Final Provision
 
-This Law shall remain in effect until the Government reliably determines, based on evidence, that at least two thousand citizens habitually or permanently reside in Liberland.
+This Law shall gain legal force on ... and shall remain in force until repealed.
