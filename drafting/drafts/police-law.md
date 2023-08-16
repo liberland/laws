@@ -217,11 +217,11 @@ c) Entry and No-Knock Entry.
 3) Only when it becomes apparent that the individual won't comply with the instructions and loss of life, health, or property is at stake may an agent proceed to use measures of violence, including threats of violence, to enforce these actions.
 
 ### Article 17: Questioning
-#### Section I: Rules for Questioning
+#### Section 1: Rules for Questioning
 1) An Agent on police duty may stop and question any person reasonably suspected of having committed or being about to commit a crime based on their unusual behavior and/or other surrounding circumstances, or who is deemed to have information on a crime that has already been committed or is about to be committed.
 2) If an Agent on police duty believes that questioning on the spot will disadvantage the subject person or impede traffic, they may ask the person to accompany them to a nearby Watch Post.
 
-#### Section II: Limitation on Enforcement
+#### Section 2: Limitation on Enforcement
 1) Persons subjected to questioning shall not be detained by the authorities, taken to a Watch Post by force, or coerced to answer questions against their will unless specific legal provisions concerning the particular criminal procedure apply. Where a person is detained in accordance with the law relating to the specific criminal procedure, an Agent on police duty may also search their personal belongings for potential weapons or, if no other means suffice to obtain answers and the law allows it, enforce compliance.
 
 ### Article 18: Protection
