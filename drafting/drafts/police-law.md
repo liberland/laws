@@ -104,7 +104,7 @@ In the event that a Commissioner cannot be found, a member of the Cantonal Congr
 3) The Security Academy shall be responsible for providing the necessary education and training to police personnel to prepare them for roles as senior staff officers. Additionally, the Academy shall oversee scientific research related to security matters.
 
 ## Chapter 2: Policing Liberland
-### Article 4: Liberland Community Watch
+### Article 6: Liberland Community Watch
 #### Section 1: Authority of the Watch
 The Liberland Community Watch, henceforth the "Watch", shall be an Agency under the Ministry of Interior. The purpose of this Agency shall be to serve as Liberland's primary police force and the only general-purpose police Liberland shall know. As such, the responsibilities and duties of the Watch shall be to:
 
@@ -124,7 +124,7 @@ d) address other affairs concerning the maintenance of public safety and order.
 1. The head of the Watch shall be the Commander of the Watch of Liberland (hereinafter referred to as the "Commander"), nominated by the Minister of Interior and appointed by the President. All Age
 2. The Commander shall be responsible for the regular management and direction of the Security Agency operations, as well as the supervision and direction of the Security personnel.
 
-### Article 5: Watch Post
+### Article 7: Watch Post
 
 #### Section 1: Watch Post Organization 
 1) The smallest organizational unit of the Watch shall be designated as a Watch Post. Each Watch Post shall be composed of personnel and equipment allocated to a specific District pursuant to the provisions of the Security Plan. A Watch Post shall be headed by a Constable, who shall be an Agent of the Watch, and shall be assigned a number of Agents under the Constable's command.
@@ -136,50 +136,55 @@ d) address other affairs concerning the maintenance of public safety and order.
 1) The primary responsibilities of Agents assigned to a specific Watch Post shall encompass regular visits to all residences, offices, shops, public places and business establishments within their assigned District. During these visits, Agents shall assess the general condition and situation of residents, employees and other denizens and provide advice on crime prevention measures.
 2) In addition to their primary duties, Agents of a Watch Post shall offer community services, including but not limited to providing directions to individuals and serving as a repository for lost-and-found items.
 
-### Article 6: Cantonal Watch
+### Article 8: Cantonal Watch
 
 #### Section 1: Establishment of Cantonal Watch  
-1. If Liberland becomes divided into Cantons or similar organizational units, the Cantonal Watch shall be established as the mid-level unit of the Watch.  
-2. Cantonal Watch shall serve as the direct supervisory body over the Watch Posts in the corresponding Canton.  
-3. Cantonal Watch shall be responsible for coordinating between the Watch Posts within the given Canton and fulfilling the goals of the Watch within the given Canton.
-4. Similar to the Watch Posts, the Cantonal Watch of each Canton shall be required to maintain close contact and active cooperation with the Cantonal Security Agencies of all other Cantons.
-5. 
-#### Section 2: Cantonal Watch Commander  
-1. Cantonal Watch shall be led by the Cantonal Watch Commander (hereinafter referred to as "Cantonal Commander"), who shall be nominated by the Minister of Interior and appointed by the President.  
-2. The Cantonal Commander's responsibilities shall include regular management and direction of Cantonal Watch operations, as well as directing and supervising Cantonal Security personnel and the Cantonal Watch itself.
+1.In the event that Liberland is divided into Cantons or similar organizational units, a Cantonal Watch shall be established within each Canton as an intermediate unit of the Watch. The Cantonal Watch shall serve as the direct supervisory authority over the Watch Posts within its respective Canton and it shall be responsible for coordinating the activities of the Watch Posts within its Canton and for achieving the objectives of the Watch within the Canton.
+2. Each Cantonal Watch shall maintain close contact and active cooperation with the Cantonal Security Agencies of all other Cantons.1. If Liberland becomes divided into Cantons or similar organizational units, the Cantonal Watch shall be established as the mid-level unit of the Watch.  
+3. Similar to the Watch Posts, the Cantonal Watch of each Canton shall be required to maintain close contact and active cooperation with the Cantonal Security Agencies of all other Cantons.
 
-### Article 7: Extension of Watch Authority
-1) A Watch Post or a Cantonal Watch may exercise their authority beyond the boundaries of their designated jurisdictional area when it is necessary to protect the life, physical well-being, and property of individuals within their jurisdiction, including residents and visitors, or to combat organized crime.
-2) In instances where a Watch Post or Cantonal Watch seeks to extend its authority into another jurisdiction, it shall notify the relevant Watch Post or Cantonal Watch of its intentions. The notified Watch Post or Cantonal Watch shall provide full cooperation to the extending Watch, provided that the extension of authority is justified.
-3) If the notified Watch Post or Cantonal Watch believes that the extension of authority is unjustified, it shall promptly inform the Commander. The Commander shall make an expedited decision regarding the matter, either permitting or prohibiting the extension of authority.
+#### Section 2: Major of the Cantonal Watch  
+1. The Cantonal Watch shall be led by the Major of the Cantonal Watch, who shall be nominated by the Minister of Interior and appointed by the President.
+2. The Major of the Cantonal Watch shall be responsible for the regular management and direction of Cantonal Watch operations and for directing and supervising Cantonal Watch personnel.Cantonal Watch shall be led by the Major of the Cantonal Watch, who shall be nominated by the Minister of Interior and appointed by the President.  
 
-### Art. 10: Personnel
+### Article 9: Extension of Watch Authority
+1) A Watch Post or Cantonal Watch may exercise its authority beyond its designated jurisdiction when necessary to protect life, physical well-being, and property within its jurisdiction, including residents and visitors, or to combat organized crime.
+2) When a Watch Post or Cantonal Watch seeks to extend its authority into another jurisdiction, it shall notify the relevant Watch Post or Cantonal Watch. The notified entity shall provide full cooperation if the extension of authority is justified.
+3) If the notified Watch Post or Cantonal Watch deems the extension of authority unjustified, it shall promptly inform the Commander, who shall make an expedited decision to permit or prohibit the extension.
 
-1) The Security Agency, including the Cantonal Security where applicable and the individual Security Offices, shall employ the following personnel as their Agents:  
-a) Security Officers, who shall be trained professionals in the field of maintaining security and modern democratic policing (hereinafter referred to as "Security Professionals"), directly responsible for fulfilling the tasks of the Security Agency as outlined in this Law;  
-b) State Guard Agents, who shall be Security Professionals assigned specifically to protect State Property and State Officials; the State Guard Agents may also be   assigned to fulfill the tasks of the Security Agency as outlined in this Law and shall maintain these as their constant objective alongside their regular duties;  
-c) Clerical Agents, who shall support Security Professionals by performing back office and front office duties that do not require a person specifically trained in maintaining security;  
-d) Technical Agents, who shall maintain the technical readiness of equipment, real estate, and tools of other Agents, as well as the information security of the Agency at all levels; and  
-e) Other Agents as required to fulfill the tasks of the Security Agency as outlined in this Law.
-2) The protection of the life and health of an agent of the Watch shall be on an equal footing with other individuals. The protection of an agent's property shall be secondary to the protection of property belonging to others.
+### Article 10: Personnel
+1) The Watch, including the Cantonal Watch and individual Watch Posts, shall employ the following personnel as Agents:
+a) Watchmen or Watchwomen, trained professionals in security and modern democratic policing, directly responsible for fulfilling the tasks of the Watch as outlined in this Law;
+b) Clerical Agents, supporting Security Professionals with back office and front office duties not requiring security training;
+c) Technical Agents, maintaining technical readiness of equipment, real estate, tools, and information security at all levels; and
+d) Other Agents as required to fulfill the tasks of the Security Agency.
+2) The priority to protect the life and health of a Watch Agent shall be equal to that of other individuals. Protection of an Agent's property shall be secondary to protecting others' property.
 
-### Art. 11: Ranks
+### Article 11: Ranks in the Watch
 
-#### § 1  
-1. Security Professionals shall be organized in a hierarchical structure. Professionals of lower ranks shall perform their tasks under the supervision and direction of their superiors, who shall hold higher ranks.  
-2. The following Ranks shall be assigned among the Security Professionals:    
-a) Security Agent, who shall be directly responsible for the fulfillment of the tasks of the State Security as outlined in this Law; their Agent Level shall be 2;  
-b) Senior Security Agent, who shall guide and mentor junior Security Agents; their Agent Level shall be 3;  
-c) Commissar, who shall be responsible for organizing Security Agents at the operational level; one to four Security Officers, depending on the size of the District, shall form the leadership of every Security Office; their Agent Level shall be 4;  
-d) Security Chief shall be responsible for coordinating several Districts. Security Chiefs shall also be responsible for organizing Cantonal Security. The Cantonal Director shall also hold the rank of Security Chief; their Agent Level shall be 5; and  
-e) Security Director shall be the highest rank within Security, responsible for coordinating all districts or Cantonal Securities. The Director and the central management of the Agency shall all hold the rank of Security Director; their Agent Level shall be 6.  
+#### Section 1  Ranks of Watchmen and Watchwomen
+1. Watchmen and Watchwomen shall be organized hierarchically, with lower ranks performing tasks under the supervision and direction of higher ranks. The ranks shall be:
+   
+a) Watchman/Watchwoman (Agent Level 2);
 
-#### § 2  
-Other Agents of Security shall be organized in the following ranks:  
-a) Administration Professional, responsible for routine administration; they shall have at least an EQF 5 level of education, and their Agent Level shall be 2;   
-b) Administration Specialist, who shall perform tasks of specialized administration, law, data organization and management, compliance, accounting and finances, human resources, etc.; they shall have at least an EQF 6 level of education, and their Agent Level shall be 3;  
-c) Coordinator, who shall organize the work of other Administrative Agents; they shall have at least an EQF 7 level of education, and their Agent Level shall be 4;  
-d) Director, who shall be responsible for the top-level management and coordination of administration; they shall have at least an EQF 7 level of education, and their Agent Level shall be 5.  
+b) Constable, guiding and mentoring junior Agents, leading a Watch Post (Agent Level 3);
+
+c) Captain, organizing Agents at the operational level, heading the Watch for a district and 3-4 Watch Posts (Agent Level 4);
+
+d) Major, coordinating several Districts or heading the Cantonal Watch (Agent Level 5); and
+
+e) Commander, the highest rank, coordinating all districts and Cantonal Watches (Agent Level 6).
+
+#### Section 2: Ranks of other Agents  
+Other Agents of the Watch shall be organized in the following ranks:
+
+a) Administration Professional, responsible for routine administration (EQF 5, Agent Level 2);
+
+b) Administration Specialist, performing specialized tasks (EQF 6, Agent Level 3);
+
+c) Coordinator, organizing the work of Administrative Agents (EQF 7, Agent Level 4); and
+
+d) Director, responsible for top-level management and coordination (EQF 7, Agent Level 5).
 
 ### Art. 12: Weapons
 
@@ -191,6 +196,9 @@ d) Director, who shall be responsible for the top-level management and coordinat
 Other Security Personnel shall be equipped with sidearms and trained in their use for self-protection. They shall also be trained in combat tactics concerning combat in environments prevalent in their assigned District.  
 1. Security Agents shall be trained in first aid to provide assistance to victims of their weapon use and injured bystanders.
 2. Injured bystanders shall be given precedence over the perpetrator when triage is necessary, but assistance shall be provided to the perpetrator whenever possible, at least to preserve their life, especially when more seriously injured than the bystander.
+
+### Art. 13: Liberland Guard
+Liberland Guard shall be special Watch Posts assigned specifically to protect State Property and State Officials; the State Guard Agents may also be assigned to fulfil the regular tasks of the Watch where that becomes necessary. Watchmen and Watchwomen assigned to this duty shall be refered to as Guardsmen and Guardswomen.
 
 ### Art. 13: Complaint
 
