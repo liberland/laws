@@ -199,47 +199,40 @@ Each organ of the Watch shall establish institutions to handle complaints in a j
 
 ## Chapter 2: Police Powers
 
-### Art. 15: Enforcing Compliance
-1) When authorized by law, an Agent on police duty may employ measures of violence, including the use of offensive and defensive equipment and non-lethal weapons, as prescribed by this law, to enforce compliance from an individual. Such measures may be used provided that they are necessary to perform the Agent's duties and no other solution would be expected to achieve the intended or comparable results.
-2) An Agent may use force to ensure compliance when other, less invasive and less damaging measures would be insufficient in the following circumstances:
+### Article 16: Demanding and Enforcing Compliance
+1) When authorized by law, an Agent on police duty may compel an individual to act or to omit certain actions. This shall be limited to:
 
-a) Protecting the lives, health, or property of others in situations where significant property loss is clearly imminent or occurring, and the use of force is clearly likely to stop or mitigate the damage;
+a) Questioning, whereby the Agent may comply others to answer questions,
 
-b) Self-protection with respect to the Agent's life and health;
+b) Protection, whereby an Agent may offer their authority and strength to protect a person in need,
 
-c) Suppressing resistance against the execution of their official duty within limits judged reasonably necessary in the situation; and
+c) Refuge from a disaster, where an Agent may provide binding instructions to others,
 
-d) Apprehending a dangerous or violent criminal or preventing their escape when the use of force is deemed necessary.
+d) Measures to prevent or suspend criminal activity, and
 
-3) Lethal weapons may be used as a last resort when all other means have clearly failed or when it can be assumed with overwhelming conviction that such less damaging measures would clearly fail. When using a lethal weapon, the Agent shall, whenever possible without clearly compromising the purpose of the weapon use, aim to injure rather than kill the targeted person.
+c) Entry and No-Knock Entry.
+
+2) When an individual is asked for compliance by the Agent performing one of the actions listed above, the individual shall obey the Agent unless it is apparent to them that the Agent acts outside of the boundaries of their duty or contrary to the Constitution or the Law, notably that they infringe upon one of their rights granted by the Constitution or by the Law.
+
+3) Only when it becomes apparent that the individual won't comply with the instructions and loss of life, health, or property is at stake may an agent proceed to use measures of violence, including threats of violence, to enforce these actions.
 
 ### Art. 17: Questioning
+#### Section I: Rules for Questioning
+1) An Agent on police duty may stop and question any person reasonably suspected of having committed or being about to commit a crime based on their unusual behavior and/or other surrounding circumstances, or who is deemed to have information on a crime that has already been committed or is about to be committed.
+2) If an Agent on police duty believes that questioning on the spot will disadvantage the subject person or impede traffic, they may ask the person to accompany them to a nearby Watch Post.
 
-#### § 1  
-A Security Agent may stop and question any person reasonably suspected of having committed or being about to commit a crime based on their unusual behavior and/or other surrounding circumstances or who is deemed to have information on a crime that has already been committed or is about to be committed.
-
-#### § 2  
-If an Agent believes that questioning on the spot will disadvantage the subject person or impede traffic, they may ask the person to accompany them to a nearby Security Office.
-
-#### § 3  
-1. The persons described in the preceding two paragraphs shall not be detained by the authorities, taken to a Security Office by force, or coerced to answer questions against their will unless specific legal provisions concerning the particular criminal procedure apply.
-2. Concerning a person under arrest in accordance with the law relating to the specific criminal procedure, a Security Agent may search their personal belongings for potential weapons or enforce compliance.
+#### Section II: Limitation on Enforcement
+Persons subjected to questioning shall not be detained by the authorities, taken to a Watch Post by force, or coerced to answer questions against their will unless specific legal provisions concerning the particular criminal procedure apply. Where a person is detained in accordance with the law relating to the specific criminal procedure, an Agent on police duty may also search their personal belongings for potential weapons or, if no other means suffice to obtain answers and the law allows it, enforce compliance.
 
 ### Art. 18: Protection
 
-#### § 1  
-If a Security Agent encounters a person for whom they have reasonable grounds to believe requires emergency aid and protection, the Security Agent must provide immediate protection and ensure safe transportation to an appropriate location, such as a Security Office, hospital, or relief facility.
+#### Section 1: Providing aid and offering protection
+1) If an Agent on police duty encounters a person for whom they have reasonable grounds to believe requires emergency aid and protection, the Security Agent must provide immediate protection and ensure safe transportation to an appropriate location, such as a Security Office, hospital, or relief facility.
+2) When a person in need of protection shows signs of being a danger to the life, health, or property of others, or to their own life and health, particularly due to substance abuse or their temporary or permanent mental state, an Agent on police duty may use measures of force to restrain the person and transport them to appropriate facilities against their will. Upon taking such measures, the Agent on police duty shall inform the person's family, acquaintances, or other concerned parties as soon as possible and make necessary arrangements to hand over the subject person to them.
 
-#### § 2  
-When a person in need of protection shows signs of being a danger to the life, health, or property of others, or to their own life and health, particularly due to substance abuse or their temporary or permanent mental state, the Security Agent may use measures of force to restrain the person and transport them to appropriate facilities against their will.
-
-#### § 3  
-Upon taking the measures described in the previous paragraph, the Security Agent shall inform the person's family, acquaintances, or other concerned parties as soon as possible and make necessary arrangements to hand over the subject person to them.
-
-#### § 4  
-1. Police protection under this paragraph shall not exceed 24 hours unless a judge's warrant authorizing further protection is obtained.
-2. The warrant must expressly state the inevitable circumstances deemed to exist.
-3. The Security Agent shall notify the Court weekly of the names and addresses of individuals placed under police protection, the reasons for protection, the dates of protection and delivery, and the names of the persons or services to whom the protected individuals are handed over.
+#### Section 2: Long-term protection
+1) Police protection under this paragraph shall not exceed 24 hours unless a judge's warrant authorizing further protection is obtained; the warrant must expressly state the inevitable circumstances deemed to exist.
+2) Where individuals are placed under police protection for more than 24 hours, Watch Posts and other bases of operation for Agents on police duty shall notify the Court weekly of the names and addresses of individuals placed under police protection, the reasons for protection, the dates of protection and delivery, and the names of the persons or services to whom the protected individuals are handed over.
 
 ### Art. 19: Refuge
 
@@ -272,6 +265,20 @@ In the event of a dangerous situation, such as a natural disaster, incident, str
 
 #### § 2  
 After executing the no-knock entry and apprehending individuals, the Security Agent shall immediately identify themselves as soon as it is reasonably safe and does not interfere with the purpose of the no-knock entry.
+
+### Article XX: Weapon Use
+
+1. While on active duty, an Agent may use offensive or defensive weapons and equipment to secure compliance from others to prevent them from causing damage, but only when other, less invasive and less damaging measures would be insufficient. This shall only apply in the following circumstances:
+
+a) Protecting the lives, health, or property of others in situations where significant property loss is clearly imminent or occurring, and the use of force is clearly likely to stop or mitigate the damage;
+
+b) Self-protection with respect to the Agent's life and health;
+
+c) Suppressing resistance against the execution of their official duty within limits judged reasonably necessary where significant damage or loss of life or health are at stake; and
+
+d) Apprehending a dangerous or violent criminal or preventing their escape when the use of force is deemed necessary to accomplish this.
+
+2. Lethal weapons may be used as a last resort when all other means have clearly failed or when it can be assumed with overwhelming conviction that such less damaging measures would clearly fail. When using a lethal weapon, the Agent shall, whenever possible without clearly compromising the purpose of the weapon use, aim to injure rather than kill the targeted person.
 
 ### Art. 23: Sunset Clause
 
