@@ -126,10 +126,10 @@ d) address other affairs concerning the maintenance of public safety and order.
 3) A Watch District shall be led by a Captain, who shall be a Watchman or Watchwoman, and shall also serve as the head of a Watch Post within the District. The Captain of the Cantonal Watch shall be responsible for the regular management and direction of District Watch operations and for directing and supervising District Watch personnel.
 
 ### Article 8: Cantonal Watch
-1.In the event that Liberland is divided into Cantons or similar organizational units, a Cantonal Watch shall be established within each Canton as an intermediate unit of the Watch. The Cantonal Watch shall be led by the Major of the Cantonal Watch, who shall be nominated by the Minister of Interior and appointed by the President. The Major of the Cantonal Watch shall be responsible for the regular management and direction of Cantonal Watch operations and for directing and supervising Cantonal Watch personnel.
-2. The Cantonal Watch shall serve as the direct supervisory authority over the Watch Posts within its respective Canton and it shall be responsible for coordinating the activities of the Watch Posts within its Canton and for achieving the objectives of the Watch within the Canton.
-2. Each Cantonal Watch shall maintain close contact and active cooperation with the Cantonal Security Agencies of all other Cantons.1. If Liberland becomes divided into Cantons or similar organizational units, the Cantonal Watch shall be established as the mid-level unit of the Watch.  
-3. Similar to the Watch Posts, the Cantonal Watch of each Canton shall be required to maintain close contact and active cooperation with the Cantonal Security Agencies of all other Cantons.
+1) In the event that Liberland is divided into Cantons or similar organizational units, a Cantonal Watch shall be established within each Canton as an intermediate unit of the Watch. The Cantonal Watch shall be led by the Major of the Cantonal Watch, who shall be nominated by the Minister of Interior and appointed by the President. The Major of the Cantonal Watch shall be responsible for the regular management and direction of Cantonal Watch operations and for directing and supervising Cantonal Watch personnel.
+2) The Cantonal Watch shall serve as the direct supervisory authority over the Watch Posts within its respective Canton and it shall be responsible for coordinating the activities of the Watch Posts within its Canton and for achieving the objectives of the Watch within the Canton.
+3) Each Cantonal Watch shall maintain close contact and active cooperation with the Cantonal Security Agencies of all other Cantons.1. If Liberland becomes divided into Cantons or similar organizational units, the Cantonal Watch shall be established as the mid-level unit of the Watch.
+4) Similar to the Watch Posts, the Cantonal Watch of each Canton shall be required to maintain close contact and active cooperation with the Cantonal Security Agencies of all other Cantons.
 
 ### Article 9: Extension of Watch Authority
 1) A Watch Post or Cantonal Watch may exercise its authority beyond its designated jurisdiction when necessary to protect life, physical well-being, and property within its jurisdiction, including residents and visitors, or to combat organized crime.
@@ -137,11 +137,16 @@ d) address other affairs concerning the maintenance of public safety and order.
 3) If the notified Watch Post or Cantonal Watch deems the extension of authority unjustified, it shall promptly inform the Commander, who shall make an expedited decision to permit or prohibit the extension.
 
 ### Article 10: Watch Personnel
-1) The Watch, including the Cantonal Watch and individual Watch Posts, shall employ the following personnel as Agents:
+1) The Watch, including the Cantonal Watch and individual Watch Posts, shall employ the following personnel as Agents
+
 a) Watchmen or Watchwomen, trained professionals in security and modern democratic policing, directly responsible for fulfilling the tasks of the Watch as outlined in this Law;
+
 b) Clerical Agents, supporting Security Professionals with back office and front office duties not requiring security training;
+
 c) Technical Agents, maintaining technical readiness of equipment, real estate, tools, and information security at all levels; and
+
 d) Other Agents as required to fulfill the tasks of the Security Agency.
+
 2) The priority to protect the life and health of a Watch Agent shall be equal to that of other individuals. Protection of an Agent's property shall be secondary to protecting others' property.
 
 ### Article 11: Ranks in the Watch
@@ -195,8 +200,8 @@ Each organ of the Watch shall establish institutions to handle complaints in a j
 ## Chapter 2: Police Powers
 
 ### Art. 15: Enforcing Compliance
-1. When authorized by law, an Agent on police duty may employ measures of violence, including the use of offensive and defensive equipment and non-lethal weapons, as prescribed by this law, to enforce compliance from an individual. Such measures may be used provided that they are necessary to perform the Agent's duties and no other solution would be expected to achieve the intended or comparable results.
-2. An Agent may use force to ensure compliance when other, less invasive and less damaging measures would be insufficient in the following circumstances:
+1) When authorized by law, an Agent on police duty may employ measures of violence, including the use of offensive and defensive equipment and non-lethal weapons, as prescribed by this law, to enforce compliance from an individual. Such measures may be used provided that they are necessary to perform the Agent's duties and no other solution would be expected to achieve the intended or comparable results.
+2) An Agent may use force to ensure compliance when other, less invasive and less damaging measures would be insufficient in the following circumstances:
 
 a) Protecting the lives, health, or property of others in situations where significant property loss is clearly imminent or occurring, and the use of force is clearly likely to stop or mitigate the damage;
 
@@ -206,7 +211,7 @@ c) Suppressing resistance against the execution of their official duty within li
 
 d) Apprehending a dangerous or violent criminal or preventing their escape when the use of force is deemed necessary.
 
-3. Lethal weapons may be used as a last resort when all other means have clearly failed or when it can be assumed with overwhelming conviction that such less damaging measures would clearly fail. When using a lethal weapon, the Agent shall, whenever possible without clearly compromising the purpose of the weapon use, aim to injure rather than kill the targeted person.
+3) Lethal weapons may be used as a last resort when all other means have clearly failed or when it can be assumed with overwhelming conviction that such less damaging measures would clearly fail. When using a lethal weapon, the Agent shall, whenever possible without clearly compromising the purpose of the weapon use, aim to injure rather than kill the targeted person.
 
 ### Art. 17: Questioning
 
