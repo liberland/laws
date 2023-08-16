@@ -7,48 +7,25 @@ This Law establishes the governance, procedures, and functions of the Liberland 
 ### Article 1: Limitations on the Authority of Armed Agencies
 #### Section 1: Scope of Authority 
 1. Agencies and agents serving as the police force of Liberland, as well as other agencies in which individuals bear arms or enforce the law, hereinafter collectively referred to as "Armed Agencies," shall only exercise authority as expressly conferred upon them by the Constitution and the laws of Liberland, as further delineated and circumscribed by subordinate regulations. Any action not explicitly authorized by these legal instruments shall be prohibited.
-2. In the discharge of their duties, Armed Agencies shall be guided by the principles of impartiality, non-discrimination, non-partisanship, fairness, and objectivity.
+2. In discharging their duties, Armed Agencies shall be guided by the principles of impartiality, non-discrimination, non-partisanship, fairness, and objectivity.
 
 #### Section 2: Duty to Protect
-Armed Agencies shall, at all times, act in the best interests of the citizens and other residents of Liberland. They shall be responsible for the protection of all private property that has been legitimately and legally acquired, whether owned by citizens, other residents, foreign individuals or institutions, or public bodies. They shall protect all such property with an equal level of attention and vigour.
+Armed Agencies shall, at all times, act in the best interests of the citizens and other residents of Liberland. They shall be responsible for the protection of all private property that has been legitimately and legally acquired, whether owned by citizens, other residents, foreign individuals or institutions, or public bodies. They shall protect all such property with equal attention and vigour.
 
 #### Section 3: Constitutional Adherence
-1. Armed Agencies shall conduct themselves in accordance with the principles enshrined in the Constitution of Liberland, particularly those set forth in its first Book. Accordingly, Armed Agencies shall refrain from the aggressive use of force and shall only employ force in defence against aggression.
-2. In all matters, Armed Agencies shall exercise their powers judiciously and shall not abuse their authority against individuals. Under no circumstances shall Armed Agencies infringe upon the liberties and rights enshrined in the Constitution of Liberland.
+1. Armed Agencies shall conduct themselves in accordance with the principles enshrined in the Constitution of Liberland, particularly those set forth in its first Book. Accordingly, Armed Agencies shall refrain from the aggressive use of force and shall only employ force in defence against aggression in general, and aggressive violence especially.
+2. In all matters, Armed Agencies shall exercise their powers prudently, professionally and adhering to the rules of due Administrative Process as applicable to their situation.
+3. Armed Agencies shall never abuse their authority against individuals. Under no circumstances shall Armed Agencies infringe upon the liberties and rights enshrined in the Constitution of Liberland.
 
-### Art. 2: The Watch
- 
-The Watch shall be an Agency under the Ministry of Interior. The purpose of this Agency shall be to serve as Liberland's police force. As such, the responsibilities and duties of the Security Agency shall be to:  
-a) protect the property of individuals, including their life, health, and belongings;  
-b) prevent delicts, suppress and stop ongoing delicts, and investigate all delicts;  
-c) apprehend suspects;  
-d) address other affairs concerning the maintenance of public safety and order.  
-
-### Art. 2: Congressional Oversight
-1. Congress shall have direct oversight over all aspects of the Security Agency. It shall be empowered to conduct ad hoc and regular investigations, demand witness presence and testimony, or require the production of records.  
-2. Congress shall have the power to remove any agent of the Security Agency from office by decision and reorganize the functioning of the Security Agency at any level by means of a decision.
-
-### Art. 3: Director
-1. The head of the Security Agency shall be the Security Director of Liberland (hereinafter referred to as the "Director"), nominated by the Minister of Interior and appointed by the President.  
-2. The Director shall be responsible for the regular management and direction of the Security Agency operations, as well as the supervision and direction of the Security personnel.
-
-### Art. 4: Security Commission
-#### § 1  
-The Minister of Interior shall establish, and the Director shall preside over, the State Security Commission of Liberland (hereinafter referred to as the "Security Commission"). The Security Commission shall serve as the leading body of the Security Agency and hold the exclusive authority to make decisions regarding the Security Agency's organizational structure, rules, regulations, and policies governing its operations.
-
-#### § 2  
-The Security Commission shall consist of four Commissioners, each appointed for four consecutive Election Terms, with each having an equal say. The Commissioners shall be:  
+#### Article 2: Security Commission
+1) The Minister of Interior shall establish the Security Commission of Liberland (hereinafter referred to as the "Security Commission"), which shall serve to set up the organisational structure within the limits of this law and shall draft and enforce the processes and rules for all Armed Agencies in Liberland.
+2)  The Security Commission shall consist of four Commissioners, each appointed for four consecutive Election Terms, with each having an equal say. The Commissioners shall be:  
 a) a Supreme Court Justice nominated by the Chief Justice and appointed by the President;  
 b) a representative of the Ministry of Justice nominated by the Minister of Justice and appointed by the President;  
 c) a Senator nominated by the Senate and appointed by the President; and  
-d) a former senior Agent of the Security Agency with distinguished skills and an impeccable reputation, nominated by the Minister of Interior and appointed by the President.  
-
-#### § 3  
-1. The Commissioners shall perform their duties as part of their original office and shall not become Agents of the Security Agency.  
-2. If a Commissioner cannot be found, their replacement shall be a Member of Congress.
-
-#### § 4  
-The Security Commission shall draft and adopt internal policies and regulations concerning the following matters:  
+d) a former senior Agent of an Armed Agency with distinguished skills and an impeccable reputation, nominated by the Minister of Interior and appointed by the President.  
+3) The Commissioners shall perform their duties as part of their original office and shall not become Agents of an Armed Agency. If a Commissioner cannot be found, their replacement shall be a Member of Congress.
+3) The Security Commission shall draft and adopt internal policies and regulations concerning the following matters:  
 a) institutional planning and research;  
 b) budgeting;  
 c) policy evaluation;  
@@ -62,11 +39,27 @@ j) maintenance and management of Security communication facilities and other aff
 k) information technology analysis, including investigative analysis of electronic information processing systems and electronic data;  
 l) maintenance and management of criminal identification facilities and other affairs related to criminal identification;  
 m) criminal statistics;  
-n) Security Agency equipment;  
-o) standards of appointment, performance of duties, and activities of Security Agency personnel; and  
+n) Armed Agency equipment;  
+o) standards of appointment, performance of duties, and activities of Armed Agency personnel; and  
 p) necessary inspections related to the performance of Security affairs.
 
-### Art. 5: Security Plan
+### Article 3: The Liberland Community Watch
+#### Section 1: Authority of the Watch
+The Liberland Community Watch, henceforth the "Watch", shall be an Agency under the Ministry of Interior. The purpose of this Agency shall be to serve as Liberland's primary police force and the only general-purpose police Liberland shall know. As such, the responsibilities and duties of the Watch shall be to:  
+a) protect the property of individuals, including their life, health, and belongings;  
+b) prevent delicts, suppress and stop ongoing delicts, and investigate all delicts;  
+c) apprehend suspects;  
+d) address other affairs concerning the maintenance of public safety and order.
+
+#### Section 2: Congressional Oversight
+1. Congress shall have direct oversight over all aspects of the Security Agency. It shall be empowered to conduct ad hoc and regular investigations, demand witness presence and testimony, or require the production of records.  
+2. Congress shall have the power to remove any agent of the Security Agency from office by its Decision and reorganize the functioning of the Security Agency at any level by means of a decision.
+
+#### Section 3: Commander
+1. The head of the Watch shall be the Commander of the Watch of Liberland (hereinafter referred to as the "Commander"), nominated by the Minister of Interior and appointed by the President. All Age
+2. The Commander shall be responsible for the regular management and direction of the Security Agency operations, as well as the supervision and direction of the Security personnel.
+
+### Article 4: Security Plan
 #### § 1  
 Liberland shall be divided into Districts to maintain security, and Personnel and Equipment shall be assigned to those Districts according to the Liberland Security Plan (hereinafter referred to as the "Security Plan").
 
