@@ -10,7 +10,7 @@ This Law establishes the governance, procedures, and functions of the Liberland 
 2. In discharging their duties, Armed Agencies shall be guided by the principles of impartiality, non-discrimination, non-partisanship, fairness, and objectivity.
 
 #### Section 2: Duty to Protect
-Armed Agencies shall, at all times, act in the best interests of the citizens and residents of Liberland. They shall be responsible for the protection of all private property that has been legitimately and legally acquired, whether owned by citizens, residents, foreign individuals or institutions, or public bodies. They shall protect all such property with equal attention and vigour.
+1) Armed Agencies shall, at all times, act in the best interests of the citizens and residents of Liberland. They shall be responsible for the protection of all private property that has been legitimately and legally acquired, whether owned by citizens, residents, foreign individuals or institutions, or public bodies. They shall protect all such property with equal attention and vigour.
 
 #### Section 3: Constitutional Adherence
 1. Armed Agencies shall conduct themselves in accordance with the principles enshrined in the Constitution of Liberland, particularly those set forth in its first Book. Accordingly, Armed Agencies shall refrain from the aggressive use of force and shall only employ force in defence against aggression in general, and aggressive violence especially.
