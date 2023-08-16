@@ -72,10 +72,15 @@ p) Necessary inspections related to the performance of Security affairs.
 1) In the event that Liberland is divided into Cantons or similar organizational units, a Cantonal Security Commission shall be established for each Canton.
 2) The Cantonal Security Commission shall perform the functions of the Security Commission within its respective Canton. It shall report all findings to the Security Commission and shall cooperate with the Security Commission and other Cantonal Security Commissions to ensure the security of Liberland.
 3) The Cantonal Minister of Interior, or the equivalent official, shall establish and preside over the Cantonal Security Commission. The Commission shall consist of five members, including the presiding official. The other four members shall be:
+
 a) A Cantonal Court Judge, nominated by the Cantonal Minister of Justice or the equivalent official, and appointed by the head of the Canton;
+
 b) A representative of the Cantonal Congress or the corresponding legislative body;
+
 c) A Senator, nominated by the Senate and appointed by the President; and
+
 d) A former senior Agent of an Armed Agency, distinguished by exceptional skills and an unblemished reputation, nominated by the Cantonal Minister of Interior or the equivalent official, and appointed by the head of the Canton.
+
 In the event that a Commissioner cannot be found, a member of the Cantonal Congress or a similar legislative body, where applicable, shall serve as a replacement.
 
 ### Article 4: Security Plan
