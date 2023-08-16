@@ -197,7 +197,7 @@ d) Director, responsible for top-level management and coordination (EQF 7, Agent
 #### Section 2: Institutions for Handling Complaints
 1) Each organ of the Watch shall establish institutions to handle complaints in a just, lawful, impartial, and faithful manner. If establishing such institutions proves impractical, the organ shall present the complaint and all related documentation to the appropriate institutions of the District or Cantonal Watch, or the central Watch.
 
-## Chapter 2: Police Powers
+## Chapter 3: Police Powers
 
 ### Article 16: Demanding and Enforcing Compliance
 1) When authorized by law, an Agent on police duty may compel an individual to act or to omit certain actions. This shall be limited to:
