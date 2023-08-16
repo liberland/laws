@@ -76,3 +76,16 @@ c) A more recent norm shall interpret and hold precedence over earlier norms.
 1. In instances where a legislative document encapsulates a complex array of systematically interrelated components, it may be divided into larger, autonomous units referred to as Books. While each Book is designed to encapsulate a comprehensive set of standalone legal directives, it forms an integral part of the overarching legislative document. 
 2. These Books are suitable for independent printing and reading. Nevertheless, they should be understood and interpreted within the broader context of the complete legislative document. This ensures the holistic comprehension of the legislative intent and interconnectedness of legal provisions.
 
+## Section XX: Definitions
+## Subsection XX: Police Law
+## Definitions
+
+**Delicts** are acts performed in violation of the Liberland Constitution, Liberland Law, or laws of other recognized states, which have victims who have been damaged by the act and for which the law prescribes legal consequences for the perpetrator.
+
+**Equipment** refers to items, data, and know-how that agents of the Security Agency use to perform their duties. Equipment includes, but is not limited to, defensive and offensive equipment designed for preventing or inflicting bodily harm or physical damage.
+
+**Personnel** refers to the agents assigned to the Security Agency.
+
+**Sidearms** are small weapons that can be reasonably concealed and do not interfere with an individual's normal, daily behavior.
+
+**Weapons** are items designed or used for inflicting bodily harm or physical damage.
