@@ -141,7 +141,7 @@ d) address other affairs concerning the maintenance of public safety and order.
 2) The primary responsibilities of the Watch District shall include coordinating the operations of the Watch Posts within the District, providing guidance and support, and addressing issues that are more effectively resolved at a higher level.
 3) A Watch District shall be led by a Captain, who shall be a Watchman or Watchwoman, and shall also serve as the head of a Watch Post within the District.
 
-### Article 8: Cantonal Watch
+### Article 9: Cantonal Watch
 
 #### Section 1: Establishment of Cantonal Watch  
 1.In the event that Liberland is divided into Cantons or similar organizational units, a Cantonal Watch shall be established within each Canton as an intermediate unit of the Watch. The Cantonal Watch shall serve as the direct supervisory authority over the Watch Posts within its respective Canton and it shall be responsible for coordinating the activities of the Watch Posts within its Canton and for achieving the objectives of the Watch within the Canton.
@@ -152,12 +152,12 @@ d) address other affairs concerning the maintenance of public safety and order.
 1. The Cantonal Watch shall be led by the Major of the Cantonal Watch, who shall be nominated by the Minister of Interior and appointed by the President.
 2. The Major of the Cantonal Watch shall be responsible for the regular management and direction of Cantonal Watch operations and for directing and supervising Cantonal Watch personnel.Cantonal Watch shall be led by the Major of the Cantonal Watch, who shall be nominated by the Minister of Interior and appointed by the President.  
 
-### Article 9: Extension of Watch Authority
+### Article 10: Extension of Watch Authority
 1) A Watch Post or Cantonal Watch may exercise its authority beyond its designated jurisdiction when necessary to protect life, physical well-being, and property within its jurisdiction, including residents and visitors, or to combat organized crime.
 2) When a Watch Post or Cantonal Watch seeks to extend its authority into another jurisdiction, it shall notify the relevant Watch Post or Cantonal Watch. The notified entity shall provide full cooperation if the extension of authority is justified.
 3) If the notified Watch Post or Cantonal Watch deems the extension of authority unjustified, it shall promptly inform the Commander, who shall make an expedited decision to permit or prohibit the extension.
 
-### Article 10: Personnel
+### Article 11: Personnel
 1) The Watch, including the Cantonal Watch and individual Watch Posts, shall employ the following personnel as Agents:
 a) Watchmen or Watchwomen, trained professionals in security and modern democratic policing, directly responsible for fulfilling the tasks of the Watch as outlined in this Law;
 b) Clerical Agents, supporting Security Professionals with back office and front office duties not requiring security training;
@@ -165,7 +165,7 @@ c) Technical Agents, maintaining technical readiness of equipment, real estate, 
 d) Other Agents as required to fulfill the tasks of the Security Agency.
 2) The priority to protect the life and health of a Watch Agent shall be equal to that of other individuals. Protection of an Agent's property shall be secondary to protecting others' property.
 
-### Article 11: Ranks in the Watch
+### Article 12: Ranks in the Watch
 
 #### Section 1  Ranks of Watchmen and Watchwomen
 1. Watchmen and Watchwomen shall be organized hierarchically, with lower ranks performing tasks under the supervision and direction of higher ranks. The ranks shall be:
@@ -191,7 +191,7 @@ c) Coordinator, organizing the work of Administrative Agents (EQF 7, Agent Level
 
 d) Director, responsible for top-level management and coordination (EQF 7, Agent Level 5).
 
-### Article 12: Weapons
+### Article 13: Weapons
 
 #### Section 1: Weapons of Watchmen and Watchwomen
 1. Watchmen and Watchwomen shall be equipped with sidearms, other weapons, and defensive and offensive equipment. They shall receive thorough training in the use of these weapons and equipment, as well as in combat tactics and strategy, particularly for urban combat or combat in other environments prevalent in their assigned District.
@@ -201,10 +201,10 @@ d) Director, responsible for top-level management and coordination (EQF 7, Agent
 #### Section 2: Weapons of Other Watch Personnel
 Other Agents of the Watch shall be equipped with sidearms and trained in their use for self-protection. They shall also be trained in combat tactics concerning combat in environments prevalent in their assigned District.
 
-### Article 13: Liberland Guard
+### Article 14: Liberland Guard
 The Liberland Guard shall consist of special Watch Posts assigned specifically to protect State Property and State Officials. State Guard Agents may also be assigned to fulfil the regular tasks of the Watch where necessary. Watchmen and Watchwomen assigned to this duty shall be referred to as Guardsmen and Guardswomen.
 
-### Article 13: Complaint
+### Article 15: Complaint
 
 #### Section 1: Complaint Procedure
 1) Any person who feels harmed in their person, rights or property against the execution of duties by Watch personnel may lodge a complaint, either verbally or in writing, with the Watch Post, District Watch, Cantonal Watch, or the Watch itself. Generally, complaints shall be logged by the Watch entity that is the subject of the complaint. However, if the complainant has reasons to suspect that they will be denied justice, they may log the complaint with the next highest instance in the Watch, accompanied by a written explanation of their reasons.
