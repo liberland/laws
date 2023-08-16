@@ -2,7 +2,7 @@
 
 ## Preamble
 
-This Law establishes the structure, organization, procedures, and functions of the State Security Agency of Liberland (hereinafter referred to as the "Security Agency"), as well as its operations on the national and cantonal levels.
+This Law establishes the structure, organization, procedures, and functions of the Liberland Community Watch (hereinafter referred to as the "Watch"), as well as its operations on the national and cantonal levels.
 
 ## Section 1: Liberland Police
 
