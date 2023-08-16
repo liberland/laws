@@ -70,8 +70,8 @@ p) Necessary inspections related to the performance of Security affairs.
 
 ### Article 3: Security Plan
 #### Section 1: Allocation of Assets
-1) Armed Agency personnel, locations and equipment shall be allocated to these Districts in accordance with the Liberland Security Plan (hereinafter referred to as the "Security Plan"). 
-2) For the purpose of maintaining security, Liberland shall be divided into Districts and the Security Plan shall be drafted based on this division. 
+1) The Security Plan shall be the central document planning the allocation of personnel and equipment onto the territory of Liberland.
+2) For the purpose of maintaining security, Liberland shall be divided into Districts. The Security Plan shall allocate Armed Agency personnel, locations and equipment to these Districts based on current and projected needs.
 
 #### Section 2: Validity and Revision 
 1) A Security Plan shall remain valid for 20 Election Terms, after which it shall be subject to revision and shall undergo the adoption procedure as prescribed by this law.
