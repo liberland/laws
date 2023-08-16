@@ -3,7 +3,7 @@
 ## Preamble
 This Law establishes the governance, procedures, and functions of the Liberland Police, as well as other agencies engaged in law enforcement or bearing arms. It delineates the specific Agencies that shall serve as Liberland's police force and outlines their operations at both the national and, where applicable, cantonal levels. The Liberland Police and other arms-bearing agencies are entrusted with the duty of safeguarding the lives, health, and property of individuals, particularly in circumstances where such individuals are unable or temporarily incapacitated to protect themselves. Furthermore, these agencies shall cooperate with police authorities or other relevant agencies of other nations and shall endeavour to prevent and combat criminal activity at both the national and international levels.
 
-## Chapter 1: Liberland Police
+## Chapter 1: Keeping Liberland Secure
 ### Article 1: Limitations on the Authority of Armed Agencies
 #### Section 1: Scope of Authority 
 1. Agencies and agents serving as the police force of Liberland, as well as other agencies in which individuals bear arms or enforce the law, hereinafter collectively referred to as "Armed Agencies," shall only exercise authority as expressly conferred upon them by the Constitution and the laws of Liberland, as further delineated and circumscribed by subordinate regulations. Any action not explicitly authorized by these legal instruments shall be prohibited.
@@ -68,6 +68,20 @@ o) Standards of appointment, performance of duties, and activities of Armed Agen
 
 p) Necessary inspections related to the performance of Security affairs.
 
+### Article 3: Security Plan
+#### Section 1: Allocation of Assets
+1) Armed Agency personnel, locations and equipment shall be allocated to these Districts in accordance with the Liberland Security Plan (hereinafter referred to as the "Security Plan"). 
+2) For the purpose of maintaining security, Liberland shall be divided into Districts and the Security Plan shall be drafted based on this division. 
+
+#### Section 2: Validity and Revision 
+1) A Security Plan shall remain valid for 20 Election Terms, after which it shall be subject to revision and shall undergo the adoption procedure as prescribed by this law.
+2) Revisions to the Security Plan may be initiated by the Minister of Interior or Congress and shall follow the same adoption procedure. In cases where the revision is initiated by Congress, Congress shall be responsible for drafting the revisions in lieu of the Minister of Interior.
+
+#### Section 2: Adoption Process of the Security Plan
+1) The Minister of Interior shall draft the Security Plan. The Security Commission shall review the draft and either adopt or reject it, providing recommendations as necessary.
+2) Upon approval by the Security Commission, the Minister of Interior shall present the Security Plan to the Cabinet. The Cabinet shall have the authority to make modifications to the Security Plan.
+3) After approving the Security Plan, the Cabinet shall make it available to Congress and the general public, thereby granting the Security Plan its legal force.
+
 ### Article 3: The Liberland Community Watch
 #### Section 1: Authority of the Watch
 The Liberland Community Watch, henceforth the "Watch", shall be an Agency under the Ministry of Interior. The purpose of this Agency shall be to serve as Liberland's primary police force and the only general-purpose police Liberland shall know. As such, the responsibilities and duties of the Watch shall be to:  
@@ -84,15 +98,7 @@ d) address other affairs concerning the maintenance of public safety and order.
 1. The head of the Watch shall be the Commander of the Watch of Liberland (hereinafter referred to as the "Commander"), nominated by the Minister of Interior and appointed by the President. All Age
 2. The Commander shall be responsible for the regular management and direction of the Security Agency operations, as well as the supervision and direction of the Security personnel.
 
-### Article 4: Security Plan
-#### § 1  
-Liberland shall be divided into Districts to maintain security, and Personnel and Equipment shall be assigned to those Districts according to the Liberland Security Plan (hereinafter referred to as the "Security Plan").
 
-#### § 2  
-1. The Director shall draft the Security Plan, and the Security Commission shall adopt or reject it with recommendations.  
-2. The Security Commission shall then submit the Security Plan to the Minister of Interior for approval or rejection with recommendations.  
-3. Upon approval, the Minister of Interior shall introduce the Security Plan to the Cabinet. The Cabinet shall have the right to make changes to the Security Plan.  
-4. After approving the Security Plan, the Cabinet shall make it available to Congress and the general public, thus giving the Security Plan its legal force.
 ### Art. 6: Security Office
 
 #### § 1
