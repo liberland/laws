@@ -23,29 +23,49 @@ The Minister of Interior shall establish the Security Commission of Liberland (h
 
 #### Section 2: Composition 
 The Security Commission shall be composed of four Commissioners, each appointed for four consecutive Election Terms, with each Commissioner having equal authority. The Commissioners shall be as follows:
+
 a) A Supreme Court Justice, nominated by the Chief Justice and appointed by the President;
+
 b) A representative of the Ministry of Justice, nominated by the Minister of Justice and appointed by the President;
+
 c) A Senator, nominated by the Senate and appointed by the President; and
+
 d) A former senior Agent of an Armed Agency, distinguished by exceptional skills and an unblemished reputation, nominated by the Minister of Interior and appointed by the President.
 
 #### Section 3: Duties and Restrictions
 1) The Commissioners shall perform their duties in their original capacities and shall not become Agents of an Armed Agency. In the event that a Commissioner cannot be found, their replacement shall be a Member of Congress.
 2) The Security Commission shall draft and adopt internal policies and regulations concerning the following matters:
+
 a) Institutional planning and research;
+
 b) Budgeting;
+
 c) Policy evaluation;
+
 d) Professional behavior codes, uniforms, and official commendation of all Security Personnel;
+
 e) Collection, arrangement, and analysis of information on criminal proceeds, and provision of such information to relevant organizations;
-f) Liaising with the International Criminal Police Organisation, police authorities of other countries, and other international organizations related to policing;
+
+f) Liaising with the International Criminal Police Organisation, police authorities of other countries, and other international organizations related to policing or to the respective activities of the given Armed Agency;
+
 g) International criminal investigation assistance;
+
 h) International disaster relief activities;
+
 i) Maintenance and management of Security educational facilities and other affairs related to Security education;
+
 j) Maintenance and management of Security communication facilities and other affairs related to Security communication;
+
 k) Information technology analysis, including investigative analysis of electronic information processing systems and electronic data;
+
 l) Maintenance and management of criminal identification facilities and other affairs related to criminal identification;
+
 m) Criminal statistics;
+
 n) Armed Agency equipment;
+
 o) Standards of appointment, performance of duties, and activities of Armed Agency personnel; and
+
 p) Necessary inspections related to the performance of Security affairs.
 
 ### Article 3: The Liberland Community Watch
