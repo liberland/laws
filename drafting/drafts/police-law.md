@@ -4,18 +4,6 @@
 
 This Law establishes the structure, organization, procedures, and functions of the State Security Agency of Liberland (hereinafter referred to as the "Security Agency"), as well as its operations on the national and cantonal levels.
 
-## Definitions
-
-**Delicts** are acts performed in violation of the Liberland Constitution, Liberland Law, or laws of other recognized states, which have victims who have been damaged by the act and for which the law prescribes legal consequences for the perpetrator.
-
-**Equipment** refers to items, data, and know-how that agents of the Security Agency use to perform their duties. Equipment includes, but is not limited to, defensive and offensive equipment designed for preventing or inflicting bodily harm or physical damage.
-
-**Personnel** refers to the agents assigned to the Security Agency.
-
-**Sidearms** are small weapons that can be reasonably concealed and do not interfere with an individual's normal, daily behavior.
-
-**Weapons** are items designed or used for inflicting bodily harm or physical damage.
-
 ## Section 1: Liberland Police
 
 ### Art. 1: Security Agency
