@@ -6,8 +6,8 @@ This Law establishes the governance, procedures, and functions of the Liberland 
 ## Chapter 1: Keeping Liberland Secure
 ### Article 1: Limitations on the Authority of Armed Agencies
 #### Section 1: Scope of Authority 
-1. Agencies and agents serving as the police force of Liberland, as well as other agencies in which individuals bear arms or enforce the law, hereinafter collectively referred to as "Armed Agencies," shall only exercise authority as expressly conferred upon them by the Constitution and the laws of Liberland, as further delineated and circumscribed by subordinate regulations. Any action not explicitly authorized by these legal instruments shall be prohibited.
-2. In discharging their duties, Armed Agencies shall be guided by the principles of impartiality, non-discrimination, non-partisanship, fairness, and objectivity.
+1. Agencies and agents serving as the police force of Liberland, as well as other agencies in which individuals bear arms or enforce the law, hereinafter collectively referred to as "Armed Agencies," shall only exercise authority as expressly conferred upon them by the Constitution and the laws of Liberland, as further delineated and circumscribed by subordinate regulations. Any action not explicitly authorized by these legal instruments shall be prohibited unless the said instruments can reasonably be found to contradict the rights enshrined in the Constitution.
+2. In discharging their duties, Armed Agencies shall be guided by the principles of impartiality, non-discrimination, non-partisanship, fairness, and objectivity, always with a view of serving the public good and protecting individual freedom to the extend of what is reasonably possible.
 
 #### Section 2: Duty to Protect
 1) Armed Agencies shall, at all times, act in the best interests of the citizens and residents of Liberland. They shall be responsible for the protection of all private property that has been legitimately and legally acquired, whether owned by citizens, residents, foreign individuals or institutions, or public bodies. They shall protect all such property with equal attention and vigour.
