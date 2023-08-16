@@ -127,7 +127,7 @@ d) address other affairs concerning the maintenance of public safety and order.
 ### Article 7: Watch Post
 
 #### Section 1: Watch Post Organization 
-1) The smallest organizational unit of the Watch shall be designated as a Watch Post. Each Watch Post shall be composed of personnel and equipment allocated to a specific District pursuant to the provisions of the Security Plan. A Watch Post shall be headed by a Constable, who shall be an Agent of the Watch, and shall be assigned a number of Agents under the Constable's command.
+1) The smallest organizational unit of the Watch shall be designated as a Watch Post. Each Watch Post shall be composed of personnel and equipment allocated to a specific District pursuant to the provisions of the Security Plan. A Watch Post shall be headed by a Constable, who shall be a Watchman or a Watchwoman, and shall be assigned a number of Agents under the Constable's command.
 2) Watch Posts shall operate with autonomy within the scope of their assigned duties. The Commander shall be responsible for ensuring that each Watch Post is provided with adequate personnel and equipment to effectively carry out its functions.
 3) Every Agent of the Watch, including the Director, shall be assigned to a specific Watch Post, which shall serve as their designated home Watch Post.
 4) All Watch Posts shall be required to cooperate with one another and to maintain professional and cordial relationships.
@@ -135,6 +135,11 @@ d) address other affairs concerning the maintenance of public safety and order.
 #### Section 2: Duties of Agents assigned to Watch Posts
 1) The primary responsibilities of Agents assigned to a specific Watch Post shall encompass regular visits to all residences, offices, shops, public places and business establishments within their assigned District. During these visits, Agents shall assess the general condition and situation of residents, employees and other denizens and provide advice on crime prevention measures.
 2) In addition to their primary duties, Agents of a Watch Post shall offer community services, including but not limited to providing directions to individuals and serving as a repository for lost-and-found items.
+
+### Article 8: District Watch
+1) In accordance with the Security Plan, a Watch District shall be established, consisting of three or four Watch Posts, or more in exceptional circumstances.
+2) The primary responsibilities of the Watch District shall include coordinating the operations of the Watch Posts within the District, providing guidance and support, and addressing issues that are more effectively resolved at a higher level.
+3) A Watch District shall be led by a Captain, who shall be a Watchman or Watchwoman, and shall also serve as the head of a Watch Post within the District.
 
 ### Article 8: Cantonal Watch
 
@@ -186,30 +191,29 @@ c) Coordinator, organizing the work of Administrative Agents (EQF 7, Agent Level
 
 d) Director, responsible for top-level management and coordination (EQF 7, Agent Level 5).
 
-### Art. 12: Weapons
+### Article 12: Weapons
 
-#### § 1  
-1. Security Professionals shall be equipped with sidearms, other weapons, and defensive and offensive equipment. They shall be meticulously trained in using those weapons and equipment, as well as in combat tactics and strategy, particularly for urban combat or combat in other environments prevalent in their assigned District.
-2. Security Professionals shall prioritize using equipment that minimizes damage to property and non-lethal weapons, resorting to lethal means only when strictly necessary for protecting their own lives and health, or the lives, health, and property of others.
+#### Section 1: Weapons of Watchmen and Watchwomen
+1. Watchmen and Watchwomen shall be equipped with sidearms, other weapons, and defensive and offensive equipment. They shall receive thorough training in the use of these weapons and equipment, as well as in combat tactics and strategy, particularly for urban combat or combat in other environments prevalent in their assigned District.
+2. Watchmen and Watchwomen shall prioritize the use of equipment that minimizes damage to property and non-lethal weapons, resorting to lethal means only when strictly necessary for protecting their own lives and health, or the lives, health, and property of others.
+3. Watchmen and Watchwomen shall be trained in first aid to provide assistance to victims of their weapon use and injured bystanders. Injured bystanders shall be given precedence over the perpetrator when triage is necessary, but assistance shall be provided to the perpetrator whenever possible, at least to preserve their life, especially when more seriously injured than the bystander.
 
-#### § 2  
-Other Security Personnel shall be equipped with sidearms and trained in their use for self-protection. They shall also be trained in combat tactics concerning combat in environments prevalent in their assigned District.  
-1. Security Agents shall be trained in first aid to provide assistance to victims of their weapon use and injured bystanders.
-2. Injured bystanders shall be given precedence over the perpetrator when triage is necessary, but assistance shall be provided to the perpetrator whenever possible, at least to preserve their life, especially when more seriously injured than the bystander.
+#### Section 2: Weapons of Other Watch Personnel
+Other Agents of the Watch shall be equipped with sidearms and trained in their use for self-protection. They shall also be trained in combat tactics concerning combat in environments prevalent in their assigned District.
 
-### Art. 13: Liberland Guard
-Liberland Guard shall be special Watch Posts assigned specifically to protect State Property and State Officials; the State Guard Agents may also be assigned to fulfil the regular tasks of the Watch where that becomes necessary. Watchmen and Watchwomen assigned to this duty shall be refered to as Guardsmen and Guardswomen.
+### Article 13: Liberland Guard
+The Liberland Guard shall consist of special Watch Posts assigned specifically to protect State Property and State Officials. State Guard Agents may also be assigned to fulfil the regular tasks of the Watch where necessary. Watchmen and Watchwomen assigned to this duty shall be referred to as Guardsmen and Guardswomen.
 
-### Art. 13: Complaint
+### Article 13: Complaint
 
-#### § 1  
-1. Any person with a complaint against the execution of duties by Security Agency personnel shall be permitted to lodge a complaint verbally or in writing with the Security Office, the Cantonal Security, or the Security Agency.
-2. Complaints shall always be lodged with the highest institution to which the Agent subject to the complaint belongs or to which the situation pertains.
+#### Section 1: Complaint Procedure
+1) Any person who feels harmed in their person, rights or property against the execution of duties by Watch personnel may lodge a complaint, either verbally or in writing, with the Watch Post, District Watch, Cantonal Watch, or the Watch itself. Generally, complaints shall be logged by the Watch entity that is the subject of the complaint. However, if the complainant has reasons to suspect that they will be denied justice, they may log the complaint with the next highest instance in the Watch, accompanied by a written explanation of their reasons.
+2) Complaints shall always be lodged with the highest institution to which the Agent subject to the complaint belongs or to which the situation pertains.
 
-#### § 2  
-Each organ of the Security Agency shall establish institutions to handle complaints justly, lawfully, impartially, and faithfully. If establishing such institutions proves impractical, the organ shall present the complaint and all related documentation to the appropriate institutions of the Cantonal Security, if it exists, or the central Security Agency.
+#### Section 2: Institutions for Handling Complaints
+Each organ of the Watch shall establish institutions to handle complaints in a just, lawful, impartial, and faithful manner. If establishing such institutions proves impractical, the organ shall present the complaint and all related documentation to the appropriate institutions of the District or Cantonal Watch, or the central Watch.
 
-## Section 2: Rights and Duties of Security Agents
+## Chapter 2: Rights and Duties of Security Agents
 
 ### Art. 14: Rights and Duties of Security Agents
 
