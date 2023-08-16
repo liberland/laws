@@ -17,7 +17,7 @@ Armed Agencies shall, at all times, act in the best interests of the citizens an
 2. In all matters, Armed Agencies shall exercise their powers prudently, professionally and adhering to the rules of due Administrative Process as applicable to their situation.
 3. Armed Agencies shall never abuse their authority against individuals. Under no circumstances shall Armed Agencies infringe upon the liberties and rights enshrined in the Constitution of Liberland.
 
-### Article 2: The Security Commission
+### Article 2: Security Commission
 #### Section 1: Creation and Purpose
 The Minister of Interior shall establish the Security Commission of Liberland (hereinafter referred to as the "Security Commission"). The Security Commission shall be responsible for establishing the organizational structure of all Armed Agencies within the boundaries of this law. It shall also be tasked with drafting and enforcing processes and rules applicable to all Armed Agencies in Liberland.
 
@@ -68,7 +68,17 @@ o) Standards of appointment, performance of duties, and activities of Armed Agen
 
 p) Necessary inspections related to the performance of Security affairs.
 
-### Article 3: Security Plan
+#### Article 3: Cantonal Security Commission 
+1) In the event that Liberland is divided into Cantons or similar organizational units, a Cantonal Security Commission shall be established for each Canton.
+2) The Cantonal Security Commission shall perform the functions of the Security Commission within its respective Canton. It shall report all findings to the Security Commission and shall cooperate with the Security Commission and other Cantonal Security Commissions to ensure the security of Liberland.
+3) The Cantonal Minister of Interior, or the equivalent official, shall establish and preside over the Cantonal Security Commission. The Commission shall consist of five members, including the presiding official. The other four members shall be:
+a) A Cantonal Court Judge, nominated by the Cantonal Minister of Justice or the equivalent official, and appointed by the head of the Canton;
+b) A representative of the Cantonal Congress or the corresponding legislative body;
+c) A Senator, nominated by the Senate and appointed by the President; and
+d) A former senior Agent of an Armed Agency, distinguished by exceptional skills and an unblemished reputation, nominated by the Cantonal Minister of Interior or the equivalent official, and appointed by the head of the Canton.
+In the event that a Commissioner cannot be found, a member of the Cantonal Congress or a similar legislative body, where applicable, shall serve as a replacement.
+
+### Article 4: Security Plan
 #### Section 1: Allocation of Assets
 1) Armed Agency personnel, locations and equipment shall be allocated to these Districts in accordance with the Liberland Security Plan (hereinafter referred to as the "Security Plan"). 
 2) For the purpose of maintaining security, Liberland shall be divided into Districts and the Security Plan shall be drafted based on this division. 
@@ -82,79 +92,57 @@ p) Necessary inspections related to the performance of Security affairs.
 2) Upon approval by the Security Commission, the Minister of Interior shall present the Security Plan to the Cabinet. The Cabinet shall have the authority to make modifications to the Security Plan.
 3) After approving the Security Plan, the Cabinet shall make it available to Congress and the general public, thereby granting the Security Plan its legal force.
 
-### Article 3: The Liberland Community Watch
+### Article 5: Security Academy
+
+1) When Congress determines that the growing population of Liberland and its corresponding security needs warrant the establishment of a Security Academy, it shall have the authority to create such an Academy by means of a formal Decision.
+2) The Security Academy shall be led by a Rector, who shall be nominated by the Minister of Interior and appointed by the President. The Security Academy shall operate as a division of the Security Agency.
+3) The Security Academy shall be responsible for providing the necessary education and training to police personnel to prepare them for roles as senior staff officers. Additionally, the Academy shall oversee scientific research related to security matters.
+
+## Chapter 2: Policing Liberland
+### Article 4: Liberland Community Watch
 #### Section 1: Authority of the Watch
-The Liberland Community Watch, henceforth the "Watch", shall be an Agency under the Ministry of Interior. The purpose of this Agency shall be to serve as Liberland's primary police force and the only general-purpose police Liberland shall know. As such, the responsibilities and duties of the Watch shall be to:  
+The Liberland Community Watch, henceforth the "Watch", shall be an Agency under the Ministry of Interior. The purpose of this Agency shall be to serve as Liberland's primary police force and the only general-purpose police Liberland shall know. As such, the responsibilities and duties of the Watch shall be to:
+
 a) protect the property of individuals, including their life, health, and belongings;  
+
 b) prevent delicts, suppress and stop ongoing delicts, and investigate all delicts;  
+
 c) apprehend suspects;  
+
 d) address other affairs concerning the maintenance of public safety and order.
 
 #### Section 2: Congressional Oversight
-1. Congress shall have direct oversight over all aspects of the Security Agency. It shall be empowered to conduct ad hoc and regular investigations, demand witness presence and testimony, or require the production of records.  
+1. Congress shall have direct oversight over all aspects of the Security Agency. It shall be empowered to conduct ad hoc and regular investigations, demand witness presence and testimony, or require the production of records.
+   
 2. Congress shall have the power to remove any agent of the Security Agency from office by its Decision and reorganize the functioning of the Security Agency at any level by means of a decision.
 
 #### Section 3: Commander
 1. The head of the Watch shall be the Commander of the Watch of Liberland (hereinafter referred to as the "Commander"), nominated by the Minister of Interior and appointed by the President. All Age
 2. The Commander shall be responsible for the regular management and direction of the Security Agency operations, as well as the supervision and direction of the Security personnel.
 
+### Article 5: Watch Post
 
-### Art. 6: Security Office
+#### Section 1: Watch Post Organization 
+1) The smallest organizational unit of the Watch shall be designated as a Watch Post. Each Watch Post shall be composed of personnel and equipment allocated to a specific District pursuant to the provisions of the Security Plan. A Watch Post shall be headed by a Constable, who shall be an Agent of the Watch, and shall be assigned a number of Agents under the Constable's command.
+2) Watch Posts shall operate with autonomy within the scope of their assigned duties. The Commander shall be responsible for ensuring that each Watch Post is provided with adequate personnel and equipment to effectively carry out its functions.
+3) Every Agent of the Watch, including the Director, shall be assigned to a specific Watch Post, which shall serve as their designated home Watch Post.
+4) All Watch Posts shall be required to cooperate with one another and to maintain professional and cordial relationships.
 
-#### § 1
+#### Section 2: Duties of Agents assigned to Watch Posts
+1) The primary responsibilities of Agents assigned to a specific Watch Post shall encompass regular visits to all residences, offices, shops, public places and business establishments within their assigned District. During these visits, Agents shall assess the general condition and situation of residents, employees and other denizens and provide advice on crime prevention measures.
+2) In addition to their primary duties, Agents of a Watch Post shall offer community services, including but not limited to providing directions to individuals and serving as a repository for lost-and-found items.
 
-1. The lowest organizational unit of the Security Agency shall be a Security Office, composed of the Personnel and Equipment assigned to a specific District according to the Security Plan.  
-2. Each Agent of Security, including the Director, shall be assigned to one Security Office.  
-3. The Security Offices shall be obligated to cooperate and maintain professional and amicable relationships.
+### Article 6: Cantonal Watch
 
-#### § 2
+#### Section 1: Establishment of Cantonal Watch  
+1. If Liberland becomes divided into Cantons or similar organizational units, the Cantonal Watch shall be established as the mid-level unit of the Watch.  
+2. Cantonal Watch shall serve as the direct supervisory body over the Watch Posts in the corresponding Canton.  
+3. Cantonal Watch shall be responsible for coordinating between the Watch Posts within the given Canton and fulfilling the goals of the Watch within the given Canton.
+4. Similar to the Watch Posts, the Cantonal Watch of each Canton shall be required to maintain close contact and active cooperation with the Cantonal Security Agencies of all other Cantons.
 
-1. The primary tasks of the Security Office Agents, specific to their Security Office unit, shall include regularly visiting all houses and offices in their District to stay informed about the general condition and situation of residents and to provide crime prevention advice.  
-2. Security Office Agents shall also offer community services, such as giving directions and acting as a 'lost-and-found' office.
-
-### Art. 7: Cantonal Security
-
-#### § 1  
-1. If Liberland becomes divided into Cantons or similar organizational units, the Cantonal Security Agency (hereinafter referred to as "Cantonal Security") shall be established as the mid-level unit of the Security Agency.  
-2. Cantonal Security shall serve as the direct supervisory body over the Security Offices in the corresponding Canton.  
-3. Cantonal Security shall be responsible for coordinating between the Security Offices and fulfilling the Purpose of the Security Agency within the given Canton.
-
-#### § 2  
-1. Cantonal Security shall be led by the Cantonal Security Director (hereinafter referred to as "Cantonal Director"), who shall be nominated by the Minister of Interior and appointed by the President.  
-2. The Cantonal Director's responsibilities shall include regular management and direction of Cantonal Security operations, as well as directing and supervising Cantonal Security personnel and the Cantonal Security itself.
-
-#### § 3  
-1. The supreme body of Cantonal Security shall be the Cantonal Security Commission, which makes decisions regarding the organizational structure, rules, regulations, and policies governing the operations of Cantonal Security.
-2. The Cantonal Minister of Interior, or the corresponding official, shall establish Cantonal Security, with the Cantonal Director as its head. The other four members shall be a:  
-a) Cantonal Court Judge nominated by the Cantonal Minister of Justice, or the corresponding official, and appointed by the head of the Canton;  
-b) representative of the Cantonal Congress, or the corresponding body;  
-c) Senator nominated by the Senate and appointed by the President; and  
-d) former senior Agent of the Security Agency with distinguished skills and an impeccable reputation, nominated by the Cantonal Minister of Interior, or the    corresponding official, and appointed by the head of the Canton.  
-
-#### § 4   
-1. The Commissioners shall perform their duties as part of their original office and shall not become Agents of Cantonal Security.  
-2. If a Commissioner cannot be found, their replacement shall be a representative of the Cantonal Congress or the corresponding body.  
-
-#### § 5  
-The duties of the Cantonal Security Commission shall be the same as those of the Security Commission of Liberland, with necessary adjustments.
-
-#### § 6  
-Similar to the Security Offices, the Cantonal Security Agencies of each Canton shall be required to maintain close contact and active cooperation with the Cantonal Security Agencies of all other Cantons.
-
-### Art. 8: Security Academy
-
-#### § 1  
-When Congress deems it necessary, given the increasing population of Liberland and its security needs, they shall have the power to establish a Security Academy by a Decision.
-
-#### § 2  
-The Security Academy shall be headed by the Rector, nominated by the Minister of Interior and appointed by the President. The Security Academy shall be a part of the Security Agency.
-
-#### § 3  
-
-The Security Academy shall conduct necessary education and training for police personnel to develop them into senior staff officers and oversee scientific research relating to security matters. 
-
-#### § 4  
-If Liberland expands to the extent that it becomes expedient to have Security Academies attached to each Cantonal Security, Congress shall, with a Decision, enable this in principle. Subsequently, each Cantonal Congress or similar body shall have the power, by their Decision or similar instrument, to establish a Security Agency within their Canton.
+#### Section 2: Cantonal Watch Commander  
+1. Cantonal Watch shall be led by the Cantonal Watch Commander (hereinafter referred to as "Cantonal Commander"), who shall be nominated by the Minister of Interior and appointed by the President.  
+2. The Cantonal Commander's responsibilities shall include regular management and direction of Cantonal Watch operations, as well as directing and supervising Cantonal Security personnel and the Cantonal Watch itself.
 
 ### Art. 9: Authority Outside of Jurisdiction
 1. A Security Office or Cantonal Security may also extend their authorities beyond the limit of their jurisdictional area within the scope of necessity for protecting the life, physical well-being, and property of the concerned parties within the jurisdiction, including residents and visitors, or to combat organized crime (hereinafter referred to as "extending Security").
