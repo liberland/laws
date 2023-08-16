@@ -192,16 +192,12 @@ The Liberland Guard shall consist of special Watch Posts assigned specifically t
 #### Section 2: Institutions for Handling Complaints
 Each organ of the Watch shall establish institutions to handle complaints in a just, lawful, impartial, and faithful manner. If establishing such institutions proves impractical, the organ shall present the complaint and all related documentation to the appropriate institutions of the District or Cantonal Watch, or the central Watch.
 
-## Chapter 2: Rights and Duties of Security Agents
+## Chapter 2: Police Enforcement
 
-### Art. 14: Rights and Duties of Security Agents
-
-1. The purpose of this Section is to outline the necessary measures for Security Agents to faithfully carry out their responsibilities and duties according to this Law.
-2. Any measures provided for in this Law shall be used within the limits of minimum necessity as required for the fulfillment of duties according to this Law, and any abuse thereof is strictly prohibited.
-
-### Art. 15: Enforcement, Measures of Force
-
-When prescribed by Law, a Security Agent may use necessary Measures of Force to enforce cooperation from a person in order to perform their duties according to this Law. The Agent may use offensive and defensive equipment and non-lethal weapons to ensure compliance when other, less invasive and less damaging measures would be clearly insufficient.
+### Art. 15: Rules of Enforcement
+1. When authorized by law, an Agent on police duty may employ measures of aggressive violence, as prescribed by this law, to enforce compliance from an individual, provided that such measures are necessary to perform the Agent's duties and no other solution would clearly achieve the intended or comparable results.
+2.  An Agent may use offensive and defensive equipment and non-lethal weapons to ensure compliance when other, less invasive and less damaging measures would be clearly insufficient.
+3.  Lethal weapons may be used as measures of last resort when all other means have clearly failed or when it can be assumed with overwhelming conviction that such less damaging measures would clearly fail.
 
 ### Art. 16: Use of Weapon
 
