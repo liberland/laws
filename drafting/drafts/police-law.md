@@ -13,7 +13,7 @@ This Law establishes the governance, procedures, and functions of the Liberland 
 1) Armed Agencies shall, at all times, act in the best interests of the citizens and residents of Liberland. They shall be responsible for the protection of all private property that has been legitimately and legally acquired, whether owned by citizens, residents, foreign individuals or institutions, or public bodies. They shall protect all such property with equal attention and vigour.
 
 #### Section 3: Constitutional Adherence
-1. Armed Agencies shall conduct themselves in accordance with the principles enshrined in the Constitution of Liberland, particularly those set forth in its first Book. Accordingly, Armed Agencies shall refrain from the aggressive use of force and shall only employ force in defence against aggression in general, and aggressive violence especially.
+1. Armed Agencies shall conduct themselves in accordance with the principles enshrined in the Constitution of Liberland, particularly those set forth in its first Book, and they shall actively enforce these principles. Accordingly, Armed Agencies shall refrain from the aggressive use of force and shall only employ force in defence against aggression in general, and aggressive violence especially.
 2. In all matters, Armed Agencies shall exercise their powers prudently, professionally and adhering to the rules of due Administrative Process as applicable to their situation.
 3. Armed Agencies shall never abuse their authority against individuals. Under no circumstances shall Armed Agencies infringe upon the liberties and rights enshrined in the Constitution of Liberland.
 
