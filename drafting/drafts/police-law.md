@@ -92,7 +92,7 @@ In the event that a Commissioner cannot be found, a member of the Cantonal Congr
 1) A Security Plan shall remain valid for 20 Election Terms, after which it shall be subject to revision and shall undergo the adoption procedure as prescribed by this law.
 2) Revisions to the Security Plan may be initiated by the Minister of Interior or Congress and shall follow the same adoption procedure. In cases where the revision is initiated by Congress, Congress shall be responsible for drafting the revisions in lieu of the Minister of Interior.
 
-#### Section 2: Adoption Process of the Security Plan
+#### Section 2: Adoption Process
 1) The Minister of Interior shall draft the Security Plan. The Security Commission shall review the draft and either adopt or reject it, providing recommendations as necessary.
 2) Upon approval by the Security Commission, the Minister of Interior shall present the Security Plan to the Cabinet. The Cabinet shall have the authority to make modifications to the Security Plan.
 3) After approving the Security Plan, the Cabinet shall make it available to Congress and the general public, thereby granting the Security Plan its legal force.
@@ -118,7 +118,6 @@ d) address other affairs concerning the maintenance of public safety and order.
 
 #### Section 2: Congressional Oversight
 1. Congress shall have direct oversight over all aspects of the Security Agency. It shall be empowered to conduct ad hoc and regular investigations, demand witness presence and testimony, or require the production of records.
-   
 2. Congress shall have the power to remove any agent of the Security Agency from office by its Decision and reorganize the functioning of the Security Agency at any level by means of a decision.
 
 #### Section 3: Commander
@@ -144,15 +143,15 @@ d) address other affairs concerning the maintenance of public safety and order.
 2. Cantonal Watch shall serve as the direct supervisory body over the Watch Posts in the corresponding Canton.  
 3. Cantonal Watch shall be responsible for coordinating between the Watch Posts within the given Canton and fulfilling the goals of the Watch within the given Canton.
 4. Similar to the Watch Posts, the Cantonal Watch of each Canton shall be required to maintain close contact and active cooperation with the Cantonal Security Agencies of all other Cantons.
-
+5. 
 #### Section 2: Cantonal Watch Commander  
 1. Cantonal Watch shall be led by the Cantonal Watch Commander (hereinafter referred to as "Cantonal Commander"), who shall be nominated by the Minister of Interior and appointed by the President.  
 2. The Cantonal Commander's responsibilities shall include regular management and direction of Cantonal Watch operations, as well as directing and supervising Cantonal Security personnel and the Cantonal Watch itself.
 
-### Art. 9: Authority Outside of Jurisdiction
-1. A Security Office or Cantonal Security may also extend their authorities beyond the limit of their jurisdictional area within the scope of necessity for protecting the life, physical well-being, and property of the concerned parties within the jurisdiction, including residents and visitors, or to combat organized crime (hereinafter referred to as "extending Security").
-2. In such cases, the extending Security shall inform the Security Office or Cantonal Security they wish to extend their authority into (hereinafter referred to as "neighboring Security"). The neighboring Security shall fully cooperate with the extending Security where the extension is justified.
-3. If the neighboring Security deems the intrusion unjustified, they shall immediately inform the Director, who shall make a swift decision, allowing or prohibiting the intrusion.
+### Article 7: Extension of Watch Authority
+1) A Watch Post or a Cantonal Watch may exercise their authority beyond the boundaries of their designated jurisdictional area when it is necessary to protect the life, physical well-being, and property of individuals within their jurisdiction, including residents and visitors, or to combat organized crime.
+2) In instances where a Watch Post or Cantonal Watch seeks to extend its authority into another jurisdiction, it shall notify the relevant Watch Post or Cantonal Watch of its intentions. The notified Watch Post or Cantonal Watch shall provide full cooperation to the extending Watch, provided that the extension of authority is justified.
+3) If the notified Watch Post or Cantonal Watch believes that the extension of authority is unjustified, it shall promptly inform the Commander. The Commander shall make an expedited decision regarding the matter, either permitting or prohibiting the extension of authority.
 
 ### Art. 10: Personnel
 
