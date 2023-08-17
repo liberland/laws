@@ -159,7 +159,7 @@ Every Liberland citizen shall have the right to request the return of their volu
 
 1. A citizen may choose to terminate their citizenship at any time. Upon verifying the request for renunciation of the citizen, the Citizenship Commission shall cancel the citizenship, and the voluntary tax shall remain their own, but without the citizenship rights. They shall no longer be able to use their LLM for political purposes.
 2. If an ex-citizen opts to withdraw their voluntary tax, this shall be done in the same way as participating in the state social system, but they shall receive instalments covering the entire voluntary tax amount within the span of one year.
-3. An ex-citizen whose citizenship has been terminated regularly shall be allowed to re-apply for citizenship at any time under the conditions that apply to all regular applicants.
+3. An ex-citizen whose citizenship has been terminated through regular means shall be allowed to re-apply for citizenship at any time under the conditions that apply to all regular applicants.
 
 ### Article 20: Irregular Termination of Citizenship
 
