@@ -7,7 +7,7 @@ WHEREAS, the unique conception of Citizenship in Liberland, as a powerful legisl
 
 WHEREAS, the aim of this Law is to create an equal society of Citizens who are treated as individuals, not as parts of a collective mass, and who can influence the extent of their commitment to collective decision-making with real, tangible effects on their political power;
 
-NOW, THEREFORE, BE IT ENACTED by the Parliament of Liberland as follows:
+NOW, THEREFORE, BE IT ENACTED by the Citizens and the Government of Liberland as follows:
 
 ## Recitals
 
