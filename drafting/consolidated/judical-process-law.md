@@ -36,7 +36,7 @@ NOW, THEREFORE, BE IT ENACTED by the Citizens and the Government of Liberland as
 
 9. The Administrative Law is drafted as a special law to this law and shall take directly from this law what isn't set forth specifically for administrative processes, ensuring a single process system in Liberland.
 
-10. The system established by this law is a mix between EU/Roman law and common law, granting judges powers beyond what is usual in Europe, leading to adjudication of cases, law creation, and binding interpretation.
+10. The system established by this law is a mix between EU/Roman law and common law, granting Judges powers beyond what is usual in Europe, leading to adjudication of cases, law creation, and binding interpretation.
     
 ## Chapter 1: General principles   
 
@@ -70,64 +70,64 @@ Courts shall have the power to grant appropriate and effective remedies, includi
 ### Article 9: Language   
 
 #### Section 1: Liberlandish as the default process language  
-1. State courts shall communicate in Liberlandish, a dialect continuum of English, and parties are responsible for compliance. The judge may direct otherwise, but only if all parties jointly agree to use a language other than Liberlandish.
-2. When a party requests the service of a translator and/or interpreter, the judge shall arrange that at the expense of the requesting party.
+1. State courts shall communicate in Liberlandish, a dialect continuum of English, and parties are responsible for compliance. The Judge may direct otherwise, but only if all parties jointly agree to use a language other than Liberlandish.
+2. When a party requests the service of a translator and/or interpreter, the Judge shall arrange that at the expense of the requesting party.
 
 #### Section 2: Protection of a weaker party  
-When the protection of a weaker party, such as a party with a sensory impairment, requires interpretation or transcription to make the process understandable for that party, and the use of legal counsel is insufficient, or the party can prove that they have insufficient means to obtain such legal counsel, the judge shall waive the requirement for the party to cover the expenses for translation or interpretation services. Additionally, the judge shall make any necessary accommodations to allow the party to present their case reasonably.
+When the protection of a weaker party, such as a party with a sensory impairment, requires interpretation or transcription to make the process understandable for that party, and the use of legal counsel is insufficient, or the party can prove that they have insufficient means to obtain such legal counsel, the Judge shall waive the requirement for the party to cover the expenses for translation or interpretation services. Additionally, the Judge shall make any necessary accommodations to allow the party to present their case reasonably.
 
-### Article 10: Civil process    
-Civil process, a procedure concerning matters in private law between parties, shall be the standard form of the process before any Court.
+### Article 10: Civil Process    
+Civil Process, a procedure concerning matters in private law between parties, shall be the standard form of the process before any Court.
 
-### Article 11: Criminal process    
+### Article 11: Criminal Process    
 
-#### Section 1: Defining criminal process
-Criminal process shall be between Liberland and a private party where the subject matter is alleged non-compliance with the legal system, and Liberland stands as the public accuser.
+#### Section 1: Defining Criminal Process
+Criminal Process shall be between Liberland and a private party where the subject matter is alleged non-compliance with the legal system, and Liberland stands as the public accuser.
 
-#### Section 1: Special Rules for criminal process
-Special procedural rules apply to criminal processes to protect the accused and ensure even higher standards of justice than the standard procedural rules, set forth in this or in other laws. In the absence of special rules, the rules for Civil Process shall apply.
+#### Section 1: Special Rules for Criminal Process
+Special procedural rules apply to the Criminal Process to protect the accused and ensure even higher standards of justice than the standard procedural rules, set forth in this or in other laws. In the absence of special rules, the rules for Civil Process shall apply.
 
-#### Section 3: State Monopoly on criminal process  
-Only State courts shall possess the jurisdiction to decide on a Criminal process. Any contractual stipulations to the contrary shall be null and void.
+#### Section 3: State Monopoly on Criminal Process  
+Only State courts shall possess the jurisdiction to decide on a Criminal Process. Any contractual stipulations to the contrary shall be null and void.
 
 ### Article 12: Private Courts and alternative dispute resolution  
 1. Private courts, arbitration, mediation, and other alternative dispute resolution mechanisms may be established and operated within the territory of Liberland, subject to the general principles and minimum requirements set forth in this law.
 2. Private courts shall have the power to resolve disputes between parties in accordance with the agreed-upon rules and procedures, provided that they do not violate the fundamental principles of justice and fairness enshrined in this law and the Constitution of Liberland.
    
-### Article 13: Disciplinary process    
-A disciplinary process shall be where a Private Court adjudicates a case between itself or the community that organizes it, or any of its representatives, and a private party where the subject matter is alleged non-compliance with that community's rules, laws, or traditions of the Private Court. The special procedural rules apply to the Disciplinary process as if it were a Criminal Process.
+### Article 13: Disciplinary Process    
+A Disciplinary Process shall be where a Private Court adjudicates a case between itself or the community that organizes it, or any of its representatives, and a private party where the subject matter is alleged non-compliance with that community's rules, laws, or traditions of the Private Court. The special procedural rules apply to the Disciplinary Process as if it were a Criminal Process.
 
 ## Chapter 2: Core Concepts  
 
-### Article 14: Role of the judge
-1. The judge is the official through which a court acts in matters of the judicial process.
-2. A judge or judges preside over any judicial process and make the final decision resolving any dispute, question, or other matter presented before the court.
-The judge shall also be the final arbiter deciding on the correct procedure in every situation before the court.
+### Article 14: Role of the Judge
+1. The Judge is the official through which a court acts in matters of the judicial process.
+2. A Judge or Judges preside over any judicial process and make the final decision resolving any dispute, question, or other matter presented before the court.
+The Judge shall also be the final arbiter deciding on the correct procedure in every situation before the court.
 
-### Article 15: Composition of judicial panels
-1. Where multiple judges are presiding over a process, they shall decide the case together and always be of an even number.
-2. No judge shall have higher deciding power than any other judge.
+### Article 15: Composition of Judicial Panels
+1. Where multiple Judges are presiding over a process, they shall decide the case together and always be of an even number.
+2. No Judge shall have higher deciding power than any other Judge.
 
-### Article 16: Assigning judges
-1. Each court shall establish rules according to which judges are assigned to cases and shall respect those rules in all matters.
-2. No party shall be deprived of a judge assigned to them, except where the party gives their express permission.
+### Article 16: Assigning Judges
+1. Each court shall establish rules according to which Judges are assigned to cases and shall respect those rules in all matters.
+2. No party shall be deprived of a Judge assigned to them, except where the party gives their express permission.
 
 ### Article 17: Judicial conduct
 
 #### Section 1: Impartiality  
-1. The judge shall act impartially and in the interest of justice, upholding legitimately obtained private property and being mindful of the personal situations of the parties and their power differences.
-2. The judge shall base each statement in any verdict on evidence and well-reasoned logic only, and according to law and principles of justice.
-After a case has commenced, there shall be no ex parte communication between the judge and the parties, or between the court and other persons relevant to the case, such as witnesses, unless explicitly permitted by consent of all parties.
+1. The Judge shall act impartially and in the interest of justice, upholding legitimately obtained private property and being mindful of the personal situations of the parties and their power differences.
+2. The Judge shall base each statement in any verdict on evidence and well-reasoned logic only, and according to law and principles of justice.
+After a case has commenced, there shall be no ex parte communication between the Judge and the parties, or between the court and other persons relevant to the case, such as witnesses, unless explicitly permitted by consent of all parties.
 
-#### Section 2: Partial judges  
-1. A judge who has a personal connection to one or more of the parties or the object of the case shall be deemed partial where that connection is judged sufficient to influence their decision-making.
-2. If a party suspects partiality, they may appeal to the court, which shall appoint three judges to decide on the impartiality of the fellow judge. A judge in doubt of being partial may also initiate this process themselves.
-3. A partial judge shall be replaced according to the rules of the court. Partiality in itself shall not be counted against the judge without it having led to unjust decisions or breaches of due process, or without it having been found in extenuating circumstances (i.e., the judge must have known that they were partial and not reported it).
-4. A court or higher court, where applicable, shall re-examine a judicial decision made and a judicial process presided by a partial judge, regardless of the procedural stage at which impartiality has been established.
+#### Section 2: Partial Judges  
+1. A Judge who has a personal connection to one or more of the parties or the object of the case shall be deemed partial where that connection is Judged sufficient to influence their decision-making.
+2. If a party suspects partiality, they may appeal to the court, which shall appoint three Judges to decide on the impartiality of the fellow Judge. A Judge in doubt of being partial may also initiate this process themselves.
+3. A partial Judge shall be replaced according to the rules of the court. Partiality in itself shall not be counted against the Judge without it having led to unjust decisions or breaches of due process, or without it having been found in extenuating circumstances (i.e., the Judge must have known that they were partial and not reported it).
+4. A court or higher court, where applicable, shall re-examine a judicial decision made and a judicial process presided by a partial Judge, regardless of the procedural stage at which impartiality has been established.
 
 ### Article 18 Judicial Orders
-1. A judge may issue various interim pre-trial orders or measures to ensure that the circumstances of the case remain sufficiently stable for adjudication. Parties shall comply with these orders, or the judge may impose penalties up to the case's value, with the maximum penalty being the total forfeiture of all points on the case for the non-compliant party.
-2. A judge may use the following order:
+1. A Judge may issue various interim pre-trial orders or measures to ensure that the circumstances of the case remain sufficiently stable for adjudication. Parties shall comply with these orders, or the Judge may impose penalties up to the case's value, with the maximum penalty being the total forfeiture of all points on the case for the non-compliant party.
+2. A Judge may use the following order:
 
 a) **Restraining/Compelling Order**: Short-term orders issued to prevent a party from engaging in certain actions that could harm the other party or the case itself.
 
@@ -150,7 +150,7 @@ Certainly! Here's a draft of a law regarding the issuance and execution of warra
 ### Article 19: Warrants
 
 #### Section 1: Authority to Issue Warrants
-A judge may issue a warrant upon a showing of probable cause, supported by oath or affirmation, and particularly describing the place to be searched and the persons or things to be seized.
+A Judge may issue a warrant upon a showing of probable cause, supported by oath or affirmation, and particularly describing the place to be searched and the persons or things to be seized.
 
 #### Section 2: Types of Warrants
 
@@ -158,12 +158,12 @@ A judge may issue a warrant upon a showing of probable cause, supported by oath 
 
 **b) Arrest Warrants:** An arrest warrant authorizes Law Enforcement Officers to arrest a specific individual based on probable cause that the individual has committed a crime.
 
-**c) Bench Warrants** A bench warrant is issued by a judge when a defendant fails to appear in court as required, authorizing Law Enforcement Officers to arrest the defendant and bring them to court.
+**c) Bench Warrants** A bench warrant is issued by a Judge when a defendant fails to appear in court as required, authorizing Law Enforcement Officers to arrest the defendant and bring them to court.
 
 #### Section 3: Execution of Warrants
 1. Law Enforcement Officers shall execute warrants in accordance with the terms of the warrant and applicable laws and regulations.
 2. Law Enforcement Officers executing a warrant shall identify themselves, present the warrant to the person subject to the warrant or the occupant of the place to be searched, and provide a receipt for any property seized.
-3. In exigent circumstances, where there is a risk of imminent harm to persons, destruction of evidence, or flight of a suspect, Law Enforcement Officers may take necessary actions without a warrant, provided that they subsequently obtain a warrant or present the circumstances to a judge for review.
+3. In exigent circumstances, where there is a risk of imminent harm to persons, destruction of evidence, or flight of a suspect, Law Enforcement Officers may take necessary actions without a warrant, provided that they subsequently obtain a warrant or present the circumstances to a Judge for review.
 
 #### Section 4: Reporting and Oversight
 1. Agencies charged with police duties shall maintain records of all warrants issued and executed relevant to their activities, including the basis for the warrant, the items seized, and the outcome of any related proceedings.
@@ -171,13 +171,13 @@ A judge may issue a warrant upon a showing of probable cause, supported by oath 
 
 ### Article 18: Judicial Decisions
 #### Section 1: Consideration of evidence
-1. In rendering judicial decisions, the judge shall assess each piece of evidence individually, taking into account the manner in which it was obtained and the assertions it is intended to support. The judge shall rely exclusively on objective and established facts.
-2. There shall be no formal rules governing the interpretation or exclusion of evidence in the law: No legal provision shall be placed higher than the truth. Consequently, the judge shall always have the authority to earnestly evaluate the facts of the case and address them according to their best judgment. However, the judge shall be required to articulate the rationale for their decisions.
-3. The judge may not refuse to make a Judicial Decision once assigned a Case.
+1. In rendering judicial decisions, the Judge shall assess each piece of evidence individually, taking into account the manner in which it was obtained and the assertions it is intended to support. The Judge shall rely exclusively on objective and established facts.
+2. There shall be no formal rules governing the interpretation or exclusion of evidence in the law: No legal provision shall be placed higher than the truth. Consequently, the Judge shall always have the authority to earnestly evaluate the facts of the case and address them according to their best judgment. However, the Judge shall be required to articulate the rationale for their decisions.
+3. The Judge may not refuse to make a Judicial Decision once assigned a Case.
 
 #### Section 2: Form and availability of judicial decisions
-1. A judicial decision may be delivered orally or in writing. Regardless of the form of delivery, a written copy of the decision, signed and certified by the judge, shall be made available at the judge's discretion or upon request by a party. In case of a difference between the oral and written version the written version shall take precedence.
-2. In cases where translation services are utilized, written translations into other languages shall be provided concurrently. The decision becomes binding upon the court once it is signed by the judge.
+1. A judicial decision may be delivered orally or in writing. Regardless of the form of delivery, a written copy of the decision, signed and certified by the Judge, shall be made available at the Judge's discretion or upon request by a party. In case of a difference between the oral and written version the written version shall take precedence.
+2. In cases where translation services are utilized, written translations into other languages shall be provided concurrently. The decision becomes binding upon the court once it is signed by the Judge.
 
 ### Article 20 Non-Controversial Cases
 
@@ -204,7 +204,7 @@ A civil proceeding shall commence upon the submission of an Application by the a
 
 ### Article 22: Issuance of Summons
 1. Upon receipt of an Application, the court shall issue a Summons, or notice, to the respondent or respondents, directing them to respond to the claim within a designated timeframe or on a specified date. This shall be conducted electronically wherever feasible, though extraordinary circumstances may necessitate the personal presence of a party.
-2. The Summons or notice shall be served upon the respondent in a manner ensuring that the respondent receives adequate notice of the proceedings and an opportunity to present a defense.
+2. The Summons or notice shall be served upon the respondent in a manner ensuring that the respondent receives adequate notice of the proceedings and an opportunity to present a defence.
 
 ### Article 22: Response
 1. A respondent shall respond to the Application by submitting a counter-Application that shall be known as the Response.
@@ -267,7 +267,7 @@ The court shall notify the parties of the trial date and any relevant pre-hearin
 
 ### Article 34: Trial process
 1. The trial shall be conducted in a fair, impartial, and orderly manner, with due respect for the rights and interests of all parties.
-2. The presiding judge shall open the hearing by briefly outlining the nature of the case, the issues to be resolved, and the procedural rules that will govern the proceedings.
+2. The presiding Judge shall open the hearing by briefly outlining the nature of the case, the issues to be resolved, and the procedural rules that will govern the proceedings.
 
 ### Article 35: Presentation of the Applicant's case
 1. The applicant shall present their case first, providing an opening statement that summarizes their arguments, the evidence they intend to rely on, and the relief they are seeking.
@@ -278,25 +278,25 @@ The court shall notify the parties of the trial date and any relevant pre-hearin
 2. This may include an opening statement, the calling of witnesses, the presentation of documents and other evidence, and legal submissions that respond to the applicant's arguments and evidence.
 
 ### Article 37: Presenting only claims supported by evidence  
-1. Claims made by the parties during the hearing must be supported by evidence, which should be disclosed to the judge and the opposing party either prior to or during the hearing. The judge shall have discretion in varying the procedure for presenting evidence, ensuring all parties have equal opportunity to present any material or relevant proof.
-2. Parties may submit evidence as they deem appropriate and may be required to produce additional evidence as determined by the judge for a comprehensive understanding and resolution of the dispute. This may be a reason for extending the hearing but shall not be applied more than once in a case.
+1. Claims made by the parties during the hearing must be supported by evidence, which should be disclosed to the Judge and the opposing party either prior to or during the hearing. The Judge shall have discretion in varying the procedure for presenting evidence, ensuring all parties have equal opportunity to present any material or relevant proof.
+2. Parties may submit evidence as they deem appropriate and may be required to produce additional evidence as determined by the Judge for a comprehensive understanding and resolution of the dispute. This may be a reason for extending the hearing but shall not be applied more than once in a case.
 
 ### Article 38: Dismissal of Non-Supported Claims  
-The judge may dismiss claims presented without supporting evidence, without providing further reasons.
+The Judge may dismiss claims presented without supporting evidence, without providing further reasons.
 
 ### Article 39: Matters of Law and Common Knowledge  
-The judge may accept as evidence undisputed facts, matters of law, or facts agreed upon by both parties without reservation.
+The Judge may accept as evidence undisputed facts, matters of law, or facts agreed upon by both parties without reservation.
 
 ### Article 40: Examination of Witnesses and Exhibits
 
 #### Section 1: Examining Witnesses  
-When witnesses are examined, all parties shall have the opportunity to question them before the judge.
+When witnesses are examined, all parties shall have the opportunity to question them before the Judge.
 
 #### Section 2: Presenting Exhibits  
 Exhibits offered by any party shall be accepted as evidence and appropriately marked.
 
 #### Section 3: Evidence Excessively Difficult to Examine
-Evidence that is excessively difficult or impractical to examine and verify during the hearing must be disclosed in advance, or the judge may dismiss or assign less weight to such evidence due to the inability to fully examine it.
+Evidence that is excessively difficult or impractical to examine and verify during the hearing must be disclosed in advance, or the Judge may dismiss or assign less weight to such evidence due to the inability to fully examine it.
 
 #### Section 4: Record of Witnesses and Exhibits
 The names and addresses of all witnesses, as well as descriptions of exhibits in the order received, shall be made a part of the case record.
@@ -306,8 +306,8 @@ The names and addresses of all witnesses, as well as descriptions of exhibits in
 2. The respondent may then be allowed to present a rejoinder, responding to the applicant's rebuttal and providing any additional arguments or evidence that directly relate to the matters raised in the rebuttal.
 
 ### Article 42: Extension of Hearing
-1. The judge may extend the hearing, by exception, for serious reasons that must be clearly communicated to the parties. An extension may be granted no more than twice per case and only when necessary for the just and efficient resolution of the dispute.
-2. Upon deciding to extend the hearing, the judge shall promptly issue new summons for the date of the extended hearing.
+1. The Judge may extend the hearing, by exception, for serious reasons that must be clearly communicated to the parties. An extension may be granted no more than twice per case and only when necessary for the just and efficient resolution of the dispute.
+2. Upon deciding to extend the hearing, the Judge shall promptly issue new summons for the date of the extended hearing.
 
 ### Article 43: Closing Arguments
 1. After both parties have presented their cases, rebuttals, and rejoinders, they shall be given the opportunity to make closing arguments. The applicant shall present their closing argument first, summarizing the key points of their case and highlighting any particularly persuasive evidence or legal submissions.
@@ -316,7 +316,7 @@ The names and addresses of all witnesses, as well as descriptions of exhibits in
 ### Article 44: Deliberation and Decision
 
 #### Section 1: Preparation of a Decision  
-1. Once the hearing has concluded, the presiding judge or panel of judges shall deliberate on the evidence and arguments presented by the parties.
+1. Once the hearing has concluded, the presiding Judge or panel of Judges shall deliberate on the evidence and arguments presented by the parties.
 2. The court shall consider the facts, the applicable law, and the principles of justice and fairness in reaching a decision.
 
 #### Section 2: Announcing the Decision  
