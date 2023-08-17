@@ -126,31 +126,47 @@ Liberland Nationals who have not yet obtained citizenship shall enjoy the full p
 
 A Liberland National who holds no other citizenship than their Citizenship by Descent in Liberland shall obtain Citizenship by Descent upon reaching 21 years of age.
 
-## Chapter 4: The Social System
+## Chapter 4: Honorary Citizenship
 
-### Article 14: Withdrawing the Voluntary Tax
+### Article 14: Definition and Purpose of Honorary Citizenship
+1. "Honorary Citizenship" is a status conferred upon an individual who is not a citizen of Liberland, granting them privileges akin to those of a Liberland National.
+2. Honorary Citizenship may be granted to individuals who have made significant contributions to the establishment, flourishing, or good reputation of Liberland, but who either do not wish to become full citizens or whose contributions do not meet the criteria for full citizenship.
+
+### Article 15: Procedure for Granting Honorary Citizenship
+1. The Cabinet may propose to the President the granting of Honorary Citizenship to an individual who is not a citizen of Liberland. Such a proposal shall be made publicly available and shall include a well-reasoned justification, detailing the contributions of the individual that warrant the granting of Honorary Citizenship.
+2. Upon confirmation of the proposal by the President, the individual shall be entitled to undergo the process of becoming an Honorary Citizen.
+3. The individual shall complete the Citizenship process in its entirety, with the exception of contributing funds through voluntary tax. Honorary Citizenship shall be granted upon successful completion of the process.
+
+### Article 16: Conversion of Honorary Citizenship to Full Citizenship
+1. An Honorary Citizen may become a full Citizen of Liberland by contributing 5000 LLM or more to their Citizenship.
+2. Upon such contribution, the Honorary Citizen shall automatically acquire full citizenship rights and powers, without any further process.
+3. Thereafter, there shall be no distinction in status between the former Honorary Citizen and any other Citizen of Liberland.
+
+## Chapter 5: The Social System
+
+### Article 17: Withdrawing the Voluntary Tax
 
 Every Liberland citizen shall have the right to request the return of their voluntary tax or a portion thereof, thereby participating in Liberland's state social system. One-tenth of the LLM remaining in the citizen's voluntary tax balance may be withdrawn in a given year in total. The blockchain shall process the withdrawal in proportional instalments.
 
-### Article 15: Suspension of Certain Political Rights
+### Article 18: Suspension of Certain Political Rights
 
 1. While participating in the state social system, the citizen shall not be able to vote in elections or partake in direct democracy.
 2. Participation in the state social system shall not impede candidacy for or holding any political office, including but not limited to the office of a judge, senator, president, or agent.
 3. If a citizen participating in the state social system is a member of Congress, they shall not be allowed to use their own political balance of LLM to participate in voting in Congress while partaking in Liberland's Social System, but shall retain the use of LLM delegated to them by their voters. They may also apply for re-election, although they themselves will not be able to vote.
 
-## Chapter 5: Termination of Citizenship
+## Chapter 6: Termination of Citizenship
 
-### Article 16: Regular Termination of Citizenship
+### Article 19: Regular Termination of Citizenship
 
 1. A citizen may choose to terminate their citizenship at any time. Upon verifying the request for renunciation of the citizen, the Citizenship Commission shall cancel the citizenship, and the voluntary tax shall remain their own, but without the citizenship rights. They shall no longer be able to use their LLM for political purposes.
 2. If an ex-citizen opts to withdraw their voluntary tax, this shall be done in the same way as participating in the state social system, but they shall receive instalments covering the entire voluntary tax amount within the span of one year.
 3. An ex-citizen whose citizenship has been terminated regularly shall be allowed to re-apply for citizenship at any time under the conditions that apply to all regular applicants.
 
-### Article 17: Irregular Termination of Citizenship
+### Article 20: Irregular Termination of Citizenship
 
 1. The Citizenship Commission shall terminate the citizenship of a citizen who is in serious breach of their citizenship duties, for which the contract stipulates the sanction of an irregular termination of their citizenship.
 
-### Article 18: Irregular Termination of Citizenship for a Liberland National with Singular Nationality
+### Article 21: Irregular Termination of Citizenship for a Liberland National with Singular Nationality
 
 1. A citizen who has no other nationality besides that of Liberland, and whose citizenship would have been terminated, shall not lose their citizenship, but their voluntary tax shall be expropriated.
 2. The citizen shall retain their Liberland nationality and a rudimentary citizenship, but they shall no longer be in good standing in Liberland. As such, they shall not be able to:
@@ -159,22 +175,21 @@ Every Liberland citizen shall have the right to request the return of their volu
    3. participate in securing the Liberland blockchain network as a validator or a similar role; and
    4. participate in Liberland's direct democracy.
 
-### Article 19: Re-Application after Irregular Termination of Citizenship
+### Article 22: Re-Application after Irregular Termination of Citizenship
 
 A citizen who is not in good standing or an ex-citizen whose citizenship has been irregularly terminated and who, within the 15 years after this irregular termination, wishes to become a citizen again, shall have to negotiate with the Citizenship Commission the conditions of their re-acceptance as a citizen. Those conditions shall be more strict than the normal conditions required of regular applicants.
 
 1. A citizen whose citizenship has been irregularly terminated more than 15 years ago shall be able to re-apply just as any regular applicant would be, provided that they have met all their obligations to Liberland outstanding from the time of their past citizenship.
 2. Otherwise, they shall have to follow the same route as the citizen who is not in good standing.
 
-## Chapter 6: Citizenship Commission
+## Chapter 7: Institutional and Final Provisions
 
-### Article 21: Citizenship Commission
+### Article 23: Citizenship Commission
 
 The organ responsible for the agenda regarding all matters of citizenship shall be the Citizenship Commission. The Citizenship Commission shall be an agency under the Ministry of Interior.
 
-## Chapter 7: Final Provisions
 
-### Article 22: Final Provisions
+### Article 24: Final Provisions
 
 This law has been submitted by the Cabinet on ...
 
