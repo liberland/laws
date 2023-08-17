@@ -76,9 +76,8 @@ c) A more recent norm shall interpret and hold precedence over earlier norms.
 1. In instances where a legislative document encapsulates a complex array of systematically interrelated components, it may be divided into larger, autonomous units referred to as Books. While each Book is designed to encapsulate a comprehensive set of standalone legal directives, it forms an integral part of the overarching legislative document. 
 2. These Books are suitable for independent printing and reading. Nevertheless, they should be understood and interpreted within the broader context of the complete legislative document. This ensures the holistic comprehension of the legislative intent and interconnectedness of legal provisions.
 
-## Section XX: Definitions
-## Subsection XX: Police Law
-## Definitions
+## Chapter XX: Definitions
+## Police Law
 
 **Delicts** are acts performed in violation of the Liberland Constitution, Liberland Law, or laws of other recognized states, which have victims who have been damaged by the act and for which the law prescribes legal consequences for the perpetrator.
 
@@ -89,3 +88,23 @@ c) A more recent norm shall interpret and hold precedence over earlier norms.
 **Sidearms** are small weapons that can be reasonably concealed and do not interfere with an individual's normal, daily behavior.
 
 **Weapons** are items designed or used for inflicting bodily harm or physical damage.
+
+## Referendum Law
+
+**Against** is the number of votes against the Proposal.
+
+**Approve** signifies the number of votes approving the Proposal.
+
+**Cancelling** is the power which the Constitution gives to Congress and the Senate to cancel a Referendum. Congress cancels by ⅔ majority vote; the Senate cancels according to its rules.
+
+**Congress** is the main Representative Democracy organ prescribed by the Constitution.
+
+**Dismissal** is a special form of Public Veto mandated by the Constitution, whereby certain officials get dismissed from their function by a public decision.
+
+**Electorate** is the total number of LLM issued in the network.
+
+**Referendum** is a Constitutional institute of direct democracy. The purpose of the Referendum is to enable Citizens to make regular collective decisions. The Referendum is the legislator of Liberland, allowing the citizens to propose Laws and Constitutional Amendments and vote on them. It also allows other decisions to be made collectively, which don't need to entail regulations.
+
+**Public Veto** is a specialized form of Referendum where voters have only one vote each. It is Constitutionally mandated when the regular Referendum uses any other system than one-citizen-one-vote; this is the case with the Referendum as prescribed by this Law.
+
+**Turnout** means the total number of voting tokens (does not include conviction).
