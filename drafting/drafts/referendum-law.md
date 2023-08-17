@@ -1,27 +1,37 @@
 # Referendum Law
 
-## Preface
+## Preamble
 
-## Definitions
+WHEREAS, the Referendum of all Citizens is the primary instrument of Legislative Power in Liberland, reflecting the principle that citizens themselves wield the legislative power directly, with elements of representative democracy and corporate governance;
 
-**Against** is the number of votes against the Proposal.
+WHEREAS, the citizens shall vote using voting instruments, the Liberland Merits (LLM), and the referendum shall be generally organized using means of electronic communication, namely blockchain, to ensure transparency, speed, and security;
 
-**Approve** signifies the number of votes approving the Proposal.
+WHEREAS, in order to satisfy the requirements of Art. 25 of the International Covenant on Civil and Political Rights of 1955, which calls for genuine periodic elections by universal and equal suffrage, held by secret ballot, guaranteeing the free expression of the will of the electors, a referendum where each citizen holds one vote shall also be held;
 
-**Cancelling** is the power which the Constitution gives to Congress and the Senate to cancel a Referendum. Congress cancels by ⅔ majority vote; the Senate cancels according to its rules.
+WHEREAS, this referendum will be used to remove unwanted laws and regulations and dismiss officials, ensuring that all laws and regulations are democratically legitimate at all times and preventing government overreach;
 
-**Congress** is the main Representative Democracy organ prescribed by the Constitution.
+WHEREAS, legislative initiative shall be in the hands of the representative organ (Congress) but also in the hand of each and every citizen;
 
-**Dismissal** is a special form of Public Veto mandated by the Constitution, whereby certain officials get dismissed from their function by a public decision.
+NOW, THEREFORE, BE IT ENACTED by the Parliament of Liberland as follows:
 
-**Electorate** is the total number of LLM issued in the network.
+## Recitals
 
-**Referendum** is a Constitutional institute of direct democracy. The purpose of the Referendum is to enable Citizens to make regular collective decisions. The Referendum is the legislator of Liberland, allowing the citizens to propose Laws and Constitutional Amendments and vote on them. It also allows other decisions to be made collectively, which don't need to entail regulations.
+1. This law sets up the rules for the Referendum of all Citizens, which is the primary instrument of Legislative Power in Liberland.
 
-**Public Veto** is a specialized form of Referendum where voters have only one vote each. It is Constitutionally mandated when the regular Referendum uses any other system than one-citizen-one-vote; this is the case with the Referendum as prescribed by this Law.
+2. In Liberland, the citizens themselves wield the legislative power directly, with elements of representative democracy and corporate governance.
 
-**Turnout** means the total number of voting tokens (does not include conviction).
+3. The citizens shall vote using voting instruments, the Liberland Merits (LLM), and the referendum shall be generally organized using means of electronic communication, namely blockchain, to ensure transparency, speed, and security.
 
+4. If needed, a paper referendum is also possible.
+
+5. In order to satisfy the requirements of Art. 25 of the International Covenant on Civil and Political Rights of 1955, a referendum where each citizen holds one vote shall also be held.
+
+6. This referendum will be used to remove unwanted laws and regulations and dismiss officials, ensuring that all laws and regulations are democratically legitimate at all times and preventing government overreach.
+
+7. Legislative initiative shall be in the hands of the representative organ (Congress) but also in the hand of each and every citizen.
+
+8. In order to ensure stability and prevent populism and "surprising" adoption of laws by referenda with low turnover, an anti-populist measure is enacted, whereby the lower the turnout, the higher the voting requirement; e.g., people-originated referenda would require 50 percent plus one voting instrument cast for to be accepted only at 100 percent turnout.
+   
 ## Section 1: Referendum
 
 #### Art. 1: Primary Instrument of Democracy
