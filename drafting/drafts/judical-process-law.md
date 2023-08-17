@@ -90,14 +90,14 @@ Special procedural rules apply to criminal processes to protect the accused and 
 #### Section 3: State Monopoly on Criminal Process  
 Only State courts shall possess the jurisdiction to decide on a Criminal process. Any contractual stipulations to the contrary shall be null and void.
 
-### Article 12: Disciplinary process    
-A disciplinary process shall be where a Private Court adjudicates a case between itself or the community that organizes it, or any of its representatives, and a private party where the subject matter is alleged non-compliance with that community's rules, laws, or traditions of the Private Court. The special procedural rules apply to the Disciplinary process as if it were a Criminal Process.
-
-### Article 13: Private Courts and Alternative Dispute Resolution  
+### Article 12: Private Courts and Alternative Dispute Resolution  
 1. Private courts, arbitration, mediation, and other alternative dispute resolution mechanisms may be established and operated within the territory of Liberland, subject to the general principles and minimum requirements set forth in this law.
 2. Private courts shall have the power to resolve disputes between parties in accordance with the agreed-upon rules and procedures, provided that they do not violate the fundamental principles of justice and fairness enshrined in this law and the Constitution of Liberland.
+   
+### Article 13: Disciplinary process    
+A disciplinary process shall be where a Private Court adjudicates a case between itself or the community that organizes it, or any of its representatives, and a private party where the subject matter is alleged non-compliance with that community's rules, laws, or traditions of the Private Court. The special procedural rules apply to the Disciplinary process as if it were a Criminal Process.
 
-## Chapter 2: Civil Process  
+## Chapter 2: Core Concepts  
 
 ### Article 14: Role of the Judge
 1. The judge is the official through which a court acts in matters of the judicial process.
@@ -109,8 +109,8 @@ The judge shall also be the final arbiter deciding on the correct procedure in e
 2. No judge shall have higher deciding power than any other judge.
 
 ### Article 16: Assigning Judges
-Each court shall establish rules according to which judges are assigned to cases and shall respect those rules in all matters.
-No party shall be deprived of a judge assigned to them, except where the party gives their express permission.
+1. Each court shall establish rules according to which judges are assigned to cases and shall respect those rules in all matters.
+2. No party shall be deprived of a judge assigned to them, except where the party gives their express permission.
 
 ### Article 17: Judicial Conduct
 
@@ -126,20 +126,27 @@ After a case has commenced, there shall be no ex parte communication between the
 4. A court or higher court, where applicable, shall re-examine a judicial decision made and a judicial process presided by a partial judge, regardless of the procedural stage at which impartiality has been established.
 
 ### Article 18: Judicial Decisions
-1. In making judicial decisions, the judge shall consider each piece of evidence individually and in the context of how it was obtained and the statements it is supposed to support, relying solely on objective and known facts, irrespective of any formal rules of law.
-2. A judicial decision may be made verbally or in writing. However, a written copy, signed and affirmed by the judge, shall always be made available at the judge's discretion or upon request by a party. When translation services are being used, simultaneous translations into other languages shall be provided in writing. The decision binds the court upon the judge's signature.
+#### Section 1: Consideration of Evidence
+1. In rendering judicial decisions, the judge shall assess each piece of evidence individually, taking into account the manner in which it was obtained and the assertions it is intended to support. The judge shall rely exclusively on objective and established facts.
+2. There shall be no formal rules governing the interpretation or exclusion of evidence in the law: No legal provision shall be placed higher than the truth. Consequently, the judge shall always have the authority to earnestly evaluate the facts of the case and address them according to their best judgment. However, the judge shall be required to articulate the rationale for their decisions.
 
-### Article 19: Commencement of Civil Proceedings
-A civil proceeding shall be initiated by the filing of an application by the applicant with the appropriate court.
-The application shall set forth the relevant facts, legal basis for the claim, and the relief sought by the applicant.
+#### Section 2: Form and Availability of Judicial Decisions
+1. A judicial decision may be delivered orally or in writing. Regardless of the form of delivery, a written copy of the decision, signed and certified by the judge, shall be made available at the judge's discretion or upon request by a party. In case of a difference between the oral and written version the written version shall take precedence.
+2. In cases where translation services are utilized, written translations into other languages shall be provided concurrently. The decision becomes binding upon the court once it is signed by the judge.
 
-### Article 20: Service of Process
+## Chapter 3: Commencement of Civil Proceedings
+
+### Article 19: Application
+1. A civil proceeding shall be initiated by the filing of an application by the applicant with the appropriate court.
+2. The application shall set forth the relevant facts, legal basis for the claim, and the relief sought by the applicant.
+
+### Article 20: Issuance of Summons
 1. Upon the filing of an application, the court shall issue a summons or notice to the respondent or respondents, requiring them to appear and respond to the claim within a specified period.
 2. The summons or notice shall be served on the respondent in a manner prescribed by law or regulation, ensuring that they receive proper notice of the proceedings and an opportunity to defend themselves.
 
 ### Article 21: Pleadings and Motions
-Parties to a civil proceeding shall submit pleadings and motions in accordance with the rules and procedures established by the court or applicable law.
-Pleadings and motions shall be clear, concise, and set forth the parties' respective positions and arguments on the issues in dispute.
+1. Parties to a civil proceeding shall submit pleadings and motions in accordance with the rules and procedures established by the court or applicable law.
+2. Pleadings and motions shall be clear, concise, and set forth the parties' respective positions and arguments on the issues in dispute.
 
 ### Article 22: Discovery and Evidence
 1. Parties to a civil proceeding shall be entitled to conduct discovery and obtain evidence in a manner prescribed by the rules of the court or applicable law.
@@ -168,13 +175,15 @@ In non-controversial cases, the court shall not require mandatory mediation or a
 #### Section 1: Right to Modify Application  
 1. The applicant may modify the application at any time, which may result in changes to the case. If this leads to increased court costs, the applicant shall be responsible for paying these costs before the case can be amended.
 2. If the modification causes damages to a respondent, and those damages arise solely or predominantly from the applicant's negligence or frivolous modifications, the applicant shall be liable for compensating the respondent(s) for the damages and any additional court costs.
-3. The case shall be amended upon the applicant's payment of the full amount of court costs and damages to respondents, where applicable. Until full payment is made, the court shall proceed as if no modification was requested. Any court costs incurred during this time must also be paid before the change can take effect.
+3. The case shall be amended upon the applicant's payment of the full court costs and damages to respondents, where applicable. Until full payment is made, the court shall proceed as if no modification was requested. Any court costs incurred during this time must also be paid before the change can take effect.
 
 #### Section 2: Failure to Pay Modification Court Costs  
-If the applicant fails to pay the full amount of court costs and damages to respondents, where required, within 5 days after the modification is submitted, the modification shall be disregarded, and the case shall remain unchanged.
+If the applicant fails to pay the full amount of court costs and damages to respondents, where required, within five days after the modification is submitted, the modification shall be disregarded, and the case shall remain unchanged.
 
 #### Section 3: Malicious Modifications
-If the modification would cause significant damages or issues to the respondent(s), or if the modification is made solely or predominantly to directly harm the respondents, or if the court deems it to be entirely frivolous, the court may summarily dismiss the modification, and the case shall remain unchanged.
+If the modification would cause significant damages or issues to the respondent(s), or if the modification is made solely or predominantly to harm the respondents directly, or if the court deems it to be entirely frivolous, the court may summarily dismiss the modification, and the case shall remain unchanged.
+
+## Chapter 3: Mediation  
 
 ### Article 26: Mandatory Mediation for Controversial Civil Cases
 In controversial civil cases, parties shall be required to participate in mandatory mediation before proceeding to a trial, with the aim of resolving disputes amicably and efficiently.
@@ -192,7 +201,9 @@ The parties shall participate in the mediation process in good faith, actively e
 ### Article 30: Settlement Agreement and Court Approval
 If the parties reach an agreement through mediation, they shall submit the agreement to the court for approval. Once approved by the court, the agreement shall have the same legal effect as a judgment in a contested trial.
 
-### Article 33: Pre-Trial Procedures
+## Chapter 4: Pre-Trial
+
+### Article 31: Pre-Trial Procedures
 
 #### Section 1: Pre-Trial Conference   
 1. Prior to the commencement of a trial, the court may convene a pre-trial conference to discuss and resolve procedural matters, narrow the issues in dispute, and explore the possibility of settlement.
@@ -205,7 +216,9 @@ If the parties reach an agreement through mediation, they shall submit the agree
 #### Section 3: Court Summons  
 The court shall notify the parties of the trial date and any relevant pre-hearing deadlines, ensuring that all parties are aware of their obligations and the expected timetable for the proceedings.
 
-### Article 34: Trial Process
+## Chapter 5: Trial
+
+### Article 33: Trial Process
 1. The trial shall be conducted in a fair, impartial, and orderly manner, with due respect for the rights and interests of all parties.
 2. The presiding judge shall open the hearing by briefly outlining the nature of the case, the issues to be resolved, and the procedural rules that will govern the proceedings.
 
@@ -274,7 +287,7 @@ The names and addresses of all witnesses, as well as descriptions of exhibits in
 2. The court may issue enforcement orders or take other measures to ensure compliance with its judgments or orders, as provided by law or the court's inherent authority.
 3. Failure to comply with a court's judgment or order may result in the imposition of sanctions, penalties, or other legal consequences as determined by the court or the applicable law.
 
-## Chapter 3 Appeal
+## Chapter 6 Appeal
 
 ### Article 41: Appeals Process
 1. A party that is dissatisfied with the court's decision may file an appeal by the court where the decision has been made, subject to the grounds for appeal and the procedures established by law.
@@ -306,7 +319,7 @@ If the appeal is clearly frivolous or without merit, the court shall set it asid
 2. The appellate court's decision shall be accompanied by a written explanation of its reasoning, including its analysis of the legal issues, its evaluation of the lower court's factual findings, and any relevant procedural or evidentiary rulings.
 3. The appellate decision shall be binding on the lower court and the parties, subject to any further appeals or reviews allowed by law.
 
-### Chapter 4: Supreme Court
+### Chapter 7: Supreme Court
 ### Article 48: Autonomy of the Supreme Court
 
 #### Section 1: Supreme Court Case Review  
@@ -325,7 +338,7 @@ As a general rule, the Supreme Court will not review cases where the decision is
 1. The process before the Supreme Court follows the same general structure as the regular judicial process. However, the justices of the Supreme Court may choose to disregard or modify any phase of the process as they deem necessary. If they decide to make any changes, they shall inform the parties at the commencement of the proceedings.
 2. The Supreme Court has the discretion to admit or dismiss any new facts and evidence, even if they were known during the previous stages of the process. In its decision, the Supreme Court has complete autonomy and may disregard any aspect of the previous process as it sees fit.
 
-## Chapter 5: Private Courts
+## Chapter 8: Private Courts
 
 ### Article 51: Purpose of Private Courts
 1. Private Courts exist primarily to ensure the protection and respect of property rights as defined in Book 1 of this Constitution, under all circumstances, even when the property owner is unable to provide such protection themselves.
@@ -355,5 +368,5 @@ All Private Courts shall recognize the Supreme Court as the ultimate appellate a
 1. Any decision made by a Private Court in violation of the provisions of this Law shall be considered invalid.
 2. The State shall disestablish any Private Court repeatedly found in breach of the provisions of this Constitutional Amendment and any law expanding upon it if the court is found unwilling or unable to rectify the situation. The parties to cases adjudicated within the last 3 years by a disestablished court may use the process of appeal before their State court within the 20 days of being informed about the decision of disestablishment.
 
-## Chapter 6: Final Provisions
+## Chapter 9: Final Provisions
 This law gains legal force on ... and shall remain valid until it is repealed.
