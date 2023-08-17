@@ -10,7 +10,7 @@ WHEREAS, the use of enforcement by the police and other arms-bearing agencies is
 
 WHEREAS, this Law serves as the core law for all Armed Agencies, agencies which use weapons and/or perform police duties, providing general provisions for all such agencies and specific provisions for the Agency this law creates, the Community Watch, the general Liberland police;
 
-NOW, THEREFORE, BE IT ENACTED by the Parliament of Liberland as follows:
+NOW, THEREFORE, BE IT ENACTED by the Citizens and the Government of Liberland as follows:
 
 ## Recitals
 
