@@ -137,19 +137,19 @@ The algorithm shall always select the most endorsed Proposal per given Origin fo
 
 ### Article 11: Deciding Referenda
 
-1. The system shall determine the outcome of the Referendum based on the vote count at the moment the Referendum Period ends, comparing the result with the Tally required for approval based on the given origin.
-2. If the Tally is reached, the Referendum concludes with the Approval of the Proposal, and the Enactment Period begins.
-3. If the Tally is not reached, the Referendum concludes with the Rejection of the Proposal, which is then discarded.
+1. The system shall determine the outcome of the Referendum based on the vote count at the moment the Referendum Period ends, comparing the result with the Voting Requirement required for approval based on the given origin.
+2. If the Voting Requirement is reached, the Referendum concludes with the Approval of the Proposal, and the Enactment Period begins.
+3. If the Voting Requirement is not reached, the Referendum concludes with the Rejection of the Proposal, which is then discarded.
 
-### Article 12: Tally
+### Article 12: Voting Requirement
 
 1. The following shall be the Referendum tallies for the general Referendum required for the Referendum to Adopt the Proposal:
 
-   a) For the origin Citizen, the Tally shall be calculated as the number of votes against divided by the square root of the turnout must be smaller than the number of votes approve divided by the square root of the electorate, henceforth referred to as "Super-Majority Approve".
+   a) For the origin Citizen, the Voting Requirement shall be calculated as the number of votes against divided by the square root of the turnout must be smaller than the number of votes approve divided by the square root of the electorate, henceforth referred to as "Super-Majority Approve".
    
-   b) For the origin Congress, the Tally shall be calculated as the simple majority of the votes cast, henceforth referred to as "Simple Majority".
+   b) For the origin Congress, the Voting Requirement shall be calculated as the simple majority of the votes cast, henceforth referred to as "Simple Majority".
    
-   c) For the origin Congress Unanimous, the Tally shall be calculated as the number of votes against divided by the square root of the electorate must be smaller than the number of votes approved divided by the square root of the turnout, henceforth referred to as "Super-Majority Against".
+   c) For the origin Congress Unanimous, the Voting Requirement shall be calculated as the number of votes against divided by the square root of the electorate must be smaller than the number of votes approved divided by the square root of the turnout, henceforth referred to as "Super-Majority Against".
 
 ### Article 13: View of Voting
 
@@ -161,7 +161,7 @@ The algorithm shall always select the most endorsed Proposal per given Origin fo
    
    c) Link to the personal page of the Citizen or Congress Member who made the original Proposal;
    
-   d) Tally required for the Adoption of a Proposal;
+   d) Voting Requirement required for the Adoption of a Proposal;
    
    e) Current Votes; and
    
