@@ -147,7 +147,7 @@ j) **Sequestration of Witnesses**: Orders, where appropriate, directing that wit
 
 Certainly! Here's a draft of a law regarding the issuance and execution of warrants:
 
-## Article 19: Warrants
+### Article 19: Warrants
 
 #### Section 1: Authority to Issue Warrants
 A judge may issue a warrant upon a showing of probable cause, supported by oath or affirmation, and particularly describing the place to be searched and the persons or things to be seized.
@@ -179,7 +179,7 @@ A judge may issue a warrant upon a showing of probable cause, supported by oath 
 1. A judicial decision may be delivered orally or in writing. Regardless of the form of delivery, a written copy of the decision, signed and certified by the judge, shall be made available at the judge's discretion or upon request by a party. In case of a difference between the oral and written version the written version shall take precedence.
 2. In cases where translation services are utilized, written translations into other languages shall be provided concurrently. The decision becomes binding upon the court once it is signed by the judge.
 
-### Article 19 Non-Controversial Cases
+### Article 20 Non-Controversial Cases
 
 #### Section 1: Simplified rules for non-controversial cases 
 1. Non-controversial cases shall be subject to a simplified and expedited judicial process, designed to resolve matters efficiently and without undue delay.
@@ -194,7 +194,7 @@ In non-controversial cases, the court shall not require Mandatory Mediation or a
  
 ## Chapter 3: Commencement of Civil Proceedings
 
-### Article 20: Application
+### Article 21: Application
 #### Section 1: Filing of Application
 A civil proceeding shall commence upon the submission of an Application by the applicant to the appropriate court.
 
@@ -202,7 +202,7 @@ A civil proceeding shall commence upon the submission of an Application by the a
 1. The Application shall detail the pertinent facts, the legal basis for the claim, and the relief sought by the applicant.
 2. The Application shall identify all respondents, defined as individuals or entities whose conduct the applicant seeks to alter through court intervention.
 
-### Article 21: Issuance of Summons
+### Article 22: Issuance of Summons
 1. Upon receipt of an Application, the court shall issue a Summons, or notice, to the respondent or respondents, directing them to respond to the claim within a designated timeframe or on a specified date. This shall be conducted electronically wherever feasible, though extraordinary circumstances may necessitate the personal presence of a party.
 2. The Summons or notice shall be served upon the respondent in a manner ensuring that the respondent receives adequate notice of the proceedings and an opportunity to present a defense.
 
@@ -210,7 +210,7 @@ A civil proceeding shall commence upon the submission of an Application by the a
 1. A respondent shall respond to the Application by submitting a counter-Application that shall be known as the Response.
 2. The rules governing the contents and submission of the initial Application shall also apply to the Response.
 
-### Article 22: Pleadings and Motions
+### Article 23: Pleadings and Motions
 1. Following the submission of the Application and the Response, parties to a civil proceeding may file pleadings and motions to introduce additional facts, respond to inquiries from the Judge, or request specific actions from the Judge, such as preliminary relief.
 2. Parties shall ensure that their pleadings and motions are clear and concise, and that they accurately represent the parties' respective positions and arguments on the disputed issues.
 
