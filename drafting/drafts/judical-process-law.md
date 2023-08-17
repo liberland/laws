@@ -125,10 +125,32 @@ After a case has commenced, there shall be no ex parte communication between the
 3. A partial judge shall be replaced according to the rules of the court. Partiality in itself shall not be counted against the judge without it having led to unjust decisions or breaches of due process, or without it having been found in extenuating circumstances (i.e., the judge must have known that they were partial and not reported it).
 4. A court or higher court, where applicable, shall re-examine a judicial decision made and a judicial process presided by a partial judge, regardless of the procedural stage at which impartiality has been established.
 
+### Article 18 Judicial Orders
+A judge may issue various pre-trial orders or measures to ensure that the circumstances of the case remain sufficiently stable for adjudication. These measures may include, but are not limited to:
+
+a) **Temporary Restraining Orders (TROs)**: Short-term orders issued to prevent a party from engaging in certain actions that could harm the other party or the case itself.
+
+b) **Preliminary Injunctions**: Orders similar to TROs, but of longer duration, typically issued after a hearing where both parties have the opportunity to present their arguments.
+
+c) **Discovery Orders**: Orders compelling parties to produce evidence relevant to the case, such as documents, records, or depositions.
+
+d) **Protective Orders**: Orders issued to safeguard sensitive information from public disclosure or to prevent harassment of witnesses.
+
+e) **Scheduling Orders**: Orders establishing deadlines for various stages of the litigation process, including discovery, motions, and trial.
+
+f) **Asset Freezes**: Orders, where appropriate, directing that a party's assets be frozen to prevent their sale or transfer pending resolution of the case.
+
+g) **Custody or Visitation Orders**: In family law cases, temporary orders may be issued regarding child custody or visitation to ensure stability for the children involved.
+
+h) **Bail or Bond Orders**: In criminal cases, orders may be issued setting bail or bond conditions to ensure the defendant's appearance at trial.
+
+j) **Sequestration of Witnesses**: Orders, where appropriate, directing that witnesses be kept separate from each other to prevent them from influencing each other's testimony.
+
 ### Article 18: Judicial Decisions
 #### Section 1: Consideration of evidence
 1. In rendering judicial decisions, the judge shall assess each piece of evidence individually, taking into account the manner in which it was obtained and the assertions it is intended to support. The judge shall rely exclusively on objective and established facts.
 2. There shall be no formal rules governing the interpretation or exclusion of evidence in the law: No legal provision shall be placed higher than the truth. Consequently, the judge shall always have the authority to earnestly evaluate the facts of the case and address them according to their best judgment. However, the judge shall be required to articulate the rationale for their decisions.
+3. The judge may not refuse to make a Judicial Decision once assigned a Case.
 
 #### Section 2: Form and availability of judicial decisions
 1. A judicial decision may be delivered orally or in writing. Regardless of the form of delivery, a written copy of the decision, signed and certified by the judge, shall be made available at the judge's discretion or upon request by a party. In case of a difference between the oral and written version the written version shall take precedence.
