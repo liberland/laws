@@ -211,7 +211,7 @@ If the parties reach an agreement through mediation, they shall submit the agree
 1. Before the trial commences, the court shall ensure that all parties have had a reasonable opportunity to prepare their case, including the submission of pleadings, the gathering and exchange of evidence, and the completion of any mandatory mediation or alternative dispute resolution processes.
 2. The court shall schedule a trial date, taking into consideration the complexity of the case, the availability of the parties and their legal representatives, and any relevant statutory deadlines or time limits.
 
-#### Article 33: Court Summons  
+### Article 33: Court Summons  
 The court shall notify the parties of the trial date and any relevant pre-hearing deadlines, ensuring that all parties are aware of their obligations and the expected timetable for the proceedings.
 
 ## Chapter 5: Trial
