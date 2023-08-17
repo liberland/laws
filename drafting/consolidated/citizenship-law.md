@@ -89,8 +89,7 @@ No person shall be denied citizenship or access to related functions and service
 
 ### Article 8: Review of Commitment
 
-1. The Citizenship Commission shall assess the Applicant's commitment by evaluating their voluntary tax payments. The Citizenship Commission shall consider a total contribution of 5,000 LLM or more as sufficient for obtaining citizenship.
-2. The Citizenship Commission shall evaluate the Applicant's commitment based on their voluntary tax payments in LLM made by vesting LLM in the political pool on the Liberland Smart Chain.
+The Citizenship Commission shall assess the Applicant's commitment by evaluating their voluntary tax payments. A total balance of 5,000 LLM, or more, committed into one's Citizenship by the means provided by the Liberland Blockchain shall be deemed sufficient for obtaining citizenship.
 
 ### Article 9: Costs of the Application Process
 
