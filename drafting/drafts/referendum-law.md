@@ -35,49 +35,39 @@ NOW, THEREFORE, BE IT ENACTED by the Parliament of Liberland as follows:
 ## Chapter 1: Referendum
 
 ### Article 1: Primary Instrument of Democracy
+#### Section 1: Purpose of the Referendum
+The Referendum, as the primary instrument of democracy in Liberland, shall empower Citizens to make collective decisions and to enact Regulations. The Referendum shall be open to participation by all citizens.
 
-#### Section 1
-
-The Referendum, as the primary instrument of democracy in Liberland, shall enable Citizens to make collective decisions and to create Regulations. The Referendum shall allow all citizens to participate.
-
-#### Section 2
-
-1. The Referendum shall be the most important decision-making process within Liberland and in the Administration, and no other decision-making process shall be able to overturn a Referendum decision.
-2. As the Executive Power is responsible for the Legislative Power, the Referendum may, in turn, overturn and replace any other decision-making process within the Legislative or Executive power of the Administration.
-3. Conversely, the Referendum can't directly overturn a judicial decision, but it can organize matters in the Judiciary by making Laws. The Referendum shall only influence the Guardians of the Republic through Constitutional Amendments and to the degree Dismissal as prescribed by the Constitution allows it.&#x20;
+#### Section 2: Supremacy of the Referendum
+1. The Referendum shall be the paramount decision-making process within Liberland and the Government, and no other decision-making process shall have the authority to overturn a Referendum decision.
+2. As the Executive Power is accountable to the Legislative Power, the Referendum may supersede and replace any other decision-making process within the Legislative or Executive branches of the Government.
+3. However, the Referendum shall not directly overturn a judicial decision. Instead, it may shape matters within the Judiciary by enacting Laws. The Referendum shall only influence the Guardians of the Republic through Constitutional Amendments and to the extent that Dismissal, as prescribed by the Constitution, permits.
 
 ### Article 2: Blockchain System
+#### Section 1: Implementation of the Referendum
+1. The Referendum shall be conducted through electronic communications using a public blockchain system capable of hosting governance.
+2. The system shall be sufficiently decentralized and secure to minimize risks of unauthorized tampering of all kinds, and user-friendly enough to ensure that the vast majority of Citizens can operate it with ease.
 
-#### Section 1
-
-1. The Referendum shall be realized by means of electronic communications using a public blockchain system capable of hosting governance.&#x20;
-2. The system shall be sufficiently decentralized and secure to minimize risks of unauthorized tampering of all kinds, as well as user-friendly so that the vast majority of Citizens have no problem operating it.
-
-#### Section 2
-
-The Administration shall ensure such a system capable of fulfilling the requirements of this Law is built or adopted and that it is regularly maintained.
-
-1.
+#### Section 2: Government Responsibility
+The Government shall ensure the establishment or adoption of a system capable of meeting the requirements of this Law and shall provide for its regular maintenance.
 
 ### Article 3: Voting Tokens
+#### Section 1: Voting Mechanism
+1. Voting in the Referendum shall generally be conducted using Liberland Merits (LLM) as voting tokens, which Citizens
+shall be able to purchase on the open market.
+2. The Public Veto, a special form of the Referendum as prescribed by the Constitution, shall also be organized for matters required therein. The Public Veto shall include the options of voting on Dismissal of Judges, the President, and the Vice-Presidents.
 
-#### Section 1
-
-1. The voting in the Referendum shall generally take place using Liberland Merits (LLM) as voting tokens, which Citizens shall be able to purchase on the open market.&#x20;
-2. The Public Veto, a special form of the Referendum as prescribed by the Constitution, shall also be organized for matters required therein. The Public Veto shall include the options of voting on Dismissal of Judges, the President and the Vice-Presidents.
-
-#### Section 2
-
-The only form of LLM allowed for use in Referenda shall be politically pooled LLM. Political pooling entails limiting the liquidity of LLM, so that they can't be sent to a different wallet for the duration of the political pooling.&#x20;
+#### Section 2: Politically Pooled LLM
+The only form of LLM permitted for use in Referenda shall be politically pooled LLM. Political pooling involves restricting the liquidity of LLM, such that they cannot be transferred to a different wallet for the duration of the political pooling.
 
 ### Article 4: Referendum Period
-
 The Referendum Period shall be 14 days. At the end of the Referendum period in which a Proposal has been converted into a Referendum, the Proposal is either Approved or Rejected.
 
-### Article 5: Cancelling
-
-1. In each Referendum stage before the end of the Referendum Period in which the Proposal has been converted into a Referendum, the Congress cancellation as prescribed by the Constitution may occur.&#x20;
-2. In the Enactment Period following the Approval of a Referendum, no Congress-originated Cancellation may take place, but the Senate may still Cancel the Proposal. In that case, Congress shall cancel the Proposal for the Senate, even at this stage.
+### Article 5: Cancellation
+#### Section 1: Cancellation During Referendum Period
+In each Referendum stage before the end of the Referendum Period in which the Proposal has been converted into a Referendum, Congress cancellation as prescribed by the Constitution may occur.
+#### Section 2: Cancellation During Enactment Period
+In the Enactment Period following the Approval of a Referendum, no Congress-originated Cancellation may take place, but the Senate may still Cancel the Proposal. In such cases, Congress shall cancel the Proposal for the Senate, even at this stage.
 
 ## Chapter 2: Proposals
 
@@ -93,11 +83,11 @@ Any Citizen can submit a Proposal in the system, in which case the origin of the
 
 #### Section 3
 
-The Congress can collectively submit a Proposal in the system, which the system will give the origin of "Congress". There are two forms of a Congress Origin Proposal:
+The Congress can collectively submit a Proposal in the system, which system will give the origin of "Congress". There are two forms of a Congress Origin Proposal:
 
 a) where the entire Congress makes an unanimous decision to make this Proposal, registered as Unanimous Proposal; or
 
-b) where a simple majority in the Congress makes the Proposal.
+b) where a simple majority in Congress makes the Proposal.
 
 ### Article 7: Endorsement
 
