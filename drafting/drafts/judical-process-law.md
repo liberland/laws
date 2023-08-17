@@ -126,11 +126,10 @@ After a case has commenced, there shall be no ex parte communication between the
 4. A court or higher court, where applicable, shall re-examine a judicial decision made and a judicial process presided by a partial judge, regardless of the procedural stage at which impartiality has been established.
 
 ### Article 18 Judicial Orders
-A judge may issue various pre-trial orders or measures to ensure that the circumstances of the case remain sufficiently stable for adjudication. These measures may include, but are not limited to:
+1. A judge may issue various interim pre-trial orders or measures to ensure that the circumstances of the case remain sufficiently stable for adjudication. Parties shall comply with these orders, or the judge may impose penalties up to the case's value, with the maximum penalty being the total forfeiture of all points on the case for the non-compliant party.
+2. A judge may use the following order:
 
-a) **Temporary Restraining Orders (TROs)**: Short-term orders issued to prevent a party from engaging in certain actions that could harm the other party or the case itself.
-
-b) **Preliminary Injunctions**: Orders similar to TROs, but of longer duration, typically issued after a hearing where both parties have the opportunity to present their arguments.
+a) **Restraining/Compelling Order**: Short-term orders issued to prevent a party from engaging in certain actions that could harm the other party or the case itself.
 
 c) **Discovery Orders**: Orders compelling parties to produce evidence relevant to the case, such as documents, records, or depositions.
 
@@ -145,6 +144,30 @@ g) **Custody or Visitation Orders**: In family law cases, temporary orders may b
 h) **Bail or Bond Orders**: In criminal cases, orders may be issued setting bail or bond conditions to ensure the defendant's appearance at trial.
 
 j) **Sequestration of Witnesses**: Orders, where appropriate, directing that witnesses be kept separate from each other to prevent them from influencing each other's testimony.
+
+Certainly! Here's a draft of a law regarding the issuance and execution of warrants:
+
+## Article 19: Warrants
+
+### Section 1: Authority to Issue Warrants
+A judge may issue a warrant upon a showing of probable cause, supported by oath or affirmation, and particularly describing the place to be searched and the persons or things to be seized.
+
+### Section 2: Types of Warrants
+
+**a) Search Warrants**: A search warrant authorizes law enforcement agents to search a specific location for specific items and to seize those items if found.
+
+**b) Arrest Warrants:** An arrest warrant authorizes law enforcement agents to arrest a specific individual based on probable cause that the individual has committed a crime.
+
+**c) Bench Warrants** A bench warrant is issued by a judge when a defendant fails to appear in court as required, authorizing law enforcement agents to arrest the defendant and bring them to court.
+
+### Section 3: Execution of Warrants
+1. Warrants shall be executed by law enforcement agents in accordance with the terms of the warrant and applicable laws and regulations.
+2. Law enforcement agents executing a warrant shall identify themselves, present the warrant to the person subject to the warrant or the occupant of the place to be searched, and provide a receipt for any property seized.
+3. In exigent circumstances, where there is a risk of imminent harm to persons, destruction of evidence, or flight of a suspect, law enforcement agents may take necessary actions without a warrant, provided that they subsequently obtain a warrant or present the circumstances to a judge for review.
+
+### Section 4: Reporting and Oversight
+1. Agencies charged with police duties shall maintain records of all warrants issued and executed relevant to their activities, including the basis for the warrant, the items seized, and the outcome of any related proceedings.
+2. These records shall be subject to periodic review by an independent oversight body to ensure compliance with the law and protection of individuals' rights.
 
 ### Article 18: Judicial Decisions
 #### Section 1: Consideration of evidence
