@@ -151,32 +151,33 @@ In non-controversial cases, the court shall not require Mandatory Mediation or a
 
 ### Article 20: Application
 #### Section 1: Filing of Application
-A civil proceeding shall commence upon the submission of an application by the applicant to the appropriate court.
+A civil proceeding shall commence upon the submission of an Application by the applicant to the appropriate court.
 
 #### Section 2: Contents of Application
-1. The application shall detail the pertinent facts, the legal basis for the claim, and the relief sought by the applicant.
-2. The application shall identify all respondents, defined as individuals or entities whose conduct the applicant seeks to alter through court intervention.
+1. The Application shall detail the pertinent facts, the legal basis for the claim, and the relief sought by the applicant.
+2. The Application shall identify all respondents, defined as individuals or entities whose conduct the applicant seeks to alter through court intervention.
 
 ### Article 21: Issuance of Summons
-1. Upon receipt of an application, the court shall issue a Summons, or notice, to the respondent or respondents, directing them to respond to the claim within a designated timeframe or on a specified date. This shall be conducted electronically wherever feasible, though extraordinary circumstances may necessitate the personal presence of a party.
+1. Upon receipt of an Application, the court shall issue a Summons, or notice, to the respondent or respondents, directing them to respond to the claim within a designated timeframe or on a specified date. This shall be conducted electronically wherever feasible, though extraordinary circumstances may necessitate the personal presence of a party.
 2. The Summons or notice shall be served upon the respondent in a manner ensuring that the respondent receives adequate notice of the proceedings and an opportunity to present a defense.
 
 ### Article 22: Response
-1. A respondent shall respond to the application by submitting a counter-application.
-2. The rules governing the contents and submission of the initial application shall also apply to the counter-application.
+1. A respondent shall respond to the Application by submitting a counter-Application that shall be known as the Response.
+2. The rules governing the contents and submission of the initial Application shall also apply to the Response.
 
 ### Article 22: Pleadings and Motions
-Subsequent to the Application and the Response, parties to a civil proceeding shall submit pleadings and motions in accordance with the rules and procedures established by the court or applicable law and made available to them beforehand. Where such rules are absent, the parties shall submit them so that they are clear, and concise, and set forth the parties respective positions and arguments on the issues in dispute.
+1. Following the submission of the Application and the Response, parties to a civil proceeding may file pleadings and motions to introduce additional facts, respond to inquiries from the Judge, or request specific actions from the Judge, such as preliminary relief.
+2. Parties shall ensure that their pleadings and motions are clear and concise, and that they accurately represent the parties' respective positions and arguments on the disputed issues.
 
 ### Article 24: Withdrawal of the Application
-1. The applicant may terminate the judicial process by withdrawing their application. In non-controversial cases, they can do so at any time.
+1. The applicant may terminate the judicial process by withdrawing their Application. In non-controversial cases, they can do so at any time.
 2. In controversial cases, withdrawal is only permissible until the first respondent has been notified. After that point, the applicant and the respondents must jointly consent to the withdrawal for the case to be terminated.
 3. Any court costs incurred before the case is prematurely terminated shall remain the responsibility of the relevant parties.
 
 ### Article 25: Modification of the Application
 
 #### Section 1: Right to Modify Application  
-1. The applicant may modify the application at any time, which may result in changes to the case. If this leads to increased court costs, the applicant shall be responsible for paying these costs before the case can be amended.
+1. The applicant may modify the Application at any time, which may result in changes to the case. If this leads to increased court costs, the applicant shall be responsible for paying these costs before the case can be amended.
 2. If the modification causes damages to a respondent, and those damages arise solely or predominantly from the applicant's negligence or frivolous modifications, the applicant shall be liable for compensating the respondent(s) for the damages and any additional court costs.
 3. The case shall be amended upon the applicant's payment of the full court costs and damages to respondents, where applicable. Until full payment is made, the court shall proceed as if no modification was requested. Any court costs incurred during this time must also be paid before the change can take effect.
 
@@ -328,9 +329,9 @@ If the appeal is clearly frivolous or without merit, the court shall set it asid
 As a general rule, the Supreme Court will not review cases where the decision is more than ten years old, except in exceptional circumstances, such as when there is a strong indication that the case was resolved in a grossly unjust manner, with significant consequences for the parties involved, the justice system in Liberland, or individual liberty.
 
 ### Article 52: Reopening the Case
-1. When the Supreme Court decides to review a case, the appellate court shall compile a detailed documentation of the case and promptly submit it to the Supreme Court. The court will also notify the applicant and other parties, instructing them to prepare an addendum to their application or response within 30 days.
+1. When the Supreme Court decides to review a case, the appellate court shall compile a detailed documentation of the case and promptly submit it to the Supreme Court. The court will also notify the applicant and other parties, instructing them to prepare an addendum to their Application or response within 30 days.
 2. Upon being informed that the Supreme Court has decided to review the case, the applicant may notify the court that they do not wish to continue the process. In this event, the final decision will be confirmed and the process will end, although the Supreme Court may still choose to reopen the case on its own accord. If the applicant remains silent for more than 8 working days or explicitly confirms their agreement to proceed with the case, the case will be reopened and heard by the Supreme Court.
-3. After the applicant has either remained silent or confirmed their consent to proceed before the Supreme Court, they may not withdraw or modify their application.
+3. After the applicant has either remained silent or confirmed their consent to proceed before the Supreme Court, they may not withdraw or modify their Application.
 
 ### Article 53: Supreme Court Process
 1. The process before the Supreme Court follows the same general structure as the regular judicial process. However, the justices of the Supreme Court may choose to disregard or modify any phase of the process as they deem necessary. If they decide to make any changes, they shall inform the parties at the commencement of the proceedings.
