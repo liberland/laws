@@ -130,8 +130,8 @@ c) apprehend suspects;
 d) address other affairs concerning the maintenance of public safety and order.
 
 #### Section 2: Congressional Oversight
-1) Congress shall have direct oversight over all aspects of the Security Agency. It shall be empowered to conduct ad hoc and regular investigations, demand witness presence and testimony, or require the production of records.
-2) Congress shall have the power to remove any agent of the Security Agency from office by its Decision and reorganize the functioning of the Security Agency at any level by means of a decision.
+1) Congress shall have direct oversight over all aspects of the Watch. It shall be empowered to conduct ad hoc and regular investigations, demand witness presence and testimony, or require the production of records.
+2) Congress shall have the power to remove any agent of the Wathc from office by its Decision and reorganize the functioning of the Security Agency at any level by means of a decision.
 
 #### Section 3: Commander
 1) The head of the Watch shall be the Commander of the Watch of Liberland (hereinafter referred to as the "Commander"), nominated by the Minister of Interior and appointed by the President. All Age
@@ -168,7 +168,7 @@ d) address other affairs concerning the maintenance of public safety and order.
 ### Article 10: Watch Personnel
 1) The Watch, including the Cantonal Watch and individual Watch Posts, shall employ the following personnel as Agents
 
-a) Watchmen or Watchwomen, trained professionals in security and modern democratic policing, directly responsible for fulfilling the tasks of the Watch as outlined in this Law;
+a) Watchmen or Watchwomen, trained professionals in security and modern democratic policing, directly responsible for fulfilling the tasks of the Watch as outlined in this Law; these agents shall as a rule serve as Law Enforcement Officers, agents directly discharging police duties.
 
 b) Clerical Agents, supporting Security Professionals with back office and front office duties not requiring security training;
 
@@ -229,7 +229,7 @@ d) Director, responsible for top-level management and coordination (EQF 7, Agent
 ## Chapter 3: Police Powers
 
 ### Article 16: Demanding and Enforcing Compliance
-1) When authorized by law, an Agent on police duty may compel an individual to act or to omit certain actions. This shall be limited to:
+1) When authorized by law, an Law Enforcement Officer may compel an individual to act or to omit certain actions. This shall be limited to:
 
 a) Questioning, whereby the Agent may comply others to answer questions,
 
@@ -247,28 +247,28 @@ c) Entry and No-Knock Entry.
 
 ### Article 17: Questioning
 #### Section 1: Rules for Questioning
-1) An Agent on police duty may stop and question any person reasonably suspected of having committed or being about to commit a crime based on their unusual behavior and/or other surrounding circumstances, or who is deemed to have information on a crime that has already been committed or is about to be committed.
-2) If an Agent on police duty believes that questioning on the spot will disadvantage the subject person or impede traffic, they may ask the person to accompany them to a nearby Watch Post.
+1) An Law Enforcement Officer may stop and question any person reasonably suspected of having committed or being about to commit a crime based on their unusual behaviour and/or other surrounding circumstances or who is deemed to have information on a crime that has already been committed or is about to be committed.
+2) If a Law Enforcement Officer believes that questioning on the spot will disadvantage the subject person or impede traffic, they may ask the person to accompany them to a nearby Watch Post.
 
 #### Section 2: Limitation on Enforcement
-1) Persons subjected to questioning shall not be detained by the authorities, taken to a Watch Post by force, or coerced to answer questions against their will unless specific legal provisions concerning the particular criminal procedure apply. Where a person is detained in accordance with the law relating to the specific criminal procedure, an Agent on police duty may also search their personal belongings for potential weapons or, if no other means suffice to obtain answers and the law allows it, enforce compliance.
+1) Persons subjected to questioning shall not be detained by the authorities, taken to a Watch Post by force, or coerced to answer questions against their will unless specific legal provisions concerning the particular criminal procedure apply. Where a person is detained in accordance with the law relating to the specific criminal procedure, an Law Enforcement Officer may also search their personal belongings for potential weapons or, if no other means suffice to obtain answers and the law allows it, enforce compliance.
 
 ### Article 18: Protection
 
 #### Section 1: Providing aid and offering protection
-1) If an Agent on police duty encounters a person for whom they have reasonable grounds to believe requires emergency aid and protection, the Security Agent must provide immediate protection and ensure safe transportation to an appropriate location, such as a Security Office, hospital, or relief facility.
-2) When a person in need of protection shows signs of being a danger to the life, health, or property of others, or to their own life and health, particularly due to substance abuse or their temporary or permanent mental state, an Agent on police duty may use measures of force to restrain the person and transport them to appropriate facilities against their will. Upon taking such measures, the Agent on police duty shall inform the person's family, acquaintances, or other concerned parties as soon as possible and make necessary arrangements to hand over the subject person to them.
+1) If a Law Enforcement Officer encounters a person for whom they have reasonable grounds to believe requires emergency aid and protection, the Security Agent must provide immediate protection and ensure safe transportation to an appropriate location, such as a Security Office, hospital, or relief facility.
+2) When a person in need of protection shows signs of being a danger to the life, health, or property of others, or to their own life and health, particularly due to substance abuse or their temporary or permanent mental state, an Law Enforcement Officer may use measures of force to restrain the person and transport them to appropriate facilities against their will. Upon taking such measures, the Law Enforcement Officer shall inform the person's family, acquaintances, or other concerned parties as soon as possible and make necessary arrangements to hand over the subject person to them.
 
 #### Section 2: Long-term protection
 1) Police protection under this paragraph shall not exceed 24 hours unless a judge's warrant authorizing further protection is obtained; the warrant must expressly state the inevitable circumstances deemed to exist.
 2) Where individuals are placed under police protection for more than 24 hours, Watch Posts and other bases of operation for Agents on police duty shall notify the Court weekly of the names and addresses of individuals placed under police protection, the reasons for protection, the dates of protection and delivery, and the names of the persons or services to whom the protected individuals are handed over.
 
 ### Article 19: Emergency Response
-1) In the event of a dangerous situation, such as a natural disaster, incident, structural collapse, traffic accident, hazardous material explosion, the presence of a dangerous animal, excessive congestion of people, or similar circumstances, hereinafter referred to as "dangerous situation," which may endanger lives, health, or cause significant property damage, an Agent on police duty may issue necessary warnings to those at the scene.
-2) In cases of extreme urgency during a dangerous situation, an Agent on police duty may direct endangered individuals to seek shelter within the limits of necessity to escape the imminent danger, even enforcing such directives by force or threats of force where this should become necessary. In such cases, the Agent on police duty may also order individuals at the scene to take generally accepted necessary measures to prevent dangers or take such measures themselves. Individuals shall obey and cooperate with the Agent.
+1) In the event of a dangerous situation, such as a natural disaster, incident, structural collapse, traffic accident, hazardous material explosion, the presence of a dangerous animal, excessive congestion of people, or similar circumstances, hereinafter referred to as "dangerous situation," which may endanger lives, health, or cause significant property damage, an Law Enforcement Officer may issue necessary warnings to those at the scene.
+2) In cases of extreme urgency during a dangerous situation, an Law Enforcement Officer may direct endangered individuals to seek shelter within the limits of necessity to escape the imminent danger, even enforcing such directives by force or threats of force where this should become necessary. In such cases, the Law Enforcement Officer may also order individuals at the scene to take generally accepted necessary measures to prevent dangers or take such measures themselves. Individuals shall obey and cooperate with the Agent.
 
 ### Article 20: Crime Prevention and Suppression
-1) An Agent on police duty may issue necessary warnings to individuals involved when they observe a crime about to occur or to prevent its occurrence.
+1) An Law Enforcement Officer may issue necessary warnings to individuals involved when they observe a crime about to occur or to prevent its occurrence.
 
 2) If the actions of a person who
 
@@ -277,15 +277,15 @@ a) is clearly about to commit a crime,
 b) is in the process of committing a crime, or
 
 c) has just committed a crime, 
-are deemed likely to endanger lives, health, or cause serious property damage and the situation is urgent, the Agent on police duty may use violence or threat of violence to prevent or suppress the commission of the crime.
+are deemed likely to endanger lives, health, or cause serious property damage and the situation is urgent, the Law Enforcement Officer may use violence or threat of violence to prevent or suppress the commission of the crime.
 
 ### Article 21: Right of Entry
 #### Section 1: Enforcing Entry
-1) In the event of a dangerous situation or an imminent crime that is likely to endanger lives, health, or cause serious property damage, an Agent on police duty may enter any person's land, building, vessel, or vehicle within reasonably necessary limits, without obtaining informed consent from the owner, if deemed inevitably necessary to prevent danger, contain damage, stop or prevent the crime, or provide emergency response or relief to victims. An Agent on police duty may enforce entry when faced with opposition, including from the owner.
-2) An Agent on police duty exercising their right of entry shall not arbitrarily interfere with the lawful operation of the concerned person's business. Before exercising their right of entry, the Security Agent shall disclose the reason for entry to the on-site manager, proprietor, or person in a corresponding position and present their identification as a Security Agent.
+1) In the event of a dangerous situation or an imminent crime that is likely to endanger lives, health, or cause serious property damage, a Law Enforcement Officer may enter any person's land, building, vessel, or vehicle within reasonably necessary limits, without obtaining informed consent from the owner, if deemed inevitably necessary to prevent danger, contain damage, stop or prevent the crime, or provide emergency response or relief to victims. A Law Enforcement Officer may enforce entry when faced with opposition, including from the owner.
+2) An Law Enforcement Officer exercising their right of entry shall not arbitrarily interfere with the lawful operation of the concerned person's business. Before exercising their right of entry, the Security Agent shall disclose the reason for entry to the on-site manager, proprietor, or person in a corresponding position and present their identification as a Security Agent.
 
 #### Section 2: No-knock Entry
-1) If an Agent on police duty of at least the Constable rank determines it is absolutely necessary to protect the life, liberty, or property of others or to prevent a dangerous or violent crime, they shall inform a Judge of their intent to perform a clandestine entry without introducing themselves to individuals on-site.
+1) If a Law Enforcement Officer of at least the Constable rank determines it is absolutely necessary to protect the life, liberty, or property of others or to prevent a dangerous or violent crime, they shall inform a Judge of their intent to perform a clandestine entry without introducing themselves to individuals on-site.
 2) The Agent should obtain a warrant from the Judge whenever possible, regardless of the urgency level. In cases where the urgency is so great that obtaining a warrant would negate the purpose of the no-knock entry, the Agent shall merely inform the Judge beforehand by whatever means are available.
 3) After executing the no-knock entry and apprehending individuals, the Agent shall immediately identify themselves as soon as it is reasonably safe and does not interfere with the purpose of the no-knock entry. They shall also give a full report to the Judge, who will be able to retroactively declare the entry as legal or illegal. Where the entry is declared illegal, those damaged by it may seek recourse by the Court against Liberland.
 
