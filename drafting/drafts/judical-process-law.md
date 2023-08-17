@@ -154,20 +154,20 @@ A judge may issue a warrant upon a showing of probable cause, supported by oath 
 
 ### Section 2: Types of Warrants
 
-**a) Search Warrants**: A search warrant authorizes law enforcement agents to search a specific location for specific items and to seize those items if found.
+**a) Search Warrants**: A search warrant authorizes Law Enforcement Officers to search a specific location for specific items and to seize those items if found.
 
-**b) Arrest Warrants:** An arrest warrant authorizes law enforcement agents to arrest a specific individual based on probable cause that the individual has committed a crime.
+**b) Arrest Warrants:** An arrest warrant authorizes Law Enforcement Officers to arrest a specific individual based on probable cause that the individual has committed a crime.
 
-**c) Bench Warrants** A bench warrant is issued by a judge when a defendant fails to appear in court as required, authorizing law enforcement agents to arrest the defendant and bring them to court.
+**c) Bench Warrants** A bench warrant is issued by a judge when a defendant fails to appear in court as required, authorizing Law Enforcement Officers to arrest the defendant and bring them to court.
 
 ### Section 3: Execution of Warrants
-1. Warrants shall be executed by law enforcement agents in accordance with the terms of the warrant and applicable laws and regulations.
-2. Law enforcement agents executing a warrant shall identify themselves, present the warrant to the person subject to the warrant or the occupant of the place to be searched, and provide a receipt for any property seized.
-3. In exigent circumstances, where there is a risk of imminent harm to persons, destruction of evidence, or flight of a suspect, law enforcement agents may take necessary actions without a warrant, provided that they subsequently obtain a warrant or present the circumstances to a judge for review.
+1. Law Enforcement Officers shall execute warrants in accordance with the terms of the warrant and applicable laws and regulations.
+2. Law Enforcement Officers executing a warrant shall identify themselves, present the warrant to the person subject to the warrant or the occupant of the place to be searched, and provide a receipt for any property seized.
+3. In exigent circumstances, where there is a risk of imminent harm to persons, destruction of evidence, or flight of a suspect, Law Enforcement Officers may take necessary actions without a warrant, provided that they subsequently obtain a warrant or present the circumstances to a judge for review.
 
 ### Section 4: Reporting and Oversight
 1. Agencies charged with police duties shall maintain records of all warrants issued and executed relevant to their activities, including the basis for the warrant, the items seized, and the outcome of any related proceedings.
-2. These records shall be subject to periodic review by an independent oversight body to ensure compliance with the law and protection of individuals' rights.
+2. These records shall be subject to periodic review by an independent oversight body to ensure compliance with the law and the protection of individuals' rights.
 
 ### Article 18: Judicial Decisions
 #### Section 1: Consideration of evidence
