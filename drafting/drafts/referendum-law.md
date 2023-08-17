@@ -34,7 +34,7 @@ NOW, THEREFORE, BE IT ENACTED by the Parliament of Liberland as follows:
    
 ## Chapter 1: Referendum
 
-#### Article 1: Primary Instrument of Democracy
+### Article 1: Primary Instrument of Democracy
 
 #### Section 1
 
@@ -46,7 +46,7 @@ The Referendum, as the primary instrument of democracy in Liberland, shall enabl
 2. As the Executive Power is responsible for the Legislative Power, the Referendum may, in turn, overturn and replace any other decision-making process within the Legislative or Executive power of the Administration.
 3. Conversely, the Referendum can't directly overturn a judicial decision, but it can organize matters in the Judiciary by making Laws. The Referendum shall only influence the Guardians of the Republic through Constitutional Amendments and to the degree Dismissal as prescribed by the Constitution allows it.&#x20;
 
-#### Article 2: Blockchain System
+### Article 2: Blockchain System
 
 #### Section 1
 
@@ -59,7 +59,7 @@ The Administration shall ensure such a system capable of fulfilling the requirem
 
 1.
 
-#### Article 3: Voting Tokens
+### Article 3: Voting Tokens
 
 #### Section 1
 
@@ -70,18 +70,18 @@ The Administration shall ensure such a system capable of fulfilling the requirem
 
 The only form of LLM allowed for use in Referenda shall be politically pooled LLM. Political pooling entails limiting the liquidity of LLM, so that they can't be sent to a different wallet for the duration of the political pooling.&#x20;
 
-#### Article 4: Referendum Period
+### Article 4: Referendum Period
 
 The Referendum Period shall be 14 days. At the end of the Referendum period in which a Proposal has been converted into a Referendum, the Proposal is either Approved or Rejected.
 
-#### Article 5: Cancelling
+### Article 5: Cancelling
 
 1. In each Referendum stage before the end of the Referendum Period in which the Proposal has been converted into a Referendum, the Congress cancellation as prescribed by the Constitution may occur.&#x20;
 2. In the Enactment Period following the Approval of a Referendum, no Congress-originated Cancellation may take place, but the Senate may still Cancel the Proposal. In that case, Congress shall cancel the Proposal for the Senate, even at this stage.
 
 ## Chapter 2: Proposals
 
-#### Article 6: Making Proposals
+### Article 6: Making Proposals
 
 #### Section 1
 
@@ -99,12 +99,12 @@ a) where the entire Congress makes an unanimous decision to make this Proposal, 
 
 b) where a simple majority in the Congress makes the Proposal.
 
-#### Article 7: Endorsement
+### Article 7: Endorsement
 
 1. Any Citizen can support any Proposal by pledging their LLM into it. Pledged LLM shall be locked and the Citizen shall be barred from using them elsewhere in politics. Endorsement increases the change of the Proposal being converted into a Referendum.
 2. The LLM shall be freed up upon the Proposal being converted into a Referendum. If that doesn't occur within the span of ten Referendum Periods following the period in which the Endorsement took place, the Citizen shall have the option of cancelling the Endorsement and unlocking the LLM.
 
-#### Article 8: View of Proposals
+### Article 8: View of Proposals
 
 The system shall entail a view in which all active Proposals are listed. This view shall include the following data
 
@@ -120,7 +120,7 @@ e) the proposed Enactment Period;  and
 
 f) the date on which the Proposal was made.
 
-#### Article 9: Converting Proposals into Referenda
+### Article 9: Converting Proposals into Referenda
 
 1. The system shall include an algorithm that selects a Proposal at the beginning of each Referendum Period to be converted into a Referendum.&#x20;
 2. The algorithm will cycle between the Citizen and Congress Origin, beginning with the Congress Origin, so that in odd Periods, a Proposal is selected from the Citizen Origin and in even Periods, a Proposal is selected from the Congress Origin.
@@ -128,17 +128,17 @@ f) the date on which the Proposal was made.
 
 ## Chapter 3: Voting on Referenda
 
-#### Article 10: Voting
+### Article 10: Voting
 
 All Citizens shall have the right to vote using their LLM. Citizens can repeatedly vote for the same Referendum. If so, the newest voting replaces the previous voting.
 
-#### Article 11: Deciding Referenda
+### Article 11: Deciding Referenda
 
 1. The system shall decide the Referendum based on the votes count at the moment the Referendum Period ends, comparing the result with the Tally required for approval based on the given origin.&#x20;
 2. When the Tally is reached, the Referendum ends with the Approval of the Proposal, and the Enactment Period starts.&#x20;
 3. Otherwise, the Referendum ends with the Rejection of the Proposal, which is discarded.
 
-#### Article 12: Tally
+### Article 12: Tally
 
 The following shall be Referendum tallies for the general Referendum required for the Referendum to Adopt the Proposal:
 
@@ -148,7 +148,7 @@ b) For the origin Congress, the Tally shall be counted as the simple majority of
 
 c) For the origin Congress Unanimous, the Tally shall be counted as the number of votes against divided by the square root of the electorate must be smaller than the number of votes approved divided by the square root of the turnout, henceforth "Super-Majority Against".
 
-#### Article 13: View of Voting
+### Article 13: View of Voting
 
 The system shall entail a view in which all active Referenda are listed. This view shall include the following data
 
@@ -164,13 +164,13 @@ e) the current Votes;  and
 
 e) the relevant Referendum Period.
 
-#### Article 14: Enactment Period
+### Article 14: Enactment Period
 
 The Proposal shall gain legal force after its Enactment Period has run its course. The Proposal can be vetoed during that time by the Senate using Cancellation or by Citizens using Public Veto.
 
 ## Chapter 4: Public Veto
 
-#### Article 15: Proposing a Public Veto
+### Article 15: Proposing a Public Veto
 
 1. A Public Veto can be proposed by a Citizen by bonding 1000 LLM into the Proposal. The Proposal shall be admissible on a:
 
@@ -180,12 +180,12 @@ c) Judge, Vice-President or the President.
 
 1. Upon submitting the Proposal, it becomes a Referendum at the beginning of the next Referendum Period.
 
-#### Article 16: Voting on a Public Veto
+### Article 16: Voting on a Public Veto
 
 The Voting on a Public Veto is conducted in the same manner as voting on a general Referendum, but each Citizen can only use one LLM for each Public Veto. The Constitution prescribes the Tallies.
 
 ## Chapter 5: Final Provision
 
-#### Article 17: Legal Force
+### Article 17: Legal Force
 
 This Law takes legal force at the end of a standard Enactment Period following its adoption in the Referendum.
