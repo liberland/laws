@@ -38,42 +38,42 @@ NOW, THEREFORE, BE IT ENACTED by the Citizens and the Government of Liberland as
 
 10. The system established by this law is a mix between EU/Roman law and common law, granting judges powers beyond what is usual in Europe, leading to adjudication of cases, law creation, and binding interpretation.
     
-## Chapter 1: General Principles   
+## Chapter 1: General principles   
 
 ### Article 1: Purpose  
 The purpose of this law is to provide for the establishment, organization, and functioning of the judicial system in Liberland, ensuring that justice is accessible, effective, and impartial for all who seek it.
 
-### Article 2: Equality and Non-Discrimination  
+### Article 2: Equality and non-discrimination  
 All courts and judicial bodies in Liberland shall treat parties equally and without discrimination based on status, background, nationality, race, religion, sexual orientation, gender, or any other personal circumstances.
 
-### Article 3: Right to a Fair Trial  
+### Article 3: Right to a fair trial  
 Every individual in Liberland has the right to a fair and public hearing within a reasonable time by an independent and impartial tribunal established by law. The principle of the right to a fair trial shall be upheld in all judicial processes, whether civil, criminal, or otherwise.
 
-### Article 4: Transparency and Accessibility  
+### Article 4: Transparency and accessibility  
 1. All laws, regulations, and judicial procedural rules shall be publicly available and accessible so that potential parties may familiarize themselves with the legal framework governing the judicial process.  
 2. Court proceedings, decisions, and records shall be open to the public, except when confidentiality is necessary to protect the interests of justice or the rights and freedoms of the parties involved.  
 
-### Article 5: Legal Representation  
+### Article 5: Legal representation  
 Every party involved in a judicial process shall have the right to be represented by legal counsel of their choice or to self-represent, and courts shall provide reasonable accommodations to ensure that all parties can effectively participate in the proceedings.
 
-### Article 6: Judicial Independence and Impartiality  
+### Article 6: Judicial independence and impartiality  
 The judiciary in Liberland shall be independent of the executive and legislative branches of government and shall be impartial in the exercise of its functions.
 Judges shall be free from any external influence, inducement, pressure, threat, or interference, whether direct or indirect, in the performance of their duties.
 
-### Article 7: Competence and Professionalism  
+### Article 7: Competence and professionalism  
 1. All courts shall ensure that their officials, employees, and decision-makers receive appropriate training and maintain a high level of knowledge and skill throughout their tenure.
 2. Judges, mediators, arbitrators, and other judicial decision-makers shall be well-versed professionals in the Law of Liberland and any other law or rules relevant to the jurisdiction of their respective courts.
 
-### Article 8: Judicial Remedies   
+### Article 8: Judicial remedies   
 Courts shall have the power to grant appropriate and effective remedies, including but not limited to, monetary compensation, injunctive relief, and declaratory relief, to ensure that the rights and interests of parties are adequately protected and enforced.
 
 ### Article 9: Language   
 
-#### Section 1: Liberlandish as the Default Process Language  
+#### Section 1: Liberlandish as the default process language  
 1. State courts shall communicate in Liberlandish, a dialect continuum of English, and parties are responsible for compliance. The judge may direct otherwise, but only if all parties jointly agree to use a language other than Liberlandish.
 2. When a party requests the service of a translator and/or interpreter, the judge shall arrange that at the expense of the requesting party.
 
-#### Section 2: Protection of a Weaker Party  
+#### Section 2: Protection of a weaker party  
 When the protection of a weaker party, such as a party with a sensory impairment, requires interpretation or transcription to make the process understandable for that party, and the use of legal counsel is insufficient, or the party can prove that they have insufficient means to obtain such legal counsel, the judge shall waive the requirement for the party to cover the expenses for translation or interpretation services. Additionally, the judge shall make any necessary accommodations to allow the party to present their case reasonably.
 
 ### Article 10: Civil process    
@@ -81,16 +81,16 @@ Civil process, a procedure concerning matters in private law between parties, sh
 
 ### Article 11: Criminal process    
 
-#### Section 1: Defining Criminal Process
+#### Section 1: Defining criminal process
 Criminal process shall be between Liberland and a private party where the subject matter is alleged non-compliance with the legal system, and Liberland stands as the public accuser.
 
-#### Section 1: Special Rules for Criminal Process
-Special procedural rules apply to criminal processes to protect the accused and ensure even higher standards of justice than the standard procedural rules.
+#### Section 1: Special Rules for criminal process
+Special procedural rules apply to criminal processes to protect the accused and ensure even higher standards of justice than the standard procedural rules, set forth in this or in other laws. In the absence of special rules, the rules for Civil Process shall apply.
 
-#### Section 3: State Monopoly on Criminal Process  
+#### Section 3: State Monopoly on criminal process  
 Only State courts shall possess the jurisdiction to decide on a Criminal process. Any contractual stipulations to the contrary shall be null and void.
 
-### Article 12: Private Courts and Alternative Dispute Resolution  
+### Article 12: Private Courts and alternative dispute resolution  
 1. Private courts, arbitration, mediation, and other alternative dispute resolution mechanisms may be established and operated within the territory of Liberland, subject to the general principles and minimum requirements set forth in this law.
 2. Private courts shall have the power to resolve disputes between parties in accordance with the agreed-upon rules and procedures, provided that they do not violate the fundamental principles of justice and fairness enshrined in this law and the Constitution of Liberland.
    
@@ -99,71 +99,74 @@ A disciplinary process shall be where a Private Court adjudicates a case between
 
 ## Chapter 2: Core Concepts  
 
-### Article 14: Role of the Judge
+### Article 14: Role of the judge
 1. The judge is the official through which a court acts in matters of the judicial process.
 2. A judge or judges preside over any judicial process and make the final decision resolving any dispute, question, or other matter presented before the court.
 The judge shall also be the final arbiter deciding on the correct procedure in every situation before the court.
 
-### Article 15: Composition of Judicial Panels
+### Article 15: Composition of judicial panels
 1. Where multiple judges are presiding over a process, they shall decide the case together and always be of an even number.
 2. No judge shall have higher deciding power than any other judge.
 
-### Article 16: Assigning Judges
+### Article 16: Assigning judges
 1. Each court shall establish rules according to which judges are assigned to cases and shall respect those rules in all matters.
 2. No party shall be deprived of a judge assigned to them, except where the party gives their express permission.
 
-### Article 17: Judicial Conduct
+### Article 17: Judicial conduct
 
 #### Section 1: Impartiality  
 1. The judge shall act impartially and in the interest of justice, upholding legitimately obtained private property and being mindful of the personal situations of the parties and their power differences.
 2. The judge shall base each statement in any verdict on evidence and well-reasoned logic only, and according to law and principles of justice.
 After a case has commenced, there shall be no ex parte communication between the judge and the parties, or between the court and other persons relevant to the case, such as witnesses, unless explicitly permitted by consent of all parties.
 
-#### Section 2: Partial Judges  
+#### Section 2: Partial judges  
 1. A judge who has a personal connection to one or more of the parties or the object of the case shall be deemed partial where that connection is judged sufficient to influence their decision-making.
 2. If a party suspects partiality, they may appeal to the court, which shall appoint three judges to decide on the impartiality of the fellow judge. A judge in doubt of being partial may also initiate this process themselves.
 3. A partial judge shall be replaced according to the rules of the court. Partiality in itself shall not be counted against the judge without it having led to unjust decisions or breaches of due process, or without it having been found in extenuating circumstances (i.e., the judge must have known that they were partial and not reported it).
 4. A court or higher court, where applicable, shall re-examine a judicial decision made and a judicial process presided by a partial judge, regardless of the procedural stage at which impartiality has been established.
 
 ### Article 18: Judicial Decisions
-#### Section 1: Consideration of Evidence
+#### Section 1: Consideration of evidence
 1. In rendering judicial decisions, the judge shall assess each piece of evidence individually, taking into account the manner in which it was obtained and the assertions it is intended to support. The judge shall rely exclusively on objective and established facts.
 2. There shall be no formal rules governing the interpretation or exclusion of evidence in the law: No legal provision shall be placed higher than the truth. Consequently, the judge shall always have the authority to earnestly evaluate the facts of the case and address them according to their best judgment. However, the judge shall be required to articulate the rationale for their decisions.
 
-#### Section 2: Form and Availability of Judicial Decisions
+#### Section 2: Form and availability of judicial decisions
 1. A judicial decision may be delivered orally or in writing. Regardless of the form of delivery, a written copy of the decision, signed and certified by the judge, shall be made available at the judge's discretion or upon request by a party. In case of a difference between the oral and written version the written version shall take precedence.
 2. In cases where translation services are utilized, written translations into other languages shall be provided concurrently. The decision becomes binding upon the court once it is signed by the judge.
 
 ### Article 19 Non-Controversial Cases
 
-#### Section 1: Simplified Rules for Non-Controversial Cases 
+#### Section 1: Simplified rules for non-controversial cases 
 1. Non-controversial cases shall be subject to a simplified and expedited judicial process, designed to resolve matters efficiently and without undue delay.
 2. The court shall establish and maintain separate procedural rules for non-controversial cases, which may include, but are not limited to, streamlined pleadings, limited discovery, and shortened timelines for the submission of documents and the scheduling of hearings.
 3. The court shall ensure that the special rules for non-controversial cases are accessible and comprehensible to all parties, including self-represented litigants, to facilitate their effective participation in the judicial process.
 
-#### Section 2: Reclasification of Non-Controversial Cases to Controversial Cases
+#### Section 2: Reclasification of non-controversial cases to controversial cases
 The court may, at its discretion or upon request by a party, reclassify a case initially designated as non-controversial if it becomes apparent that the matter involves significant controversy, complexity, or the need for a more comprehensive judicial process.  
 
-#### Section 3: No Mandatory Mediation for Non-Controversial Cases  
-In non-controversial cases, the court shall not require mandatory mediation or alternative dispute resolution methods as a prerequisite to proceeding with the judicial process.
+#### Section 3: No Mandatory Mediation for non-controversial cases  
+In non-controversial cases, the court shall not require Mandatory Mediation or alternative dispute resolution methods as a prerequisite to proceeding with the judicial process.
  
 ## Chapter 3: Commencement of Civil Proceedings
 
 ### Article 20: Application
-1. A civil proceeding shall be initiated by the filing of an application by the applicant with the appropriate court.
-2. The application shall set forth the relevant facts, legal basis for the claim, and the relief sought by the applicant.
+#### Section 1: Filing of Application
+A civil proceeding shall commence upon the submission of an application by the applicant to the appropriate court.
+
+#### Section 2: Contents of Application
+1. The application shall detail the pertinent facts, the legal basis for the claim, and the relief sought by the applicant.
+2. The application shall identify all respondents, defined as individuals or entities whose conduct the applicant seeks to alter through court intervention.
 
 ### Article 21: Issuance of Summons
-1. Upon the filing of an application, the court shall issue a summons or notice to the respondent or respondents, requiring them to appear and respond to the claim within a specified period.
-2. The summons or notice shall be served on the respondent in a manner prescribed by law or regulation, ensuring that they receive proper notice of the proceedings and an opportunity to defend themselves.
+1. Upon receipt of an application, the court shall issue a Summons, or notice, to the respondent or respondents, directing them to respond to the claim within a designated timeframe or on a specified date. This shall be conducted electronically wherever feasible, though extraordinary circumstances may necessitate the personal presence of a party.
+2. The Summons or notice shall be served upon the respondent in a manner ensuring that the respondent receives adequate notice of the proceedings and an opportunity to present a defense.
+
+### Article 22: Response
+1. A respondent shall respond to the application by submitting a counter-application.
+2. The rules governing the contents and submission of the initial application shall also apply to the counter-application.
 
 ### Article 22: Pleadings and Motions
-1. Parties to a civil proceeding shall submit pleadings and motions in accordance with the rules and procedures established by the court or applicable law.
-2. Pleadings and motions shall be clear, concise, and set forth the parties' respective positions and arguments on the issues in dispute.
-
-### Article 23: Discovery and Evidence
-1. Parties to a civil proceeding shall be entitled to conduct discovery and obtain evidence in a manner prescribed by the rules of the court or applicable law.
-2. The court shall have the authority to issue orders and sanctions as necessary to ensure the proper and efficient conduct of discovery and the preservation of evidence.
+Subsequent to the Application and the Response, parties to a civil proceeding shall submit pleadings and motions in accordance with the rules and procedures established by the court or applicable law and made available to them beforehand. Where such rules are absent, the parties shall submit them so that they are clear, and concise, and set forth the parties respective positions and arguments on the issues in dispute.
 
 ### Article 24: Withdrawal of the Application
 1. The applicant may terminate the judicial process by withdrawing their application. In non-controversial cases, they can do so at any time.
@@ -216,26 +219,26 @@ The court shall notify the parties of the trial date and any relevant pre-hearin
 
 ## Chapter 5: Trial
 
-### Article 34: Trial Process
+### Article 34: Trial process
 1. The trial shall be conducted in a fair, impartial, and orderly manner, with due respect for the rights and interests of all parties.
 2. The presiding judge shall open the hearing by briefly outlining the nature of the case, the issues to be resolved, and the procedural rules that will govern the proceedings.
 
-### Article 35: Presentation of the Applicant's Case
+### Article 35: Presentation of the Applicant's case
 1. The applicant shall present their case first, providing an opening statement that summarizes their arguments, the evidence they intend to rely on, and the relief they are seeking.
 2. The applicant may then call witnesses, present documents and other evidence, and make legal submissions in support of their case.
 
-### Article 36: Presentation of the Respondent's Case
+### Article 36: Presentation of the Respondent's case
 1. After the applicant has concluded their case, the respondent shall have the opportunity to present their defense.
 2. This may include an opening statement, the calling of witnesses, the presentation of documents and other evidence, and legal submissions that respond to the applicant's arguments and evidence.
 
-### Article 37: Presenting Claims Supported by Evidence  
+### Article 37: Presenting only claims supported by evidence  
 1. Claims made by the parties during the hearing must be supported by evidence, which should be disclosed to the judge and the opposing party either prior to or during the hearing. The judge shall have discretion in varying the procedure for presenting evidence, ensuring all parties have equal opportunity to present any material or relevant proof.
 2. Parties may submit evidence as they deem appropriate and may be required to produce additional evidence as determined by the judge for a comprehensive understanding and resolution of the dispute. This may be a reason for extending the hearing but shall not be applied more than once in a case.
 
 ### Article 38: Dismissal of Non-Supported Claims  
 The judge may dismiss claims presented without supporting evidence, without providing further reasons.
 
-#### Article 39: Matters of Law and Common Knowledge  
+### Article 39: Matters of Law and Common Knowledge  
 The judge may accept as evidence undisputed facts, matters of law, or facts agreed upon by both parties without reservation.
 
 ### Article 40: Examination of Witnesses and Exhibits
