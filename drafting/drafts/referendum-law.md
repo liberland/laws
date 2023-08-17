@@ -86,6 +86,7 @@ Any Citizen may submit a Proposal in the system, in which case the origin of the
 The Congress may collectively submit a Proposal in the system, which will be designated with the origin of "Congress." There are two forms of a Congress Origin Proposal:
 
    a) Unanimous Proposal: Where the entire Congress makes a unanimous decision to make this Proposal.
+   
    b) Majority Proposal: Where a simple majority in Congress makes the Proposal.
 
 ### Article 7: Endorsement
@@ -103,10 +104,15 @@ The LLM shall be freed up upon the Proposal being converted into a Referendum. I
 The system shall provide a view in which all active Proposals are listed. This view shall include the following data:
 
    a) Name of the Proposal;
+   
    b) Origin of the Proposal;
+   
    c) Link to the personal page of the Citizen or Congress Member who made the Proposal;
+   
    d) Rate of Endorsement;
+   
    e) Proposed Enactment Period; and
+   
    f) Date on which the Proposal was made.
 
 ### Article 9: Converting Proposals into Referenda
@@ -140,7 +146,9 @@ The algorithm shall always select the most endorsed Proposal per given Origin fo
 1. The following shall be the Referendum tallies for the general Referendum required for the Referendum to Adopt the Proposal:
 
    a) For the origin Citizen, the Tally shall be calculated as the number of votes against divided by the square root of the turnout must be smaller than the number of votes approve divided by the square root of the electorate, henceforth referred to as "Super-Majority Approve".
+   
    b) For the origin Congress, the Tally shall be calculated as the simple majority of the votes cast, henceforth referred to as "Simple Majority".
+   
    c) For the origin Congress Unanimous, the Tally shall be calculated as the number of votes against divided by the square root of the electorate must be smaller than the number of votes approved divided by the square root of the turnout, henceforth referred to as "Super-Majority Against".
 
 ### Article 13: View of Voting
@@ -148,10 +156,15 @@ The algorithm shall always select the most endorsed Proposal per given Origin fo
 1. The system shall provide a view in which all active Referenda are listed. This view shall include the following data:
 
    a) Name of the Referendum;
+   
    b) Origin of the Referendum;
+   
    c) Link to the personal page of the Citizen or Congress Member who made the original Proposal;
+   
    d) Tally required for the Adoption of a Proposal;
+   
    e) Current Votes; and
+   
    f) Relevant Referendum Period.
 
 ### Article 14: Enactment Period
@@ -165,9 +178,10 @@ The algorithm shall always select the most endorsed Proposal per given Origin fo
 1. A Public Veto may be proposed by a Citizen by bonding 1000 LLM into the Proposal. The Proposal shall be admissible on a:
 
    a) Regulation or an Adopted Referendum in the Enactment Period phase; or
+   
    b) Judge, Vice-President, or the President.
 
-2. Upon submitting the Proposal, it becomes a Referendum at the beginning of the next Referendum Period.
+3. Upon submitting the Proposal, it becomes a Referendum at the beginning of the next Referendum Period.
 
 ### Article 16: Voting on a Public Veto
 
