@@ -95,21 +95,11 @@ Any Citizen may submit a Proposal in the system, in which case the origin of the
 
 #### Section 3: Congress Proposals
 
-The Congress may collectively submit a Proposal in the system, which will be designated with the origin of "Congress." There are two forms of a Congress Origin Proposal:
+The Congress may collectively submit a Proposal in the system, in which case the origin of the Proposal shall be registered as"Congress." 
 
-   a) Unanimous Proposal: Where the entire Congress makes a unanimous decision to make this Proposal.
-   
-   b) Majority Proposal: Where a simple majority in Congress makes the Proposal.
+### Article 7: Endorsing Proposals
 
-### Article 7: Endorsement
-
-#### Section 1: Supporting Proposals
-
-Any Citizen may support any Proposal by pledging their LLM into it. Pledged LLM shall be locked, and the Citizen shall be barred from using them elsewhere in politics. Endorsement increases the chance of the Proposal being converted into a Referendum.
-
-#### Section 2: Release of Pledged LLM
-
-The LLM shall be freed up upon the Proposal being converted into a Referendum. If that does not occur within the span of ten Referendum Periods following the period in which the Endorsement took place, the Citizen shall have the option of canceling the Endorsement and unlocking the LLM.
+Any Citizen may support any Proposal by pledging their voting instrument into it. A Citizen can use the same voting instrument in multiple referenda active at the same time.
 
 ### Article 8: View of Proposals
 
@@ -145,7 +135,7 @@ The algorithm shall always select the most endorsed Proposal per given Origin fo
 
 ### Article 10: Voting
 
-1. All Citizens shall have the right to vote using their LLM. Citizens may vote multiple times for the same Referendum, with each subsequent vote replacing the previous one.
+All Citizens shall have the right to vote using their LLM. Citizens may vote multiple times for the same Referendum, with each subsequent vote replacing the previous one.
 
 ### Article 11: Deciding Referenda
 
@@ -155,7 +145,7 @@ The algorithm shall always select the most endorsed Proposal per given Origin fo
 
 ### Article 12: Voting Requirement
 
-1. The following shall be the Referendum tallies for the general Referendum required for the Referendum to Adopt the Proposal:
+1. The following shall be the Referendum voting requirements for the general Referendum required for the Referendum to Adopt the Proposal:
 
    a) For the origin Citizen, the Voting Requirement shall be calculated as the number of votes against divided by the square root of the turnout must be smaller than the number of votes approve divided by the square root of the electorate, henceforth referred to as "Super-Majority Approve".
    
@@ -191,16 +181,16 @@ The algorithm shall always select the most endorsed Proposal per given Origin fo
 
    a) Regulation or an Adopted Referendum in the Enactment Period phase; or
    
-   b) Judge, Vice-President, or the President.
+   b) An elected official, a Judge, Vice-President, or the President.
 
 3. Upon submitting the Proposal, it becomes a Referendum at the beginning of the next Referendum Period.
 
 ### Article 16: Voting on a Public Veto
 
-1. Voting on a Public Veto is conducted in the same manner as voting on a general Referendum, but each Citizen may only use one LLM for each Public Veto. The Constitution prescribes the Tallies.
+Voting on a Public Veto is conducted in the same manner as voting on a general Referendum, but each Citizen may only use one LLM for each Public Veto. The voting requirement shall be 50 percent plus one vote to effect the Public Veto.
 
 ## Chapter 5: Final Provision
 
 ### Article 17: Legal Force
 
-1. This Law takes legal force at the end of a standard Enactment Period following its adoption in the Referendum.
+This Law takes legal force at the end of a standard Enactment Period following its adoption in the Referendum.
