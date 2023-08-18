@@ -36,7 +36,19 @@ NOW, THEREFORE, BE IT ENACTED by the Parliament of Liberland as follows:
 
 ### Article 1: Primary Instrument of Democracy
 #### Section 1: Purpose of the Referendum
-The Referendum, as the primary instrument of democracy in Liberland, shall empower Citizens to make collective decisions and to enact Laws and other types of Regulations. The Referendum shall be open to participation by all citizens.
+1) The Referendum, as the primary instrument of democracy in Liberland, shall empower Citizens to make collective decisions and to enact 
+
+a) Constitutional Ammendments, 
+
+b) Laws
+
+c) other types of Regulations
+
+d) decisions in individual cases, including ones about the blockchain system; and 
+
+e) to ratify the international treaties of the highest importance. 
+
+2)The Referendum shall be open to participation by all citizens.
 
 #### Section 2: Supremacy of the Referendum
 1. The Referendum shall be the paramount decision-making process within Liberland and the Government, and no other decision-making process shall have the authority to overturn a Referendum decision.
@@ -45,10 +57,10 @@ The Referendum, as the primary instrument of democracy in Liberland, shall empow
 
 ### Article 2: Blockchain System
 #### Section 1: Implementation of the Referendum
-1. The Referendum shall be conducted through electronic communications using a public blockchain system capable of hosting governance.
+1. The Referendum shall be conducted through electronic communications using a public blockchain system capable of hosting governance, henceforth the "Blockchain".
 2. The system shall be sufficiently decentralized and secure to minimize risks of unauthorized tampering of all kinds, and user-friendly enough to ensure that the vast majority of Citizens can operate it with ease.
 
-#### Section 2: Government Responsibility
+#### Section 2: Government procures the Blockchain
 The Government shall ensure the establishment or adoption of a system capable of meeting the requirements of this Law and shall provide for its regular maintenance.
 
 ### Article 3: Voting Instruments
@@ -60,7 +72,7 @@ The Government shall ensure the establishment or adoption of a system capable of
 The only form of LLM permitted for use in Referenda shall be politically pooled LLM. Political pooling involves restricting the liquidity of LLM, such that they cannot be transferred to a different wallet for the duration of the political pooling.
 
 ### Article 4: Referendum Period
-The Referendum Period shall be 14 days. At the end of the Referendum period in which a Proposal has been converted into a Referendum, the Proposal is either Approved or Rejected.
+The Referendum Period shall be 14 days. At the end of the Referendum period in which a Proposal has been converted into a Referendum, the Proposal is either Approved or Rejected based on whether a sufficient amount of voting instruments were cast for acceptance, henceforth "Voting Requirement".
 
 ### Article 5: Cancellation
 #### Section 1: Cancellation During Referendum Period
