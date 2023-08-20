@@ -1,7 +1,7 @@
 # Border and Immigration Law
 
 ## Preamble
-This Law establishes the framework for border delimitation and management, as well as the processes related to entry, residency, and immigration within the territory of Liberland.
+This Law establishes the framework for border delimitation and management, as well as the processes related to entry, residency, and immigration within the territory of Liberland. 
 
 # Book 1: Borders and Establishing their Security
 
@@ -373,19 +373,19 @@ c) A Third-Class Immigration Officer may not waive any visa or entry requirement
    
      > i. by virtue of evidence of an official offer of employment by the prospective employer which is a Liberland-based person or institution,  
     
-     > ii. by virtue of evidence of past record of employment or accepted professional qualifications, such as trade or university diplomas and at least 3000 USD of  disposable income in provable possession; and  
+     > ii. by virtue of evidence of past record of employment or accepted professional qualifications, such as trade or university diplomas and at least USD 3000 of  disposable income in provable possession; and  
    
-   c) has at least 3 000 USD in disposable income in provable possession;  
+   c) has at least USD 3000 in disposable income in provable possession;  
    
    d) when not in gainful employment or not performing gainful economic activity, they shall actively seek such employment or economic activity; where they are unable to do so, they shall do their best to put themselves into the position of being able to do so in future.  
    
-2) If the applicant doesn't fulfill the requirements as listed above, the applicant needs to prove that they possess sufficient means to survive in Liberland, which include:  
+2) If the applicant doesn't fulfil the requirements as listed above, the applicant needs to prove that they possess sufficient means to survive in Liberland, which include:  
 
-   a) at least 120 000 USD in disposable income in provable possession; or  
+   a) at least USD 120 000 in disposable income in provable possession; or  
    
-   b) the written statement by another person or by an organization of repute testifying they will provide for them, where such a person or organization is in provable possession of at least 120 000 USD in disposable income; or  
+   b) the written statement by another person or by an organization of repute testifying they will provide for them, where such a person or organization is in provable possession of at least USD 120 000 in disposable income; or  
    
-   c) at least 12 000 USD and they are:  
+   c) at least USD 12 000 and they are:  
    
      > i. students of any type of school, or  
      
@@ -393,7 +393,7 @@ c) A Third-Class Immigration Officer may not waive any visa or entry requirement
      
    and their Residence Visa shall be retained for as long as their study or pro-bono work lasts plus 4 election terms  
 
-#### § 3: Format of Reisdence Visa  
+#### § 3: Format of Residence Visa  
 The standardized format of each type of visa shall be determined by Regulation issued by the Ministry of Interior. Only an immigration officer with a first class delegation may issue a visa in a non-standardized format and only in cases where no other course would be just and reasonable.
 
 ### Article 39: Family Visa
