@@ -18,7 +18,7 @@ NOW, THEREFORE, BE IT ENACTED by the Citizens and the Government of Liberland.
 
 ### Article 1: Primary Instrument of Democracy
 #### Section 1: Purpose of the Referendum
-1) The Referendum, as the primary instrument of democracy in Liberland, shall empower Citizens to make collective decisions and to enact 
+1. The Referendum, as the primary instrument of democracy in Liberland, shall empower Citizens to make collective decisions and to enact 
 
    a) Constitutional Ammendments, 
 
@@ -30,7 +30,7 @@ NOW, THEREFORE, BE IT ENACTED by the Citizens and the Government of Liberland.
 
    e) to ratify the international treaties of the highest importance. 
 
-2)The Referendum shall be open to participation by all citizens.
+2. The Referendum shall be open to participation by all citizens.
 
 #### Section 2: Supremacy of the Referendum
 1. The Referendum shall be the paramount decision-making process within Liberland and the Government, and no other decision-making process shall have the authority to overturn a Referendum decision.
@@ -120,7 +120,7 @@ All Citizens shall have the right to vote using their LLM. Citizens may vote mul
 
 ### Article 11: Voting Requirement
 
-1. The following shall be the Referendum voting requirements for the general Referendum required for the Referendum to Adopt the Proposal:
+The following shall be the Referendum voting requirements for the general Referendum required for the Referendum to Adopt the Proposal:
 
    a) For the origin Citizen, the Voting Requirement shall be calculated as the number of votes against divided by the square root of the turnout must be smaller than the number of votes approve divided by the square root of the electorate, henceforth referred to as "Super-Majority Approve".
    
@@ -128,7 +128,7 @@ All Citizens shall have the right to vote using their LLM. Citizens may vote mul
    
 ### Article 12: View of Voting
 
-1. The system shall provide a view in which all active Referenda are listed. This view shall include the following data:
+The system shall provide a view in which all active Referenda are listed. This view shall include the following data:
 
    a) Name of the Referendum;
    
@@ -144,7 +144,7 @@ All Citizens shall have the right to vote using their LLM. Citizens may vote mul
 
 ### Article 13: Enactment Period
 
-1. The Proposal shall gain legal force after its Enactment Period has run its course. The Proposal may be vetoed during that time by the Senate using Cancellation or by Citizens using Public Veto.
+The Proposal shall gain legal force after its Enactment Period has run its course. The Proposal may be vetoed during that time by the Senate using Cancellation or by Citizens using Public Veto.
 
 ## Chapter 4: Public Veto
 
@@ -156,7 +156,7 @@ All Citizens shall have the right to vote using their LLM. Citizens may vote mul
    
    b) An elected official, a Judge, Vice-President, or the President.
 
-3. Upon submitting the Proposal, it becomes a Referendum at the beginning of the next Referendum Period.
+2. Upon submitting the Proposal, it becomes a Referendum at the beginning of the next Referendum Period.
 
 ### Article 15: Voting on a Public Veto
 
