@@ -107,21 +107,21 @@ After a case has commenced, there shall be no ex parte communication between the
 1. A Judge may issue various interim pre-trial orders or measures to ensure that the circumstances of the case remain sufficiently stable for adjudication. Parties shall comply with these orders, or the Judge may impose penalties up to the case's value, with the maximum penalty being the total forfeiture of all points on the case for the non-compliant party.
 2. A Judge may use the following order:
 
-a) **Restraining/Compelling Order**: Short-term orders issued to prevent a party from engaging in certain actions that could harm the other party or the case itself.
+   a) **Restraining/Compelling Order**: Short-term orders issued to prevent a party from engaging in certain actions that could harm the other party or the case itself.
 
-c) **Discovery Orders**: Orders compelling parties to produce evidence relevant to the case, such as documents, records, or depositions.
+   c) **Discovery Orders**: Orders compelling parties to produce evidence relevant to the case, such as documents, records, or depositions.
 
-d) **Protective Orders**: Orders issued to safeguard sensitive information from public disclosure or to prevent harassment of witnesses.
+   d) **Protective Orders**: Orders issued to safeguard sensitive information from public disclosure or to prevent harassment of witnesses.
 
-e) **Scheduling Orders**: Orders establishing deadlines for various stages of the litigation process, including discovery, motions, and trial.
+   e) **Scheduling Orders**: Orders establishing deadlines for various stages of the litigation process, including discovery, motions, and trial.
 
-f) **Asset Freezes**: Orders, where appropriate, directing that a party's assets be frozen to prevent their sale or transfer pending resolution of the case.
+   f) **Asset Freezes**: Orders, where appropriate, directing that a party's assets be frozen to prevent their sale or transfer pending resolution of the case.
 
-g) **Custody or Visitation Orders**: In family law cases, temporary orders may be issued regarding child custody or visitation to ensure stability for the children involved.
+   g) **Custody or Visitation Orders**: In family law cases, temporary orders may be issued regarding child custody or visitation to ensure stability for the children involved.
 
-h) **Bail or Bond Orders**: In criminal cases, orders may be issued setting bail or bond conditions to ensure the defendant's appearance at trial.
+   h) **Bail or Bond Orders**: In criminal cases, orders may be issued setting bail or bond conditions to ensure the defendant's appearance at trial.
 
-j) **Sequestration of Witnesses**: Orders, where appropriate, directing that witnesses be kept separate from each other to prevent them from influencing each other's testimony.
+   j) **Sequestration of Witnesses**: Orders, where appropriate, directing that witnesses be kept separate from each other to prevent them from influencing each other's testimony.
 
 Certainly! Here's a draft of a law regarding the issuance and execution of warrants:
 
@@ -131,12 +131,12 @@ Certainly! Here's a draft of a law regarding the issuance and execution of warra
 A Judge may issue a warrant upon a showing of probable cause, supported by oath or affirmation, and particularly describing the place to be searched and the persons or things to be seized.
 
 #### Section 2: Types of Warrants
+There shall be the following types of Warrants:
+   **a) Search Warrants**: A search warrant authorizes Law Enforcement Officers to search a specific location for specific items and to seize those items if found.
 
-**a) Search Warrants**: A search warrant authorizes Law Enforcement Officers to search a specific location for specific items and to seize those items if found.
+   **b) Arrest Warrants:** An arrest warrant authorizes Law Enforcement Officers to arrest a specific individual based on probable cause that the individual has committed a crime.
 
-**b) Arrest Warrants:** An arrest warrant authorizes Law Enforcement Officers to arrest a specific individual based on probable cause that the individual has committed a crime.
-
-**c) Bench Warrants** A bench warrant is issued by a Judge when a defendant fails to appear in court as required, authorizing Law Enforcement Officers to arrest the defendant and bring them to court.
+   **c) Bench Warrants** A bench warrant is issued by a Judge when a defendant fails to appear in court as required, authorizing Law Enforcement Officers to arrest the defendant and bring them to court.
 
 #### Section 3: Execution of Warrants
 1. Law Enforcement Officers shall execute warrants in accordance with the terms of the warrant and applicable laws and regulations.
