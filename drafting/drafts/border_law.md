@@ -2,23 +2,23 @@
 
 ## Preamble
 
-WHEREAS, the establishment of a clear and comprehensive framework for border delimitation and management, as well as the processes related to entry, residency, and immigration within the territory of Liberland, is essential for the security and orderly functioning of the nation;
+WHEREAS, a clear and comprehensive framework for border delimitation and management, as well as processes related to entry, residency, and immigration within Liberland, is essential for national security and orderly functioning;
 
-WHEREAS, the demarcation and delimitation of borders, as well as the surveillance of such borders, are necessary to ensure Liberland's security and territorial integrity;
+WHEREAS, the demarcation, delimitation, and surveillance of borders are necessary to ensure Liberland's security and territorial integrity;
 
-WHEREAS, the creation of a system of border crossing points, both on land and water, and the establishment of a regulated regime for border traffic and border management, are crucial for the legal entry and exit of individuals into and out of Liberland;
+WHEREAS, a system of border crossing points on land and water, and a regulated regime for border traffic and management, are crucial for legal entry and exit;
 
-WHEREAS, the foundation of the Immigration and Border Integrity Service (IBIS) as an agency engaged in law enforcement, as per the Police Law, is vital for the security of Liberland's borders and the enforcement of its border law;
+WHEREAS, the establishment of the Immigration and Border Integrity Service (IBIS) as a law enforcement agency is vital for border security and enforcement of border law;
 
-WHEREAS, the establishment of a visa regime, based on the principle that citizens have unconditional access to the land, while all others must apply for a visa under one of this Law's articles, is necessary for the orderly immigration of individuals into Liberland;
+WHEREAS, a visa regime, granting citizens unconditional access to the land while requiring others to apply for visas, is necessary for orderly immigration;
 
-WHEREAS, the visa system must be rational and non-discriminatory, for instance, it must be country-of-origin agnostic;
+WHEREAS, the visa system must be rational and non-discriminatory, irrespective of country of origin;
 
-WHEREAS, the overall purpose of this law is to ensure Liberland's border security, allow for orderly immigration, and ensure that Liberland's border regime and immigration are internationally conforming;
+WHEREAS, this law aims to ensure border security, enable orderly immigration, and ensure international conformity of Liberland's border regime and immigration;
 
-WHEREAS, with this law, Liberland seeks to increase the border security of the region, including that of the neighboring Schengen area;
+WHEREAS, this law seeks to enhance border security in the region, including the neighboring Schengen area;
 
-NOW, THEREFORE, BE IT ENACTED by the Citizens and the Government of Liberland as follows:
+NOW, THEREFORE, BE IT ENACTED by the Citizens and the Government of Liberland.
 
 # Book 1: Borders and Establishing their Security
 
