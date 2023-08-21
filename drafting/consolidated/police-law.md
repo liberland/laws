@@ -32,10 +32,10 @@ Law Enforcement Agencies shall, at all times, act in the best interests of the c
 
 ### Article 2: Security Commission
 #### Section 1: Creation and Purpose
-1) The Minister of Interior shall establish the Security Commission of Liberland (hereinafter referred to as the "Security Commission"). The Security Commission shall be responsible for establishing the organizational structure of all Law Enforcement Agencies within the boundaries of this law. It shall also be tasked with drafting and enforcing processes and rules applicable to all Law Enforcement Agencies in Liberland.
+The Minister of Interior shall establish the Security Commission of Liberland (hereinafter referred to as the "Security Commission"). The Security Commission shall be responsible for establishing the organizational structure of all Law Enforcement Agencies within the boundaries of this law. It shall also be tasked with drafting and enforcing processes and rules applicable to all Law Enforcement Agencies in Liberland.
 
 #### Section 2: Composition 
-1) The Security Commission shall be composed of four Commissioners, each appointed for four consecutive Election Terms, with each Commissioner having equal authority. The Commissioners shall be as follows:
+The Security Commission shall be composed of four Commissioners, each appointed for four consecutive Election Terms, with each Commissioner having equal authority. The Commissioners shall be as follows:
 
    a) A Supreme Court Justice, nominated by the Chief Justice and appointed by the President;
 
@@ -109,12 +109,12 @@ Law Enforcement Agencies shall, at all times, act in the best interests of the c
 3) Law Enforcement Officers shall be trained in first aid to provide assistance to those affected by their weapon use, including any injured bystanders. Injured bystanders shall be given precedence over the suspect when triage is necessary, but assistance shall be provided to the suspect whenever possible, at least to preserve their life, especially when more seriously injured than the bystander.
 
 #### Section 2: Weapons of Other Armed Agency Personnel
-1) Other Agents of Law Enforcement Agencies shall be equipped with sidearms and trained in their use for self-protection. They shall also be trained in combat tactics concerning combat in environments prevalent in their assigned District.
+Other Agents of Law Enforcement Agencies shall be equipped with sidearms and trained in their use for self-protection. They shall also be trained in combat tactics concerning combat in environments prevalent in their assigned District.
 
 ## Chapter 2: Policing Liberland
 ### Article 6: Liberland Community Watch
 #### Section 1: Authority of the Watch
-1) The Liberland Community Watch, henceforth the "Watch", shall be an Agency under the Ministry of Interior. The purpose of this Agency shall be to serve as Liberland's primary police force and the only general-purpose police Liberland shall know. As such, the responsibilities and duties of the Watch shall be to:
+The Liberland Community Watch, henceforth the "Watch", shall be an Agency under the Ministry of Interior. The purpose of this Agency shall be to serve as Liberland's primary police force and the only general-purpose police Liberland shall know. As such, the responsibilities and duties of the Watch shall be to:
 
    a) protect the property of individuals, including their life, health, and belongings;  
 
@@ -161,7 +161,7 @@ Law Enforcement Agencies shall, at all times, act in the best interests of the c
 3) If the notified Watch Post or Cantonal Watch deems the extension of authority unjustified, it shall promptly inform the Commander, who shall make an expedited decision to permit or prohibit the extension.
 
 ### Article 11: Watch Personnel
-1) The Watch, including the Cantonal Watch and individual Watch Posts, shall employ the following personnel as Agents
+The Watch, including the Cantonal Watch and individual Watch Posts, shall employ the following personnel as Agents
 
    a) Watchmen or Watchwomen, trained professionals in security and modern democratic policing, directly responsible for fulfilling the tasks of the Watch as outlined in this Law; these agents shall as a rule serve as Law Enforcement Officers.
 
@@ -176,7 +176,7 @@ Law Enforcement Agencies shall, at all times, act in the best interests of the c
 ### Article 12: Ranks in the Watch
 
 #### Section 1  Ranks of Watchmen and Watchwomen
-1. Watchmen and Watchwomen shall be organized hierarchically, with lower ranks performing tasks under the supervision and direction of higher ranks. The ranks shall be:
+Watchmen and Watchwomen shall be organized hierarchically, with lower ranks performing tasks under the supervision and direction of higher ranks. The ranks shall be:
    
    a) Watchman/Watchwoman (Agent Level 2);
 
@@ -200,7 +200,7 @@ Law Enforcement Agencies shall, at all times, act in the best interests of the c
    d) Director, responsible for top-level management and coordination (EQF 7, Agent Level 5).
 
 ### Article 13: Liberland Guard
-1) The Liberland Guard shall consist of special Watch Posts assigned specifically to protect State Property and State Officials. State Guard Agents may also be assigned to fulfil the regular tasks of the Watch where necessary. Watchmen and Watchwomen assigned to this duty shall be referred to as Guardsmen and Guardswomen.
+The Liberland Guard shall consist of special Watch Posts assigned specifically to protect State Property and State Officials. State Guard Agents may also be assigned to fulfil the regular tasks of the Watch where necessary. Watchmen and Watchwomen assigned to this duty shall be referred to as Guardsmen and Guardswomen.
 
 ### Article 14: Complaint
 
@@ -209,12 +209,12 @@ Law Enforcement Agencies shall, at all times, act in the best interests of the c
 2) Complaints shall always be lodged with the highest institution to which the Agent subject to the complaint belongs or to which the situation pertains.
 
 #### Section 2: Institutions for Handling Complaints
-1) Each organ of the Watch shall establish institutions to handle complaints in a just, lawful, impartial, and faithful manner. If establishing such institutions proves impractical, the organ shall present the complaint and all related documentation to the appropriate institutions of the District or Cantonal Watch, or the central Watch.
+Each organ of the Watch shall establish institutions to handle complaints in a just, lawful, impartial, and faithful manner. If establishing such institutions proves impractical, the organ shall present the complaint and all related documentation to the appropriate institutions of the District or Cantonal Watch, or the central Watch.
 
 ## Chapter 3: Police Powers
 
 ### Article 15: Demanding and Enforcing Compliance
-1) When authorized by law, an Law Enforcement Officer may compel an individual to act or to omit certain actions. This shall be limited to:
+When authorized by law, an Law Enforcement Officer may compel an individual to act or to omit certain actions. This shall be limited to:
 
    a) Questioning, whereby the Agent may comply others to answer questions,
 
@@ -236,7 +236,7 @@ Law Enforcement Agencies shall, at all times, act in the best interests of the c
 2) If a Law Enforcement Officer believes that questioning on the spot will disadvantage the subject person or impede traffic, they may ask the person to accompany them to a nearby Watch Post.
 
 #### Section 2: Limitation on Enforcement
-1) Persons subjected to questioning shall not be detained by the authorities, taken to a Watch Post by force, or coerced to answer questions against their will unless specific legal provisions concerning the particular criminal procedure apply. Where a person is detained in accordance with the law relating to the specific criminal procedure, an Law Enforcement Officer may also search their personal belongings for potential weapons or, if no other means suffice to obtain answers and the law allows it, enforce compliance.
+Persons subjected to questioning shall not be detained by the authorities, taken to a Watch Post by force, or coerced to answer questions against their will unless specific legal provisions concerning the particular criminal procedure apply. Where a person is detained in accordance with the law relating to the specific criminal procedure, an Law Enforcement Officer may also search their personal belongings for potential weapons or, if no other means suffice to obtain answers and the law allows it, enforce compliance.
 
 ### Article 17: Protection
 
