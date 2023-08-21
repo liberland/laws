@@ -2,35 +2,17 @@
 
 ## Preamble
 
-WHEREAS, the Referendum of all Citizens is the primary instrument of Legislative Power in Liberland, reflecting the principle that citizens themselves wield the legislative power directly, with elements of representative democracy and corporate governance;
+WHEREAS, the Referendum of all Citizens is the primary instrument of Legislative Power in Liberland, embodying the principle that citizens themselves directly wield legislative power, complemented by elements of representative democracy and corporate governance;
 
-WHEREAS, the citizens shall vote using voting instruments, the Liberland Merits (LLM), and the referendum shall be generally organized using means of electronic communication, namely blockchain, to ensure transparency, speed, and security;
+WHEREAS, the use of voting instruments, the Liberland Merits (LLM), and the organization of the referendum through electronic means, specifically blockchain technology, are essential for ensuring transparency, speed, and security in the voting process;
 
-WHEREAS, in order to satisfy the requirements of Article 25 of the International Covenant on Civil and Political Rights of 1955, which calls for genuine periodic elections by universal and equal suffrage, held by secret ballot, guaranteeing the free expression of the will of the electors, a referendum where each citizen holds one vote shall also be held;
+WHEREAS, compliance with Article 25 of the International Covenant on Civil and Political Rights of 1955 is necessary, requiring genuine periodic elections by universal and equal suffrage, held by secret ballot, guaranteeing the free expression of the will of the electors;
 
-WHEREAS, this referendum will be used to remove unwanted laws and regulations and dismiss officials, ensuring that all laws and regulations are democratically legitimate at all times and preventing government overreach;
+WHEREAS, the use of a referendum where each citizen holds one vote is crucial for removing unwanted laws and regulations and dismissing officials, ensuring democratic legitimacy of all laws and regulations and preventing government overreach;
 
-WHEREAS, legislative initiative shall be in the hands of the representative organ (Congress) but also in the hand of each and every citizen;
+WHEREAS, the empowerment of both the representative organ (Congress) and each and every citizen with legislative initiative is vital for a robust and inclusive legislative process;
 
-NOW, THEREFORE, BE IT ENACTED by the Parliament of Liberland as follows:
-
-## Recitals
-
-1. This law sets up the rules for the Referendum of all Citizens, which is the primary instrument of Legislative Power in Liberland.
-
-2. In Liberland, the citizens themselves wield the legislative power directly, with elements of representative democracy and corporate governance.
-
-3. The citizens shall vote using voting instruments, the Liberland Merits (LLM), and the referendum shall be generally organized using means of electronic communication, namely blockchain, to ensure transparency, speed, and security.
-
-4. If needed, a paper referendum is also possible.
-
-5. In order to satisfy the requirements of Article 25 of the International Covenant on Civil and Political Rights of 1955, a referendum where each citizen holds one vote shall also be held.
-
-6. This referendum will be used to remove unwanted laws and regulations and dismiss officials, ensuring that all laws and regulations are democratically legitimate at all times and preventing government overreach.
-
-7. Legislative initiative shall be in the hands of the representative organ (Congress) but also in the hand of each and every citizen.
-
-8. In order to ensure stability and prevent populism and "surprising" adoption of laws by referenda with low turnover, an anti-populist measure is enacted, whereby the lower the turnout, the higher the voting requirement; e.g., people-originated referenda would require 50 percent plus one voting instrument cast for to be accepted only at 100 percent turnout.
+NOW, THEREFORE, BE IT ENACTED by the Citizens and the Government of Liberland.
    
 ## Chapter 1: Referendum
 
