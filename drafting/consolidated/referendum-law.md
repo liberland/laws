@@ -20,15 +20,15 @@ NOW, THEREFORE, BE IT ENACTED by the Citizens and the Government of Liberland.
 #### Section 1: Purpose of the Referendum
 1) The Referendum, as the primary instrument of democracy in Liberland, shall empower Citizens to make collective decisions and to enact 
 
-a) Constitutional Ammendments, 
+   a) Constitutional Ammendments, 
 
-b) Laws
+   b) Laws
 
-c) other types of Regulations
+   c) other types of Regulations
 
-d) decisions in individual cases, including ones about the blockchain system; and 
+   d) decisions in individual cases, including ones about the blockchain system; and 
 
-e) to ratify the international treaties of the highest importance. 
+   e) to ratify the international treaties of the highest importance. 
 
 2)The Referendum shall be open to participation by all citizens.
 
