@@ -161,7 +161,7 @@ The Liberland Community Watch, henceforth the "Watch", shall be an Agency under 
 3) If the notified Watch Post or Cantonal Watch deems the extension of authority unjustified, it shall promptly inform the Commander, who shall make an expedited decision to permit or prohibit the extension.
 
 ### Article 11: Watch Personnel
-The Watch, including the Cantonal Watch and individual Watch Posts, shall employ the following personnel as Agents
+1) The Watch, including the Cantonal Watch and individual Watch Posts, shall employ the following personnel as Agents
 
    a) Watchmen or Watchwomen, trained professionals in security and modern democratic policing, directly responsible for fulfilling the tasks of the Watch as outlined in this Law; these agents shall as a rule serve as Law Enforcement Officers.
 
