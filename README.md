@@ -28,7 +28,7 @@ Ready for your recommendations with technical and issues regarding single sectio
 * [Police Law](drafting/consolidated/police-law.md)
 * [Judicial Process Law](drafting/consolidated/judical-process-law.md)
 * [Referendum Law](drafting/consolidated/referendum-law.md)
-* [Border Law](https://github.com/liberland/laws/blob/Laws-Current/consolidated/drafts/border_law.md)
+* [Border Law](https://github.com/liberland/laws/blob/Laws-Current/consolidated/border_law.md)
 
 ## Drafting
 
