@@ -1,7 +1,24 @@
 # Border and Immigration Law
 
 ## Preamble
-This Law establishes the framework for border delimitation and management, as well as the processes related to entry, residency, and immigration within the territory of Liberland.
+
+WHEREAS, the establishment of a clear and comprehensive framework for border delimitation and management, as well as the processes related to entry, residency, and immigration within the territory of Liberland, is essential for the security and orderly functioning of the nation;
+
+WHEREAS, the demarcation and delimitation of borders, as well as the surveillance of such borders, are necessary to ensure Liberland's security and territorial integrity;
+
+WHEREAS, the creation of a system of border crossing points, both on land and water, and the establishment of a regulated regime for border traffic and border management, are crucial for the legal entry and exit of individuals into and out of Liberland;
+
+WHEREAS, the foundation of the Immigration and Border Integrity Service (IBIS) as an agency engaged in law enforcement, as per the Police Law, is vital for the security of Liberland's borders and the enforcement of its border law;
+
+WHEREAS, the establishment of a visa regime, based on the principle that citizens have unconditional access to the land, while all others must apply for a visa under one of this Law's articles, is necessary for the orderly immigration of individuals into Liberland;
+
+WHEREAS, the visa system must be rational and non-discriminatory, for instance, it must be country-of-origin agnostic;
+
+WHEREAS, the overall purpose of this law is to ensure Liberland's border security, allow for orderly immigration, and ensure that Liberland's border regime and immigration are internationally conforming;
+
+WHEREAS, with this law, Liberland seeks to increase the border security of the region, including that of the neighboring Schengen area;
+
+NOW, THEREFORE, BE IT ENACTED by the Citizens and the Government of Liberland as follows:
 
 # Book 1: Borders and Establishing their Security
 
