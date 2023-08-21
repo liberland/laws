@@ -14,9 +14,9 @@ WHEREAS, a visa regime, granting citizens unconditional access to the land while
 
 WHEREAS, the visa system must be rational and non-discriminatory, irrespective of country of origin;
 
-WHEREAS, this law aims to ensure border security, enable orderly immigration, and ensure international conformity of Liberland's border regime and immigration;
+WHEREAS, Liberland aims to ensure border security, enable orderly immigration, and ensure international conformity of Liberland's border regime and immigration;
 
-WHEREAS, this law seeks to enhance border security in the region, including the neighboring Schengen area;
+WHEREAS, Liberland seeks to enhance border security in the region, including the neighboring Schengen area;
 
 NOW, THEREFORE, BE IT ENACTED by the Citizens and the Government of Liberland.
 
