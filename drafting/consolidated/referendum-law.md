@@ -2,15 +2,21 @@
 
 ## Preamble
 
-WHEREAS, the Referendum of all Citizens is the primary instrument of Legislative Power in Liberland, embodying the principle that citizens themselves directly wield legislative power, complemented by elements of representative democracy and corporate governance;
+WHEREAS, a clear and comprehensive framework for border delimitation and management, as well as processes related to entry, residency, and immigration within Liberland, is essential for national security and orderly functioning;
 
-WHEREAS, the use of voting instruments, the Liberland Merits (LLM), and the organization of the referendum through electronic means, specifically blockchain technology, are essential for ensuring transparency, speed, and security in the voting process;
+WHEREAS, the demarcation, delimitation, and surveillance of borders are necessary to ensure Liberland's security and territorial integrity;
 
-WHEREAS, compliance with Article 25 of the International Covenant on Civil and Political Rights of 1955 is necessary, requiring genuine periodic elections by universal and equal suffrage, held by secret ballot, guaranteeing the free expression of the will of the electors;
+WHEREAS, a system of border crossing points on land and water, and a regulated regime for border traffic and management, are crucial for legal entry and exit;
 
-WHEREAS, the use of a referendum where each citizen holds one vote is crucial for removing unwanted laws and regulations and dismissing officials, ensuring democratic legitimacy of all laws and regulations and preventing government overreach;
+WHEREAS, the establishment of the Immigration and Border Integrity Service (IBIS) as a law enforcement agency is vital for border security and enforcement of border law;
 
-WHEREAS, the empowerment of both the representative organ (Congress) and each and every citizen with legislative initiative is vital for a robust and inclusive legislative process;
+WHEREAS, a visa regime, granting citizens unconditional access to the land while requiring others to apply for visas, is necessary for orderly immigration;
+
+WHEREAS, the visa system must be rational and non-discriminatory, irrespective of country of origin;
+
+WHEREAS, this law aims to ensure border security, enable orderly immigration, and ensure international conformity of Liberland's border regime and immigration;
+
+WHEREAS, this law seeks to enhance border security in the region, including the neighboring Schengen area;
 
 NOW, THEREFORE, BE IT ENACTED by the Citizens and the Government of Liberland.
    
