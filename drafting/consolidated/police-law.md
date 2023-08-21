@@ -23,7 +23,7 @@ NOW, THEREFORE, BE IT ENACTED by the Citizens and the Government of Liberland as
 2. In discharging their duties, Law Enforcement Agencies shall be guided by the principles of impartiality, non-discrimination, non-partisanship, fairness, and objectivity, always with a view of serving the public good and protecting individual freedom to the extend of what is reasonably possible.
 
 #### Section 2: Duty to Protect
-1) Law Enforcement Agencies shall, at all times, act in the best interests of the citizens and residents of Liberland. They shall be responsible for the protection of all private property that has been legitimately and legally acquired, whether owned by citizens, residents, foreign individuals or institutions, or public bodies. They shall protect all such property with equal attention and vigour.
+Law Enforcement Agencies shall, at all times, act in the best interests of the citizens and residents of Liberland. They shall be responsible for the protection of all private property that has been legitimately and legally acquired, whether owned by citizens, residents, foreign individuals or institutions, or public bodies. They shall protect all such property with equal attention and vigour.
 
 #### Section 3: Constitutional Adherence
 1. Law Enforcement Agencies shall conduct themselves in accordance with the principles enshrined in the Constitution of Liberland, particularly those set forth in its first Book, and they shall actively enforce these principles. Accordingly, Law Enforcement Agencies shall refrain from the aggressive use of force and shall only employ force in defence against aggression in general, and aggressive violence especially.
@@ -37,49 +37,50 @@ NOW, THEREFORE, BE IT ENACTED by the Citizens and the Government of Liberland as
 #### Section 2: Composition 
 1) The Security Commission shall be composed of four Commissioners, each appointed for four consecutive Election Terms, with each Commissioner having equal authority. The Commissioners shall be as follows:
 
-a) A Supreme Court Justice, nominated by the Chief Justice and appointed by the President;
+   a) A Supreme Court Justice, nominated by the Chief Justice and appointed by the President;
 
-b) A representative of the Ministry of Justice, nominated by the Minister of Justice and appointed by the President;
+   b) A representative of the Ministry of Justice, nominated by the Minister of Justice and appointed by the President;
 
-c) A Senator, nominated by the Senate and appointed by the President; and
+   c) A Senator, nominated by the Senate and appointed by the President; and
 
-d) A former senior Agent of an Armed Agency, distinguished by exceptional skills and an unblemished reputation, nominated by the Minister of Interior and appointed by the President.
+   d) A former senior Agent of an Armed Agency, distinguished by exceptional skills and an unblemished reputation, nominated by the Minister of Interior and appointed by the President.
 
 #### Section 3: Duties and Restrictions
 1) The Commissioners shall perform their duties in their original capacities and shall not become Agents of an Armed Agency. In the event that a Commissioner cannot be found, their replacement shall be a Member of Congress.
+
 2) The Security Commission shall draft and adopt internal policies and regulations concerning the following matters:
 
-a) Institutional planning and research;
+   a) Institutional planning and research;
 
-b) Budgeting;
+   b) Budgeting;
 
-c) Policy evaluation;
+   c) Policy evaluation;
 
-d) Professional behavior codes, uniforms, and official commendation of all Security Personnel;
+   d) Professional behavior codes, uniforms, and official commendation of all Security Personnel;
 
-e) Collection, arrangement, and analysis of information on criminal proceeds, and provision of such information to relevant organizations;
+   e) Collection, arrangement, and analysis of information on criminal proceeds, and provision of such information to relevant organizations;
 
-f) Liaising with the International Criminal Police Organisation, police authorities of other countries, and other international organizations related to policing or to the respective activities of the given Armed Agency;
+   f) Liaising with the International Criminal Police Organisation, police authorities of other countries, and other international organizations related to policing or to the respective activities of the given Armed Agency;
 
-g) International criminal investigation assistance;
+   g) International criminal investigation assistance;
 
-h) International disaster relief activities;
+   h) International disaster relief activities;
 
-i) Maintenance and management of Security educational facilities and other affairs related to Security education;
+   i) Maintenance and management of Security educational facilities and other affairs related to Security education;
 
-j) Maintenance and management of Security communication facilities and other affairs related to Security communication;
+   j) Maintenance and management of Security communication facilities and other affairs related to Security communication;
 
-k) Information technology analysis, including investigative analysis of electronic information processing systems and electronic data;
+   k) Information technology analysis, including investigative analysis of electronic information processing systems and electronic data;
 
-l) Maintenance and management of criminal identification facilities and other affairs related to criminal identification;
+   l) Maintenance and management of criminal identification facilities and other affairs related to criminal identification;
 
-m) Criminal statistics;
+   m) Criminal statistics;
 
-n) Armed Agency equipment;
+   n) Armed Agency equipment;
 
-o) Standards of appointment, performance of duties, and activities of Armed Agency personnel; and
+   o) Standards of appointment, performance of duties, and activities of Armed Agency personnel; and
 
-p) Necessary inspections related to the performance of Security affairs.
+   p) Necessary inspections related to the performance of Security affairs.
 
 ### Article 3: Security Plan
 #### Section 1: Allocation of Assets
@@ -115,13 +116,13 @@ p) Necessary inspections related to the performance of Security affairs.
 #### Section 1: Authority of the Watch
 1) The Liberland Community Watch, henceforth the "Watch", shall be an Agency under the Ministry of Interior. The purpose of this Agency shall be to serve as Liberland's primary police force and the only general-purpose police Liberland shall know. As such, the responsibilities and duties of the Watch shall be to:
 
-a) protect the property of individuals, including their life, health, and belongings;  
+   a) protect the property of individuals, including their life, health, and belongings;  
 
-b) prevent delicts, suppress and stop ongoing delicts, and investigate all delicts;  
+   b) prevent delicts, suppress and stop ongoing delicts, and investigate all delicts;  
 
-c) apprehend suspects;  
+   c) apprehend suspects;  
 
-d) address other affairs concerning the maintenance of public safety and order.
+   d) address other affairs concerning the maintenance of public safety and order.
 
 #### Section 2: Congressional Oversight
 1) Congress shall have direct oversight over all aspects of the Watch. It shall be empowered to conduct ad hoc and regular investigations, demand witness presence and testimony, or require the production of records.
@@ -162,13 +163,13 @@ d) address other affairs concerning the maintenance of public safety and order.
 ### Article 11: Watch Personnel
 1) The Watch, including the Cantonal Watch and individual Watch Posts, shall employ the following personnel as Agents
 
-a) Watchmen or Watchwomen, trained professionals in security and modern democratic policing, directly responsible for fulfilling the tasks of the Watch as outlined in this Law; these agents shall as a rule serve as Law Enforcement Officers.
+   a) Watchmen or Watchwomen, trained professionals in security and modern democratic policing, directly responsible for fulfilling the tasks of the Watch as outlined in this Law; these agents shall as a rule serve as Law Enforcement Officers.
 
-b) Clerical Agents, supporting Security Professionals with back office and front office duties not requiring security training;
+   b) Clerical Agents, supporting Security Professionals with back office and front office duties not requiring security training;
 
-c) Technical Agents, maintaining technical readiness of equipment, real estate, tools, and information security at all levels; and
+   c) Technical Agents, maintaining technical readiness of equipment, real estate, tools, and information security at all levels; and
 
-d) Other Agents as required to fulfill the tasks of the Security Agency.
+   d) Other Agents as required to fulfill the tasks of the Security Agency.
 
 2) The priority to protect the life and health of a Watch Agent shall be equal to that of other individuals. Protection of an Agent's property shall be secondary to protecting others' property.
 
@@ -177,26 +178,26 @@ d) Other Agents as required to fulfill the tasks of the Security Agency.
 #### Section 1  Ranks of Watchmen and Watchwomen
 1. Watchmen and Watchwomen shall be organized hierarchically, with lower ranks performing tasks under the supervision and direction of higher ranks. The ranks shall be:
    
-a) Watchman/Watchwoman (Agent Level 2);
+   a) Watchman/Watchwoman (Agent Level 2);
 
-b) Constable, guiding and mentoring junior Agents, leading a Watch Post (Agent Level 3);
+   b) Constable, guiding and mentoring junior Agents, leading a Watch Post (Agent Level 3);
 
-c) Captain, organizing Agents at the operational level, heading the Watch for a district and 3-4 Watch Posts (Agent Level 4);
+   c) Captain, organizing Agents at the operational level, heading the Watch for a district and 3-4 Watch Posts (Agent Level 4);
 
-d) Major, coordinating several Districts or heading the Cantonal Watch (Agent Level 5); and
+   d) Major, coordinating several Districts or heading the Cantonal Watch (Agent Level 5); and
 
-e) Commander, the highest rank, coordinating all districts and Cantonal Watches (Agent Level 6).
+   e) Commander, the highest rank, coordinating all districts and Cantonal Watches (Agent Level 6).
 
 #### Section 2: Ranks of other Agents  
 1) Other Agents of the Watch shall be organized in the following ranks:
 
-a) Administration Professional, responsible for routine administration (EQF 5, Agent Level 2);
+   a) Administration Professional, responsible for routine administration (EQF 5, Agent Level 2);
 
-b) Administration Specialist, performing specialized tasks (EQF 6, Agent Level 3);
+   b) Administration Specialist, performing specialized tasks (EQF 6, Agent Level 3);
 
-c) Coordinator, organizing the work of Administrative Agents (EQF 7, Agent Level 4); and
+   c) Coordinator, organizing the work of Administrative Agents (EQF 7, Agent Level 4); and
 
-d) Director, responsible for top-level management and coordination (EQF 7, Agent Level 5).
+   d) Director, responsible for top-level management and coordination (EQF 7, Agent Level 5).
 
 ### Article 13: Liberland Guard
 1) The Liberland Guard shall consist of special Watch Posts assigned specifically to protect State Property and State Officials. State Guard Agents may also be assigned to fulfil the regular tasks of the Watch where necessary. Watchmen and Watchwomen assigned to this duty shall be referred to as Guardsmen and Guardswomen.
@@ -215,15 +216,15 @@ d) Director, responsible for top-level management and coordination (EQF 7, Agent
 ### Article 15: Demanding and Enforcing Compliance
 1) When authorized by law, an Law Enforcement Officer may compel an individual to act or to omit certain actions. This shall be limited to:
 
-a) Questioning, whereby the Agent may comply others to answer questions,
+   a) Questioning, whereby the Agent may comply others to answer questions,
 
-b) Protection, whereby an Agent may offer their authority and strength to protect a person in need,
+   b) Protection, whereby an Agent may offer their authority and strength to protect a person in need,
 
-c) Emergency response, where an Agent may provide binding instructions to others,
+   c) Emergency response, where an Agent may provide binding instructions to others,
 
-d) Measures to prevent or suspend criminal activity, and
+   d) Measures to prevent or suspend criminal activity, and
 
-c) Entry and No-Knock Entry.
+   e) Entry and No-Knock Entry.
 
 2) When an individual is asked for compliance by the Agent performing one of the actions listed above, the individual shall obey the Agent unless it is apparent to them that the Agent acts outside of the boundaries of their duty or contrary to the Constitution or the Law, notably that they infringe upon one of their rights granted by the Constitution or by the Law.
 
@@ -256,11 +257,11 @@ c) Entry and No-Knock Entry.
 
 2) If the actions of a person who
 
-a) is clearly about to commit a crime,
+   a) is clearly about to commit a crime,
 
-b) is in the process of committing a crime, or
+   b) is in the process of committing a crime, or
 
-c) has just committed a crime, 
+   c) has just committed a crime, 
 are deemed likely to endanger lives, health, or cause serious property damage and the situation is urgent, the Law Enforcement Officer may use violence or threat of violence to prevent or suppress the commission of the crime.
 
 ### Article 20: Right of Entry
@@ -269,21 +270,21 @@ are deemed likely to endanger lives, health, or cause serious property damage an
 2) An Law Enforcement Officer exercising their right of entry shall not arbitrarily interfere with the lawful operation of the concerned person's business. Before exercising their right of entry, the Security Agent shall disclose the reason for entry to the on-site manager, proprietor, or person in a corresponding position and present their identification as a Security Agent.
 
 #### Section 2: No-knock Entry
-1) If a Law Enforcement Officer of at least the Constable rank determines it is absolutely necessary to protect the life, liberty, or property of others or to prevent a dangerous or violent crime, they shall inform a Judge of their intent to perform a clandestine entry without introducing themselves to individuals on-site.
-2) The Agent should obtain a warrant from the Judge whenever possible, regardless of the urgency level. In cases where the urgency is so great that obtaining a warrant would negate the purpose of the no-knock entry, the Agent shall merely inform the Judge beforehand by whatever means are available.
-3) After executing the no-knock entry and apprehending individuals, the Agent shall immediately identify themselves as soon as it is reasonably safe and does not interfere with the purpose of the no-knock entry. They shall also give a full report to the Judge, who will be able to retroactively declare the entry as legal or illegal. Where the entry is declared illegal, those damaged by it may seek recourse by the Court against Liberland.
+1. If a Law Enforcement Officer of at least the Constable rank determines it is absolutely necessary to protect the life, liberty, or property of others or to prevent a dangerous or violent crime, they shall inform a Judge of their intent to perform a clandestine entry without introducing themselves to individuals on-site.
+2. The Agent should obtain a warrant from the Judge whenever possible, regardless of the urgency level. In cases where the urgency is so great that obtaining a warrant would negate the purpose of the no-knock entry, the Agent shall merely inform the Judge beforehand by whatever means are available.
+3. After executing the no-knock entry and apprehending individuals, the Agent shall immediately identify themselves as soon as it is reasonably safe and does not interfere with the purpose of the no-knock entry. They shall also give a full report to the Judge, who will be able to retroactively declare the entry as legal or illegal. Where the entry is declared illegal, those damaged by it may seek recourse by the Court against Liberland.
 
 ### Article 21: Weapon Use
 
 1. While on active duty, an Agent may use offensive or defensive weapons and equipment to secure compliance from others to prevent them from causing damage, but only when other, less invasive and less damaging measures would be insufficient. This shall only apply in the following circumstances:
 
-a) Protecting the lives, health, or property of others in situations where significant property loss is clearly imminent or occurring, and the use of force is clearly likely to stop or mitigate the damage;
+   a) Protecting the lives, health, or property of others in situations where significant property loss is clearly imminent or occurring, and the use of force is clearly likely to stop or mitigate the damage;
 
-b) Self-protection with respect to the Agent's life and health;
+   b) Self-protection with respect to the Agent's life and health;
 
-c) Suppressing resistance against the execution of their official duty within limits judged reasonably necessary where significant damage or loss of life or health are at stake; and
+   c) Suppressing resistance against the execution of their official duty within limits judged reasonably necessary where significant damage or loss of life or health are at stake; and
 
-d) Apprehending a dangerous or violent criminal or preventing their escape when the use of force is deemed necessary to accomplish this.
+   d) Apprehending a dangerous or violent criminal or preventing their escape when the use of force is deemed necessary to accomplish this.
 
 2. Lethal weapons may be used as a last resort when all other means have clearly failed or when it can be assumed with overwhelming conviction that such less damaging measures would clearly fail. When using a lethal weapon, the Agent shall aim to injure rather than kill the targeted person whenever possible without clearly compromising the purpose of the weapon use.
 
