@@ -17,22 +17,22 @@ WHEREAS, the possibility of dividing Liberland into smaller units, whether they 
 NOW, THEREFORE, BE IT ENACTED by the Citizens and the Government of Liberland as follows:
 
 ## Chapter 1: Keeping Liberland Secure
-### Article 1: Limitations on the Authority of Armed Agencies
+### Article 1: Limitations on the Authority of Law Enforcement Agencies
 #### Section 1: Scope of Authority 
-1. Agencies and agents serving as the police force of Liberland, as well as other agencies in which individuals bear arms or enforce the law, hereinafter collectively referred to as "Armed Agencies," shall only exercise authority as expressly conferred upon them by the Constitution and the laws of Liberland, as further delineated and circumscribed by subordinate regulations. Any action not explicitly authorized by these legal instruments shall be prohibited unless the said instruments can reasonably be found to contradict the rights enshrined in the Constitution.
-2. In discharging their duties, Armed Agencies shall be guided by the principles of impartiality, non-discrimination, non-partisanship, fairness, and objectivity, always with a view of serving the public good and protecting individual freedom to the extend of what is reasonably possible.
+1. Agencies and agents serving as the police force of Liberland, as well as other agencies in which individuals bear arms or enforce the law, hereinafter collectively referred to as "Law Enforcement Agencies," shall only exercise authority as expressly conferred upon them by the Constitution and the laws of Liberland, as further delineated and circumscribed by subordinate regulations. Any action not explicitly authorized by these legal instruments shall be prohibited unless the said instruments can reasonably be found to contradict the rights enshrined in the Constitution.
+2. In discharging their duties, Law Enforcement Agencies shall be guided by the principles of impartiality, non-discrimination, non-partisanship, fairness, and objectivity, always with a view of serving the public good and protecting individual freedom to the extend of what is reasonably possible.
 
 #### Section 2: Duty to Protect
-1) Armed Agencies shall, at all times, act in the best interests of the citizens and residents of Liberland. They shall be responsible for the protection of all private property that has been legitimately and legally acquired, whether owned by citizens, residents, foreign individuals or institutions, or public bodies. They shall protect all such property with equal attention and vigour.
+1) Law Enforcement Agencies shall, at all times, act in the best interests of the citizens and residents of Liberland. They shall be responsible for the protection of all private property that has been legitimately and legally acquired, whether owned by citizens, residents, foreign individuals or institutions, or public bodies. They shall protect all such property with equal attention and vigour.
 
 #### Section 3: Constitutional Adherence
-1. Armed Agencies shall conduct themselves in accordance with the principles enshrined in the Constitution of Liberland, particularly those set forth in its first Book, and they shall actively enforce these principles. Accordingly, Armed Agencies shall refrain from the aggressive use of force and shall only employ force in defence against aggression in general, and aggressive violence especially.
-2. In all matters, Armed Agencies shall exercise their powers prudently, professionally and adhering to the rules of due Administrative Process as applicable to their situation.
-3. Armed Agencies shall never abuse their authority against individuals. Under no circumstances shall Armed Agencies infringe upon the liberties and rights enshrined in the Constitution of Liberland.
+1. Law Enforcement Agencies shall conduct themselves in accordance with the principles enshrined in the Constitution of Liberland, particularly those set forth in its first Book, and they shall actively enforce these principles. Accordingly, Law Enforcement Agencies shall refrain from the aggressive use of force and shall only employ force in defence against aggression in general, and aggressive violence especially.
+2. In all matters, Law Enforcement Agencies shall exercise their powers prudently, professionally and adhering to the rules of due Administrative Process as applicable to their situation.
+3. Law Enforcement Agencies shall never abuse their authority against individuals. Under no circumstances shall Law Enforcement Agencies infringe upon the liberties and rights enshrined in the Constitution of Liberland.
 
 ### Article 2: Security Commission
 #### Section 1: Creation and Purpose
-1) The Minister of Interior shall establish the Security Commission of Liberland (hereinafter referred to as the "Security Commission"). The Security Commission shall be responsible for establishing the organizational structure of all Armed Agencies within the boundaries of this law. It shall also be tasked with drafting and enforcing processes and rules applicable to all Armed Agencies in Liberland.
+1) The Minister of Interior shall establish the Security Commission of Liberland (hereinafter referred to as the "Security Commission"). The Security Commission shall be responsible for establishing the organizational structure of all Law Enforcement Agencies within the boundaries of this law. It shall also be tasked with drafting and enforcing processes and rules applicable to all Law Enforcement Agencies in Liberland.
 
 #### Section 2: Composition 
 1) The Security Commission shall be composed of four Commissioners, each appointed for four consecutive Election Terms, with each Commissioner having equal authority. The Commissioners shall be as follows:
@@ -103,12 +103,12 @@ p) Necessary inspections related to the performance of Security affairs.
 ### Article 5: Weapons
 
 #### Section 1: Weapons of Law Enforcement Officers
-1) Law Enforcement Officers, agents of Armed Agencies directly discharging police duties, shall be equipped with sidearms, other weapons, and defensive and offensive equipment. They shall receive thorough training in the use of these weapons and equipment, as well as in combat tactics and strategy, particularly for urban combat or combat in other environments prevalent in their assigned District.
+1) Law Enforcement Officers, agents of Law Enforcement Agencies directly discharging police duties, shall be equipped with sidearms, other weapons, and defensive and offensive equipment. They shall receive thorough training in the use of these weapons and equipment, as well as in combat tactics and strategy, particularly for urban combat or combat in other environments prevalent in their assigned District.
 2) Law Enforcement Officers shall prioritize the use of equipment that minimizes damage to property and non-lethal weapons, resorting to lethal means only when strictly necessary for protecting their own lives and health, or the lives, health, and property of others.
 3) Law Enforcement Officers shall be trained in first aid to provide assistance to those affected by their weapon use, including any injured bystanders. Injured bystanders shall be given precedence over the suspect when triage is necessary, but assistance shall be provided to the suspect whenever possible, at least to preserve their life, especially when more seriously injured than the bystander.
 
 #### Section 2: Weapons of Other Armed Agency Personnel
-1) Other Agents of Armed Agencies shall be equipped with sidearms and trained in their use for self-protection. They shall also be trained in combat tactics concerning combat in environments prevalent in their assigned District.
+1) Other Agents of Law Enforcement Agencies shall be equipped with sidearms and trained in their use for self-protection. They shall also be trained in combat tactics concerning combat in environments prevalent in their assigned District.
 
 ## Chapter 2: Policing Liberland
 ### Article 6: Liberland Community Watch
