@@ -119,18 +119,18 @@ A Temporary Border Crossing Point shall refer to a location provisionally appoin
 #### Section 1: River Border Crossing Points
 The following river harbors shall be recognized as river Border Crossing Points of Liberland, subject to the regulations and stipulations of this law:
 
-a) The River Port of Mainland Liberland, [address, coordinates to be determined later] shall act as the primary point of ingress and egress for maritime traffic into Liberland from neighboring jurisdictions.
+ a) The River Port of Mainland Liberland, [address, coordinates to be determined later] shall act as the primary point of ingress and egress for maritime traffic into Liberland from neighboring jurisdictions.
 
-b) The Harbor of Liberty Island, [address, coordinates to be determined later], while also functioning as a point of ingress and egress, shall primarily serve the purpose of facilitating local and tourist maritime traffic.
+ b) The Harbor of Liberty Island, [address, coordinates to be determined later], while also functioning as a point of ingress and egress, shall primarily serve the purpose of facilitating local and tourist maritime traffic.
 
 #### Section 2: Land Border Crossing Points
 Liberland shall recognize several official land Border Crossing Points, which are enumerated below:
 
-a) [Land Border Crossing A] - Functioning as the main Point of Entry, [Land Border Crossing A] is equipped with full customs and immigration facilities.
+ a) [Land Border Crossing A] - Functioning as the main Point of Entry, [Land Border Crossing A] is equipped with full customs and immigration facilities.
 
-b) [Land Border Crossing B] - Serving as a secondary Point of Entry, [Land Border Crossing B] is primarily used for local and pedestrian traffic.
+ b) [Land Border Crossing B] - Serving as a secondary Point of Entry, [Land Border Crossing B] is primarily used for local and pedestrian traffic.
 
-c) [Additional Land Border Crossings to be Determined Later On] - Further land Points of Entry, their exact locations, and their specific regulations will be specified in subsequent amendments or regulations as required.
+ c) [Additional Land Border Crossings to be Determined Later On] - Further land Points of Entry, their exact locations, and their specific regulations will be specified in subsequent amendments or regulations as required.
 
 ### Article 14: Guidelines for Undertaking Works at Border Crossing Points or within Border Zones
 
@@ -250,20 +250,20 @@ The import and export of weapons and ammunition are strictly prohibited. A speci
 1) The IBIS shall be led by the Director of Borders and Immigration (hereinafter referred to as "the Director"), appointed by the Minister of Interior.
 2) Personnel within the Border Service shall consist of:
  
-a. Border Officers, responsible for the protection of the borders; and  
+ a) Border Officers, responsible for the protection of the borders; and  
     
-b. Immigration Officers, responsible for determining eligibility for entry and residency in Liberland. Immigration Officers shall not have the authority to revoke a visa or immigration status, a power reserved for a Judge.
+ b) Immigration Officers, responsible for determining eligibility for entry and residency in Liberland. Immigration Officers shall not have the authority to revoke a visa or immigration status, a power reserved for a Judge.
 
 3) An individual shall be permitted to concurrently hold the positions of Border Officer and Immigration Officer.
 
 ### Article 31: IBIS Regulatory Authority
 The Border Service shall establish and maintain regulations pertaining to:
 
-a) Border delimitation;  
+ a) Border delimitation;  
 
-b) Border crossing procedures and required conduct when approaching borders; and  
+ b) Border crossing procedures and required conduct when approaching borders; and  
 
-c) Organizational and professional rules for IBIS personnel.  
+ c) Organizational and professional rules for IBIS personnel.  
 
 ## Chapter 2: Border and Immigration Officers and their duties
 
@@ -279,29 +279,29 @@ c) Organizational and professional rules for IBIS personnel.
 
 1) In the execution of their duties, Border Officers are required to undertake, but are not limited to, the following activities:
 
-a) Authenticate travel and other necessary documents for border crossing.
+ a) Authenticate travel and other necessary documents for border crossing.
 
-b) Verify the identity of individuals and cross-check with specified records.
+ b) Verify the identity of individuals and cross-check with specified records.
 
-c) In cases of questionable identity or document validity, collect fingerprints, palm prints, and other relevant biometric data.
+ c) In cases of questionable identity or document validity, collect fingerprints, palm prints, and other relevant biometric data.
 
-d) Evaluate an individual's adherence to the entry/exit requirements for travel to The Free Republic of Liberland.
+ d) Evaluate an individual's adherence to the entry/exit requirements for travel to The Free Republic of Liberland.
 
-e) Validate border crossing by recording necessary data in the relevant documents. This may include information on denied entry, transport and transit of weapons and ammunition, and other relevant data.
+ e) Validate border crossing by recording necessary data in the relevant documents. This may include information on denied entry, transport and transit of weapons and ammunition, and other relevant data.
 
-f) Determine the purpose of an individual's travel.
+ f) Determine the purpose of an individual's travel.
 
-g) Conduct examinations and searches when alternative checks are not feasible.
+ g) Conduct examinations and searches when alternative checks are not feasible.
 
-h) Detain individuals for the necessary duration to conduct comprehensive checks, while ensuring efficient and uninterrupted control.
+ h) Detain individuals for the necessary duration to conduct comprehensive checks, while ensuring efficient and uninterrupted control.
 
-i) Require individuals crossing the border to disclose and permit examination of items and objects in their possession or vehicle.
+ i) Require individuals crossing the border to disclose and permit examination of items and objects in their possession or vehicle.
 
-j) Inspect vehicles internally and externally, and conduct record checks when there is suspicion of concealed individuals, or prohibited or specially-regulated items. The aim is to verify identities, prevent unauthorized border crossing, and discover concealed items.
+ j) Inspect vehicles internally and externally, and conduct record checks when there is suspicion of concealed individuals, or prohibited or specially-regulated items. The aim is to verify identities, prevent unauthorized border crossing, and discover concealed items.
 
-k) Dismantle specific parts of a vehicle when a comprehensive search is necessary.
+ k) Dismantle specific parts of a vehicle when a comprehensive search is necessary.
 
-l) Utilize technical devices, service dogs, and establish barriers to deter unauthorized border crossing.
+ l) Utilize technical devices, service dogs, and establish barriers to deter unauthorized border crossing.
 
 2) In addition to the primary tasks listed above, Border Officers are also required to perform Police duties within the Border Domain.
 
@@ -309,40 +309,40 @@ l) Utilize technical devices, service dogs, and establish barriers to deter unau
 
 Border Officers may undertake the following activities in the fulfillment of their responsibilities:
 
-a) Issue warnings or orders to individuals, or prohibit entry and stay in protected facilities.
+ a) Issue warnings or orders to individuals, or prohibit entry and stay in protected facilities.
 
-b) Conduct personal identity checks, and person and vehicle examinations.
+ b) Conduct personal identity checks, and person and vehicle examinations.
 
-c) Temporarily detain individuals.
+ c) Temporarily detain individuals.
 
-d) Use binding agents.
+ d) Use binding agents.
 
-e) Apply physical force.
+ e) Apply physical force.
 
-f) Use gas spray.
+ f) Use gas spray.
 
-g) Deploy specially trained dogs.
+ g) Deploy specially trained dogs.
 
-h) Use firearms.
+ h) Use firearms.
 
 ### Article 34: Constraints on Border Officers
 
 #### Section 1: Principles Governing Border Officers
 Border Officers are obligated to adhere to the following principles:
 
-a) Authorizations will be exercised solely when no alternative means to perform the task exist.
+ a) Authorizations will be exercised solely when no alternative means to perform the task exist.
 
-b) The exercise of authority must be proportionate to the legitimate purpose of its use and must respect dignity, reputation, honor, and other guaranteed human rights.
+ b) The exercise of authority must be proportionate to the legitimate purpose of its use and must respect dignity, reputation, honor, and other guaranteed human rights.
 
-c) No individual shall be subjected to torture, inhuman or degrading treatment in the exercise of authority.
+ c) No individual shall be subjected to torture, inhuman or degrading treatment in the exercise of authority.
 
-d) A Border Officer may act only in accordance with the law and these rules, ensuring that tasks are executed with minimal harmful consequences.
+ d) A Border Officer may act only in accordance with the law and these rules, ensuring that tasks are executed with minimal harmful consequences.
 
-e) These authorizations cannot be used against individuals under the age of 14, visibly ill or weakened individuals, severely disabled individuals, and visibly pregnant women, unless such individuals pose a threat to life with a firearm, tool, or other dangerous object.
+ e) These authorizations cannot be used against individuals under the age of 14, visibly ill or weakened individuals, severely disabled individuals, and visibly pregnant women, unless such individuals pose a threat to life with a firearm, tool, or other dangerous object.
 
-f) A Border Officer is required to provide first aid to any individual injured by the exercise of authority and promptly notify medical services.
+ f) A Border Officer is required to provide first aid to any individual injured by the exercise of authority and promptly notify medical services.
 
-g) Following the use of authority, a Border Officer must submit a written report to their superior within 8 hours, who must evaluate the justification of the use of authority within 48 hours. The assessment must be provided to the individual against whom the authority was exercised.
+ g) Following the use of authority, a Border Officer must submit a written report to their superior within 8 hours, who must evaluate the justification of the use of authority within 48 hours. The assessment must be provided to the individual against whom the authority was exercised.
 
 #### Section 2: Limitations on Border Officer Powers
 
@@ -355,11 +355,11 @@ g) Following the use of authority, a Border Officer must submit a written report
 ### Article 35: Immigration Officers
 Immigration Officers shall be classified into three tiers, with powers allocated as follows:  
 
-a) A First-Class Immigration Officer may waive one or more visa or entry requirements. The Director, the Minister of Interior, and the President shall possess equivalent powers to this rank by virtue of their respective offices.  
+ a) A First-Class Immigration Officer may waive one or more visa or entry requirements. The Director, the Minister of Interior, and the President shall possess equivalent powers to this rank by virtue of their respective offices.  
 
-b) A Second-Class Immigration Officer may waive one or more, but not all, visa or entry requirements, subject to authorization from a higher-ranking Immigration Officer.
+ b) A Second-Class Immigration Officer may waive one or more, but not all, visa or entry requirements, subject to authorization from a higher-ranking Immigration Officer.
 
-c) A Third-Class Immigration Officer may not waive any visa or entry requirements.  
+ c) A Third-Class Immigration Officer may not waive any visa or entry requirements.  
 
 # Book 2: Immigration and Visas
 
@@ -536,11 +536,11 @@ An Immigration Officer First Class may derogate from these demands in cases wher
 ### Article 54: International Cooperation
 1. Liberland shall seek to establish agreements with neighbouring countries
 
-a) to ensure the mutual recognition and respect of the state borders. Such agreements may include provisions for joint border surveys, the exchange of geospatial data, and the resolution of any border disputes.
+ a) to ensure the mutual recognition and respect of the state borders. Such agreements may include provisions for joint border surveys, the exchange of geospatial data, and the resolution of any border disputes.
 
-b) for the joint management of border crossing points. Such agreements may include provisions for joint border control operations, exchange of information, and mutual assistance in case of emergencies.
+ b) for the joint management of border crossing points. Such agreements may include provisions for joint border control operations, exchange of information, and mutual assistance in case of emergencies.
 
-c) for the mutual recognition of travel documents and visas. Such agreements may include provisions for the exchange of information on lost or stolen travel documents, fraudulent documents, and persons of interest.
+ c) for the mutual recognition of travel documents and visas. Such agreements may include provisions for the exchange of information on lost or stolen travel documents, fraudulent documents, and persons of interest.
 
 2. IBIS shall seek to establish cooperation with equivalent agencies in other countries for the exchange of information, joint operations, training, and capacity building. Such cooperation shall be subject to the laws of Liberland and respect for human rights and personal data protection.
 
