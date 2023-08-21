@@ -162,10 +162,10 @@ Every Liberland Citizen shall have the right to request the return of their volu
 
 1. A Citizen who has no other nationality besides that of Liberland, and whose Citizenship would have been terminated, shall not lose their Citizenship, but their voluntary tax shall be expropriated.
 2. The Citizen shall retain their Liberland nationality and a rudimentary Citizenship, but they shall no longer be in good standing in Liberland. As such, they shall not be able to:
-   1. vote in elections;
-   2. be voted in as an elected official;
-   3. participate in securing the Liberland blockchain network as a validator or a similar role; and
-   4. participate in Liberland's direct democracy.
+   a) vote in elections;
+   b) be voted in as an elected official;
+   c) participate in securing the Liberland blockchain network as a validator or a similar role; and
+   d) participate in Liberland's direct democracy.
 
 ### Article 22: Re-Application after Irregular Termination of Citizenship
 
@@ -179,9 +179,5 @@ The organ responsible for the agenda regarding all matters of Citizenship shall 
 
 
 ### Article 24: Final Provisions
-
-This law has been submitted by the Cabinet on ...
-
-This law has been adopted by the Assembly on ...
 
 This law shall gain legal force on ... and shall remain in force in perpetuity or until its legal effects should be terminated or another law should replace it.
