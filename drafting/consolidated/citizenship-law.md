@@ -1,29 +1,22 @@
 # Law on Citizenship of Liberland
 
 ## Preamble
-WHEREAS, the Citizenship of Liberland is a fundamental institution that forms the core of its legislative branch, and as such, it is essential to establish clear and comprehensive rules governing the acquisition, maintenance, and relinquishment of Citizenship;
 
-WHEREAS, the unique conception of Citizenship in Liberland, as a powerful legislative institute, must be harmonized with the internationally accepted understanding of Citizenship as a mere membership and protection, without necessarily conferring the power to legislate, as is the case in most democracies;
+WHEREAS, the Citizenship of Liberland is a fundamental institution that forms the core of its legislative branch, necessitating clear and comprehensive rules for the acquisition, maintenance, and relinquishment of Citizenship; and
 
-WHEREAS, the aim of this Law is to create an equal society of Citizens who are treated as individuals, not as parts of a collective mass, and who can influence the extent of their commitment to collective decision-making with real, tangible effects on their political power;
+WHEREAS, the unique conception of Citizenship in Liberland as a powerful legislative institute must be harmonized with the internationally accepted understanding of Citizenship as mere membership and protection, without necessarily conferring the power to legislate, as in most democracies; and
 
-NOW, THEREFORE, BE IT ENACTED by the Citizens and the Government of Liberland as follows:
+WHEREAS, this Law aims to create an equal society of Citizens treated as individuals, not parts of a collective mass, who can influence their commitment to collective decision-making with tangible effects on their political power; and
 
-## Recitals
+WHEREAS, this Law sets forth rules governing the formation and sustenance of Liberland's legislative branch, composed of its Citizens, and establishes the rights and duties associated with Citizenship, as well as procedures for obtaining and relinquishing it; and
 
-1. The primary purpose of this Law is to set forth the rules governing the formation and sustenance of the legislative branch of Liberland, which is composed of its Citizens.
+WHEREAS, this Law recognizes Citizenship by proof of commitment, sponsorship, and descent as valid methods for acquisition, and prescribes ways for termination, whether regularly, with the consent of the Citizen and proper procedure, or irregularly; and
 
-2. The objective of this Law is to create an equal society of Citizens who are nonetheless treated as individuals and not as parts of a collective mass, who can influence the degree of their commitment to collective decision-making with real, tangible effects on their political power.
+WHEREAS, this Law seeks to balance elements of public international law regulation of Citizenship, such as the inviolability of one's last Citizenship regardless of crimes, with uniquely Liberland institutions, like the suspension of voting rights when partaking in Liberland's social system; and
 
-3. This Law establishes the rights and duties associated with the Citizenship of Liberland, as well as the procedures for obtaining and relinquishing Citizenship.
+WHEREAS, this Law strives to reconcile Liberland's distinctive approach to Citizenship as a powerful legislative institute with the internationally accepted notion of Citizenship as mere membership and protection;
 
-4. This Law recognizes Citizenship by proof of commitment, by sponsorship, and by descent as the valid methods for acquiring Citizenship.
-
-5. This Law prescribes the ways in which Citizenship may be terminated, whether regularly, with the consent of the Citizen and in accordance with proper procedure, or irregularly.
-
-6. This Law seeks to balance the necessary elements of public international law regulation of Citizenship, such as the inviolability of one's last Citizenship regardless of their crimes, with the uniquely Liberland institutions, such as the suspension of voting rights when one partakes in Liberland's social system.
-
-7. This Law strives to reconcile Liberland's distinctive approach to Citizenship as a powerful legislative institute with the internationally accepted notion of Citizenship as mere membership and protection.
+NOW, THEREFORE, BE IT ENACTED by the Citizens and the Government of Liberland.
 
 ## Chapter 1: Citizenship
 
