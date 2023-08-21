@@ -2,35 +2,19 @@
 
 ## Preamble
 
-WHEREAS, the Liberland Police and other arms-bearing agencies play a crucial role in safeguarding the lives, health, and property of individuals, particularly in circumstances where such individuals are unable or temporarily incapacitated to protect themselves;
+WHEREAS, the safeguarding of the lives, health, and property of individuals, particularly in circumstances where such individuals are unable or temporarily incapacitated to protect themselves, is a fundamental duty of the Liberland Police and other arms-bearing agencies;
 
-WHEREAS, the aim of this Law is to establish institutions of community policing that are of and by the citizens, with strong measures of control, reflecting the core values of Liberland to protect life, health, and property;
+WHEREAS, the establishment of community policing institutions that are of and by the citizens, with strong measures of control, is essential to reflect the core values of Liberland in protecting life, health, and property;
 
-WHEREAS, the use of enforcement by the police and other arms-bearing agencies is extraordinary, and instances when a citizen must obey the police must be based on legal license and reasoned out;
+WHEREAS, the use of enforcement by the police and other arms-bearing agencies should be an extraordinary measure, and instances when a citizen must obey the police should be based on legal license and reasoned out;
 
-WHEREAS, this Law serves as the core law for all Armed Agencies, agencies which use weapons and/or perform police duties, providing general provisions for all such agencies and specific provisions for the Agency this law creates, the Community Watch, the general Liberland police;
+WHEREAS, the creation of a comprehensive and exhaustive list of all general legal licenses for the use of enforcement by the police and other arms-bearing agencies, as well as instances when a citizen must obey the police, is necessary to ensure that the use of force and compliance are grounded in law and reason;
+
+WHEREAS, the establishment of the Community Watch as the Agency that performs all police work, unless stipulated otherwise in law, is crucial to ensure that there is a primary agency responsible for law enforcement in Liberland;
+
+WHEREAS, the possibility of dividing Liberland into smaller units, whether they are districts or cantons with more political power, should be reflected in the law to allow for greater local governance and control;
 
 NOW, THEREFORE, BE IT ENACTED by the Citizens and the Government of Liberland as follows:
-
-## Recitals
-
-1. The aim of this Law is to create institutions of community policing which are of and by the citizens and strong measures of control, reflecting the core values of Liberland to protect life, health, and property.
-
-2. The Liberland Police and other arms-bearing agencies are entrusted with the duty of safeguarding the lives, health, and property of individuals, particularly in circumstances where such individuals are unable or temporarily incapacitated to protect themselves.
-
-3. This Law establishes the governance, procedures, and functions of the Liberland Police, as well as other agencies engaged in law enforcement or bearing arms.
-
-4. These agencies shall cooperate with police authorities or other relevant agencies of other nations and shall endeavor to prevent and combat criminal activity at both the national and international levels.
-
-5. This Law serves as the core law for all Armed Agencies, agencies which use weapons and/or perform police duties, providing general provisions for all such agencies and specific provisions for the Agency this law creates, the Community Watch, the general Liberland police.
-
-6. This Law provides the comprehensive and exhaustive list of all general legal licenses for the use of enforcement by the police and other arms-bearing agencies, as well as instances when a citizen must obey the police. Specific licences and instances are possible, but require specific laws and will only be applicable to specific armed agencies.
-
-7. The Community Watch is the Agency that performs all police work unless stipulated otherwise in law. Unless stipulated otherwise in specific laws, the restrictions and powers in this law are incumbent on all specialized Agencies that special laws might bring about.
-
-8. As of the writing of this Law, there is one such agency, IBIS, the immigration and border integrity service. More agencies are expected to appear as Liberland grows.
-
-9. Inspired by countries like Liechtenstein, Liberland may choose to divide itself into smaller units, whether they are districts or cantons with more political power; this law reflects that possibility.
 
 ## Chapter 1: Keeping Liberland Secure
 ### Article 1: Limitations on the Authority of Armed Agencies
