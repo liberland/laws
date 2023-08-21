@@ -22,7 +22,7 @@ NOW, THEREFORE, BE IT ENACTED by the Citizens and the Government of Liberland as
 
 # Book 1: Borders and Establishing their Security
 
-## Section 1: Borders
+## Chapter 1: Borders
 
 ### Article 1: Border Demarcation
 1) The territorial boundaries of Liberland, herein referred to as "Borders", will be clearly established using a high-precision geospatial coordinate system to support clarity in activities like land transactions, usage, acquisition, and infrastructural development. The specific state borders will be determined by international agreement.
@@ -36,15 +36,15 @@ The specific coordinates delineating the borders of Liberland shall be specified
 
 ### Article 4: Border Marker Placement and Maintenance
 
-#### § 1: Establishment of Border Markers
+#### Section 1: Establishment of Border Markers
 1) For tangible demarcation, physical markers may be installed along Liberland's borders.
 2) The design, format, and installation process of these border markers will be guided by international agreements. In the absence of such agreements, these specifications will be defined by a Regulation issued by the Minister of Interior.
 3) The responsibility for measuring, establishing, restoring, and maintaining border markers rests with the state administrative authority overseeing measurement and cadastral matters.
 
-#### § 2: Border Indications for Travellers
+#### Section 2: Border Indications for Travellers
 In cases where the border line isn't easily discernible, special warning signs will be placed near the border line on roads and other communication channels to alert travellers of their proximity to the border.
 
-#### § 3: Special Warning Signs
+#### Section 3: Special Warning Signs
 1) The state administrative authority responsible for the organization and security of the traffic system installs and maintains the special warning signs and signals mentioned in the preceding paragraph, upon request by the border police.
 2) Affixing or placing additional signs or signals that could obstruct the visibility of warning signs and signals is prohibited.
 3) The design, content, and installation process for these warning signs and signals will be determined by a Regulation issued by the Minister of Interior.
@@ -59,15 +59,15 @@ In accordance with international agreements stipulating the removal of trees, sh
 ### Article 7: Cross-Border Cooperation
 Cross-border cooperation encompasses activities conducted by Liberland's border service within a foreign state's territory, mutual collaboration with foreign border services, officer exchange programs, information sharing, as well as operations carried out by foreign border services within the territory of Liberland, all in accordance with applicable international agreements and only when such agreements exist.
 
-## Section 2: Border Crossing Points
+## Chapter 2: Border Crossing Points
 
 ### Article 8: Border Crossing Point
 
-#### § 1: Definition of a Border Crossing Point
+#### Section 1: Definition of a Border Crossing Point
 
 A Border Crossing Point shall be a location specifically designated for state border crossing within the jurisdiction of Liberland. This definition is set forth in this law and is further elaborated in the Regulations of the Ministry of Interior. It encompasses the immediate surrounding area of the border crossing point, which includes the marked zone where border crossing control is performed, as well as any other controls mandated by law.
 
-#### § 2: Structure and Equipment of a Border Crossing Point
+#### Section 2: Structure and Equipment of a Border Crossing Point
 
 1) A Border Crossing Point should be furnished with suitable facilities and infrastructure, which are intended to facilitate the safe and efficient processing of individuals, vehicles, and goods.
 
@@ -83,13 +83,13 @@ A Border Crossing Point shall be a location specifically designated for state bo
 
 ### Article 10: Regulations Governing Movement and Stationing within a Border Crossing Point Zone
 
-#### § 1: Movement and Stationing Restrictions
+#### Section 1: Movement and Stationing Restrictions
 
 1) Movement and stationing within the border crossing zone is limited to individuals who are in the process of crossing the state border, those remaining due to ongoing border checks, employees working at the border crossing point, and others who possess the required permit.
 
 2) Persons granted access to the border crossing zone must comply with directives and instructions issued by border service officers.
 
-#### § 2: Granting of Movement and Stationing Permit
+#### Section 2: Granting of Movement and Stationing Permit
 
 1) The border police are responsible for issuing permits for movement and stationing within the border crossing zone. The permit's form and the method of its issuance are determined by the Minister of Interior.
 
@@ -99,7 +99,7 @@ A Border Crossing Point shall be a location specifically designated for state bo
 
 4) Persons demonstrating a clear and documented need, constituting a justified reason, shall also be accorded an ad-hoc permit for movement and stationing within the border crossing zone.
 
-#### § 3: Procedural Rules for Permit Issuance and Revocation
+#### Section 3: Procedural Rules for Permit Issuance and Revocation
 
 1) Permits are issued upon written request from operators, employers of individuals who require the permit, shipmasters, aircraft captains, or train chiefs. Permits may be denied or revoked if necessary for criminal or misdemeanor proceedings, prevention of contagious diseases, or safety reasons.
 
@@ -116,14 +116,14 @@ A Border Crossing Point shall be a location specifically designated for state bo
 A Temporary Border Crossing Point shall refer to a location provisionally appointed by the Ministry of Interior to function as a Border Crossing Point for a specified duration, with exceptions as mentioned in the Decision that designates it.
 
 ### Article 13: Border Crossing Points of Liberland
-#### § 1: River Border Crossing Points
+#### Section 1: River Border Crossing Points
 The following river harbors shall be recognized as river Border Crossing Points of Liberland, subject to the regulations and stipulations of this law:
 
 a) The River Port of Mainland Liberland, [address, coordinates to be determined later] shall act as the primary point of ingress and egress for maritime traffic into Liberland from neighboring jurisdictions.
 
 b) The Harbor of Liberty Island, [address, coordinates to be determined later], while also functioning as a point of ingress and egress, shall primarily serve the purpose of facilitating local and tourist maritime traffic.
 
-#### § 2: Land Border Crossing Points
+#### Section 2: Land Border Crossing Points
 Liberland shall recognize several official land Border Crossing Points, which are enumerated below:
 
 a) [Land Border Crossing A] - Functioning as the main Point of Entry, [Land Border Crossing A] is equipped with full customs and immigration facilities.
@@ -134,11 +134,11 @@ c) [Additional Land Border Crossings to be Determined Later On] - Further land P
 
 ### Article 14: Guidelines for Undertaking Works at Border Crossing Points or within Border Zones
 
-#### § 1: Scope and Limitations of Works
+#### Section 1: Scope and Limitations of Works
 
 Any construction, installation of facilities, change of their usage, or installation of utilities, equipment, and devices within a border crossing point or its associated border zone shall not disrupt or obstruct the effective conduct of border checks or compromise the enforcement of safety measures at the state border.
 
-#### § 2: Consent for Undertaking Works
+#### Section 2: Consent for Undertaking Works
 
 1) Before undertaking any works at a Border Crossing Point or within the Border Zone, the investor or designing entity must obtain prior consent from the Ministry. 
 
@@ -148,11 +148,11 @@ Any construction, installation of facilities, change of their usage, or installa
 
 4) The specific procedures for applying for consent and the criteria for evaluation will be established by subsequent regulations. 
 
-#### § 3: Compliance
+#### Section 3: Compliance
 
 Non-compliance with the regulations stipulated in this Article may result in penalties, to be defined by subsequent regulations.
 
-## Section 3: Border Crossing
+## Chapter 3: Border Crossing
 
 ### Article 15: Border Crossing at a Border Crossing Point
 
@@ -160,13 +160,13 @@ As a general rule, the Borders of Liberland shall only be crossed at designated 
 
 ### Article 16: Border Crossing Outside a Border Crossing Point
 
-#### § 1: Border Crossing Outside a Border Crossing Point
+#### Section 1: Border Crossing Outside a Border Crossing Point
 
 1) A Border may be crossed outside of a Border Crossing Point under conditions of force majeure or as provided by an international agreement.
 
 2) In situations of immediate and pressing necessity due to force majeure, the state border may be crossed at any location and at any time. Individuals who cross the state border under force majeure circumstances are required to notify the border service without undue delay.
 
-#### § 2: Cross-Border Permits for a Border crossing outside a Border Crossing Point
+#### Section 2: Cross-Border Permits for a Border crossing outside a Border Crossing Point
 
 1) Upon establishing a justified interest in line with an international agreement, and with the consent of the competent authority of the neighboring state in conjunction with the appropriate customs office, the Ministry of Interior may issue cross-border permits to groups or individuals. These permits authorize state border crossings outside of a Border Crossing Point or border crossings at a Border Crossing Point outside of standard modes of border crossing and operating hours.
 
@@ -176,20 +176,20 @@ As a general rule, the Borders of Liberland shall only be crossed at designated 
 
 4) The form of the cross-border permit application, the cross-border permit itself, and the method and conditions of issuance shall be determined by the minister responsible for internal affairs.
 
-#### § 3: Unauthorized Border crossing outside a designated border crossing points
+#### Section 3: Unauthorized Border crossing outside a designated border crossing points
 Unauthorized crossing of the state border outside a designated Border Crossing Point may result in penalties, including fines, detention, and deportation, as determined by applicable law.
 
-## Section 4: Border Checks
+## Chapter 4: Border Checks
 
 ### Article 17: Definition
 Border checks shall involve the examination of individuals, their travel documents, vehicles, and belongings within the zone of a border crossing point relating to intended or immediate post-border crossing. It also encompasses other legislated controls on the flow of individuals, goods, services, vehicles, animals, and plants across the state border.
 
 ### Article 18: Border Control Locations
 
-#### § 1: Primary Checkpoints
+#### Section 1: Primary Checkpoints
 Primarily, border checks are conducted at specific Border Crossing Points, including their surrounding Zones, but can extend to other locations when circumstances deem it necessary and confinement to standard locations isn't practical.
 
-#### § 2: Additional Checkpoints
+#### Section 2: Additional Checkpoints
 The Ministry of Interior has the power to specify additional locations for executing border checks, which can include checkpoints along significant transportation routes. These specifications are made in response to existing conditions.
 
 ### Article 19: Obligations of Border Crossers
@@ -239,7 +239,7 @@ The import and export of weapons and ammunition are strictly prohibited. A speci
 2) During the enactment of the Minimum Border Control the border service must implement minimum border control measures. These include identity verification and the reliable validity check of individuals crossing the state border.
 3) The Minister of Interior or a designated agent in charge of organizing and managing border controls must establish priority objectives for border controls, adapted to specific security conditions to maximize border control effectiveness. When setting these priority objectives, entry border controls take precedence over exit checks. The border service should communicate any measures for Minimum Border Control enacted to the border crossing point of the neighbouring state.
 
-## Section 5: Immigration and Border Integrity Service (IBIS)
+## Chapter 5: Immigration and Border Integrity Service (IBIS)
 
 ### Article 29: Establishment of IBIS
 1) The Immigration and Border Integrity Service (IBIS) shall be an agency within the Ministry of Interior responsible for delineating, securing, and maintaining order at Liberland's borders. 
@@ -265,17 +265,17 @@ b) Border crossing procedures and required conduct when approaching borders; and
 
 c) Organizational and professional rules for IBIS personnel.  
 
-## Section 2: Border and Immigration Officers and their duties
+## Chapter 2: Border and Immigration Officers and their duties
 
 ### Article 32: Designation, Authority, and Duties of Border Officers
 
-#### § 1: Designation and Authority of Border Officers
+#### Section 1: Designation and Authority of Border Officers
 
 1) Border Officers are hereby appointed as the primary enforcers of border regulations and protectors of border security within the territorial boundaries of Liberland, inclusive of terrestrial and riverine borders, and areas immediately adjacent thereto, collectively referred to as the "Border Domain".
 
 2) In the event of border-related incidents, situations, or offenses, including criminal acts, Border Officers are vested with the authority to function as Security Agents of the Police.
 
-#### § 2: Duties and Responsibilities of Border Officers
+#### Section 2: Duties and Responsibilities of Border Officers
 
 1) In the execution of their duties, Border Officers are required to undertake, but are not limited to, the following activities:
 
@@ -327,7 +327,7 @@ h) Use firearms.
 
 ### Article 34: Constraints on Border Officers
 
-#### § 1: Principles Governing Border Officers
+#### Section 1: Principles Governing Border Officers
 Border Officers are obligated to adhere to the following principles:
 
 a) Authorizations will be exercised solely when no alternative means to perform the task exist.
@@ -344,7 +344,7 @@ f) A Border Officer is required to provide first aid to any individual injured b
 
 g) Following the use of authority, a Border Officer must submit a written report to their superior within 8 hours, who must evaluate the justification of the use of authority within 48 hours. The assessment must be provided to the individual against whom the authority was exercised.
 
-#### § 2: Limitations on Border Officer Powers
+#### Section 2: Limitations on Border Officer Powers
 
 1) In the execution of border protection duties, a Border Officer is restricted to the use of powers, measures, and activities that exclusively serve lawful objectives.
 
@@ -363,7 +363,7 @@ c) A Third-Class Immigration Officer may not waive any visa or entry requirement
 
 # Book 2: Immigration and Visas
 
-## Section 1: Visa for Non-Citizens
+## Chapter 1: Visa for Non-Citizens
 
 ### Article 36: Visa
 1) A visa shall be a document that confers to the visa holder the privilege of crossing the border of Liberland and staying on its soil for a certain time and with certain limitations when compared to a citizenship status.  
@@ -377,11 +377,11 @@ c) A Third-Class Immigration Officer may not waive any visa or entry requirement
 
 ### Article 38: Residence Visa
 
-#### § 1: Rights of Residence Visa Holders  
+#### Section 1: Rights of Residence Visa Holders  
 1) A Residence Visa permits a non-Citizen Applicant to enter and exit the borders of Liberland and stay therein without limit for an unspecified duration of time. Only holders of an e-residence may apply for this type of visa.
 2) A person holding the Residence Visa shall not be treated differently from Liberland Citizens performing similar gainful employment by reason of their nationality in respect of any conditions of employment and work, in particular as regards remuneration, dismissal, and, should they become unemployed, reinstatement or re-employment. They shall enjoy the same social and tax advantages as nationals in gainful employment.  
 
-#### § 2: Conditions for Application for a Residence Visa   
+#### Section 2: Conditions for Application for a Residence Visa   
 1) The applicant for a Residence Visa shall be:  
 
    a) at least 17 years old or older; 
@@ -410,7 +410,7 @@ c) A Third-Class Immigration Officer may not waive any visa or entry requirement
      
    and their Residence Visa shall be retained for as long as their study or pro-bono work lasts plus 4 election terms  
 
-#### § 3: Format of Reisdence Visa  
+#### Section 3: Format of Reisdence Visa  
 The standardized format of each type of visa shall be determined by Regulation issued by the Ministry of Interior. Only an immigration officer with a first class delegation may issue a visa in a non-standardized format and only in cases where no other course would be just and reasonable.
 
 ### Article 39: Family Visa
@@ -432,7 +432,7 @@ The standardized format of each type of visa shall be determined by Regulation i
 1) The requirements for a Residence Visa shall be waived for a person recognized as a Refugee under the applicable norms of public international law. This includes gaining a conditional Residence Visa to a person who merely applies for the status of a Refugee and the decision hasn't yet been made. The conditional Residency Visa shall expire upon the condition of the applicant not being granted a Refugee status.
 2) A person applying for a Refugee status who also fulfills the conditions for Liberland Residency shall be awarded Residency Visa. Where they also later gain the Refugee status, those two shall be held in parallel. Where the Residence Visa should be lost, the person shall fall back on the Refugee status before expulsion can be considered.
 
-## Section 2: Expiration of Visa and Expulsion
+## Chapter 2: Expiration of Visa and Expulsion
 
 ### Article 42: Expiration of Residency Visa
 Where a Residency Visa regularly expires, the process shall be similar to the expiration of a Temporary Visa, but the former Visa holder shall have 1/3 of an Election term counted from the day of expiration to exit Liberland voluntarily.
@@ -447,7 +447,7 @@ the expiration shall be postponed until such a time as the process regarding tha
 
 2) Where the Application wasn't made timely, the Visa holder shall exit Liberland as during a regular Visa Expiration; when the new Visa Application is successful, the Residency holder shall be free to return. The costs incurred by the exit and the return shall be borne by the Visa holder.  
 
-## Section 3: Identification
+## Chapter 3: Identification
 ### Article 44: Identity Verification
 1) An individual applying for a visa (hereinafter referred to as "Applicant") must verify their identity through one or more of the following methods: 
 
@@ -478,22 +478,22 @@ the expiration shall be postponed until such a time as the process regarding tha
 Any non-Citizen Applicant must comply with the immigration officer if asked to prove that they are not carrying a communicable disease, or their Application shall be denied.
 
 ### Article 47: Grounds for Restricting Entry and Visa Issuance
-#### § 1: Citizens Entering Liberland
+#### Section 1: Citizens Entering Liberland
 Citizens shall always be allowed to enter Liberland as long as they have been identified and their citizenship confirmed.
 
-#### § 2: Public Health
+#### Section 2: Public Health
 A non-citizen shall have their Application denied if their entry or stay clearly incurs a burden upon Public Health, presenting a clear and present danger to others, or being a physical hindrance upon others or bringing an undue financial strain on the national economy.
 
-#### § 3: Public Security
+#### Section 3: Public Security
 A non-citizen shall have their Application denied where the person is likely of becoming a danger to others and their Property based on well-established facts.
 
-#### § 4: Public Policy
+#### Section 4: Public Policy
 A non-citizen shall have their Application denied where their entry would effect a psychological strain on the mental well-being of the public or damage the reputation of Liberland.
 
-#### § 5: Derogation
+#### Section 5: Derogation
 An Immigration Officer First Class may derogate from these demands in cases where the benefits to Liberland clearly outweigh the dangers of the person's entry.
 
-## Section 4: Special Provisions for the Appeals Process
+## Chapter 4: Special Provisions for the Appeals Process
 ### Article 48: Right to Appeal
 1) Any individual who has been denied entry, residency, or whose visa has been revoked, shall have the right to appeal the decision. The appeal must be lodged within 30 days from the date of the decision.
 
@@ -508,7 +508,7 @@ An Immigration Officer First Class may derogate from these demands in cases wher
 
 3) The appellant shall be informed in writing of the outcome of the review. If the appeal is successful, the decision shall be reversed or amended as appropriate. If the appeal is unsuccessful, the reasons for the decision shall be clearly explained.
 
-## Section 5: Asylum Process
+## Chapter 5: Asylum Process
 ### Article 50: Right to Seek Asylum
 1) Any person who is outside their country of nationality or habitual residence and is unable or unwilling to return due to a well-founded fear of being persecuted for reasons of race, religion, nationality, membership of a particular social group, or political opinion, as defined in the 1951 Refugee Convention, shall have the right to seek asylum in Liberland.
 
