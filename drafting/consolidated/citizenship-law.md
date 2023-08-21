@@ -28,13 +28,19 @@ A natural person who wishes to establish a legal bond with Liberland and obtain 
 
 A Citizen shall have the following rights:
 
-1. Vote in elections for public offices in Liberland;
-2. Become a candidate for public offices in Liberland;
-3. Participate in the public veto process;
-4. Enjoy the full international protection afforded by Liberland;
-5. Access public spaces, whether physical or virtual, designated for Citizens only by Liberland;
-6. Possess and use, if they so choose, a Liberland passport and Liberland ID; and
-7. Apply for and participate in the social system of Liberland.
+   a) Vote in elections for public offices in Liberland;
+
+   b) Become a candidate for public offices in Liberland;
+
+   c) Participate in the public veto process;
+
+   d) Enjoy the full international protection afforded by Liberland;
+   
+   e) Access public spaces, whether physical or virtual, designated for Citizens only by Liberland;
+
+   f) Possess and use, if they so choose, a Liberland passport and Liberland ID; and
+
+   g) Apply for and participate in the social system of Liberland.
 
 ### Article 3: Inalienability of Citizenship
 
