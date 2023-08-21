@@ -2,41 +2,19 @@
 
 ## Preamble
 
-WHEREAS, the fundamental principles of justice, fairness, and the rule of law are essential to the administration of justice within Liberland;
+WHEREAS, the principles of justice, fairness, and the rule of law are foundational to Liberland's administration of justice;
 
-WHEREAS, the protection of private property in one's being, health, and things is a core value of Liberland, which can only be realized through a well-functioning judiciary that operates according to the best available practices of modern jurisprudence;
+WHEREAS, the sanctity of private property in one's being, health, and possessions is a cornerstone of Liberland's values, realizable only through a judiciary adhering to modern jurisprudential best practices;
 
-WHEREAS, the judiciary must be fair, impartial, transparent, and competent, providing remedies for all cases under Liberland's Constitution and law, as well as under valid public international law;
+WHEREAS, the judiciary, in its duty, must exemplify fairness, impartiality, transparency, and competence, offering remedies under both Liberland's Constitution and valid public international law;
 
-WHEREAS, the entire libertarian core of the nation, the very essence of our mission, rests on the shoulders of the judiciary, the first and most important state power as enumerated in the Constitution;
+WHEREAS, the very essence of Liberland's libertarian core and mission is entrusted to the judiciary, recognized as the foremost state power in the Constitution;
 
-WHEREAS, the Non-Aggression Principle, as stated in the very first book of the Constitution, requires a mutually agreed arbitrator to prevent coercion and violence as methods of resolving conflicts, thereby serving as the primary bulwark of civilization;
+WHEREAS, the Non-Aggression Principle, enshrined in the Constitution's inaugural book, mandates a consensual arbitrator to deter coercion and violence in conflict resolution, acting as civilization's chief safeguard;
 
-WHEREAS, the mission of Liberland is to prove that freedom-based, decentralized cooperation works, and the success of this mission is paramount;
+WHEREAS, Liberland's mission, advocating for freedom-centric, decentralized cooperation, hinges on its judiciary's efficacy;
 
-NOW, THEREFORE, BE IT ENACTED by the Citizens and the Government of Liberland as follows:
-
-## Recitals
-
-1. The Judicial Process Law of Liberland establishes a framework for the administration of justice within Liberland, outlining the essential requirements for a judicial process to be considered lawful.
-
-2. This law serves as the procedural foundation for the Supreme Court, state-funded lower courts, and private dispute resolution mechanisms within the territory of Liberland.
-
-3. Liberland exists to protect private property in one's being, health, and things, and this can only be realized through a well-functioning judiciary that operates according to the best available practices of modern jurisprudence.
-
-4. The judiciary must be fair, impartial, transparent, and competent, providing remedies for all cases under Liberland's Constitution and law, as well as under valid public international law.
-
-5. The entire libertarian core of the nation, the very essence of our mission, rests on the shoulders of the judiciary, the first and most important state power as enumerated in the Constitution.
-
-6. The Non-Aggression Principle, as stated in the very first book of the Constitution, requires a mutually agreed arbitrator to prevent coercion and violence as methods of resolving conflicts, thereby serving as the primary bulwark of civilization.
-
-7. The mission of Liberland is to prove that freedom-based, decentralized cooperation works, and the judiciary is paramount for the success of this mission.
-
-8. The judiciary is envisioned to be run using blockchain technology, but the law is drafted to be systems agnostic, ensuring universal applicability for civil court, criminal court, private courts, and administrative processes.
-
-9. The Administrative Law is drafted as a special law to this law and shall take directly from this law what isn't set forth specifically for administrative processes, ensuring a single process system in Liberland.
-
-10. The system established by this law is a mix between EU/Roman law and common law, granting Judges powers beyond what is usual in Europe, leading to adjudication of cases, law creation, and binding interpretation.
+NOW, THEREFORE, BE IT ENACTED by the Citizens and the Government of Liberland:
     
 ## Chapter 1: General principles   
 
