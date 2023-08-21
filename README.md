@@ -27,7 +27,7 @@ Ready for your recommendations with technical and issues regarding single sectio
 * [Citizenship Law](drafting/consolidated/citizenship-law.md)
 * [Police Law](drafting/consolidated/police-law.md)
 * [Judicial Process Law](drafting/consolidated/judical-process-law.md)
-* [Referendum Law](drafting/drafts/referendum-law.md)
+* [Referendum Law](drafting/consolidated/referendum-law.md)
 
 ## Drafting
 
