@@ -5,7 +5,7 @@ Administrative process shall be when an administrative organ prepares a decision
 
 ## Definitions
 
-## Chapter I: Administrative Procedure
+## Chapter 1: Administrative Procedure
 
 ### Article 1: Purpose and Principles of the Administrative Procedure
 
