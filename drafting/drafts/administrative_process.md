@@ -1,80 +1,84 @@
-# Administrative Process Law
+# Administrative Process law
 
 ## Preamble
 Administrative process shall be when an administrative organ prepares a decision. The administrative process in Liberland will be a special case of the judicial process, but with the administrative organ instead of a judge. There are many differences: the administrative organ
 
 ## Definitions
 
-## Chapter 1: Administrative process
+## Chapter I: Administrative Procedure
 
-### Article 1: Purpose of the Administrative Process
+### Article 1: Purpose and Principles of the Administrative Procedure
 
 #### Section 1: Definition and Scope
-Administrative Process shall be the standardized procedural rules that govern the actions of the Executive bodies within Liberland. These rules are designed to ensure the systematic execution of responsibilities, thereby promoting public administration's effective and accountable functioning.
+The term "Administrative Procedure" refers to the standardized rules governing the conduct of executive bodies within Liberland. These rules are intended to ensure the systematic and orderly discharge of executive functions, thereby enhancing the effectiveness and accountability of public administration.
 
 #### Section 2: Governing Principles
-The principles of fairness, transparency, and due process shall govern the Administrative Process. It shall be designed and executed to safeguard the rights of individuals and entities, reinforcing the integrity and accountability of public administration within Liberland.
+The Administrative Procedure shall be governed by the principles of fairness, transparency, and due process. It shall be designed and implemented to protect the rights of individuals and entities, and to reinforce the integrity and accountability of public administration within Liberland.
 
-### Article 2: Mandatory Steps in an Administrative Process
+### Article 2: Stages of the Administrative Procedure
 
-#### Section 1: Progression of Actions
-The General Administrative Process comprises a sequence of orderly actions, beginning with the submission of an application or request. This is followed by a review and evaluation by the competent authority, leading to the issuance of a decision.
+#### Section 1: Sequence of Actions
+The General Administrative Procedure consists of a series of orderly steps, commencing with the submission of an application or request. This is followed by a review and assessment by the competent authority, culminating in the issuance of a decision.
 
-#### Section 2: Forms of the Administrative Process
-1. The General Administrative Process shall serve as the standard form of the Administrative Process. 
-2. In particular cases where the unique nature of a process before a specific administrative organ necessitates a different approach, such variations shall be outlined by this Law or by another dedicated law pertaining to that process. Where such a law does not provide guidance, the provisions of this Law and of the General Administrative Process outlined therein shall apply. 
-2. Notwithstanding any special provisions, the principles governing the Administrative Process as defined in this Law shall remain in effect.
+#### Section 2: Forms of the Administrative Procedure
+1. The General Administrative Procedure shall serve as the default form of the Administrative Procedure.
+2. In specific cases where the unique characteristics of a procedure before a particular administrative body warrant a different approach, such variations shall be prescribed by this Act or by another specific Act relating to that procedure. In the absence of such guidance, the provisions of this Act and the General Administrative Procedure set forth herein shall apply.
+3. Notwithstanding any special provisions, the principles governing the Administrative Procedure as defined in this Act shall remain applicable.
 
 #### Section 3: Appeal Mechanism
-In all instances, the Administrative Process shall provide a mechanism for appeal, ensuring that decisions can be reviewed and, if necessary, revised.
+The Administrative Procedure shall incorporate a mechanism for appeal, ensuring that decisions are subject to review and, if necessary, modification.
 
-### Article 3: Applicability of this Law
+### Article 3: Applicability of this Act
 
 #### Section 1: Universal Applicability
-1. This Law shall preside over the actions of all bodies of the Executive without exception. Furthermore, it shall apply to the actions of all other public bodies within Liberland, provided its application is reasonably feasible.
-2. Other entities, including private individuals and institutions, may voluntarily adopt the rules of the Administrative Process, thereby binding themselves to its provisions.
-3. Any entity or body of any nature that applies the Administrative Process shall be referred to as an "Administrative Organ."
+1. This Act shall govern the conduct of all executive bodies without exception. Additionally, it shall apply to the actions of all other public bodies within Liberland, provided its application is reasonably practicable.
+2. Other entities, including private individuals and organizations, may voluntarily adopt the rules of the Administrative Procedure, thereby subjecting themselves to its provisions.
+3. Any entity or body of any nature that adopts the Administrative Procedure shall be referred to as an "Administrative Body."
 
 #### Section 2: Unconditional Application of Principles
-The principles delineated in this Law shall apply universally to all Administrative Organs and all public bodies, without exception.
+The principles set forth in this Act shall apply universally to all Administrative Bodies and all public bodies, without exception.
 
-### Article 4: Subsidiary Application of the Process Law
-Where this or other Laws remain silent, the Process Law shall apply.
+### Article 4: Subsidiary Application of the Judicial Process Act
+In cases where this Act or other Acts specific to this Act are silent, the provisions of the Judicial Process Act shall apply.
 
-## Chapter 2: General Administrative Process
-### Article 5: Initiation of the Administrative Process
+## Chapter 2: General Administrative Procedure
 
-#### Section 1: Application-Driven Initiation
-The Administrative Process shall commence upon the submission of an Application. The rules governing this Application shall be consistent with those applicable to an Application before a court.
+### Article 5: Commencement of Administrative Procedure
 
-#### Section 2: Ex-Officio Initiation
-In instances where a specific Law permits, the Administrative Organ may initiate the Administrative Process autonomously, exercising its own authority.
+#### Section 1: Initiation by Application
+The administrative procedure shall be initiated upon the receipt of a duly filed application. The procedural rules governing such applications shall be in accordance with the rules applicable to applications filed before a judicial court.
 
-### Article 6: Participants in the Administrative Process
+#### Section 2: Ex Officio Initiation
+Where expressly authorized by law, the competent administrative authority may, on its own motion, initiate the administrative procedure within the scope of its statutory powers.
 
-#### Section 1: Mandatory Parties
-1. The Administrative Process shall always involve the Administrative Organ's participation and at least one individual or institution. 
+### Article 6: Parties to the Administrative Procedure
+
+#### Section 1: Required Parties
+The administrative procedure shall, at a minimum, involve the participation of the competent administrative authority and at least one natural or legal person.
 
 #### Section 2: Additional Parties
-In specific instances, as prescribed by this Law or other specific laws, additional subjects may become parties to the Administrative Process.
+In circumstances prescribed by this Act or other applicable laws, additional persons or entities may be joined as parties to the administrative procedure.
 
-### Article 7: Designation of Responsible Officials
-1. The Administrative Organ shall appoint one or, in situations of a special, dire need in order to safeguard the interests of the parties, more individuals as Responsible Officials. The Responsible Official or Officials shall undertake the process independently, executing their duties to the best of their abilities.
-2. The Responsible Officials shall oversee the process in a manner akin to how a Judge presides over judicial proceedings.
+### Article 7: Appointment of Responsible Officials
 
-### Article 8: Preference for Written Process
-The Administrative Process shall predominantly be conducted in writing, employing as a rule asynchronous modes of communication.
+1. The competent administrative authority shall designate one or more individuals as responsible officials to conduct the administrative procedure. In cases of exceptional necessity to protect the interests of the parties, more than one responsible official may be appointed. The responsible official or officials shall conduct the procedure independently and impartially, discharging their duties with due diligence.
+2. The responsible officials shall preside over the administrative procedure in a manner analogous to the role of a judge in judicial proceedings.
+
+### Article 8: Written Procedure
+
+The administrative procedure shall be conducted primarily in writing, utilizing asynchronous modes of communication as the standard practice.
 
 ### Article 9: Synchronous Proceedings
-1. The Administrative Organ shall organize and hold synchronous proceedings when all parties, excluding the Administrative Organ, who are in a contradictory position towards each other, have collectively agreed to such a process.
-2. Alternatively, synchronous proceedings shall be initiated upon the request of a weaker party to safeguard their interests. The Administrative Organ shall organize and hold synchronous proceedings when there is a clear and immediate need to uphold the fairness of the process. This provision shall apply even in instances where there is only one party in addition to the Administrative Organ, with the Administrative Organ being considered the stronger entity.
+
+1. The competent administrative authority may conduct synchronous proceedings when all parties, other than the administrative authority, who have opposing interests, mutually agree to such proceedings.
+2. In the alternative, synchronous proceedings may be initiated at the request of a party with a weaker position to protect their interests. The competent administrative authority shall conduct synchronous proceedings when there is an evident and immediate necessity to ensure the fairness of the procedure. This provision shall apply even when there is only one party in addition to the administrative authority, with the administrative authority being deemed the stronger party.
 
 ### Article 10: Conduct of Synchronous Proceedings
 #### Section 1: Administration of Proceedings
 Synchronous proceedings shall be conducted before the Administrative Organ and shall be presided over by a Responsible Official. In instances where multiple Responsible Officials are appointed, all shall preside over the proceedings.
 
 #### Section 2: Rules Governing Proceedings
-The conduct of Synchronous Proceedings shall adhere to the rules of the Trial as stipulated by the Process Law.
+The conduct of Synchronous Proceedings shall adhere to the rules of the Trial as stipulated by the Process law.
 
 ### Article 11: Procedural Standards for the Administrative Organ
 
