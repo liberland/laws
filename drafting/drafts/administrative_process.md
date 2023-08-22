@@ -1,60 +1,61 @@
 # Administrative Process Law
 
 ## Preamble
+Administrative process shall be when an administrative organ prepares a decision. The administrative process in Liberland will be a special case of the judicial process, but with the administrative organ instead of a judge. There are many differences: the administrative organ
 
 ## Definitions
 
-## Section 1: Administrative process
+## Chapter 1: Administrative process
 
 ### Article 1: Purpose of the Administrative Process
 
-#### § 1: Definition and Scope
+#### Section 1: Definition and Scope
 Administrative Process shall be the standardized procedural rules that govern the actions of the Executive bodies within Liberland. These rules are designed to ensure the systematic execution of responsibilities, thereby promoting public administration's effective and accountable functioning.
 
-#### § 2: Governing Principles
+#### Section 2: Governing Principles
 The principles of fairness, transparency, and due process shall govern the Administrative Process. It shall be designed and executed to safeguard the rights of individuals and entities, reinforcing the integrity and accountability of public administration within Liberland.
 
 ### Article 2: Mandatory Steps in an Administrative Process
 
-#### § 1: Progression of Actions
+#### Section 1: Progression of Actions
 The General Administrative Process comprises a sequence of orderly actions, beginning with the submission of an application or request. This is followed by a review and evaluation by the competent authority, leading to the issuance of a decision.
 
-#### § 2: Forms of the Administrative Process
+#### Section 2: Forms of the Administrative Process
 1. The General Administrative Process shall serve as the standard form of the Administrative Process. 
 2. In particular cases where the unique nature of a process before a specific administrative organ necessitates a different approach, such variations shall be outlined by this Law or by another dedicated law pertaining to that process. Where such a law does not provide guidance, the provisions of this Law and of the General Administrative Process outlined therein shall apply. 
 2. Notwithstanding any special provisions, the principles governing the Administrative Process as defined in this Law shall remain in effect.
 
-#### § 3: Appeal Mechanism
+#### Section 3: Appeal Mechanism
 In all instances, the Administrative Process shall provide a mechanism for appeal, ensuring that decisions can be reviewed and, if necessary, revised.
 
 ### Article 3: Applicability of this Law
 
-#### § 1: Universal Applicability
+#### Section 1: Universal Applicability
 1. This Law shall preside over the actions of all bodies of the Executive without exception. Furthermore, it shall apply to the actions of all other public bodies within Liberland, provided its application is reasonably feasible.
 2. Other entities, including private individuals and institutions, may voluntarily adopt the rules of the Administrative Process, thereby binding themselves to its provisions.
 3. Any entity or body of any nature that applies the Administrative Process shall be referred to as an "Administrative Organ."
 
-#### § 2: Unconditional Application of Principles
+#### Section 2: Unconditional Application of Principles
 The principles delineated in this Law shall apply universally to all Administrative Organs and all public bodies, without exception.
 
 ### Article 4: Subsidiary Application of the Process Law
 Where this or other Laws remain silent, the Process Law shall apply.
 
-## Section 2: General Administrative Process
+## Chapter 2: General Administrative Process
 ### Article 5: Initiation of the Administrative Process
 
-#### § 1: Application-Driven Initiation
+#### Section 1: Application-Driven Initiation
 The Administrative Process shall commence upon the submission of an Application. The rules governing this Application shall be consistent with those applicable to an Application before a court.
 
-#### § 2: Ex-Officio Initiation
+#### Section 2: Ex-Officio Initiation
 In instances where a specific Law permits, the Administrative Organ may initiate the Administrative Process autonomously, exercising its own authority.
 
 ### Article 6: Participants in the Administrative Process
 
-#### § 1: Mandatory Parties
+#### Section 1: Mandatory Parties
 1. The Administrative Process shall always involve the Administrative Organ's participation and at least one individual or institution. 
 
-#### § 2: Additional Parties
+#### Section 2: Additional Parties
 In specific instances, as prescribed by this Law or other specific laws, additional subjects may become parties to the Administrative Process.
 
 ### Article 7: Designation of Responsible Officials
@@ -69,30 +70,30 @@ The Administrative Process shall predominantly be conducted in writing, employin
 2. Alternatively, synchronous proceedings shall be initiated upon the request of a weaker party to safeguard their interests. The Administrative Organ shall organize and hold synchronous proceedings when there is a clear and immediate need to uphold the fairness of the process. This provision shall apply even in instances where there is only one party in addition to the Administrative Organ, with the Administrative Organ being considered the stronger entity.
 
 ### Article 10: Conduct of Synchronous Proceedings
-#### § 1: Administration of Proceedings
+#### Section 1: Administration of Proceedings
 Synchronous proceedings shall be conducted before the Administrative Organ and shall be presided over by a Responsible Official. In instances where multiple Responsible Officials are appointed, all shall preside over the proceedings.
 
-#### § 2: Rules Governing Proceedings
+#### Section 2: Rules Governing Proceedings
 The conduct of Synchronous Proceedings shall adhere to the rules of the Trial as stipulated by the Process Law.
 
 ### Article 11: Procedural Standards for the Administrative Organ
 
-### § 1: Adherence to Legal Principles and Factual Accuracy
+### Section 1: Adherence to Legal Principles and Factual Accuracy
 The Administrative Organ is obligated to ensure that its conduct and resultant decisions are in strict compliance with the prevailing legal framework. Furthermore, the Administrative Organ shall only proceed with actions when it possesses a substantial degree of factual certainty. All actions must be predicated upon information that is both accurate and reliable.
 
-### § 2: Duty of Investigation and Evidentiary Requirements
+### Section 2: Duty of Investigation and Evidentiary Requirements
 The Administrative Organ is mandated to conduct a comprehensive investigation pertaining to the case and must provide a clear and detailed reasoning for its actions. This reasoning must be based on the facts of the case and the applicable law. This includes the obligation to gather all necessary evidence and to resolve any existing ambiguities or uncertainties.
 
-### § 3: Principle of Impartiality
+### Section 3: Principle of Impartiality
 The Administrative Organ is required to exercise absolute impartiality concerning the interests of all parties involved throughout the entire procedural process. Concurrently, it shall also function as a faithful representative of Liberland. In instances where these two obligations appear to conflict, the principle of impartiality shall take precedence.
 
 ### Article 12: Issuance of Administrative Decisions
 
-#### § 1: Purpose and Composition of the Decision
+#### Section 1: Purpose and Composition of the Decision
 1. A decision shall constitute a distinct act of the Administrative Organ, promulgated in writing, through which rights, legally protected interests, or obligations are established, modified, nullified, or ascertained, or through which a request or protest is dismissed or rejected.
 2. A decision shall represent the culmination of the Administrative Process and shall incorporate, in written form, the rationale and reference to all evidence utilized not only in the formulation of the decision but also in all preceding actions.
 
-#### § 2 Section 2: Form and Content of the Decision
+#### Section 2 Chapter 2: Form and Content of the Decision
 1) A decision shall be rendered in writing and dispatched in an official copy to each party involved in the Administrative Process, with a duplicate retained by the Administrative Organ. The format of the decision shall be official, designed to facilitate readability and comprehension of the content by the concerned party or by the informed public in the case of the official copy pertaining to the Administrative Organ.
 2) A decision shall encompass the following elements:
 
@@ -112,7 +113,7 @@ g) Instructions for Appeal: If applicable, the decision shall provide instructio
 
 h) Date and Signature: The decision shall be dated and signed by the appropriate official from the Administrative Organ.
 
-#### § 3: Legal Effect
+#### Section 3: Legal Effect
 1) The decision shall acquire legal effect eight days subsequent to its issuance, thereby concluding the Administrative Process in the concerned matter.
 2) In the event that the decision is appealed against, it shall not acquire legal effect.
 
@@ -136,7 +137,7 @@ The Responsible Person shall ensure effective and timely communication with the 
 ### Article 18: Compliance with Ethical Standards
 The Responsible Person shall comply with all established ethical standards applicable to their role and the Administrative Organ. They shall conduct themselves with integrity, honesty, and respect for the rights and dignity of others. Any violation of these ethical standards may result in disciplinary action, up to and including dismissal.
 
-## Section 3: Issuance of Payment Orders
+## Chapter 3: Issuance of Payment Orders
 
 ### Article 19: Procedure for Issuing a Payment Order
 1) In instances where an Administrative Process is initiated against one or more parties and it becomes evident to the Administrative Organ from the outset that they are likely obligated to remit payment to the Administrative Organ, such as in the case of a misdemeanor, the Administrative Organ shall issue a Payment Order.
