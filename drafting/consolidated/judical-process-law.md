@@ -175,7 +175,9 @@ The court may, at its discretion or upon request by a party, reclassify a case i
 #### Section 3: No Mandatory Mediation for non-controversial cases  
 In non-controversial cases, the court shall not require Mandatory Mediation or alternative dispute resolution methods as a prerequisite to proceeding with the judicial process.
  
-## Chapter 3: Commencement of Civil Proceedings
+## Chapter 3: Civil Proceedings
+
+## Title 1: Commencement of Civil Proceedings
 
 ### Article 22: Application
 #### Section 1: Filing of Application
@@ -233,7 +235,7 @@ The parties shall participate in the mediation process in good faith, actively e
 ### Article 32: Settlement Agreement and Court Approval
 If the parties reach an agreement through mediation, they shall submit the agreement to the court for approval. Once approved by the court, the agreement shall have the same legal effect as a judgment in a contested trial.
 
-## Chapter 4: Pre-Trial
+## Title 2: Pre-Trial
 
 ### Article 33: Pre-Trial Conference   
 1. Prior to the commencement of a trial, the court may convene a pre-trial conference to discuss and resolve procedural matters, narrow the issues in dispute, and explore the possibility of settlement.
@@ -246,7 +248,7 @@ If the parties reach an agreement through mediation, they shall submit the agree
 ### Article 35: Court Summons  
 The court shall notify the parties of the trial date and any relevant pre-hearing deadlines, ensuring that all parties are aware of their obligations and the expected timetable for the proceedings.
 
-## Chapter 5: Trial
+## Title 3: Trial
 
 ### Article 36: Trial process
 1. The trial shall be conducted in a fair, impartial, and orderly manner, with due respect for the rights and interests of all parties.
@@ -314,7 +316,7 @@ The names and addresses of all witnesses, as well as descriptions of exhibits in
 1. Upon the conclusion of the judicial process, including any appeals or reviews, the parties shall be required to comply with the final judgment or order issued by the court.
 2. The court may issue enforcement orders or take other measures to ensure compliance with its judgments or orders, as provided by law.
 
-## Chapter 6 Appeal
+## Chapter 4: Appeal
 
 ### Article 49: Appeals Process
 1. A party that is dissatisfied with the court's decision may file an appeal by the court where the decision has been made, subject to the grounds for appeal and the procedures established by law.
