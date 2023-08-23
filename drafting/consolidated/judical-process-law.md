@@ -157,7 +157,12 @@ There shall be the following types of Warrants:
 1. A judicial decision may be delivered orally or in writing. Regardless of the form of delivery, a written copy of the decision, signed and certified by the Judge, shall be made available at the Judge's discretion or upon request by a party. In case of a difference between the oral and written version the written version shall take precedence.
 2. In cases where translation services are utilized, written translations into other languages shall be provided concurrently. The decision becomes binding upon the court once it is signed by the Judge.
 
-### Article 20 Non-Controversial Cases
+### Article 20: Delivering
+1. Delivery shall be executed either electronically or physically to the electronic or, where electronic means are not feasible, physical addresses that the individual or entity has provided to Liberland. A delivery is deemed completed upon the confirmed dispatch of the electronic communication or upon submitting the package to an appropriate delivery institution and obtaining a receipt of registration. This presumption can be rebutted by presenting evidence that the actual delivery was delayed due to circumstances beyond the recipient's control, which could not have been prevented with due diligence.
+2. Delivery to foreign individuals or entities shall be carried out through postal or analogous services, or, when feasible, by leveraging the cooperation of foreign administrative bodies.
+3. In instances of repeated delivery failures, the Court shall resort to publication on its official website. The delivery is deemed completed 10 days following the online publication.
+
+### Article 21 Non-Controversial Cases
 
 #### Section 1: Simplified rules for non-controversial cases 
 1. Non-controversial cases shall be subject to a simplified and expedited judicial process, designed to resolve matters efficiently and without undue delay.
@@ -172,7 +177,7 @@ In non-controversial cases, the court shall not require Mandatory Mediation or a
  
 ## Chapter 3: Commencement of Civil Proceedings
 
-### Article 21: Application
+### Article 22: Application
 #### Section 1: Filing of Application
 A civil proceeding shall commence upon the submission of an Application by the applicant to the appropriate court.
 
@@ -180,24 +185,24 @@ A civil proceeding shall commence upon the submission of an Application by the a
 1. The Application shall detail the pertinent facts, the legal basis for the claim, and the relief sought by the applicant.
 2. The Application shall identify all respondents, defined as individuals or entities whose conduct the applicant seeks to alter through court intervention.
 
-### Article 22: Issuance of Summons
+### Article 23: Issuance of Summons
 1. Upon receipt of an Application, the court shall issue a Summons, or notice, to the respondent or respondents, directing them to respond to the claim within a designated timeframe or on a specified date. This shall be conducted electronically wherever feasible, though extraordinary circumstances may necessitate the personal presence of a party.
 2. The Summons or notice shall be served upon the respondent in a manner ensuring that the respondent receives adequate notice of the proceedings and an opportunity to present a defence.
 
-### Article 22: Response
+### Article 24: Response
 1. A respondent shall respond to the Application by submitting a counter-Application that shall be known as the Response.
 2. The rules governing the contents and submission of the initial Application shall also apply to the Response.
 
-### Article 23: Pleadings and Motions
+### Article 25: Pleadings and Motions
 1. Following the submission of the Application and the Response, parties to a civil proceeding may file pleadings and motions to introduce additional facts, respond to inquiries from the Judge, or request specific actions from the Judge, such as preliminary relief.
 2. Parties shall ensure that their pleadings and motions are clear and concise, and that they accurately represent the parties' respective positions and arguments on the disputed issues.
 
-### Article 24: Withdrawal of the Application
+### Article 26: Withdrawal of the Application
 1. The applicant may terminate the judicial process by withdrawing their Application. In non-controversial cases, they can do so at any time.
 2. In controversial cases, withdrawal is only permissible until the first respondent has been notified. After that point, the applicant and the respondents must jointly consent to the withdrawal for the case to be terminated.
 3. Any court costs incurred before the case is prematurely terminated shall remain the responsibility of the relevant parties.
 
-### Article 25: Modification of the Application
+### Article 27: Modification of the Application
 
 #### Section 1: Right to Modify Application  
 1. The applicant may modify the Application at any time, which may result in changes to the case. If this leads to increased court costs, the applicant shall be responsible for paying these costs before the case can be amended.
@@ -212,60 +217,60 @@ If the modification would cause significant damages or issues to the respondent(
 
 ## Chapter 3: Mediation  
 
-### Article 26: Mandatory Mediation for Controversial Civil Cases
+### Article 28: Mandatory Mediation for Controversial Civil Cases
 In controversial civil cases, parties shall be required to participate in mandatory mediation before proceeding to a trial, with the aim of resolving disputes amicably and efficiently.
 
-### Article 27: Appointment of Mediator
+### Article 29: Appointment of Mediator
 The court shall appoint a qualified and impartial mediator to facilitate the mediation process, who shall assist the parties in exploring mutually acceptable resolutions to their dispute.
 
-### Article 28: Conduct of Mediation
+### Article 30: Conduct of Mediation
 1. The mediator shall conduct the mediation in a neutral and confidential manner, ensuring that the parties have the opportunity to fully present their positions, interests, and concerns.
 2. The mediator shall not have the authority to impose a settlement or make binding decisions on behalf of the parties. Instead, the mediator shall work with the parties to help them reach a voluntary agreement.
 
-### Article 29: Good Faith Participation
+### Article 31: Good Faith Participation
 The parties shall participate in the mediation process in good faith, actively engaging in discussions, exchanging relevant information, and considering the proposals and suggestions put forth by the mediator and the other party.
 
-### Article 30: Settlement Agreement and Court Approval
+### Article 32: Settlement Agreement and Court Approval
 If the parties reach an agreement through mediation, they shall submit the agreement to the court for approval. Once approved by the court, the agreement shall have the same legal effect as a judgment in a contested trial.
 
 ## Chapter 4: Pre-Trial
 
-### Article 31: Pre-Trial Conference   
+### Article 33: Pre-Trial Conference   
 1. Prior to the commencement of a trial, the court may convene a pre-trial conference to discuss and resolve procedural matters, narrow the issues in dispute, and explore the possibility of settlement.
 2. The court may encourage parties to reach a mutually acceptable resolution of their dispute through negotiation, mediation, or other alternative dispute resolution methods.
 
-### Article 32: Preparation for a Trial   
+### Article 34: Preparation for a Trial   
 1. Before the trial commences, the court shall ensure that all parties have had a reasonable opportunity to prepare their case, including the submission of pleadings, the gathering and exchange of evidence, and the completion of any mandatory mediation or alternative dispute resolution processes.
 2. The court shall schedule a trial date, taking into consideration the complexity of the case, the availability of the parties and their legal representatives, and any relevant statutory deadlines or time limits.
 
-### Article 33: Court Summons  
+### Article 35: Court Summons  
 The court shall notify the parties of the trial date and any relevant pre-hearing deadlines, ensuring that all parties are aware of their obligations and the expected timetable for the proceedings.
 
 ## Chapter 5: Trial
 
-### Article 34: Trial process
+### Article 36: Trial process
 1. The trial shall be conducted in a fair, impartial, and orderly manner, with due respect for the rights and interests of all parties.
 2. The presiding Judge shall open the hearing by briefly outlining the nature of the case, the issues to be resolved, and the procedural rules that will govern the proceedings.
 
-### Article 35: Presentation of the Applicant's case
+### Article 37: Presentation of the Applicant's case
 1. The applicant shall present their case first, providing an opening statement that summarizes their arguments, the evidence they intend to rely on, and the relief they are seeking.
 2. The applicant may then call witnesses, present documents and other evidence, and make legal submissions in support of their case.
 
-### Article 36: Presentation of the Respondent's case
+### Article 38: Presentation of the Respondent's case
 1. After the applicant has concluded their case, the respondent shall have the opportunity to present their defense.
 2. This may include an opening statement, the calling of witnesses, the presentation of documents and other evidence, and legal submissions that respond to the applicant's arguments and evidence.
 
-### Article 37: Presenting only claims supported by evidence  
+### Article 39: Presenting only claims supported by evidence  
 1. Claims made by the parties during the hearing must be supported by evidence, which should be disclosed to the Judge and the opposing party either prior to or during the hearing. The Judge shall have discretion in varying the procedure for presenting evidence, ensuring all parties have equal opportunity to present any material or relevant proof.
 2. Parties may submit evidence as they deem appropriate and may be required to produce additional evidence as determined by the Judge for a comprehensive understanding and resolution of the dispute. This may be a reason for extending the hearing but shall not be applied more than once in a case.
 
-### Article 38: Dismissal of Non-Supported Claims  
+### Article 40: Dismissal of Non-Supported Claims  
 The Judge may dismiss claims presented without supporting evidence, without providing further reasons.
 
-### Article 39: Matters of Law and Common Knowledge  
+### Article 41: Matters of Law and Common Knowledge  
 The Judge may accept as evidence undisputed facts, matters of law, or facts agreed upon by both parties without reservation.
 
-### Article 40: Examination of Witnesses and Exhibits
+### Article 42: Examination of Witnesses and Exhibits
 
 #### Section 1: Examining Witnesses  
 When witnesses are examined, all parties shall have the opportunity to question them before the Judge.
@@ -279,19 +284,19 @@ Evidence that is excessively difficult or impractical to examine and verify duri
 #### Section 4: Record of Witnesses and Exhibits
 The names and addresses of all witnesses, as well as descriptions of exhibits in the order received, shall be made a part of the case record.
 
-### Article 41: Rebuttal and Rejoinder
+### Article 43: Rebuttal and Rejoinder
 1. Following the presentation of the respondent's case, the applicant may be given an opportunity to present a rebuttal, addressing any new issues or evidence raised by the respondent.
 2. The respondent may then be allowed to present a rejoinder, responding to the applicant's rebuttal and providing any additional arguments or evidence that directly relate to the matters raised in the rebuttal.
 
-### Article 42: Extension of Hearing
+### Article 44: Extension of Hearing
 1. The Judge may extend the hearing, by exception, for serious reasons that must be clearly communicated to the parties. An extension may be granted no more than twice per case and only when necessary for the just and efficient resolution of the dispute.
 2. Upon deciding to extend the hearing, the Judge shall promptly issue new summons for the date of the extended hearing.
 
-### Article 43: Closing Arguments
+### Article 45: Closing Arguments
 1. After both parties have presented their cases, rebuttals, and rejoinders, they shall be given the opportunity to make closing arguments. The applicant shall present their closing argument first, summarizing the key points of their case and highlighting any particularly persuasive evidence or legal submissions.
 2. The respondent shall then present their closing argument, summarizing their defense and addressing any issues or arguments raised by the applicant's closing argument.
 
-### Article 44: Deliberation and Decision
+### Article 46: Deliberation and Decision
 
 #### Section 1: Preparation of a Decision  
 1. Once the hearing has concluded, the presiding Judge or panel of Judges shall deliberate on the evidence and arguments presented by the parties.
@@ -300,22 +305,22 @@ The names and addresses of all witnesses, as well as descriptions of exhibits in
 #### Section 2: Announcing the Decision  
 4. The decision shall be announced in a timely manner and shall be accompanied by a written explanation of the court's reasoning, including the findings of fact, the legal basis for the decision, and any relevant procedural or evidentiary rulings.
 
-### Article 45: Post-Hearing Procedures
+### Article 47: Post-Hearing Procedures
 1.  After the decision has been announced, the court shall issue any necessary orders or judgments to give effect to the decision, including orders for the payment of damages, the performance or cessation of specific actions, or the enforcement of any other remedies provided by law.
 2. The parties shall be informed of their right to appeal the decision, the procedures for filing an appeal, and any relevant deadlines or time limits for doing so.
 3. The court shall also address any outstanding procedural or administrative matters, such as the allocation of costs or the submission of any additional documents or information required for the implementation of the court's decision.
 
-### Article 46: Enforcement of Judgments and Orders
+### Article 48: Enforcement of Judgments and Orders
 1. Upon the conclusion of the judicial process, including any appeals or reviews, the parties shall be required to comply with the final judgment or order issued by the court.
 2. The court may issue enforcement orders or take other measures to ensure compliance with its judgments or orders, as provided by law.
 
 ## Chapter 6 Appeal
 
-### Article 47: Appeals Process
+### Article 49: Appeals Process
 1. A party that is dissatisfied with the court's decision may file an appeal by the court where the decision has been made, subject to the grounds for appeal and the procedures established by law.
 2. The notice of appeal must be filed within the prescribed time limit and must set forth the specific issues or errors that the appellant believes warrant a review by the higher court.
 
-### Article 48: Remedial Process
+### Article 50: Remedial Process
 #### Section 1: Correction of Errors in Decision
 The court shall examine the appeal. If any of the following errors are identified:
 a) a mathematical miscalculation;
@@ -331,18 +336,18 @@ If the appeal is clearly frivolous or without merit, the court shall set it asid
 1. If the appeal concerns other matters and has not been set aside, the court shall prepare a statement and send it, along with the appeal, to the appropriate Court of Appeal, considering the party, case type, or originating court. 
 2. In cases where a party-specific Court of Appeal exists, that court shall take precedence, followed by a Court of Appeal according to the case type, and lastly, according to the court that issued the original verdict.
 
-### Article 49: Review by the Appellate Court
+### Article 51: Review by the Appellate Court
 1. Upon receipt of the notice of appeal, the appellate court shall review the case record, including the lower court's decision, the evidence and arguments presented during the hearing, and any relevant procedural or evidentiary rulings.
 2. The appellate court may request additional briefs or oral arguments from the parties to address specific issues or clarify particular points of law.
 3. The scope of the appellate court's review will be limited by the grounds for appeal raised by the appellant. In addition, it is not permissible for a party to claim facts or present evidence during the appellate review that were clearly available and present during the time of the original process, but through the fault of the party, were not presented before the court.
 
-### Article 50: Appellate Decision
+### Article 52: Appellate Decision
 1. After reviewing the case, the appellate court shall issue a decision affirming, reversing, or modifying the lower court's decision, or remanding the case for further proceedings.
 2. The appellate court's decision shall be accompanied by a written explanation of its reasoning, including its analysis of the legal issues, its evaluation of the lower court's factual findings, and any relevant procedural or evidentiary rulings.
 3. The appellate decision shall be binding on the lower court and the parties, subject to any further appeals or reviews allowed by law.
 
 ### Chapter 7: Supreme Court
-### Article 51: Autonomy of the Supreme Court
+### Article 53: Autonomy of the Supreme Court
 
 #### Section 1: Supreme Court Case Review  
 1. The Supreme Court may select cases to review based on requests from the parties involved or on its own initiative. 
@@ -351,45 +356,45 @@ If the appeal is clearly frivolous or without merit, the court shall set it asid
 #### Section 2: Aged Cases
 As a general rule, the Supreme Court will not review cases where the decision is more than ten years old, except in exceptional circumstances, such as when there is a strong indication that the case was resolved in a grossly unjust manner, with significant consequences for the parties involved, the justice system in Liberland, or individual liberty.
 
-### Article 52: Reopening the Case
+### Article 54: Reopening the Case
 1. When the Supreme Court decides to review a case, the appellate court shall compile a detailed documentation of the case and promptly submit it to the Supreme Court. The court will also notify the applicant and other parties, instructing them to prepare an addendum to their Application or response within 30 days.
 2. Upon being informed that the Supreme Court has decided to review the case, the applicant may notify the court that they do not wish to continue the process. In this event, the final decision will be confirmed and the process will end, although the Supreme Court may still choose to reopen the case on its own accord. If the applicant remains silent for more than 8 working days or explicitly confirms their agreement to proceed with the case, the case will be reopened and heard by the Supreme Court.
 3. After the applicant has either remained silent or confirmed their consent to proceed before the Supreme Court, they may not withdraw or modify their Application.
 
-### Article 53: Supreme Court Process
+### Article 55: Supreme Court Process
 1. The process before the Supreme Court follows the same general structure as the regular judicial process. However, the justices of the Supreme Court may choose to disregard or modify any phase of the process as they deem necessary. If they decide to make any changes, they shall inform the parties at the commencement of the proceedings.
 2. The Supreme Court has the discretion to admit or dismiss any new facts and evidence, even if they were known during the previous stages of the process. In its decision, the Supreme Court has complete autonomy and may disregard any aspect of the previous process as it sees fit.
 
 ## Chapter 8: Private Courts
 
-### Article 54: Purpose of Private Courts
+### Article 56: Purpose of Private Courts
 1. Private Courts exist primarily to ensure the protection and respect of property rights as defined in Book 1 of this Constitution, under all circumstances, even when the property owner is unable to provide such protection themselves.
 2. Private Courts may establish additional purposes for their existence and operation, such as the administration of justice, promotion of fair treatment, or protection of the weak against the strong, provided that these purposes are always considered ancillary to safeguarding property rights.
 
-### Article 55: General Jurisdiction of State Courts
+### Article 57: General Jurisdiction of State Courts
 Individuals are under the jurisdiction of State courts unless they enter into a contract with a Private Court.
 
-### Article 56: Delict Proceedings before Private Courts
+### Article 58: Delict Proceedings before Private Courts
 1. In delict cases, the State may enforce the jurisdiction of State courts and disregard any contract between the party and a Private Court if it is likely that the Private Court would not resolve the case justly.
 2. Private courts shall not have jurisdiction over delicts where the guilty party would pay more than 5 BTC in damages or as punishment, or over any criminal proceedings. If this becomes evident later during the process, the Private Court shall transfer the case to a State Court without delay for a new process. The proceedings before the Private Court may be used as evidence but shall not bind the State Court.
 
-### Article 57: Private Courts and the Constitution
+### Article 59: Private Courts and the Constitution
 Book 1 of this Constitution, as well as any rights and freedoms stipulated by the Constitution, shall be binding upon Private Courts as if the Private Court were the Government.
 
-### Article 58: Minimal Standards
+### Article 60: Minimal Standards
 1. The State reserves the right to impose minimal standards on Private Courts concerning equality, fairness, and access to legal recourse in their legal processes, as well as other matters deemed necessary to protect equality before the law and individual liberty in Liberland.
 2. Private Courts must ensure that the substantive law or other rules, such as tradition, jurisprudence, and international arbitration rules, according to which they dispense justice, are presented and made public in advance.
 
-### Article 59: Compatibility
+### Article 61: Compatibility
 Private Courts shall recognize the decisions of Liberland State Courts and other Private Courts, even if they originate from different communities with conflicting rules or traditions.
 
-### Article 60: Hierarchy
+### Article 62: Hierarchy
 All Private Courts shall recognize the Supreme Court as the ultimate appellate authority in Liberland. The jurisprudence of the Supreme Court shall be binding upon Private Courts, and they shall not make decisions contrary to it.
 
-#### Article 61: Sanctions
+#### Article 63: Sanctions
 1. Any decision made by a Private Court in violation of the provisions of this Law shall be considered invalid.
 2. The State shall disestablish any Private Court repeatedly found in breach of the provisions of this Constitutional Amendment and any law expanding upon it if the court is found unwilling or unable to rectify the situation. The parties to cases adjudicated within the last 3 years by a disestablished court may use the process of appeal before their State court within the 20 days of being informed about the decision of disestablishment.
 
 ## Chapter 9: Final Provisions
-#### Article 62: Legal Force
+#### Article 64: Legal Force
 This law gains legal force on ... and shall remain valid until it is repealed.
