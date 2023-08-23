@@ -162,6 +162,11 @@ There shall be the following types of Warrants:
 2. Delivery to foreign individuals or entities shall be carried out through postal or analogous services, or, when feasible, by leveraging the cooperation of foreign administrative bodies.
 3. In instances of repeated delivery failures, the Court shall resort to publication on its official website. The delivery is deemed completed 10 days following the online publication.
 
+### Article 21: Competency
+1. An adult natural person shall possess full competency to represent themselves in legal matters.
+2. Minors and individuals with mental impairments shall be deemed competent to the extent of their factual abilities to comprehend and reason. Their competency shall be presumed based on the general level of competency associated with their age or mental condition, unless evidence suggests otherwise.
+3. Entities shall be represented by natural persons designated in their foundational documents as responsible for their representation. In cases of ambiguity, the natural person occupying the highest position in the entity's management hierarchy shall act as its representative.
+
 ### Article 21 Non-Controversial Cases
 
 #### Section 1: Simplified rules for non-controversial cases 
