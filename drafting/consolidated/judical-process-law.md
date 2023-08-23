@@ -157,15 +157,24 @@ There shall be the following types of Warrants:
 1. A judicial decision may be delivered orally or in writing. Regardless of the form of delivery, a written copy of the decision, signed and certified by the Judge, shall be made available at the Judge's discretion or upon request by a party. In case of a difference between the oral and written version the written version shall take precedence.
 2. In cases where translation services are utilized, written translations into other languages shall be provided concurrently. The decision becomes binding upon the court once it is signed by the Judge.
 
-### Article 20: Delivering
+### Article 19: Delivering
 1. Delivery shall be executed either electronically or physically to the electronic or, where electronic means are not feasible, physical addresses that the individual or entity has provided to Liberland. A delivery is deemed completed upon the confirmed dispatch of the electronic communication or upon submitting the package to an appropriate delivery institution and obtaining a receipt of registration. This presumption can be rebutted by presenting evidence that the actual delivery was delayed due to circumstances beyond the recipient's control, which could not have been prevented with due diligence.
 2. Delivery to foreign individuals or entities shall be carried out through postal or analogous services, or, when feasible, by leveraging the cooperation of foreign administrative bodies.
 3. In instances of repeated delivery failures, the Court shall resort to publication on its official website. The delivery is deemed completed 10 days following the online publication.
 
-### Article 21: Competency
+### Article 20: Competency
 1. An adult natural person shall possess full competency to represent themselves in legal matters.
 2. Minors and individuals with mental impairments shall be deemed competent to the extent of their factual abilities to comprehend and reason. Their competency shall be presumed based on the general level of competency associated with their age or mental condition, unless evidence suggests otherwise.
 3. Entities shall be represented by natural persons designated in their foundational documents as responsible for their representation. In cases of ambiguity, the natural person occupying the highest position in the entity's management hierarchy shall act as its representative.
+
+### Article 21: Legal Representation
+#### Section 1: Designation of Representative
+1. A Party, be it an individual or an entity, reserves the right to appoint a chosen representative to act in their stead before the Court. Such an appointment must be formalized in writing, bestowing upon the representative at least full procedural powers, or a power of attorney. Representatives may include, but are not restricted to, roles such as an attorney, general counsel, or in specific circumstances involving minors or those with mental impairments, a guardian.
+2. The Court shall extend equal respect and consideration to all appointed representatives, irrespective of their designated role or title.
+
+#### Section 2: Collective Representation
+1. Parties in mutual agreement may elect to be represented by a singular representative, typically an attorney.
+2. In situations where a party has multiple representatives, the acceptance of limited procedural powers is permitted, under the condition that, in aggregate, the representatives hold complete procedural powers. Any representative endowed with procedural powers shall be regarded by the Court as possessing full procedural powers on the level of a power of attorney.
 
 ### Article 21 Non-Controversial Cases
 
