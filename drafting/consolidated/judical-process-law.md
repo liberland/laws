@@ -231,7 +231,7 @@ If the applicant fails to pay the full amount of court costs and damages to resp
 #### Section 3: Malicious Modifications
 If the modification would cause significant damages or issues to the respondent(s), or if the modification is made solely or predominantly to harm the respondents directly, or if the court deems it to be entirely frivolous, the court may summarily dismiss the modification, and the case shall remain unchanged.
 
-## Chapter 3: Mediation  
+## Title 2: Mediation  
 
 ### Article 28: Mandatory Mediation for Controversial Civil Cases
 In controversial civil cases, parties shall be required to participate in mandatory mediation before proceeding to a trial, with the aim of resolving disputes amicably and efficiently.
@@ -249,7 +249,7 @@ The parties shall participate in the mediation process in good faith, actively e
 ### Article 32: Settlement Agreement and Court Approval
 If the parties reach an agreement through mediation, they shall submit the agreement to the court for approval. Once approved by the court, the agreement shall have the same legal effect as a judgment in a contested trial.
 
-## Title 2: Pre-Trial
+## Title 3: Pre-Trial
 
 ### Article 33: Pre-Trial Conference   
 1. Prior to the commencement of a trial, the court may convene a pre-trial conference to discuss and resolve procedural matters, narrow the issues in dispute, and explore the possibility of settlement.
@@ -262,7 +262,7 @@ If the parties reach an agreement through mediation, they shall submit the agree
 ### Article 35: Court Summons  
 The court shall notify the parties of the trial date and any relevant pre-hearing deadlines, ensuring that all parties are aware of their obligations and the expected timetable for the proceedings.
 
-## Title 3: Trial
+## Title 4: Trial
 
 ### Article 36: Trial process
 1. The trial shall be conducted in a fair, impartial, and orderly manner, with due respect for the rights and interests of all parties.
