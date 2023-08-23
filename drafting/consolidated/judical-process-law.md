@@ -147,7 +147,7 @@ There shall be the following types of Warrants:
 1. Agencies charged with police duties shall maintain records of all warrants issued and executed relevant to their activities, including the basis for the warrant, the items seized, and the outcome of any related proceedings.
 2. These records shall be subject to periodic review by an independent oversight body to ensure compliance with the law and the protection of individuals' rights.
 
-### Article 18: Judicial Decisions
+### Article 20: Judicial Decisions
 #### Section 1: Consideration of evidence
 1. In rendering judicial decisions, the Judge shall assess each piece of evidence individually, taking into account the manner in which it was obtained and the assertions it is intended to support. The Judge shall rely exclusively on objective and established facts.
 2. There shall be no formal rules governing the interpretation or exclusion of evidence in the law: No legal provision shall be placed higher than the truth. Consequently, the Judge shall always have the authority to earnestly evaluate the facts of the case and address them according to their best judgment. However, the Judge shall be required to articulate the rationale for their decisions.
@@ -157,10 +157,17 @@ There shall be the following types of Warrants:
 1. A judicial decision may be delivered orally or in writing. Regardless of the form of delivery, a written copy of the decision, signed and certified by the Judge, shall be made available at the Judge's discretion or upon request by a party. In case of a difference between the oral and written version the written version shall take precedence.
 2. In cases where translation services are utilized, written translations into other languages shall be provided concurrently. The decision becomes binding upon the court once it is signed by the Judge.
 
-### Article 19: Delivering
-1. Delivery shall be executed either electronically or physically to the electronic or, where electronic means are not feasible, physical addresses that the individual or entity has provided to Liberland. A delivery is deemed completed upon the confirmed dispatch of the electronic communication or upon submitting the package to an appropriate delivery institution and obtaining a receipt of registration. This presumption can be rebutted by presenting evidence that the actual delivery was delayed due to circumstances beyond the recipient's control, which could not have been prevented with due diligence.
-2. Delivery to foreign individuals or entities shall be carried out through postal or analogous services, or, when feasible, by leveraging the cooperation of foreign administrative bodies.
-3. In instances of repeated delivery failures, the Court shall resort to publication on its official website. The delivery is deemed completed 10 days following the online publication.
+### Article 21: Delivering
+#### Section 1: Case Communication felivery
+1. Case-related communications shall be dispatched either electronically or physically to the electronic or, in situations where electronic methods are impractical, to the physical addresses that the individual or entity has registered with Liberland.
+2. Parties shall direct deliveries intended for the Court to the Court's official electronic address or, where necessary, its physical address.
+3. A delivery is considered finalized upon the verified transmission of the electronic communication or upon consigning the package to a suitable delivery institution and securing a receipt of registration. This presumption can be challenged by showcasing evidence that the actual delivery encountered delays due to unforeseen circumstances beyond the recipient's purview, which they couldn't avert despite exercising due diligence.
+
+#### Section 2: International Delivery
+Deliveries intended for foreign individuals or entities shall be facilitated through postal services or comparable mechanisms. Alternatively, when practical, the collaboration of foreign administrative agencies can be sought.
+
+#### Section 3: Publication-Based Delivery
+In scenarios marked by recurrent delivery impediments, the Court may opt for a public announcement on its official website. Such a delivery is recognized as finalized 10 days post the online announcement.
 
 ### Article 20: Competency
 1. An adult natural person shall possess full competency to represent themselves in legal matters.
