@@ -369,7 +369,7 @@ If the appeal is clearly frivolous or without merit, the court shall set it asid
 2. The appellate court's decision shall be accompanied by a written explanation of its reasoning, including its analysis of the legal issues, its evaluation of the lower court's factual findings, and any relevant procedural or evidentiary rulings.
 3. The appellate decision shall be binding on the lower court and the parties, subject to any further appeals or reviews allowed by law.
 
-### Chapter 7: Supreme Court
+## Chapter 5: Supreme Court
 #### Article 53: Autonomy of the Supreme Court
 
 ##### Section 1: Supreme Court Case Review  
@@ -388,7 +388,7 @@ As a general rule, the Supreme Court will not review cases where the decision is
 1. The process before the Supreme Court follows the same general structure as the regular judicial process. However, the justices of the Supreme Court may choose to disregard or modify any phase of the process as they deem necessary. If they decide to make any changes, they shall inform the parties at the commencement of the proceedings.
 2. The Supreme Court has the discretion to admit or dismiss any new facts and evidence, even if they were known during the previous stages of the process. In its decision, the Supreme Court has complete autonomy and may disregard any aspect of the previous process as it sees fit.
 
-## Chapter 8: Private Courts
+## Chapter 6: Private Courts
 
 #### Article 56: Purpose of Private Courts
 1. Private Courts exist primarily to ensure the protection and respect of property rights as defined in Book 1 of this Constitution, under all circumstances, even when the property owner is unable to provide such protection themselves.
@@ -418,6 +418,6 @@ All Private Courts shall recognize the Supreme Court as the ultimate appellate a
 1. Any decision made by a Private Court in violation of the provisions of this Law shall be considered invalid.
 2. The State shall disestablish any Private Court repeatedly found in breach of the provisions of this Constitutional Amendment and any law expanding upon it if the court is found unwilling or unable to rectify the situation. The parties to cases adjudicated within the last 3 years by a disestablished court may use the process of appeal before their State court within the 20 days of being informed about the decision of disestablishment.
 
-## Chapter 9: Final Provisions
+## Chapter 7: Final Provisions
 ##### Article 64: Legal Force
 This law gains legal force on ... and shall remain valid until it is repealed.
