@@ -4,8 +4,8 @@
 
 ## In Force
 
-* [👩⚖ In Force (Interim)](in-force/in-force-interim/README.md)
-  * [👷♀ Company Law](in-force/in-force-interim/company-law.md)
+* [👩⚖ 👩⚖ In Force (Interim)](in-force/in-force-interim/README.md)
+  * [👷♀ 👷♀ Company Law](in-force/in-force-interim/company-law.md)
 
 ## Drafting
 
@@ -14,14 +14,14 @@
 * [📝 Drafts](drafting/drafts/README.md)
   * [🤝 Contracts Law](drafting/drafts/contracts-law.md)
   * [⚖ Judical Process Law](drafting/drafts/judical-process-law.md)
-  * [🧑💼 🧑💼 Procurement Law](drafting/drafts/procurement-law.md)
-  * [👮♀ 👮♀ Police Law](drafting/drafts/police-law.md)
+  * [🧑💼 🧑💼 🧑💼 Procurement Law](drafting/drafts/procurement-law.md)
+  * [👮♀ 👮♀ 👮♀ Police Law](drafting/drafts/police-law.md)
   * [✋ Referendum Law](drafting/drafts/referendum-law.md)
   * [🏭 Real Estate Law](drafting/drafts/real-estate-law.md)
 * [✍ Prelminary](drafting/prelminary/README.md)
-  * [🚢 Law on Ships and Navigation](drafting/prelminary/maritime-law.md)
-  * [💂♀ 💂♀ Criminal Law](drafting/prelminary/criminal-law.md)
-  * [🏦 The Reserves Law](drafting/prelminary/reserves-law.md)
+  * [🚢 Law on Ships and Navigation](drafting/prelminary/law-on-ships-and-navigation.md)
+  * [💂♀ 💂♀ 💂♀ Criminal Law](drafting/prelminary/criminal-law.md)
+  * [🏦 The Reserves Law](drafting/prelminary/the-reserves-law.md)
   * [🗳 Elections Law](drafting/prelminary/elections-law.md)
 * [☑ Revisions](drafting/revisions/README.md)
-  * [👷♀ 👷♀ Company Law](drafting/revisions/company-law-revision.md)
+  * [👷♀ 👷♀ 👷♀ Company Law](drafting/revisions/company-law-revision.md)
