@@ -16,7 +16,7 @@ WHEREAS, the possibility of dividing Liberland into smaller units, whether they 
 
 NOW, THEREFORE, BE IT ENACTED by the Citizens and the Government of Liberland as follows:
 
-## Chapter 1: Keeping Liberland Secure
+### Title 1: Keeping Liberland Secure
 #### Article 1: Limitations on the Authority of Law Enforcement Agencies
 ##### Section 1: Scope of Authority 
 1. Agencies and agents serving as the police force of Liberland, as well as other agencies in which individuals bear arms or enforce the law, hereinafter collectively referred to as "Law Enforcement Agencies," shall only exercise authority as expressly conferred upon them by the Constitution and the laws of Liberland, as further delineated and circumscribed by subordinate regulations. Any action not explicitly authorized by these legal instruments shall be prohibited unless the said instruments can reasonably be found to contradict the rights enshrined in the Constitution.
@@ -111,7 +111,7 @@ The Security Commission shall be composed of four Commissioners, each appointed 
 ##### Section 2: Weapons of Other Armed Agency Personnel
 Other Agents of Law Enforcement Agencies shall be equipped with sidearms and trained in their use for self-protection. They shall also be trained in combat tactics concerning combat in environments prevalent in their assigned District.
 
-## Chapter 2: Policing Liberland
+### Title 2: Policing Liberland
 #### Article 6: Liberland Community Watch
 ##### Section 1: Authority of the Watch
 The Liberland Community Watch, henceforth the "Watch", shall be an Agency under the Ministry of Interior. The purpose of this Agency shall be to serve as Liberland's primary police force and the only general-purpose police Liberland shall know. As such, the responsibilities and duties of the Watch shall be to:
@@ -211,7 +211,7 @@ The Liberland Guard shall consist of special Watch Posts assigned specifically t
 ##### Section 2: Institutions for Handling Complaints
 Each organ of the Watch shall establish institutions to handle complaints in a just, lawful, impartial, and faithful manner. If establishing such institutions proves impractical, the organ shall present the complaint and all related documentation to the appropriate institutions of the District or Cantonal Watch, or the central Watch.
 
-## Chapter 3: Police Powers
+### Title 3: Police Powers
 
 #### Article 15: Demanding and Enforcing Compliance
 When authorized by law, an Law Enforcement Officer may compel an individual to act or to omit certain actions. This shall be limited to:
