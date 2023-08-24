@@ -506,7 +506,7 @@ An Immigration Officer First Class may derogate from these demands in cases wher
 
 3) The appellant shall be informed in writing of the outcome of the review. If the appeal is successful, the decision shall be reversed or amended as appropriate. If the appeal is unsuccessful, the reasons for the decision shall be clearly explained.
 
-### Title 5: Asylum Process
+## Chapter 5: Asylum Process
 #### Article 50: Right to Seek Asylum
 1) Any person who is outside their country of nationality or habitual residence and is unable or unwilling to return due to a well-founded fear of being persecuted for reasons of race, religion, nationality, membership of a particular social group, or political opinion, as defined in the 1951 Refugee Convention, shall have the right to seek asylum in Liberland.
 
