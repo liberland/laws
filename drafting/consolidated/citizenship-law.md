@@ -18,7 +18,7 @@ WHEREAS, the reconciliation of Liberland's unique approach to Citizenship as a p
 
 NOW, THEREFORE, BE IT ENACTED by the Citizens and the Government of Liberland.
 
-## Chapter 1: Citizenship
+### Title 1: Citizenship
 
 #### Article 1: Definition of Citizenship
 
@@ -51,7 +51,7 @@ A Citizen shall have the following rights:
 
 No person shall be denied Citizenship or access to related functions and services on the basis of their gender, sex, sexual orientation, race, nationality, origin, religion, disability, socioeconomic background, or any other such criteria.
 
-## Chapter 2: Acquiring Citizenship
+### Title 2: Acquiring Citizenship
 
 #### Article 5: Registration Process
 
@@ -95,7 +95,7 @@ The Citizenship Commission shall assess the Applicant's commitment by evaluating
 1. The Applicant shall be responsible for the costs of the application process. The Citizenship Commission shall inform the Applicant in advance of the estimated regular costs for the process.
 2. At the end of the application process, the costs shall be tallied and a definitive account of the expenses shall be provided to the Citizen.
 
-## Chapter 3: Ius Sanguini
+### Title 3: Ius Sanguini
 
 #### Article 10: Liberland Nationals
 
@@ -124,7 +124,7 @@ Liberland Nationals who have not yet obtained Citizenship shall enjoy the full p
 
 A Liberland National who holds no other Citizenship than their Citizenship by Descent in Liberland shall obtain Citizenship by Descent upon reaching 21 years of age.
 
-## Chapter 4: Honorary Citizenship
+### Title 4: Honorary Citizenship
 
 #### Article 14: Definition and Purpose of Honorary Citizenship
 1. "Honorary Citizenship" is a status conferred upon an individual who is not a Citizen of Liberland, granting them privileges akin to those of a Liberland National.
@@ -140,7 +140,7 @@ A Liberland National who holds no other Citizenship than their Citizenship by De
 2. Upon such contribution, the Honorary Citizen shall automatically acquire full Citizenship rights and powers, without any further process.
 3. Thereafter, there shall be no distinction in status between the former Honorary Citizen and any other Citizen of Liberland.
 
-## Chapter 5: The Social System
+### Title 5: The Social System
 
 #### Article 17: Withdrawing the Voluntary Tax
 
@@ -152,7 +152,7 @@ Every Liberland Citizen shall have the right to request the return of their volu
 2. Participation in the state social system shall not impede candidacy for or holding any political office, including but not limited to the office of a judge, senator, president, or agent.
 3. If a Citizen participating in the state social system is a member of Congress, they shall not be allowed to use their own political balance of LLM to participate in voting in Congress while partaking in Liberland's Social System, but shall retain the use of LLM delegated to them by their voters. They may also apply for re-election, although they themselves will not be able to vote.
 
-## Chapter 6: Termination of Citizenship
+### Title 6: Termination of Citizenship
 
 #### Article 19: Regular Termination of Citizenship
 
@@ -177,7 +177,7 @@ Every Liberland Citizen shall have the right to request the return of their volu
 
 A Citizen who is not in good standing or an ex-Citizen whose Citizenship has been irregularly terminated and who wishes to become a Citizen again shall have to negotiate with the Citizenship Commission the conditions of their re-acceptance as a Citizen. Those conditions shall be more strict than the normal conditions required of regular applicants.
 
-## Chapter 7: Institutional and Final Provisions
+### Title 7: Institutional and Final Provisions
 
 #### Article 23: Citizenship Commission
 
