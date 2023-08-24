@@ -288,6 +288,8 @@ are deemed likely to endanger lives, health, or cause serious property damage an
 
 2. Lethal weapons may be used as a last resort when all other means have clearly failed or when it can be assumed with overwhelming conviction that such less damaging measures would clearly fail. When using a lethal weapon, the Agent shall aim to injure rather than kill the targeted person whenever possible without clearly compromising the purpose of the weapon use.
 
-#### Article 22: Final Provision
+### Title 4: Final Provisions
+
+#### Article 22: Legal Force
 
 This Law shall gain legal force on ... and shall remain in force until repealed.
