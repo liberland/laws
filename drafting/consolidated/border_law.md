@@ -20,9 +20,9 @@ WHEREAS, Liberland seeks to enhance border security in the region, including the
 
 NOW, THEREFORE, BE IT ENACTED by the Citizens and the Government of Liberland.
 
-# Book 1: Borders and Establishing their Security
+## Chapter 1: Borders and Establishing their Security
 
-## Chapter 1: Borders
+## Title 1: Borders
 
 ### Article 1: Border Demarcation
 1) The territorial boundaries of Liberland, herein referred to as "Borders", will be clearly established using a high-precision geospatial coordinate system to support clarity in activities like land transactions, usage, acquisition, and infrastructural development. The specific state borders will be determined by international agreement.
@@ -59,7 +59,7 @@ In accordance with international agreements stipulating the removal of trees, sh
 ### Article 7: Cross-Border Cooperation
 Cross-border cooperation encompasses activities conducted by Liberland's border service within a foreign state's territory, mutual collaboration with foreign border services, officer exchange programs, information sharing, as well as operations carried out by foreign border services within the territory of Liberland, all in accordance with applicable international agreements and only when such agreements exist.
 
-## Chapter 2: Border Crossing Points
+## Title 2: Border Crossing Points
 
 ### Article 8: Border Crossing Point
 
@@ -152,7 +152,7 @@ Any construction, installation of facilities, change of their usage, or installa
 
 Non-compliance with the regulations stipulated in this Article may result in penalties, to be defined by subsequent regulations.
 
-## Chapter 3: Border Crossing
+## Title 3: Border Crossing
 
 ### Article 15: Border Crossing at a Border Crossing Point
 
@@ -179,7 +179,7 @@ As a general rule, the Borders of Liberland shall only be crossed at designated 
 #### Section 3: Unauthorized Border crossing outside a designated border crossing points
 Unauthorized crossing of the state border outside a designated Border Crossing Point may result in penalties, including fines, detention, and deportation, as determined by applicable law.
 
-## Chapter 4: Border Checks
+## Title 4: Border Checks
 
 ### Article 17: Definition
 Border checks shall involve the examination of individuals, their travel documents, vehicles, and belongings within the zone of a border crossing point relating to intended or immediate post-border crossing. It also encompasses other legislated controls on the flow of individuals, goods, services, vehicles, animals, and plants across the state border.
@@ -239,7 +239,7 @@ The import and export of weapons and ammunition are strictly prohibited. A speci
 2) During the enactment of the Minimum Border Control the border service must implement minimum border control measures. These include identity verification and the reliable validity check of individuals crossing the state border.
 3) The Minister of Interior or a designated agent in charge of organizing and managing border controls must establish priority objectives for border controls, adapted to specific security conditions to maximize border control effectiveness. When setting these priority objectives, entry border controls take precedence over exit checks. The border service should communicate any measures for Minimum Border Control enacted to the border crossing point of the neighbouring state.
 
-## Chapter 5: Immigration and Border Integrity Service (IBIS)
+## Chapter 2: Immigration and Border Integrity Service (IBIS)
 
 ### Article 29: Establishment of IBIS
 1) The Immigration and Border Integrity Service (IBIS) shall be an agency within the Ministry of Interior responsible for delineating, securing, and maintaining order at Liberland's borders. 
@@ -361,9 +361,9 @@ Immigration Officers shall be classified into three tiers, with powers allocated
 
    c) A Third-Class Immigration Officer may not waive any visa or entry requirements.  
 
-# Book 2: Immigration and Visas
+# Chapter 3: Immigration and Visas
 
-## Chapter 1: Visa for Non-Citizens
+## Title 1: Visa for Non-Citizens
 
 ### Article 36: Visa
 1) A visa shall be a document that confers to the visa holder the privilege of crossing the border of Liberland and staying on its soil for a certain time and with certain limitations when compared to a citizenship status.  
@@ -432,7 +432,7 @@ The standardized format of each type of visa shall be determined by Regulation i
 1) The requirements for a Residence Visa shall be waived for a person recognized as a Refugee under the applicable norms of public international law. This includes gaining a conditional Residence Visa to a person who merely applies for the status of a Refugee and the decision hasn't yet been made. The conditional Residency Visa shall expire upon the condition of the applicant not being granted a Refugee status.
 2) A person applying for a Refugee status who also fulfills the conditions for Liberland Residency shall be awarded Residency Visa. Where they also later gain the Refugee status, those two shall be held in parallel. Where the Residence Visa should be lost, the person shall fall back on the Refugee status before expulsion can be considered.
 
-## Chapter 2: Expiration of Visa and Expulsion
+## Title 2: Expiration of Visa and Expulsion
 
 ### Article 42: Expiration of Residency Visa
 Where a Residency Visa regularly expires, the process shall be similar to the expiration of a Temporary Visa, but the former Visa holder shall have 1/3 of an Election term counted from the day of expiration to exit Liberland voluntarily.
@@ -447,7 +447,7 @@ the expiration shall be postponed until such a time as the process regarding tha
 
 2) Where the Application wasn't made timely, the Visa holder shall exit Liberland as during a regular Visa Expiration; when the new Visa Application is successful, the Residency holder shall be free to return. The costs incurred by the exit and the return shall be borne by the Visa holder.  
 
-## Chapter 3: Identification
+## Title 3: Identification
 ### Article 44: Identity Verification
 1) An individual applying for a visa (hereinafter referred to as "Applicant") must verify their identity through one or more of the following methods: 
 
@@ -508,7 +508,7 @@ An Immigration Officer First Class may derogate from these demands in cases wher
 
 3) The appellant shall be informed in writing of the outcome of the review. If the appeal is successful, the decision shall be reversed or amended as appropriate. If the appeal is unsuccessful, the reasons for the decision shall be clearly explained.
 
-## Chapter 5: Asylum Process
+## Title 5: Asylum Process
 ### Article 50: Right to Seek Asylum
 1) Any person who is outside their country of nationality or habitual residence and is unable or unwilling to return due to a well-founded fear of being persecuted for reasons of race, religion, nationality, membership of a particular social group, or political opinion, as defined in the 1951 Refugee Convention, shall have the right to seek asylum in Liberland.
 
@@ -544,5 +544,6 @@ An Immigration Officer First Class may derogate from these demands in cases wher
 
 2. IBIS shall seek to establish cooperation with equivalent agencies in other countries for the exchange of information, joint operations, training, and capacity building. Such cooperation shall be subject to the laws of Liberland and respect for human rights and personal data protection.
 
+## Title 6: Final Provisions
 ### Article 55: Legal Force
 This Law shall gain Legal Force on … and it shall remain in force in perpetuity or until its legal effects should be terminated or until it should be replaced by another Law governing the same or similar subject matter.
