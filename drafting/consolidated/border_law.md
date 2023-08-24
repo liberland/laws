@@ -265,8 +265,6 @@ The Border Service shall establish and maintain regulations pertaining to:
 
    c) Organizational and professional rules for IBIS personnel.  
 
-## Chapter 2: Border and Immigration Officers and their duties
-
 ### Article 32: Designation, Authority, and Duties of Border Officers
 
 #### Section 1: Designation and Authority of Border Officers
