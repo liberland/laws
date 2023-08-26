@@ -24,7 +24,7 @@ NOW, THEREFORE, BE IT ENACTED by the Citizens and the Government of Liberland.
 
    a) The Criminal Code, Kazneni zakon, NN 110/97, as amended by later provisions and as it stands in Croatia at the time of its application in Liberland.
   
-   b) The Criminal Procedure Act, Zakon o kaznenon postupku, NN 152/08, as amended by later provisions and as it stands inCroatia at the time of its application in Liberland.
+   b) The Criminal Procedure Act, Zakon o kaznenon postupku, NN 152/08, as amended by later provisions and as it stands in Croatia at the time of its application in Liberland.
   
    c) All subordinate regulations in the Croatian legal system necessary for the interpretation and application of these laws.
   
