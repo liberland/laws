@@ -1,7 +1,5 @@
 # Criminal Law
 
-## Preamble
-
 WHEREAS, crime is an international phenomenon that transcends borders, posing a significant threat to peaceful co-existence, as well as life, liberty, and property;
 
 WHEREAS, the establishment of a stable and peaceful society in Liberland requires a sophisticated criminal law system, bolstered by full international cooperation with organizations such as Interpol and other countries;
