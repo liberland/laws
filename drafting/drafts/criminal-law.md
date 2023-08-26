@@ -22,9 +22,9 @@ NOW, THEREFORE, BE IT ENACTED by the Citizens and the Government of Liberland.
 
 1. To facilitate the future establishment of a mutually beneficial international treaty for combatting crime, Liberland shall incorporate specific segments of Croatian criminal law, including:
 
-   a) The Criminal Code, as it stands in Croatia at the time of its application in Liberland.
+   a) The Criminal Code, Kazneni zakon, NN 110/97, as amended by later provisions and as it stands in Croatia at the time of its application in Liberland.
   
-   b) The Criminal Procedure Act, as it stands in Croatia at the time of its application in Liberland.
+   b) The Criminal Procedure Act, Zakon o kaznenon postupku, NN 110/97, as amended by later provisions and as it stands inCroatia at the time of its application in Liberland.
   
    c) All subordinate regulations in the Croatian legal system necessary for the interpretation and application of these laws.
   
