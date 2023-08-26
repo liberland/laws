@@ -1,6 +1,18 @@
 # Criminal Law
 
-## Preface
+## Preamble
+
+WHEREAS, crime is an international phenomenon that transcends borders, posing a significant threat to peaceful co-existence, as well as life, liberty, and property;
+
+WHEREAS, the establishment of a stable and peaceful society in Liberland requires a sophisticated criminal law system, bolstered by full international cooperation with organizations such as Interpol and other countries;
+
+WHEREAS, Liberland's current state of Initial Settlement necessitates an enhanced level of crime prevention and pursuit of criminals to meet the standards expected of a sovereign entity;
+
+WHEREAS, Liberland is committed to the principles of justice and restitution to victims of crime, to the fullest extent possible;
+
+WHEREAS, Liberland aims to maintain its status as a member in good standing on the international stage and seeks to be a good neighbor to its closest international partners;
+
+NOW, THEREFORE, BE IT ENACTED by the Citizens and the Government of Liberland.
 
 #### Article 1: International cooperation for combatting crime
 
