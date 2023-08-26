@@ -2,7 +2,7 @@
 
 WHEREAS, crime is an international phenomenon that transcends borders, posing a significant threat to peaceful co-existence, as well as life, liberty, and property;
 
-WHEREAS, the establishment of a stable and peaceful society in Liberland requires a sophisticated criminal law system, bolstered by full international cooperation with organizations such as Interpol and other countries;
+WHEREAS, the establishment of a stable and peaceful society in Liberland requires a sophisticated criminal legal system, bolstered by full international cooperation with organizations such as Interpol and other countries;
 
 WHEREAS, Liberland's current state of Initial Settlement necessitates an enhanced level of crime prevention and pursuit of criminals to meet the standards expected of a sovereign entity;
 
@@ -16,7 +16,7 @@ NOW, THEREFORE, BE IT ENACTED by the Citizens and the Government of Liberland.
 
 1. Recognizing crime as an international phenomenon, Liberland shall actively cooperate with both its closest and other international partners to combat all forms of crime, whether international or domestic.
   
-2. During the initial phase of Liberland's settlement, the Government shall prioritize establishing such cooperation with its closest partner, Croatia. To this end, the Government aims to negotiate an international treaty or a series of treaties with Croatia, covering criminal law matters and crime combatting in the broadest sense.
+2. During the initial phase of Liberland's settlement, the Government shall prioritize establishing such cooperation with its closest partner, Croatia. To this end, the Government aims to negotiate an international treaty or a series of treaties with Croatia, covering criminal legal  matters and crime combatting in the broadest sense.
 
 #### Article 2: Adoption of Croatian criminal Law
 
