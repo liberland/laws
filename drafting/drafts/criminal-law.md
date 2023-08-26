@@ -12,13 +12,13 @@
 
 1. To facilitate the future establishment of a mutually beneficial international treaty for combatting crime, Liberland shall incorporate specific segments of Croatian criminal law, including:
 
-  a) The Criminal Code, as it stands in Croatia at the time of its application in Liberland.
+   a) The Criminal Code, as it stands in Croatia at the time of its application in Liberland.
   
-  b) The Criminal Procedure Act, as it stands in Croatia at the time of its application in Liberland.
+   b) The Criminal Procedure Act, as it stands in Croatia at the time of its application in Liberland.
   
-  c) All subordinate regulations in the Croatian legal system necessary for the interpretation and application of these laws.
+   c) All subordinate regulations in the Croatian legal system necessary for the interpretation and application of these laws.
   
-  d) All jurisprudence of the Croatian legal system concerning the Criminal Code.
+   d) All jurisprudence of the Croatian legal system concerning the Criminal Code.
 
 2. Offenses classified as felonies under Croatian criminal law shall henceforth be considered Crimes in Liberland.
 
