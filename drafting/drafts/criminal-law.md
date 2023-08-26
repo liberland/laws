@@ -2,13 +2,13 @@
 
 ## Preface
 
-#### Article 1: International Cooperation for Combatting Crime
+#### Article 1: International cooperation for combatting crime
 
 1. Recognizing crime as an international phenomenon, Liberland shall actively cooperate with both its closest and other international partners to combat all forms of crime, whether international or domestic.
   
 2. During the initial phase of Liberland's settlement, the Government shall prioritize establishing such cooperation with its closest partner, Croatia. To this end, the Government aims to negotiate an international treaty or a series of treaties with Croatia, covering criminal law matters and crime combatting in the broadest sense.
 
-#### Article 2: Adoption of Croatian Criminal Law
+#### Article 2: Adoption of Croatian criminal Law
 
 1. To facilitate the future establishment of a mutually beneficial international treaty for combatting crime, Liberland shall incorporate specific segments of Croatian criminal law, including:
 
@@ -32,7 +32,7 @@ Liberland hereby grants permission for units of the Croatian police, engaged in 
 
 In matters concerning the pursuit of Crimes, the Croatian Criminal Police are authorized to act as Law Enforcement in Liberland and shall be considered a distinct type of Law Enforcement Agency.
 
-#### Article 5: Limits on Adoption
+#### Article 5: Limits on adoption
 
 Liberland explicitly refrains from adopting the following aspects of Croatian law:
 
@@ -42,6 +42,6 @@ Liberland explicitly refrains from adopting the following aspects of Croatian la
   
   c) Regulatory provisions related to tourism, business operations, road and river traffic, forestry, and other forms of economic activity, except those governed by criminal law measures as regards felonies.
 
-#### Article 6: Legal Force
+#### Article 6: Legal force
 
 This Law shall take effect as an Interim Law upon its adoption by the Cabinet and shall remain in force until replaced by a permanent Criminal Codex by the Regular Government, or until its components are superseded by future international treaties as outlined in this Law.
