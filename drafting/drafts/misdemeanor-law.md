@@ -84,22 +84,22 @@ shall be subject to a penalty ranging from 50 to 250 LLM, depending on the sever
 
 ### Title 3: Administrative Organ and Procedure
 
-#### Article 1: Administrative Organ for Misdemeanors and Disciplinary Delicts
+#### Article 10: Administrative Organ for Misdemeanors and Disciplinary Delicts
 1. The administrative organ responsible for investigating misdemeanors on the ground shall generally be the Watch.
 2. The administrative organ responsible shall be IBIS in areas near a Border Crossing Point.
 
-#### Article 2: Standards of Decision-Making
+#### Article 11: Standards of Decision-Making
 1. The decision on a misdemeanor shall be made upon fact-finding and based on evidence. Where possible, the evidence should be documented by photography, objects, written statements, or official documents.
 2. Direct observation of facts by the Administrative Organs or by witnesses shall count as evidence, as will the confession of a suspect.
 3. The decision shall be reasoned out and shall include the facts of the case and the reference to the evidence.
 4. All evidence shall be documented, and the documentation sent to the Ministry of Justice for archivation.
 
-#### Article 3: Preferred Procedure for Misdemeanors
+#### Article 12: Preferred Procedure for Misdemeanors
 1. For suspects found committing a misdemeanor on the ground, an on-site Payment Order shall be the preferred method of decision making.
 2. For misdemeanours occurring elsewhere than in Liberland, Payment Orders shall be issued as the preferred method of decision making.
 3. The suspect shall be allowed to pay in money other than LLM accepted by the Government for payments if they wish to prevent the loss of their LLM.
 
-#### Article 4: Objections and Subsequent Procedures
+#### Article 13: Objections and Subsequent Procedures
 1. In cases where an objection to a Payment Order is filed, the Ministry of Justice shall initiate a regular Misdemeanor Process.
 2. The Misdemeanor Process shall be conducted in accordance with the Administrative Process Law.
 
