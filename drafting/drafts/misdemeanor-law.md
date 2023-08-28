@@ -122,8 +122,6 @@ shall be subject to a penalty ranging from 50 to 250 LLM, depending on the sever
 
 ## Chapter 2: Processing Misdemeanors
 
-### Title 3: Administrative Organ and Procedure
-
 #### Article 16: Administrative Organ for Misdemeanors and Disciplinary Delicts
 1. The administrative organ responsible for investigating misdemeanors on the ground shall generally be the Watch.
 2. The administrative organ responsible shall be IBIS in areas near a Border Crossing Point.
