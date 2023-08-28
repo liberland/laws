@@ -39,6 +39,10 @@ The penalty shall range from 50 to  50 000 LLM, depending on the impact the act 
   
   d) Failing to be courteous and helpful when there is no apparent reason not to be.
 
+#### Article 6: Bringing firearms, explosives or poisons into Liberland
+1. An individual who brings a firearm, explosive, or poison into Liberland that would be illegal for them to own, possess, or carry according to Croatian law shall be subject to a penalty ranging from 5,000 LLM to 50,000 LLM.
+2. An individual who brings into Liberland a firearm, explosive, or poison—or an object strongly resembling any of these—that is legal for them to own, possess, or carry according to Croatian law but could trigger an international incident if discovered, shall be subject to a penalty ranging from 50 LLM to 10,000 LLM. The penalty will vary depending on whether an international incident was triggered and its severity.
+
 ### Title 2: Misdemeanors Against Public Order
 
 #### Article 6: Dangerous Driving or Machine Use
@@ -50,6 +54,11 @@ The penalty shall range from 50 to  50 000 LLM, depending on the impact the act 
 
 1. Individuals who engage in rowdy, immoral, or disruptive behavior that severely disrupts public order in Liberland or tarnishes Liberland's reputation in public shall be subject to a penalty.
 2. The penalty shall range from 50 to 1,000 LLM per individual, depending on the severity of the disruption and the nature and impact of the damage caused.
+
+### Article 8: Public Immorality
+
+1. Any individual who appears naked in public, except in contexts where nudity is expected, or publicly engages in behavior that reasonable people would generally consider immoral or grossly improper, shall be subject to a penalty ranging from 10 LLM to 100 LLM.
+2. If such behavior directly and likely leads to an international incident, the penalty shall range from 50 LLM to 1000 LLM, depending on the severity of the incident and its consequences.
 
 ### Title 3: Misdemeanors in construction and maintenance of objects
 #### Article 8: Non-Compliance with Croatian Legal Standards in Construction
