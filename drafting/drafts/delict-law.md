@@ -179,9 +179,7 @@ Liability of the Legal Entity remains intact even if:
 
 An act is not considered a Delict if weapons are used within the boundaries established by Police Law.
 
-### Chapter 2: Delicts punishable under this law
-
-### Title I: Classification and Jurisdiction of Delicts
+## Chapter 2: Delicts punishable under this law
 
 #### Article 24: Categorization of Delicts
 
@@ -211,7 +209,7 @@ An act is not considered a Delict if weapons are used within the boundaries esta
 Such individuals shall be referred to as persons "on active duty" for the purposes of this Law.
 2. A Disciplinary Offense is defined as a delict committed by a person "on active duty," as outlined in this Law.
 
-## Chapter 2: List of Misdemeanors
+## Chapter 3: Misdemeanors
 
 ### Title 1: Misdemeanors against the Settlement Effort
 
