@@ -51,8 +51,23 @@ The penalty shall range from 50 to  50 000 LLM, depending on the impact the act 
 1. Individuals who engage in rowdy, immoral, or disruptive behavior that severely disrupts public order in Liberland or tarnishes Liberland's reputation in public shall be subject to a penalty.
 2. The penalty shall range from 50 to 1,000 LLM per individual, depending on the severity of the disruption and the nature and impact of the damage caused.
 
+### Title 3: Misdemeanors in construction and maintenance of objects
+#### Article 8: Non-Compliance with Croatian Legal Standards in Construction
+1. An individual involved in construction activities, hereafter referred to as the "Builder," who fails to adhere to Croatian legal standards in any of the following aspects:
 
-### Title 2: Disciplinary Offenses
+a) Overall building plans and conception,
+
+b) Architectural design or project,
+
+c) Construction process, or
+
+d) Safety regulations,
+
+shall be subject to a penalty. The penalty shall range from 500 to 5,000 LLM, depending on the severity of the violation.
+
+2. If such construction or the resulting structures cause damage, the Builder shall be subject to an additional penalty. This additional penalty shall range from 1,000 to 100,000 LLM, depending on the extent of the damage caused.
+
+### Title 4: Disciplinary Offenses
 
 #### Article 5: Disciplinary Jurisdiction
 
