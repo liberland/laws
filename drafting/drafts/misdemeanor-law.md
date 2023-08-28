@@ -30,7 +30,7 @@ b) An action that significantly violates established laws, irrespective of wheth
 
    c) Enabled or facilitated another in committing the Delict (accomplice),
 
-provided that the Delict is completed or its attempt is punishable.
+   provided that the Delict is completed or its attempt is punishable.
 
 #### Article 3: Definition and Scope of Misdemeanor
 A Misdemeanor is any Delict defined as such in this Law.
