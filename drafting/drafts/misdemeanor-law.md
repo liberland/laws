@@ -1,6 +1,51 @@
-# Misdemeanor Law
+# Delict Law
 
-## Chapter 1: Misdemeanors
+## Chapter 1: General provisions
+
+### Title 1: Classification of Offenses
+
+#### Article 1: Definition of Delict
+1. A delict is defined as either:
+
+a) An action that breaches the Non-Aggression Principle, leading to identifiable harm to another person, or, in exceptional cases,
+
+b) An action that significantly violates established laws, irrespective of whether the victim is easily identifiable.
+
+2. Any individual, whether they are permanently or temporarily under the jurisdiction of Liberland, is responsible for the delicts they commit. If found guilty, they are obligated to make restitution to the victims and will be subject to penalties as outlined in this law to deter future delictual behavior.
+
+#### Article 2: Definition and Scope of Misdemeanor
+A Misdemeanor is any Delict as defined in this Law.
+
+#### Article 3: Definition and Scope of Disciplinary Offense
+1. Liberland shall exercise disciplinary jurisdiction over all government agents or volunteers participating in public projects who are physically present within its territory or are engaged in tasks that are vital to the settlement and directly related to it. Such individuals are henceforth referred to as persons "on active duty."
+2. A Disciplinary Offense is a Delict committed by a person on active duty, as defined in this Law.
+
+#### Article 4: Concurrent commission of multiple Delicts
+##### Section 1: General Principle
+Where multiple delicts are committed by a single action, only the Delict punishable by the most severe penalty shall be committed.
+
+##### Section 2: Crimes and other Delicts
+1. Where an act constitutes a Crime and also another Delict, in general, only the Crime shall be prosecuted according to the Criminal Law. 
+2. In certain specific cases where this Law stipulates otherwise, committing crimes also results in the responsibility for other types of Delict.
+
+#### Article 5: Attempted Delict
+An attempted Delict shall be punishable in the same manner as a finished Delict, though the punishment might be less severe based on the circumstance.
+
+#### Article 6: Continued Delict
+A continuing Delict is understood to mean such conduct wherein individual constituent acts, guided by a unified intent, fulfil the elements of the same offence and are connected by the same or similar means of execution, close temporal proximity, and subject matter relatedness.
+
+#### Article 7: Mass Offense
+A mass offence is an offence for which the law requires multiple acts connected by a common intent for liability to arise for the offence.
+
+#### Article 8: Omission
+For the purposes of this law, "conduct" also includes the omission of such action to which the actor was obligated pursuant to another legal regulation or official decision, resulting from a voluntarily assumed duty to law or if his special obligation arose from his previous endangering conduct, or for which he was obligated for another reason based on the circumstances and his conditions.
+
+#### Article 9: Co-offender
+1. If a Delict or its attempt was committed by the intentional joint conduct of two or more individuals, each is liable as if they had committed the Delict alone.
+
+2. If the Delict was committed by joint conduct of two or more entities, of which at least one is a legal person or a self-employed individual, each is liable as if they had committed the Delict alone.
+
+## Chapter 2: List of Misdemeanors
 
 ### Title 1: Misdemeanors against the Settlement Effort
 
@@ -63,8 +108,13 @@ The penalty shall range from 50 to  50 000 LLM, depending on the impact the act 
 2. If such behavior directly and likely leads to an international incident, the penalty shall range from 50 LLM to 1000 LLM, depending on the severity of the incident and its consequences.
 
 ### Title 3: Misdemeanors in construction and maintenance of objects
-#### Article 10: Non-Compliance with Croatian Legal Standards in Construction
-1. An individual involved in construction activities, hereafter referred to as the "Builder," who fails to adhere to Croatian legal standards in any of the following aspects:
+
+### Article 10: Unauthorized Construction Activities
+1. An individual involved in construction activities, hereafter referred to as the "Builder," who engages in construction on land that either belongs to another individual or on which the Government has expressly forbidden such construction or its specific type, shall be subject to penalties.
+2. The penalty for unauthorized construction shall range from 50 to 50,000 LLM, depending on the severity of the infraction and its consequences.
+
+#### Article 11: Non-Compliance with Croatian Legal Standards in Construction
+1. A Builder who fails to adhere to Croatian legal standards in any of the following aspects:
 
 a) Overall building plans and conception,
 
@@ -80,17 +130,13 @@ shall be subject to a penalty. The penalty shall range from 500 to 5,000 LLM, de
 
 ### Title 4: Disciplinary Offenses
 
-#### Article 11: Disciplinary Jurisdiction
-
-Liberland shall exercise disciplinary jurisdiction over all government agents or settlers volunteering for a public project who are physically present on the land or are performing tasks critical for the settlement and directly connected to it. These individuals are henceforth referred to as persons "on active settlement duty."
-
 #### Article 12: Failure to Report on Duty
 
-Any individual who is on active settlement duty and fails to report for duty before the morning muster deadline shall be subject to a penalty of 100 LLM.
+Any individual who is on active duty and fails to report for duty before the morning muster deadline shall be subject to a penalty of 100 LLM.
 
 #### Article 13: Demeritorious Conduct
 
-Any individual who is on active settlement duty and publicly shames the settlement of Liberland through their:
+Any individual who is on active duty and publicly shames the settlement of Liberland through their:
 
   a) Conduct,
   
@@ -106,13 +152,13 @@ shall be subject to a penalty ranging from 100 to 1,000 LLM, depending on the se
 
 #### Article 14: Willful Disobedience
 
-1. Any individual who is on active settlement duty and willfully disobeys a moral, reasonably safe, and reasonable instruction shall be subject to a penalty ranging from 500 to 5,000 LLM, depending on the severity of their misconduct and the resulting consequences.
+1. Any individual who is on active duty and willfully disobeys a moral, reasonably safe, and reasonable instruction shall be subject to a penalty ranging from 500 to 5,000 LLM, depending on the severity of their misconduct and the resulting consequences.
 
 2. If the disobedience undermines the core objective of the settlement, the penalty shall range from 1,000 to 10,000 LLM and may include dismissal from duty or termination of their settlement tour. Such individuals may resume their settlement activities once their LLM balance is at least zero.
 
 #### Article 15: Fumbling
 
-Any individual who is on active settlement duty and either:
+Any individual who is on active duty and either:
 
   a) Shows a lack of judgment in a situation that a moderately responsible professional would not underestimate or
   
@@ -120,17 +166,22 @@ Any individual who is on active settlement duty and either:
 
 shall be subject to a penalty ranging from 50 to 250 LLM, depending on the severity of the lack of good judgment and the resulting consequences.
 
-## Chapter 2: Processing Misdemeanors
+## Chapter 3: Enforcement and Adjudication of Misdemeanors
+
+### Penalties
+
+### Title 2: Investigating and processing Misdemeanors
 
 #### Article 16: Administrative Organ for Misdemeanors and Disciplinary Delicts
-1. The administrative organ responsible for investigating misdemeanors on the ground shall generally be the Watch.
-2. The administrative organ responsible shall be IBIS in areas near a Border Crossing Point.
+1. The primary Administrative Organ responsible for on-the-ground investigation of misdemeanors in Liberland shall be the Watch.
+2. In areas proximate to a Border Crossing Point, the responsible administrative body shall be IBIS.
+3. Misdemeanors that take place outside of Liberland shall be placed under the jurisdiction of the Ministry of Justice.
 
-#### Article 17: Standards of Decision-Making
-1. The decision on a misdemeanor shall be made upon fact-finding and based on evidence. Where possible, the evidence should be documented by photography, objects, written statements, or official documents.
-2. Direct observation of facts by the Administrative Organs or by witnesses shall count as evidence, as will the confession of a suspect.
-3. The decision shall be reasoned out and shall include the facts of the case and the reference to the evidence.
-4. All evidence shall be documented, and the documentation sent to the Ministry of Justice for archivation.
+#### Article 17: Criteria for Adjudicating Misdemeanors
+1. Decisions regarding misdemeanors shall be evidence-based and grounded in factual findings. Where feasible, evidence should be substantiated through photography, physical objects, written statements, or official documents.
+2. Direct observations made by Administrative Organs or witnesses shall be considered valid evidence, as will confessions from suspects.
+3. Decisions must be well-reasoned, incorporating the facts of the case and references to the supporting evidence.
+4. All evidence must be properly documented, and such documentation shall be forwarded to the Ministry of Justice for archival purposes.
 
 #### Article 18: Preferred Procedure for Misdemeanors
 1. For suspects found committing a misdemeanor on the ground, an on-site Payment Order shall be the preferred method of decision making.
