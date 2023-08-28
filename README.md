@@ -24,7 +24,7 @@ Amendments of existing laws, ready for all kinds of recommendations from your si
 
 Ready for your recommendations with technical and issues regarding single sections or paragraphs preferable.
 
-* [Citizenship Law](drafting/consolidated/citizenship-law.md
+* [Citizenship Law](drafting/consolidated/citizenship-law.md)
 * [Criminal Law](https://github.com/liberland/laws/blob/Laws-Current/drafting/consolidated/criminal-law.md)
 * [Police Law](drafting/consolidated/police-law.md)
 * [Judicial Process Law](drafting/consolidated/judical-process-law.md)
@@ -39,6 +39,7 @@ Ready for your recommendations, including thorought ones and requests to not dra
 * [Contract Law](drafting/drafts/contracts-law.md)
 * [IT Law](https://github.com/liberland/laws/blob/Laws-Current/drafting/drafts/InformationTechnologyLaw.md)
 * [Legislative Rules](https://github.com/liberland/laws/blob/Laws-Current/drafting/drafts/legislative-rules.md)
+* [Misdemeanor Law](https://github.com/liberland/laws/blob/Laws-Current/drafting/drafts/misdemeanor-law.md)
 * [Real Estate Law](drafting/drafts/real-estate-law.md)
 * [Procurement Law](drafting/drafts/procurement-law.md)
 
