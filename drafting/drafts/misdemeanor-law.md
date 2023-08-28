@@ -19,7 +19,7 @@ Any individual who uses or possesses drugs that are restricted or illegal in Cro
 1. Any individual who insults or assaults a Law Enforcement Officer, especially a Croatian policewoman or policeman, shall be subject to a penalty of 500 to 100,000 LLM from their account. 
 2. The exact amount will depend on the severity of the consequences and whether or not it leads to an international incident.
 
-#### Article 4: Committing a Felony
+#### Article 4: Committing a Felony under croatian law
 
 1. Any individual who commits an act that is also considered a felony under Croatian law shall, in addition to facing criminal penalties, be subject to a penalty of 1,000 to 100,000 LLM from their account. 
 2. The exact amount will depend on the severity of the felony and whether or not it leads to an international incident.
