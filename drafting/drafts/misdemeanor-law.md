@@ -6,17 +6,17 @@
 
 #### Article 1: Definition of Delict
 
-A delict is defined as either:
+1. A delict is defined as either:
 
-a) An action that breaches the Non-Aggression Principle, leading to identifiable harm to another person, or, in exceptional cases,
+   a) An action that breaches the Non-Aggression Principle, leading to identifiable harm to another person, or, in exceptional cases,
 
-b) An action that significantly violates established laws, irrespective of whether the victim is easily identifiable.
+   b) An action that significantly violates established laws, irrespective of whether the victim is easily identifiable.
 
 2. Any individual, whether they are permanently or temporarily under the jurisdiction of Liberland, is responsible for the delicts they commit. If found guilty, they are obligated to make restitution to the victims and will be subject to penalties as outlined in this law to deter future delictual behavior.
 
 #### Article 2: Perpetration of a Delict
 
-1. An individual is considered a perpetrator if, through their culpable conduct, they fulfill the elements of an Delict or its attempt, if punishable.
+1. An individual is considered a Perpetrator if, through their culpable conduct, they fulfill the elements of an Delict or its attempt.
 
 2. A perpetrator also includes an individual who utilizes another individual, who is not liable for the Delict due to lack of age or incapacity, or because their conduct satisfies the conditions of self-defense, extreme necessity, or other circumstances negating unlawfulness.
 
@@ -24,24 +24,35 @@ b) An action that significantly violates established laws, irrespective of wheth
 
 4. Where the law so stipulates, a perpetrator also includes an individual who intentionally:
 
-   a) Planned or directed the commission of the Delict (organizer),
+   a) Planned or directed the commission of the Delict (Organizer),
 
-   b) Instigated another to decide to commit the Delict (inciter), or
+   b) Instigated another to decide to commit the Delict (Inciter), or
 
-   c) Enabled or facilitated another in committing the Delict (accomplice),
+   c) Enabled or facilitated another in committing the Delict (Accomplice),
 
    provided that the Delict is completed or its attempt is punishable.
 
-#### Article 3: Definition and Scope of Misdemeanor
-A Misdemeanor is any Delict defined as such in this Law.
+#### Article 3: Liability of the Perpetrator
+1. Liability for a Delict requires culpability. 
+2. Negligence suffices as culpability, unless the law explicitly states that intentional culpability is required.
 
-#### Article 4: Definition and Scope of Disciplinary Offense
-1. Liberland shall exercise disciplinary jurisdiction over all government agents or volunteers participating in public projects who are physically present within its territory or are engaged in tasks that are vital to the settlement and directly related to it. Such individuals are henceforth referred to as persons "on active duty."
-2. A Disciplinary Offense is a Delict committed by a person on active duty, as defined in this Law.
+#### Article 4: Intentional culpability
+An offense is committed intentionally if the perpetrator:
+
+   a) Intended to violate or endanger an interest protected by law, or
+
+   b) Knew that their actions could violate or endanger an interest protected by law, and was willing to accept that risk.
+
+#### Article 5: Negligence
+An offense is committed negligently if the perpetrator:
+
+   a) Knew that their actions could violate or endanger an interest protected by law, but without reasonable grounds relied on not violating or endangering that interest, or
+
+   b) Did not know that their actions could violate or endanger an interest protected by law, but should and could have known given the circumstances and their personal situation.
 
 ### Title 2: Principles of Liability for Delicts
 
-#### Article 5: Concurrent commission of multiple Delicts
+#### Article 6: Concurrent commission of multiple Delicts
 
 ##### Section 1: General Principle
 In instances where multiple Delicts are committed through a single act, prosecution shall proceed solely for the Delict subject to the most severe penalty.
@@ -50,32 +61,38 @@ In instances where multiple Delicts are committed through a single act, prosecut
 1. Where an act constitutes a Crime and also another Delict, in general, only the Crime shall be prosecuted according to the Criminal Law. 
 2. In certain specific cases where this Law stipulates otherwise, committing crimes also results in the responsibility for other types of Delict.
 
-#### Article 6: Attempted Delict
+#### Article 7: Attempted Delict
 An attempted Delict shall be punishable in the same manner as a finished Delict, though the punishment might be less severe based on the circumstance.
 
-#### Article 7: Continued Delict
+#### Article 8: Continued Delict
 A continuing Delict is understood to mean such conduct wherein individual constituent acts, guided by a unified intent, fulfil the elements of the same offence and are connected by the same or similar means of execution, close temporal proximity, and subject matter relatedness.
 
-#### Article 8: Mass Offense
+#### Article 9: Mass Offense
 A mass offence is an offence for which the law requires multiple acts connected by a common intent for liability to arise for the offence.
 
-#### Article 9: Omission
+#### Article 10: Omission
 For the purposes of this law, "conduct" also includes the omission of such action to which the actor was obligated pursuant to another legal regulation or official decision, resulting from a voluntarily assumed duty to law or if his special obligation arose from his previous endangering conduct, or for which he was obligated for another reason based on the circumstances and his conditions.
 
-#### Article 10: Co-offender
+#### Article 11: Co-offender
 1. If a Delict or its attempt was committed by the intentional joint conduct of two or more individuals, each is liable as if they had committed the Delict alone.
 
 2. If the Delict was committed by joint conduct of two or more entities, of which at least one is a legal person or a self-employed individual, each is liable as if they had committed the Delict alone.
 
-#### Article 11: Special subject of a Delict
+#### Article 12: Special subject of a Delict
 If the law requires a special characteristic, qualification, or status of the perpetrator for the commission of a Delict, the following may apply:
 
   a) The perpetrator can only be one who possesses the required characteristic, qualification, or status.
 
   b) A co-perpetrator can be one who possesses the required characteristic, qualification, or status, and also one who does not possess the required characteristic, qualification, or status, provided that at least one of the co-perpetrators possesses the required characteristic, qualification, or status.
 
-### Title 3: Commission and Ommission
+### Title 3: Types of Delict specifically prosecuted according to this law
 
+#### Article 13: Misdemeanors
+A Misdemeanor is any Delict defined as such in this Law.
+
+#### Article 14: Disciplinary Offenses
+1. Liberland shall exercise disciplinary jurisdiction over all government agents or volunteers participating in public projects who are physically present within its territory or are engaged in tasks that are vital to the settlement and directly related to it. Such individuals are henceforth referred to as persons "on active duty."
+2. A Disciplinary Offense is a Delict committed by a person on active duty, as defined in this Law.
 
 ## Chapter 2: List of Misdemeanors
 
