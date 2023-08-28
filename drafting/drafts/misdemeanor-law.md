@@ -47,8 +47,8 @@ The penalty shall range from 50 to  50 000 LLM, depending on the impact the act 
 
 #### Article 6: Dangerous Driving or Machine Use
 
-1. Any individual who operates a vehicle, machine, or rides an animal in a manner that poses a risk or actually endangers others shall be subject to a penalty. 
-2. The penalty shall range from 50 to 50,000 LLM, depending on the level of danger posed by their actions and the actual consequences that ensue.
+1. Any individual who operates a vehicle, machine, or rides an animal in a manner that either poses a risk or actually endangers, injures, or causes damage to themselves or others shall be subject to a penalty.
+2. The penalty shall range from 50 to 50,000 LLM, depending on the level of danger posed by the individual's actions and the actual consequences that result. The penalty applied shall be more severe if the individual would not have been legally permitted to operate such a vehicle or machine under Croatian law, and they either knew or should have known this as reasonably careful individuals. The penalty will also increase significantly in severity if actual injury or damage is incurred, or if an international incident is caused.
 
 #### Article 7: Rowdy Behavior
 
