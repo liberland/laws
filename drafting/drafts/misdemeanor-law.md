@@ -85,12 +85,70 @@ If the law requires a special characteristic, qualification, or status of the pe
 
   b) A co-perpetrator can be one who possesses the required characteristic, qualification, or status, and also one who does not possess the required characteristic, qualification, or status, provided that at least one of the co-perpetrators possesses the required characteristic, qualification, or status.
 
-### Title 3: Types of Delict specifically prosecuted according to this law
+### Title 3: Legal Entity Accountability for Delicts
 
-#### Article 13: Misdemeanors
+#### Article 13: Criteria for Legal Entity as Perpetrator
+
+1. A Legal Entity is deemed the perpetrator when a delict is committed through the actions of an individual, whose conduct is attributable to the Legal Entity and who has breached a legal obligation incumbent upon the Legal Entity.
+
+2. This applies when the individual is acting:
+
+   a) In representation of the Legal Entity,
+   
+   b) In direct association with its operations, or
+   
+   c) For its benefit or advantage.
+
+3. If an individual acting in such a capacity is culpable of a delict, the Legal Entity shall assume liability for the delict.
+
+4. Full liability of the Legal Entity absolves the individual perpetrator, except when they are determined to be co-perpetrators or jointly accountable for the delict.
+
+5. The Legal Entity's liability is not contingent upon identifying the specific individual responsible. The investigative body or court is also not obligated to identify this individual, particularly when it is evident that the actions were part of the Legal Entity's operations.
+
+#### Article 14: Typical Agents for Legal Entity Liability
+
+For assessing a Legal Entity's liability, actions from the following individuals are considered attributable to the Legal Entity:
+
+   a) Statutory bodies or their members,
+   
+   b) Other organizational bodies or their members,
+   
+   c) Employees or similar positions while performing job-related tasks,
+   
+   d) Individuals executing tasks for the Legal Entity,
+   
+   e) Individuals engaged by the Legal Entity in its operations,
+   
+   f) Individuals acting in the Legal Entity's interest, if the entity benefits from the outcome.
+
+#### Article 15: Special Characteristics for Legal Entity Perpetrators
+
+If the law stipulates special traits, capabilities, or statuses for a perpetrator who is a Legal Entity, such attributes need not be present in the individual whose actions are attributable to the Legal Entity.
+
+#### Article 16: Special Conditions for Legal Entity Liability
+
+Liability of the Legal Entity remains intact even if:
+
+   a) The individual's actions occurred prior to the Legal Entity's establishment,
+   
+   b) The Legal Entity was declared invalid by a court,
+   
+   c) The legal action intended to establish authority is invalid or ineffective,
+   
+   d) The Legal Entity utilized another entity or individual to commit an offense, provided these entities are not liable for the offense.
+
+#### Article 17: Conditions for Legal Entity Exemption
+
+1. A Legal Entity is exempt from liability if it demonstrates that all reasonable preventive measures were taken.
+
+2. Exemption is not applicable if the Legal Entity failed to exercise obligatory or necessary oversight over the individual responsible, or if it failed to implement necessary preventive measures.
+
+### Title 4: Types of Delict specifically prosecuted according to this law
+
+#### Article 18: Misdemeanors
 A Misdemeanor is any Delict defined as such in this Law.
 
-#### Article 14: Disciplinary Offenses
+#### Article 19: Disciplinary Offenses
 1. Liberland shall exercise disciplinary jurisdiction over all government agents or volunteers participating in public projects who are physically present within its territory or are engaged in tasks that are vital to the settlement and directly related to it. Such individuals are henceforth referred to as persons "on active duty."
 2. A Disciplinary Offense is a Delict committed by a person on active duty, as defined in this Law.
 
