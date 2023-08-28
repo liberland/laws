@@ -1,5 +1,7 @@
 # Misdemeanor Law
 
+## Chapter 1: Misdemeanors
+
 ### Title 1: Misdemeanors against the Settlement Effort
 
 #### Article 1: Acting in Detriment of the Settlement Effort
@@ -55,13 +57,13 @@ The penalty shall range from 50 to  50 000 LLM, depending on the impact the act 
 1. Individuals who engage in rowdy, immoral, or disruptive behavior that severely disrupts public order in Liberland or tarnishes Liberland's reputation in public shall be subject to a penalty.
 2. The penalty shall range from 50 to 1,000 LLM per individual, depending on the severity of the disruption and the nature and impact of the damage caused.
 
-### Article 8: Public Immorality
+#### Article 8: Public Immorality
 
 1. Any individual who appears naked in public, except in contexts where nudity is expected, or publicly engages in behavior that reasonable people would generally consider immoral or grossly improper, shall be subject to a penalty ranging from 10 LLM to 100 LLM.
 2. If such behavior directly and likely leads to an international incident, the penalty shall range from 50 LLM to 1000 LLM, depending on the severity of the incident and its consequences.
 
 ### Title 3: Misdemeanors in construction and maintenance of objects
-#### Article 8: Non-Compliance with Croatian Legal Standards in Construction
+#### Article 10: Non-Compliance with Croatian Legal Standards in Construction
 1. An individual involved in construction activities, hereafter referred to as the "Builder," who fails to adhere to Croatian legal standards in any of the following aspects:
 
 a) Overall building plans and conception,
@@ -78,15 +80,15 @@ shall be subject to a penalty. The penalty shall range from 500 to 5,000 LLM, de
 
 ### Title 4: Disciplinary Offenses
 
-#### Article 5: Disciplinary Jurisdiction
+#### Article 11: Disciplinary Jurisdiction
 
 Liberland shall exercise disciplinary jurisdiction over all government agents or settlers volunteering for a public project who are physically present on the land or are performing tasks critical for the settlement and directly connected to it. These individuals are henceforth referred to as persons "on active settlement duty."
 
-#### Article 6: Failure to Report on Duty
+#### Article 12: Failure to Report on Duty
 
 Any individual who is on active settlement duty and fails to report for duty before the morning muster deadline shall be subject to a penalty of 100 LLM.
 
-#### Article 7: Demeritorious Conduct
+#### Article 13: Demeritorious Conduct
 
 Any individual who is on active settlement duty and publicly shames the settlement of Liberland through their:
 
@@ -102,13 +104,13 @@ Any individual who is on active settlement duty and publicly shames the settleme
 
 shall be subject to a penalty ranging from 100 to 1,000 LLM, depending on the severity of their misconduct and the resulting consequences.
 
-#### Article 8: Willful Disobedience
+#### Article 14: Willful Disobedience
 
 1. Any individual who is on active settlement duty and willfully disobeys a moral, reasonably safe, and reasonable instruction shall be subject to a penalty ranging from 500 to 5,000 LLM, depending on the severity of their misconduct and the resulting consequences.
 
 2. If the disobedience undermines the core objective of the settlement, the penalty shall range from 1,000 to 10,000 LLM and may include dismissal from duty or termination of their settlement tour. Such individuals may resume their settlement activities once their LLM balance is at least zero.
 
-#### Article 9: Fumbling
+#### Article 15: Fumbling
 
 Any individual who is on active settlement duty and either:
 
@@ -118,24 +120,26 @@ Any individual who is on active settlement duty and either:
 
 shall be subject to a penalty ranging from 50 to 250 LLM, depending on the severity of the lack of good judgment and the resulting consequences.
 
+## Chapter 2: Processing Misdemeanors
+
 ### Title 3: Administrative Organ and Procedure
 
-#### Article 10: Administrative Organ for Misdemeanors and Disciplinary Delicts
+#### Article 16: Administrative Organ for Misdemeanors and Disciplinary Delicts
 1. The administrative organ responsible for investigating misdemeanors on the ground shall generally be the Watch.
 2. The administrative organ responsible shall be IBIS in areas near a Border Crossing Point.
 
-#### Article 11: Standards of Decision-Making
+#### Article 17: Standards of Decision-Making
 1. The decision on a misdemeanor shall be made upon fact-finding and based on evidence. Where possible, the evidence should be documented by photography, objects, written statements, or official documents.
 2. Direct observation of facts by the Administrative Organs or by witnesses shall count as evidence, as will the confession of a suspect.
 3. The decision shall be reasoned out and shall include the facts of the case and the reference to the evidence.
 4. All evidence shall be documented, and the documentation sent to the Ministry of Justice for archivation.
 
-#### Article 12: Preferred Procedure for Misdemeanors
+#### Article 18: Preferred Procedure for Misdemeanors
 1. For suspects found committing a misdemeanor on the ground, an on-site Payment Order shall be the preferred method of decision making.
 2. For misdemeanours occurring elsewhere than in Liberland, Payment Orders shall be issued as the preferred method of decision making.
 3. The suspect shall be allowed to pay in money other than LLM accepted by the Government for payments if they wish to prevent the loss of their LLM.
 
-#### Article 13: Objections and Subsequent Procedures
+#### Article 19: Objections and Subsequent Procedures
 1. In cases where an objection to a Payment Order is filed, the Ministry of Justice shall initiate a regular Misdemeanor Process.
 2. The Misdemeanor Process shall be conducted in accordance with the Administrative Process Law.
 
