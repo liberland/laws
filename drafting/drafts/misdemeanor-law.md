@@ -24,11 +24,11 @@ b) An action that significantly violates established laws, irrespective of wheth
 
 4. Where the law so stipulates, a perpetrator also includes an individual who intentionally:
 
-  a) Planned or directed the commission of the Delict (organizer),
+   a) Planned or directed the commission of the Delict (organizer),
 
-  b) Instigated another to decide to commit the Delict (inciter), or
+   b) Instigated another to decide to commit the Delict (inciter), or
 
-  c) Enabled or facilitated another in committing the Delict (accomplice),
+   c) Enabled or facilitated another in committing the Delict (accomplice),
 
 provided that the Delict is completed or its attempt is punishable.
 
