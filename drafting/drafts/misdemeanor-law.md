@@ -5,7 +5,8 @@
 ### Title 1: Classification of Offenses
 
 #### Article 1: Definition of Delict
-1. A delict is defined as either:
+
+A delict is defined as either:
 
 a) An action that breaches the Non-Aggression Principle, leading to identifiable harm to another person, or, in exceptional cases,
 
@@ -14,7 +15,7 @@ b) An action that significantly violates established laws, irrespective of wheth
 2. Any individual, whether they are permanently or temporarily under the jurisdiction of Liberland, is responsible for the delicts they commit. If found guilty, they are obligated to make restitution to the victims and will be subject to penalties as outlined in this law to deter future delictual behavior.
 
 #### Article 2: Definition and Scope of Misdemeanor
-A Misdemeanor is any Delict as defined in this Law.
+A Misdemeanor is any Delict defined as such in this Law.
 
 #### Article 3: Definition and Scope of Disciplinary Offense
 1. Liberland shall exercise disciplinary jurisdiction over all government agents or volunteers participating in public projects who are physically present within its territory or are engaged in tasks that are vital to the settlement and directly related to it. Such individuals are henceforth referred to as persons "on active duty."
@@ -44,6 +45,14 @@ For the purposes of this law, "conduct" also includes the omission of such actio
 1. If a Delict or its attempt was committed by the intentional joint conduct of two or more individuals, each is liable as if they had committed the Delict alone.
 
 2. If the Delict was committed by joint conduct of two or more entities, of which at least one is a legal person or a self-employed individual, each is liable as if they had committed the Delict alone.
+
+#### Article 10: Special subject of a Delict
+If the law requires a special characteristic, qualification, or status of the perpetrator for the commission of a Delict, the following may apply:
+
+  a) The perpetrator can only be one who possesses the required characteristic, qualification, or status.
+
+  b) A co-perpetrator can be one who possesses the required characteristic, qualification, or status, and also one who does not possess the required characteristic, qualification, or status, provided that at least one of the co-perpetrators possesses the required characteristic, qualification, or status.
+
 
 ## Chapter 2: List of Misdemeanors
 
