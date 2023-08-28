@@ -12,7 +12,7 @@
 
 #### Article 2: Drug Use or Possession
 
-Any individual who uses or possesses drugs that are restricted or illegal in Croatia, beyond what is permitted in Croatia, shall be subject to a penalty of 500 LLM from their account. An additional 500 to 10,000 LLM may be deducted if the drug possession leads to an international incident.
+Any individual who uses or possesses drugs that are restricted or illegal in Croatia, beyond what is permitted in Croatia, shall be subject to a penalty of 500 LLM from their account. An additional 500 to 100,000 LLM may be deducted if the drug possession leads to an international incident.
 
 #### Article 3: Insulting a Law Enforcement Officer
 
@@ -27,7 +27,7 @@ Any individual who uses or possesses drugs that are restricted or illegal in Cro
 #### Article 5: Insulting or harming a fellow settler
 
 1. Any individual who commits an act that another might reasonably consider severely insulting or harmful, thereby impeding or hampering the settlement effort or causing an international incident, shall be subject to a penalty. 
-The penalty shall range from 50 to 500 LLM, depending on the impact the act has on the settlement effort and, most notably, on group cohesion.
+The penalty shall range from 50 to  50 000 LLM, depending on the impact the act has on the settlement effort and, most notably, on group cohesion.
 
 2. Such acts include, but are not limited to:
 
@@ -38,6 +38,18 @@ The penalty shall range from 50 to 500 LLM, depending on the impact the act has 
   c) Causing needless conflicts by spreading rumours, behaving rudely, or failing to cooperate where a reasonable person would cooperate,
   
   d) Failing to be courteous and helpful when there is no apparent reason not to be.
+
+### Title 2: Misdemeanors Against Public Order
+
+#### Article 6: Dangerous Driving or Machine Use
+
+1. Any individual who operates a vehicle, machine, or rides an animal in a manner that poses a risk or actually endangers others shall be subject to a penalty. 
+2. The penalty shall range from 50 to 50,000 LLM, depending on the level of danger posed by their actions and the actual consequences that ensue.
+
+#### Article 7: Rowdy Behavior
+
+1. Individuals who engage in rowdy, immoral, or disruptive behavior that severely disrupts public order in Liberland or tarnishes Liberland's reputation in public shall be subject to a penalty.
+2. The penalty shall range from 50 to 1,000 LLM per individual, depending on the severity of the disruption and the nature and impact of the damage caused.
 
 
 ### Title 2: Disciplinary Offenses
