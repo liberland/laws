@@ -16,7 +16,7 @@
 
 #### Article 2: Perpetration of a Delict
 
-1. An individual is considered a Perpetrator if, through their culpable conduct, they fulfill the elements of an Delict or its attempt.
+1. An individual is considered a Perpetrator if, through their culpable conduct, they fulfill the elements of a Delict or its attempt.
 
 2. A perpetrator also includes an individual who utilizes another individual, who is not liable for the Delict due to lack of age or incapacity, or because their conduct satisfies the conditions of self-defense, extreme necessity, or other circumstances negating unlawfulness.
 
@@ -135,7 +135,7 @@ Liability of the Legal Entity remains intact even if:
    
    c) The legal action intended to establish authority is invalid or ineffective,
    
-   d) The Legal Entity utilized another entity or individual to commit an offense, provided these entities are not liable for the offense.
+   d) The Legal Entity utilized another entity or individual to commit a Delict, provided these entities are not liable for the Delict.
 
 #### Article 17: Conditions for Legal Entity Exemption
 
@@ -143,12 +143,48 @@ Liability of the Legal Entity remains intact even if:
 
 2. Exemption is not applicable if the Legal Entity failed to exercise obligatory or necessary oversight over the individual responsible, or if it failed to implement necessary preventive measures.
 
+### Title 4: Exemptions from Delict Liability
+
+#### Article 18: Justifiable Emergency
+
+1. An act that would otherwise be punishable as a Delict is exempt if committed to prevent an immediate and direct threat to a legally protected interest.
+
+2. The exemption does not apply if the threat could have been mitigated by other means, if the harm caused by the act is equal to or greater than the impending danger, or if the person facing the danger was obligated to endure it.
+
+#### Article 19: Legitimate Self-Defense
+
+1. An act that would otherwise be punishable as a Delict is exempt if committed to ward off an immediate or ongoing attack on a legally protected interest.
+
+2. The exemption does not apply if the defensive action is clearly disproportionate to the nature of the attack.
+
+#### Article 20: Informed Consent
+
+1. An act that would otherwise be punishable as a Delict is exempt if committed with the informed consent of the individual whose legally protected interests are affected.
+
+2. Consent must be given voluntarily, explicitly, and clearly, either prior to or during the act. Post-act consent is valid only if the actor could reasonably assume that consent would have been granted under the circumstances.
+
+#### Article 21: Acceptable Risk
+
+1. An act that would otherwise be punishable as a Delict is exempt if it is conducted as part of a socially beneficial activity within the scope of one's employment, profession, or role, based on the information available at the time, even if it endangers or violates a legally protected interest, provided no alternative means to achieve the beneficial outcome are available.
+
+2. The exemption does not apply if:
+
+   a) The activity endangers human life or health without legal consent,
+   
+   b) The intended outcome clearly does not justify the level of risk involved, or
+   
+   c) The conduct clearly contradicts other legal regulations, public interest, ethical principles, or moral standards.
+
+#### Article 22: Lawful Use of Weapons
+
+An act is not considered a Delict if weapons are used within the boundaries established by Police Law.
+
 ### Title 4: Types of Delict specifically prosecuted according to this law
 
-#### Article 18: Misdemeanors
+#### Article 23: Misdemeanors
 A Misdemeanor is any Delict defined as such in this Law.
 
-#### Article 19: Disciplinary Offenses
+#### Article 24: Disciplinary Offenses
 1. Liberland shall exercise disciplinary jurisdiction over all government agents or volunteers participating in public projects who are physically present within its territory or are engaged in tasks that are vital to the settlement and directly related to it. Such individuals are henceforth referred to as persons "on active duty."
 2. A Disciplinary Offense is a Delict committed by a person on active duty, as defined in this Law.
 
