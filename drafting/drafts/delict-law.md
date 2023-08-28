@@ -2,7 +2,7 @@
 
 ## Chapter 1: General provisions
 
-### Title 1: Delicts
+### Title 1: Committing Delicts
 
 #### Article 1: Definition of Delict
 
@@ -85,7 +85,7 @@ If the law requires a special characteristic, qualification, or status of the pe
 
   b) A co-perpetrator can be one who possesses the required characteristic, qualification, or status, and also one who does not possess the required characteristic, qualification, or status, provided that at least one of the co-perpetrators possesses the required characteristic, qualification, or status.
 
-### Title 3: Legal Entity Accountability for Delicts
+### Title 3: Legal Entity accountability for Delicts
 
 #### Article 13: Criteria for Legal Entity as Perpetrator
 
@@ -105,7 +105,7 @@ If the law requires a special characteristic, qualification, or status of the pe
 
 5. The Legal Entity's liability is not contingent upon identifying the specific individual responsible. The investigative body or court is also not obligated to identify this individual, particularly when it is evident that the actions were part of the Legal Entity's operations.
 
-#### Article 14: Typical Agents for Legal Entity Liability
+#### Article 14: Typical Agents for Legal Entity liability
 
 For assessing a Legal Entity's liability, actions from the following individuals are considered attributable to the Legal Entity:
 
@@ -125,7 +125,7 @@ For assessing a Legal Entity's liability, actions from the following individuals
 
 If the law stipulates special traits, capabilities, or statuses for a perpetrator who is a Legal Entity, such attributes need not be present in the individual whose actions are attributable to the Legal Entity.
 
-#### Article 16: Special Conditions for Legal Entity Liability
+#### Article 16: Special Conditions for Legal Entity liability
 
 Liability of the Legal Entity remains intact even if:
 
@@ -137,33 +137,33 @@ Liability of the Legal Entity remains intact even if:
    
    d) The Legal Entity utilized another entity or individual to commit a Delict, provided these entities are not liable for the Delict.
 
-#### Article 17: Conditions for Legal Entity Exemption
+#### Article 17: Conditions for Legal Entity exemption
 
 1. A Legal Entity is exempt from liability if it demonstrates that all reasonable preventive measures were taken.
 
 2. Exemption is not applicable if the Legal Entity failed to exercise obligatory or necessary oversight over the individual responsible, or if it failed to implement necessary preventive measures.
 
-### Title 4: Exemptions from Delict Liability
+### Title 4: Exemptions from Delict liability
 
-#### Article 18: Justifiable Emergency
+#### Article 18: Justifiable emergency
 
 1. An act that would otherwise be punishable as a Delict is exempt if committed to prevent an immediate and direct threat to a legally protected interest.
 
 2. The exemption does not apply if the threat could have been mitigated by other means, if the harm caused by the act is equal to or greater than the impending danger, or if the person facing the danger was obligated to endure it.
 
-#### Article 19: Legitimate Self-Defense
+#### Article 19: Legitimate self-defense
 
 1. An act that would otherwise be punishable as a Delict is exempt if committed to ward off an immediate or ongoing attack on a legally protected interest.
 
 2. The exemption does not apply if the defensive action is clearly disproportionate to the nature of the attack.
 
-#### Article 20: Informed Consent
+#### Article 20: Informed consent
 
 1. An act that would otherwise be punishable as a Delict is exempt if committed with the informed consent of the individual whose legally protected interests are affected.
 
 2. Consent must be given voluntarily, explicitly, and clearly, either prior to or during the act. Post-act consent is valid only if the actor could reasonably assume that consent would have been granted under the circumstances.
 
-#### Article 21: Acceptable Risk
+#### Article 21: Acceptable risk
 
 1. An act that would otherwise be punishable as a Delict is exempt if it is conducted as part of a socially beneficial activity within the scope of one's employment, profession, or role, based on the information available at the time, even if it endangers or violates a legally protected interest, provided no alternative means to achieve the beneficial outcome are available.
 
@@ -175,11 +175,11 @@ Liability of the Legal Entity remains intact even if:
    
    c) The conduct clearly contradicts other legal regulations, public interest, ethical principles, or moral standards.
 
-#### Article 22: Lawful Use of Weapons
+#### Article 22: Lawful use of weapons
 
 An act is not considered a Delict if weapons are used within the boundaries established by Police Law.
 
-### Title 4: Types of Delict specifically prosecuted according to this law
+### Title 5: Types of Delict specifically prosecuted according to this law
 
 #### Article 23: Misdemeanors
 A Misdemeanor is any Delict defined as such in this Law.
