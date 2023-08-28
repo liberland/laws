@@ -179,14 +179,37 @@ Liability of the Legal Entity remains intact even if:
 
 An act is not considered a Delict if weapons are used within the boundaries established by Police Law.
 
-### Title 5: Types of Delict specifically prosecuted according to this law
+### Chapter 2: Delicts punishable under this law
 
-#### Article 23: Misdemeanors
-A Misdemeanor is any Delict defined as such in this Law.
+### Title I: Classification and Jurisdiction of Delicts
 
-#### Article 24: Disciplinary Offenses
-1. Liberland shall exercise disciplinary jurisdiction over all government agents or volunteers participating in public projects who are physically present within its territory or are engaged in tasks that are vital to the settlement and directly related to it. Such individuals are henceforth referred to as persons "on active duty."
-2. A Disciplinary Offense is a Delict committed by a person on active duty, as defined in this Law.
+#### Article 24: Categorization of Delicts
+
+##### Section 1: Crimes
+1. Crimes represent the most severe category of delicts and shall be governed, prosecuted, and penalized in accordance with the Criminal Law.
+2. The judicial body responsible for the investigation and adjudication of crimes shall be the Court, assisted by Law Enforcement agencies, and shall operate in accordance with the Criminal Process set of judicial process rules.
+
+##### Section 2: Administrative Delicts
+1. All other delicts, not classified as crimes, shall be enumerated, prosecuted, and penalized under the provisions of this Law. The types of delicts other than Crimes shall be
+
+   a) Misdemeanors, and
+
+   b) Disciplinary Delicts,
+
+   which shall together be known as Administrative Delicts.
+
+2. The primary investigative authority for Administrative Delicts shall be Law Enforcement, with the Court serving as an appellate body for reviewing Law Enforcement decisions.
+
+3. Delicts falling under the jurisdiction of Law Enforcement shall be processed in accordance with the Administrative Process Law as further specified in this Law. In instances where such delicts are subject to Court review, the Court shall follow the rules for the Disciplinary Process.
+
+#### Article 25: Definition and Scope of Misdemeanors
+1. A Misdemeanor is defined as any delict specifically categorized as such under the provisions of this Law.
+2. In cases where it is unequivocally established that an act constitutes a delict, but there is ambiguity regarding its specific classification, the act shall default to being treated as a Misdemeanor.
+
+#### Article 26: Definition and Scope of Disciplinary Offenses
+1. The State shall exercise disciplinary jurisdiction over all government agents or volunteers engaged in public projects who are either physically present within its territorial boundaries or are involved in tasks that are integral to and directly associated with the settlement.
+Such individuals shall be referred to as persons "on active duty" for the purposes of this Law.
+2. A Disciplinary Offense is defined as a delict committed by a person "on active duty," as outlined in this Law.
 
 ## Chapter 2: List of Misdemeanors
 
