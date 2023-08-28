@@ -2,7 +2,7 @@
 
 ## Chapter 1: General provisions
 
-### Title 1: Classification of Offenses
+### Title 1: Delicts
 
 #### Article 1: Definition of Delict
 
@@ -21,7 +21,10 @@ A Misdemeanor is any Delict defined as such in this Law.
 1. Liberland shall exercise disciplinary jurisdiction over all government agents or volunteers participating in public projects who are physically present within its territory or are engaged in tasks that are vital to the settlement and directly related to it. Such individuals are henceforth referred to as persons "on active duty."
 2. A Disciplinary Offense is a Delict committed by a person on active duty, as defined in this Law.
 
+### Title 2: Principles of Liability for Delicts
+
 #### Article 4: Concurrent commission of multiple Delicts
+
 ##### Section 1: General Principle
 Where multiple delicts are committed by a single action, only the Delict punishable by the most severe penalty shall be committed.
 
