@@ -211,63 +211,69 @@ An act is not considered a Delict if weapons are used within the boundaries esta
 Such individuals shall be referred to as persons "on active duty" for the purposes of this Law.
 2. A Disciplinary Offense is defined as a delict committed by a person "on active duty," as outlined in this Law.
 
-/*
 ### Title 2: Sanctions for Administrative Offenses
 
-#### Article 26: Administrative Sanctions
+#### Article 26: Types of Administrative Sanctions
 
-##### Section 1: General penalties
-1. The Administrative Organ can sanction the perpetrator of an Administrative Offense with one of the following penalties:
+##### Section 1: Primary Sanctions
+1. The Administrative Authority may impose one of the following primary sanctions on an individual found guilty of an Administrative Offense:
 
    a) Admonition, or
+   
+   b) Loss of Merit.
 
-   b) Loss of Merit,
+2. Alongside the primary sanctions, the following supplementary sanctions may be imposed where legally justified:
 
-2. An Admonition or a Loss of Merit can be accompanied with the following additional penalties where the legal conditions for these are fulfilled:
+   a) Activity Prohibition,
+   
+   b) Asset Forfeiture, or
+   
+   c) Inclusion in a Public Blacklist.
 
-   a) Prohibition,
+##### Section 2: Disciplinary-Specific Sanctions
+3. In lieu of the general supplementary sanctions, for Disciplinary Offenses, the Administrative Authority may impose:
 
-   d) Expropriation, or
-
-   c) Publication on the blacklist.
-
-##### Section 2: Additional disciplinary penalties
-3. In addition to the Admonition or the Loss of Merit and instead of the generally applicable additional sanctions, the Administrative Organ can issue the following additional penalties to the perpetrator of a Disciplinary Offense:
-
-   a) Ammends,
-
-   b) Temporary or permanent placement, or in the most severe cases
-
-   c) Dismissal.
+   a) Restitution,
+   
+   b) Temporary or Permanent Reassignment, or
+   
+   c) Termination of Employment.
 
 #### Article 27: Admonition
-1. Where the misdemeanour's damage is clearly negligible, and the perpetrator has either not committed a misdemeanour for a long time or ever or is, given the circumstances, aware of the wrongness of their behaviour and therefore is very unlikely to commit further offences, the Administrative Organ may, instead of invoking Loss of Merit, resolve the situation with an oral or written Admonition.
-2. The Administrative Organ shall explain what they did wrong and the possible consequences to the perpetrator. The perpetrator shall confirm that they are aware of their guilt and shall not repeat their behaviour.
+
+1. In cases where the offense is minor and the offender shows remorse or is unlikely to reoffend, the Administrative Authority may issue an oral or written Admonition.
+   
+2. The Administrative Authority must inform the offender of the nature of the offense and its potential consequences. The offender must acknowledge their wrongdoing and commit to not repeating the offense.
 
 #### Article 28: Loss of Merit
 
-##### Section 1: General penalty
-1. The general penalty for a Delict shall be the Loss of Merit, whereby the Administrative Organs lowers the LLM balance on the account of the perpetrator.
-2. The value range potentially deduced from the Perpetrator's balance shall signify the seriousness of the delict, where the law considers delicts with maximal deductions of 50,000 LLM and above to be very serious.
+##### Section 1: General Provisions
+1. The standard penalty for an Administrative Offense shall be Loss of Merit, resulting in a reduction of the offender's LLM account balance.
+   
+2. The range of the LLM deduction shall reflect the severity of the offense, with offenses warranting a maximum deduction of 50,000 LLM or more considered highly severe.
 
-##### Section 2: Paying a Fine
-2. Where the perpetrator wishes for it, they may, instead of having their LLM balance lowered, pay up the difference in balance as a Fine, which shall be a payment due to the Government via the Administrative Organ. This is called a Fine.
-3. The Fine is payable within 5 work days in a currency that the Government accepts for the fulfilment of obligations. Where the fine is paid in full, it shall replace the Loss of Merit.
+##### Section 2: Option for Fine Payment
+3. At the offender's request, a monetary fine may be paid to the Government through the Administrative Authority in lieu of Loss of Merit.
+   
+4. The fine must be paid within five working days in an accepted currency. Full payment of the fine will negate the Loss of Merit.
 
-#### Article 29: Prohibition
-1. In addition to the Admonition or the Loss of Merit, the Administrative Organ may prohibit certain activities to the perpetrator where the misdemeanour's conduct was directly connected to this activity and it is clear from the overall facts of the case that the perpetrator is currently either not skilled enough not to present further danger, or behaves too recklessly while performing this activity.
-2. For an Administrative Offense that is not a Crime, the prohibition shall be issued for no more than six months for first-time perpetrators and up to 12 months for serious repeat offences.
-3. The Administrative Organ shall send realistic and reasonably attainable conditions for the perpetrator to thereby demonstrate their new competence or their change of attitude from recklessness to responsibility.
+#### Article 29: Activity Prohibition
 
-#### Article 30: Expropriation
-1. Where an Administrative Offense is committed using a thing or an animal and the continued posession of this thing or an animal by the perpetrator is clearly endangering the public, whether by the perpetrator's general lack of sense while operating the thing or keeping the animal or by their obvious tendency to commit furth misdemeanors with it, the Administrative Organ may expropriate the thing or the animal.
-2. This sanction shall only be applicable where the maximal Loss of Merit for the given Delict would be more than 5000 LLM and the actual Loss of Merit of this particular perpetrator was close to this amount or higher and the overal seriousness of the consequences of their action was very high.
-3. The Administrative Organ shall be at liberty to issue a "conditional" expropriation, placing the perpetrator on probation of up to twelve months. Where there are no further complaints, the perpetrator may keep the object or the animal, whereas if they should repeatedly offend using the thing or the animal, the full sanction of Expropriation shall be issued, even for misdemeanours that wouldn't normally be serious enough to warrant this.
-4. This sanction can also be issued for an animal where the misdemeanour committed with it isn't serious and where
+1. The Administrative Authority may prohibit the offender from engaging in specific activities directly related to the offense if it is evident that the offender lacks the skill or exhibits recklessness in said activities.
+   
+2. For first-time offenders of non-criminal Administrative Offenses, the prohibition shall not exceed six months, and for repeat offenders, up to 12 months.
+   
+3. The Administrative Authority shall set achievable conditions for the offender to demonstrate improved competence or responsible behavior.
 
-   a) the offender clearly mistreats their animal, and
+#### Article 30: Asset Forfeiture
 
-   b) it is apparent that the animal will be better cared for following the execution of the Expropriation.
+1. If an Administrative Offense involves the use of an object or animal and continued possession poses a public risk, the Administrative Authority may seize the object or animal.
+   
+2. This sanction is applicable only for offenses with a maximum Loss of Merit exceeding 5,000 LLM, where the actual Loss of Merit is near or above this amount, and the overall impact of the offense is significant.
+   
+3. A "conditional" forfeiture may be issued, placing the offender on a probationary period of up to 12 months. Full forfeiture will be enforced for repeated offenses involving the object or animal, regardless of the offense's severity.
+   
+4. Forfeiture may also apply to animals in cases of evident mistreatment by the owner, provided that the animal's welfare will be better ensured post-forfeiture.
 
 */
 
