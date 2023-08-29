@@ -183,18 +183,18 @@ An act is not considered a Delict if weapons are used within the boundaries esta
 
 ## Chapter 2: Delicts punishable under this law
 
-#### Article 24: Categorization of Delicts
+#### Article 23: Categorization of Delicts
 
 ##### Section 1: Crimes
 1. Crimes represent the most severe category of delicts and shall be governed, prosecuted, and penalized in accordance with the Criminal Law.
 2. The judicial body responsible for the investigation and adjudication of crimes shall be the Court, assisted by Law Enforcement agencies, and shall operate in accordance with the Criminal Process set of judicial process rules.
 
-##### Section 2: Administrative Delicts
+##### Section 2: Administrative Offenses
 1. All other delicts, not classified as crimes, shall be enumerated, prosecuted, and penalized under the provisions of this Law. The types of delicts other than Crimes shall be
 
    a) Misdemeanors, and
 
-   b) Disciplinary Delicts,
+   b) Disciplinary Offenses,
 
    which shall together be known as Administrative Delicts.
 
@@ -202,14 +202,43 @@ An act is not considered a Delict if weapons are used within the boundaries esta
 
 3. Delicts falling under the jurisdiction of Law Enforcement shall be processed in accordance with the Administrative Process Law as further specified in this Law. In instances where such delicts are subject to Court review, the Court shall follow the rules for the Disciplinary Process.
 
-#### Article 25: Definition and Scope of Misdemeanors
+#### Article 24: Definition and Scope of Misdemeanors
 1. A Misdemeanor is defined as any delict specifically categorized as such under the provisions of this Law.
 2. In cases where it is unequivocally established that an act constitutes a delict, but there is ambiguity regarding its specific classification, the act shall default to being treated as a Misdemeanor.
 
-#### Article 26: Definition and Scope of Disciplinary Offenses
+#### Article 25: Definition and Scope of Disciplinary Offenses
 1. The State shall exercise disciplinary jurisdiction over all government agents or volunteers engaged in public projects who are either physically present within its territorial boundaries or are involved in tasks that are integral to and directly associated with the settlement.
 Such individuals shall be referred to as persons "on active duty" for the purposes of this Law.
 2. A Disciplinary Offense is defined as a delict committed by a person "on active duty," as outlined in this Law.
+
+### Title 2: Sanctions for Administrative Offenses
+
+#### Article 26: Administrative Sanctions
+
+##### Section 1: General penalties
+1. The Administrative Organ can sanction the perpetrator of an Administrative Offense with one of the following penalties:
+
+   a) Admonition, or
+
+   b) Loss of Merit,
+
+2. An Admonition or a Loss of Merit can be accompanied with the following additional penalties where the legal conditions for these are fulfilled:
+
+   a) Prohibition, and
+
+   d) Expropriation of a thing or a its monetary worth.
+
+##### Section 2: Additional disciplinary penalties
+3. In addition to the Admonition or the Loss of Merit and instead of the generally applicable additional sanctions, the Administrative Organ can issue the following additional penalties to the perpetrator of a Disciplinary Offense:
+
+   a) Ammends,
+
+   b) Temporary or permanent placement, or in the most severe cases
+
+   c) Dismissal.
+
+#### Article 27: Admonition
+
 
 ## Chapter 3: Misdemeanors
 
@@ -332,13 +361,9 @@ Any individual who is on active duty and either:
 
 shall be subject to a penalty ranging from 50 to 250 LLM, depending on the severity of the lack of good judgment and the resulting consequences.
 
-## Chapter 3: Enforcement and Adjudication of Misdemeanors and Disciplinary Delicts
+## Chapter 3: Enforcement and Adjudication of Administrative Offenses
 
-### Penalties
-
-### Title 1: Sanctions for Misdemeanors
-
-#### Article 16: Loss of Merit
+#### Article 17: Loss of Merit
 1. The Arministrative Organ may, where this allow indicates this possibility, deduce Liberland Merits (LLM) from the balance of an individual found guilty of a Misdemeanor. 
 2. The balance deduction shall take place no earlier than on the date the Decision about the Misdemeanor gains legal force, and no later than 3 days thereafter.
 
