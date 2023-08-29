@@ -1,6 +1,6 @@
 # 👨‍⚖️ Introduction - Laws
 
-Welcome to the Liberland Laws repository! Here, we store drafted (interim) laws and draft new laws. Note: Interim laws refer to laws which are adopted by the Cabinet rather than the (as of yet non-existent) referendum process.
+Welcome to the online source of the consolidated Laws of Liberland! Here we store drafted (interim) laws and draft new laws. **Note:** Interim laws refer to laws which are adopted by the _Cabinet_ rather than the (as of yet non-existent) referendum process.
 
 We draft in Google Docs and, when a milestone is reached, a folder is made in this repository along with a Markdown version of the draft placed there. Adopting as an interim law is the last milestone for the time being, until a revision or final adoption by referendum.
 
@@ -22,7 +22,7 @@ Amendments of existing laws, ready for recommendations from the public.
 
 ## Consolidated (waiting for Cabinet Review)
 
-Ready for your recommendations with technical and issues regarding single sections or paragraphs preferable.
+Ready for recommendations on technicalities, and issues regarding single sections or paragraphs preferable.
 
 * [Citizenship Law](drafting/consolidated/citizenship-law.md)
 * [Criminal Law](https://github.com/liberland/laws/blob/Laws-Current/drafting/consolidated/criminal-law.md)
@@ -33,7 +33,7 @@ Ready for your recommendations with technical and issues regarding single sectio
 
 ## Drafting
 
-Ready for your recommendations, including thorought ones and requests to not draft/draft something else.
+Ready for recommendations, including thorough ones and requests to not draft/draft something else.
 
 * [Administrative Process Law](https://github.com/liberland/laws/blob/Laws-Current/drafting/drafts/administrative_process.md)
 * [Contract Law](drafting/drafts/contracts-law.md)
@@ -45,7 +45,7 @@ Ready for your recommendations, including thorought ones and requests to not dra
 
 ## Preliminary
 
-Unfinished and to be advanced, all kinds of fundamental ideas are very welcome!
+Unfinished and to be advanced. Feedback and ideas are most welcome at this stage.
 
 * [Business Development Law](https://docs.google.com/document/d/1F-HBduCHEahdMn6a2XZAwjtSog4axq1B8FRg4k9G2OA/edit)
 * [Criminal Law](drafting/preliminary/criminal-law.md)
@@ -54,7 +54,7 @@ Unfinished and to be advanced, all kinds of fundamental ideas are very welcome!
 
 ## Related documents
 
-* [Constitution](https://github.com/liberland/constitution/blob/master/Constitution.md)
+* [Liberland Constitution](https://github.com/liberland/constitution/blob/master/Constitution.md)
 
 ## License
 
