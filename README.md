@@ -10,10 +10,15 @@ Please go to [Discussions](https://github.com/liberland/laws/discussions) and st
 
 If you want to contribute, please [email us](justice@liberland.org) your GitHub handle to be added to this repo!
 
-| Interim Laws (in force) | Revisions |
-| ----------- | ----------- |
-| [Company Law](in-force/in-force-interim/company-law.md) | [Company Law Revision](drafting/revisions/company-law-revision.md) |
-| Paragraph   | Text        |
+## Interim Laws (in force)
+
+* [Company Law](in-force/in-force-interim/company-law.md)
+
+## Revisions
+
+Amendments of existing laws, ready for recommendations from the public.
+
+* [Company Law Revision](drafting/revisions/company-law-revision.md)
 
 ## Consolidated (waiting for Cabinet Review)
 
