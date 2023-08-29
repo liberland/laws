@@ -262,12 +262,14 @@ Such individuals shall be referred to as persons "on active duty" for the purpos
 #### Article 30: Expropriation
 1. Where an Administrative Offense is committed using a thing or an animal and the continued posession of this thing or an animal by the perpetrator is clearly endangering the public, whether by the perpetrator's general lack of sense while operating the thing or keeping the animal or by their obvious tendency to commit furth misdemeanors with it, the Administrative Organ may expropriate the thing or the animal.
 2. This sanction shall only be applicable where the maximal Loss of Merit for the given Delict would be more than 5000 LLM and the actual Loss of Merit of this particular perpetrator was close to this amount or higher and the overal seriousness of the consequences of their action was very high.
-3. The Administrative Organ shall be at the liberty to issue a "conditional" expropriation, placing the perpetrator on probation of up to twelve months. Where there are no further complaints, the perpetrator may keep the object or the animal, whereas if they should repeatedly offend using the thing or the animal, the full sanction of Expropriation shall be issued, even for misdemeanors that wouldn't normally be serious enough to warrant this.
-4. This sanction can also be issued in case of an animal where
+3. The Administrative Organ shall be at liberty to issue a "conditional" expropriation, placing the perpetrator on probation of up to twelve months. Where there are no further complaints, the perpetrator may keep the object or the animal, whereas if they should repeatedly offend using the thing or the animal, the full sanction of Expropriation shall be issued, even for misdemeanours that wouldn't normally be serious enough to warrant this.
+4. This sanction can also be issued for an animal where the misdemeanour committed with it isn't serious and where
 
    a) the offender clearly mistreats their animal, and
 
    b) it is apparent that the animal will be better cared for following the execution of the Expropriation.
+
+*/
 
 ## Chapter 3: Misdemeanors
 
