@@ -8,15 +8,17 @@
 
 1. A delict is defined as either:
 
-   a) An action that breaches the Non-Aggression Principle, leading to identifiable harm to another person, or, in exceptional cases,
+   a) An action that breaches the Non-Aggression Principle, leading to identifiable harm to another person or, in exceptional cases,
 
-   b) An action that significantly violates established laws, irrespective of whether the victim is easily identifiable.
+   b) An action that significantly violates established laws, irrespective of whether the victim is easily identifiable,
 
+   provided that either the harm or the predominant aspect of the act occurs within the jurisdiction of Liberland or involves an individual or entity subject to Liberland's jurisdiction.
+   
 2. Any individual, whether they are permanently or temporarily under the jurisdiction of Liberland, is responsible for the delicts they commit. If found guilty, they are obligated to make restitution to the victims and will be subject to penalties as outlined in this law to deter future delictual behavior.
 
 #### Article 2: Perpetration of a Delict
 
-1. An individual is considered a Perpetrator if, through their culpable conduct, they fulfill the elements of a Delict or its attempt.
+1. An individual is considered a Perpetrator if, through their culpable conduct, they fulfil the elements of a Delict or its attempt.
 
 2. A perpetrator also includes an individual who utilizes another individual, who is not liable for the Delict due to lack of age or incapacity, or because their conduct satisfies the conditions of self-defense, extreme necessity, or other circumstances negating unlawfulness.
 
@@ -34,7 +36,7 @@
 
 #### Article 3: Liability of the Perpetrator
 1. Liability for a Delict requires culpability. 
-2. Negligence suffices as culpability, unless the law explicitly states that intentional culpability is required.
+2. Negligence suffices as culpability unless the law explicitly states that intentional culpability is required.
 
 #### Article 4: Intentional culpability
 An offense is committed intentionally if the perpetrator:
@@ -330,9 +332,15 @@ Any individual who is on active duty and either:
 
 shall be subject to a penalty ranging from 50 to 250 LLM, depending on the severity of the lack of good judgment and the resulting consequences.
 
-## Chapter 3: Enforcement and Adjudication of Misdemeanors
+## Chapter 3: Enforcement and Adjudication of Misdemeanors and Disciplinary Delicts
 
 ### Penalties
+
+### Title 1: Sanctions for Misdemeanors
+
+#### Article 16: Loss of Merit
+1. The Arministrative Organ may, where this allow indicates this possibility, deduce Liberland Merits (LLM) from the balance of an individual found guilty of a Misdemeanor. 
+2. The balance deduction shall take place no earlier than on the date the Decision about the Misdemeanor gains legal force, and no later than 3 days thereafter.
 
 ### Title 2: Investigating and processing Misdemeanors
 
