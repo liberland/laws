@@ -211,6 +211,7 @@ An act is not considered a Delict if weapons are used within the boundaries esta
 Such individuals shall be referred to as persons "on active duty" for the purposes of this Law.
 2. A Disciplinary Offense is defined as a delict committed by a person "on active duty," as outlined in this Law.
 
+/*
 ### Title 2: Sanctions for Administrative Offenses
 
 #### Article 26: Administrative Sanctions
@@ -224,9 +225,11 @@ Such individuals shall be referred to as persons "on active duty" for the purpos
 
 2. An Admonition or a Loss of Merit can be accompanied with the following additional penalties where the legal conditions for these are fulfilled:
 
-   a) Prohibition, and
+   a) Prohibition,
 
-   d) Expropriation of a thing or a its monetary worth.
+   d) Expropriation, or
+
+   c) Publication on the blacklist.
 
 ##### Section 2: Additional disciplinary penalties
 3. In addition to the Admonition or the Loss of Merit and instead of the generally applicable additional sanctions, the Administrative Organ can issue the following additional penalties to the perpetrator of a Disciplinary Offense:
@@ -238,7 +241,33 @@ Such individuals shall be referred to as persons "on active duty" for the purpos
    c) Dismissal.
 
 #### Article 27: Admonition
+1. Where the misdemeanour's damage is clearly negligible, and the perpetrator has either not committed a misdemeanour for a long time or ever or is, given the circumstances, aware of the wrongness of their behaviour and therefore is very unlikely to commit further offences, the Administrative Organ may, instead of invoking Loss of Merit, resolve the situation with an oral or written Admonition.
+2. The Administrative Organ shall explain what they did wrong and the possible consequences to the perpetrator. The perpetrator shall confirm that they are aware of their guilt and shall not repeat their behaviour.
 
+#### Article 28: Loss of Merit
+
+##### Section 1: General penalty
+1. The general penalty for a Delict shall be the Loss of Merit, whereby the Administrative Organs lowers the LLM balance on the account of the perpetrator.
+2. The value range potentially deduced from the Perpetrator's balance shall signify the seriousness of the delict, where the law considers delicts with maximal deductions of 50,000 LLM and above to be very serious.
+
+##### Section 2: Paying a Fine
+2. Where the perpetrator wishes for it, they may, instead of having their LLM balance lowered, pay up the difference in balance as a Fine, which shall be a payment due to the Government via the Administrative Organ. This is called a Fine.
+3. The Fine is payable within 5 work days in a currency that the Government accepts for the fulfilment of obligations. Where the fine is paid in full, it shall replace the Loss of Merit.
+
+#### Article 29: Prohibition
+1. In addition to the Admonition or the Loss of Merit, the Administrative Organ may prohibit certain activities to the perpetrator where the misdemeanour's conduct was directly connected to this activity and it is clear from the overall facts of the case that the perpetrator is currently either not skilled enough not to present further danger, or behaves too recklessly while performing this activity.
+2. For an Administrative Offense that is not a Crime, the prohibition shall be issued for no more than six months for first-time perpetrators and up to 12 months for serious repeat offences.
+3. The Administrative Organ shall send realistic and reasonably attainable conditions for the perpetrator to thereby demonstrate their new competence or their change of attitude from recklessness to responsibility.
+
+#### Article 30: Expropriation
+1. Where an Administrative Offense is committed using a thing or an animal and the continued posession of this thing or an animal by the perpetrator is clearly endangering the public, whether by the perpetrator's general lack of sense while operating the thing or keeping the animal or by their obvious tendency to commit furth misdemeanors with it, the Administrative Organ may expropriate the thing or the animal.
+2. This sanction shall only be applicable where the maximal Loss of Merit for the given Delict would be more than 5000 LLM and the actual Loss of Merit of this particular perpetrator was close to this amount or higher and the overal seriousness of the consequences of their action was very high.
+3. The Administrative Organ shall be at the liberty to issue a "conditional" expropriation, placing the perpetrator on probation of up to twelve months. Where there are no further complaints, the perpetrator may keep the object or the animal, whereas if they should repeatedly offend using the thing or the animal, the full sanction of Expropriation shall be issued, even for misdemeanors that wouldn't normally be serious enough to warrant this.
+4. This sanction can also be issued in case of an animal where
+
+   a) the offender clearly mistreats their animal, and
+
+   b) it is apparent that the animal will be better cared for following the execution of the Expropriation.
 
 ## Chapter 3: Misdemeanors
 
