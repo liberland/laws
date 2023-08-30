@@ -300,6 +300,16 @@ c) Termination of Employment.
 
 2. Should the perpetrator voluntarily choose to use their own resources to achieve restitution, such action will be interpreted as a positive sign of their commitment to rectify the infraction. However, the Administrative Organ shall not, under any circumstances, either directly or indirectly, require the use of personal resources for the purpose of a Restitution. Additionally, the absence of a personal contribution shall not be considered as an indication of unwillingness or incapacity to complete the required Restitution.
 
+#### Article 35: Temporary or Permanent Reassignment as a Disciplinary Measure
+
+##### Section 1: Criteria and Duration for Reassignment
+1. If the perpetrator's conduct exhibits a blatant disregard for established protocols or basic prudence, and their ongoing role in their current position presents a likelihood of additional harm, the Administrative Organ is authorized to direct the Agent—subject to its disciplinary jurisdiction—to either a temporary or permanent reassignment within the same Agency or a temporary transfer to another Agency. The Agent may decline the reassignment, but such refusal could serve as a basis for termination.
+2. The maximum duration for a Temporary Reassignment shall not exceed six consecutive months or a cumulative total of twelve months if the perpetrator's service in the new role is not continuous.
+3. Permanent reassignment to a different Agency shall proceed only with the informed consent of the perpetrator. Lack of such consent shall not serve as grounds for termination; however, the reassignment will be temporary and limited to a maximum of six months, whether consecutively or in total.
+
+##### Section 2: Rehabilitation Objectives
+1. Where practicable, the perpetrator will be reassigned to a training role to address the skill deficiencies revealed by their Disciplinary Offense, or they may be subjected to psychological treatment along with lighter duties.
+2. The overarching aim of any Temporary or Permanent Reassignment is the rehabilitation and full functional restoration of the perpetrator, as opposed to punitive measures.
 
 ## Chapter 3: Misdemeanors
 
