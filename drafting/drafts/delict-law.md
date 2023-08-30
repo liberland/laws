@@ -213,16 +213,17 @@ Such individuals shall be referred to as persons "on active duty" for the purpos
 
 ### Title 2: Sanctions for Administrative Offenses
 
-#### Article 26: Types of Administrative Sanctions
+#### Article 26: Primary Administrative Sanctions
 
-##### Section 1: Primary Sanctions
-1. The Administrative Authority may impose one of the following primary sanctions on an individual found guilty of an Administrative Offense:
+The Administrative Organ may impose one of the following primary sanctions on an individual found guilty of an Administrative Offense:
 
    a) Admonition, or
    
    b) Loss of Merit.
+   
+#### Article 27: Supplementary Administrative Sanctions
 
-2. Alongside the primary sanctions, the following supplementary sanctions may be imposed where legally justified:
+Alongside the primary sanctions, the following supplementary sanctions may be imposed where legally justified:
 
    a) Activity Prohibition,
    
@@ -230,22 +231,13 @@ Such individuals shall be referred to as persons "on active duty" for the purpos
    
    c) Inclusion in a Public Blacklist.
 
-##### Section 2: Disciplinary-Specific Sanctions
-3. In lieu of the general supplementary sanctions, for Disciplinary Offenses, the Administrative Authority may impose:
+#### Article 28: Admonition
 
-   a) Restitution,
+1. In cases where the offense is minor and the offender shows remorse or is unlikely to reoffend, the Administrative Organ may issue an oral or written Admonition.
    
-   b) Temporary or Permanent Reassignment, or
-   
-   c) Termination of Employment.
+2. The Administrative Organ must inform the offender of the nature of the offense and its potential consequences. The offender must acknowledge their wrongdoing and commit to not repeating the offense.
 
-#### Article 27: Admonition
-
-1. In cases where the offense is minor and the offender shows remorse or is unlikely to reoffend, the Administrative Authority may issue an oral or written Admonition.
-   
-2. The Administrative Authority must inform the offender of the nature of the offense and its potential consequences. The offender must acknowledge their wrongdoing and commit to not repeating the offense.
-
-#### Article 28: Loss of Merit
+#### Article 29: Loss of Merit
 
 ##### Section 1: General Provisions
 1. The standard penalty for an Administrative Offense shall be Loss of Merit, resulting in a reduction of the offender's LLM account balance.
@@ -253,21 +245,21 @@ Such individuals shall be referred to as persons "on active duty" for the purpos
 2. The range of the LLM deduction shall reflect the severity of the offense, with offenses warranting a maximum deduction of 50,000 LLM or more considered highly severe.
 
 ##### Section 2: Option for Fine Payment
-3. At the offender's request, a monetary fine may be paid to the Government through the Administrative Authority in lieu of Loss of Merit.
+3. At the offender's request, a monetary fine may be paid to the Government through the Administrative Organ in lieu of Loss of Merit.
    
 4. The fine must be paid within five working days in an accepted currency. Full payment of the fine will negate the Loss of Merit.
 
-#### Article 29: Activity Prohibition
+#### Article 30: Activity Prohibition
 
-1. The Administrative Authority may prohibit the offender from engaging in specific activities directly related to the offense if it is evident that the offender lacks the skill or exhibits recklessness in said activities.
+1. The Administrative Organ may prohibit the offender from engaging in specific activities directly related to the offense if it is evident that the offender lacks the skill or exhibits recklessness in said activities.
    
 2. For first-time offenders of non-criminal Administrative Offenses, the prohibition shall not exceed six months, and for repeat offenders, up to 12 months.
    
-3. The Administrative Authority shall set achievable conditions for the offender to demonstrate improved competence or responsible behavior.
+3. The Administrative Organ shall set achievable conditions for the offender to demonstrate improved competence or responsible behavior.
 
-#### Article 30: Asset Forfeiture
+#### Article 31: Asset Forfeiture
 
-1. If an Administrative Offense involves the use of an object or animal and continued possession poses a public risk, the Administrative Authority may seize the object or animal.
+1. If an Administrative Offense involves the use of an object or animal and continued possession poses a public risk, the Administrative Organ may seize the object or animal.
    
 2. This sanction is applicable only for offenses with a maximum Loss of Merit exceeding 5,000 LLM, where the actual Loss of Merit is near or above this amount, and the overall impact of the offense is significant.
    
@@ -275,7 +267,39 @@ Such individuals shall be referred to as persons "on active duty" for the purpos
    
 4. Forfeiture may also apply to animals in cases of evident mistreatment by the owner, provided that the animal's welfare will be better ensured post-forfeiture.
 
-*/
+#### Article 32: Public Blacklist Inclusion
+
+1. An individual or entity shall be included in the Public Blacklist, maintained by the Ministry of Justice, under the following conditions:
+
+a) Conviction of a misdemeanor resulting in a penalty of 5,000 LLM or more, or
+
+b) A negative LLM balance resulting from the accumulation of previous penalties.
+
+2. The inclusion in the Public Blacklist shall remain indefinitely, or until the LLM balance of the listed individual or entity is restored to a minimum of one LLM.
+
+### Title 3: Sanctions for Disciplinary Offenses
+
+#### Article 33: Sanctions Specific to Disciplinary Offenses
+
+##### Section 1: Primary Sanctions
+
+For Disciplinary Offenses, the Administrative Organ is authorized to impose any primary sanctions applicable to Administrative Offenses.
+
+##### Section 2: Supplementary Disciplinary Sanctions
+As an alternative to the standard Supplementary Administrative Sanctions, the Administrative Organ may impose one or more of the following Supplementary Disciplinary Sanctions for Disciplinary Offenses:
+
+a) Restitution,
+
+b) Temporary or Permanent Reassignment, or
+
+c) Termination of Employment.
+
+#### Article 34: Restitution
+
+1. The Administrative Organ is empowered to mandate restitution by the perpetrator of a Disciplinary Offense that results in any form of damage to the Agency by which the perpetrator is employed, or to interests deemed significant by said Agency or by Liberland. The perpetrator may fulfill this obligation either during their regular working hours or by utilizing resources furnished by their employing Agency.
+
+2. Should the perpetrator voluntarily choose to use their own resources to achieve restitution, such action will be interpreted as a positive sign of their commitment to rectify the infraction. However, the Administrative Organ shall not, under any circumstances, either directly or indirectly, require the use of personal resources for the purpose of a Restitution. Additionally, the absence of a personal contribution shall not be considered as an indication of unwillingness or incapacity to complete the required Restitution.
+
 
 ## Chapter 3: Misdemeanors
 
