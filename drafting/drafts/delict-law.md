@@ -172,9 +172,9 @@ Liability of the Legal Entity remains intact even if:
 
 An act is not considered a Delict if weapons are used within the boundaries established by Police Law.
 
-## Chapter 2: Delicts punishable under this law
+## Chapter 2: Delict Typology
 
-#### Article 22: Categorization of Delicts
+#### Article 22: Delict categories
 
 ##### Section 1: Crimes
 1. Crimes represent the most severe category of delicts and shall be governed, prosecuted, and penalized in accordance with the Criminal Law.
