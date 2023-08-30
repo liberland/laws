@@ -39,7 +39,7 @@ Ready for recommendations, including thorough ones and requests to not draft/dra
 * [Contract Law](drafting/drafts/contracts-law.md)
 * [IT Law](https://github.com/liberland/laws/blob/Laws-Current/drafting/drafts/InformationTechnologyLaw.md)
 * [Legislative Rules](https://github.com/liberland/laws/blob/Laws-Current/drafting/drafts/legislative-rules.md)
-* [Misdemeanor Law](https://github.com/liberland/laws/blob/Laws-Current/drafting/drafts/misdemeanor-law.md)
+* [Delict (Misdemeanor) Law](https://github.com/liberland/laws/blob/Laws-Current/drafting/drafts/delict-law.md)
 * [Real Estate Law](drafting/drafts/real-estate-law.md)
 * [Procurement Law](drafting/drafts/procurement-law.md)
 
