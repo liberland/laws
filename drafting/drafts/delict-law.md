@@ -54,33 +54,24 @@ An offense is committed negligently if the perpetrator:
 
 ### Title 2: Principles of Liability for Delicts
 
-#### Article 6: Concurrent commission of multiple Delicts
-
-##### Section 1: General Principle
-In instances where multiple Delicts are committed through a single act, prosecution shall proceed solely for the Delict subject to the most severe penalty.
-
-##### Section 2: Crimes and other Delicts
-1. Where an act constitutes a Crime and also another Delict, in general, only the Crime shall be prosecuted according to the Criminal Law. 
-2. In certain specific cases where this Law stipulates otherwise, committing crimes also results in the responsibility for other types of Delict.
-
-#### Article 7: Attempted Delict
+#### Article 6: Attempted Delict
 An attempted Delict shall be punishable in the same manner as a finished Delict, though the punishment might be less severe based on the circumstance.
 
-#### Article 8: Continued Delict
+#### Article 7: Continued Delict
 A continuing Delict is understood to mean such conduct wherein individual constituent acts, guided by a unified intent, fulfil the elements of the same offence and are connected by the same or similar means of execution, close temporal proximity, and subject matter relatedness.
 
-#### Article 9: Mass Offense
+#### Article 8: Mass Offense
 A mass offence is an offence for which the law requires multiple acts connected by a common intent for liability to arise for the offence.
 
-#### Article 10: Omission
+#### Article 9: Omission
 For the purposes of this law, "conduct" also includes the omission of such action to which the actor was obligated pursuant to another legal regulation or official decision, resulting from a voluntarily assumed duty to law or if his special obligation arose from his previous endangering conduct, or for which he was obligated for another reason based on the circumstances and his conditions.
 
-#### Article 11: Co-offender
+#### Article 10: Co-offender
 1. If a Delict or its attempt was committed by the intentional joint conduct of two or more individuals, each is liable as if they had committed the Delict alone.
 
 2. If the Delict was committed by joint conduct of two or more entities, of which at least one is a legal person or a self-employed individual, each is liable as if they had committed the Delict alone.
 
-#### Article 12: Special subject of a Delict
+#### Article 11: Special subject of a Delict
 If the law requires a special characteristic, qualification, or status of the perpetrator for the commission of a Delict, the following may apply:
 
   a) The perpetrator can only be one who possesses the required characteristic, qualification, or status.
@@ -89,7 +80,7 @@ If the law requires a special characteristic, qualification, or status of the pe
 
 ### Title 3: Legal Entity accountability for Delicts
 
-#### Article 13: Criteria for Legal Entity as Perpetrator
+#### Article 12: Criteria for Legal Entity as Perpetrator
 
 1. A Legal Entity is deemed the perpetrator when a delict is committed through the actions of an individual, whose conduct is attributable to the Legal Entity and who has breached a legal obligation incumbent upon the Legal Entity.
 
@@ -107,7 +98,7 @@ If the law requires a special characteristic, qualification, or status of the pe
 
 5. The Legal Entity's liability is not contingent upon identifying the specific individual responsible. The investigative body or court is also not obligated to identify this individual, particularly when it is evident that the actions were part of the Legal Entity's operations.
 
-#### Article 14: Typical Agents for Legal Entity liability
+#### Article 13: Typical Agents for Legal Entity liability
 
 For assessing a Legal Entity's liability, actions from the following individuals are considered attributable to the Legal Entity:
 
@@ -123,11 +114,11 @@ For assessing a Legal Entity's liability, actions from the following individuals
    
    f) Individuals acting in the Legal Entity's interest, if the entity benefits from the outcome.
 
-#### Article 15: Special Characteristics for Legal Entity Perpetrators
+#### Article 14: Special Characteristics for Legal Entity Perpetrators
 
 If the law stipulates special traits, capabilities, or statuses for a perpetrator who is a Legal Entity, such attributes need not be present in the individual whose actions are attributable to the Legal Entity.
 
-#### Article 16: Special Conditions for Legal Entity liability
+#### Article 15: Special Conditions for Legal Entity liability
 
 Liability of the Legal Entity remains intact even if:
 
@@ -139,7 +130,7 @@ Liability of the Legal Entity remains intact even if:
    
    d) The Legal Entity utilized another entity or individual to commit a Delict, provided these entities are not liable for the Delict.
 
-#### Article 17: Conditions for Legal Entity exemption
+#### Article 16: Conditions for Legal Entity exemption
 
 1. A Legal Entity is exempt from liability if it demonstrates that all reasonable preventive measures were taken.
 
@@ -147,25 +138,25 @@ Liability of the Legal Entity remains intact even if:
 
 ### Title 4: Exemptions from Delict liability
 
-#### Article 18: Justifiable emergency
+#### Article 17: Justifiable emergency
 
 1. An act that would otherwise be punishable as a Delict is exempt if committed to prevent an immediate and direct threat to a legally protected interest.
 
 2. The exemption does not apply if the threat could have been mitigated by other means, if the harm caused by the act is equal to or greater than the impending danger, or if the person facing the danger was obligated to endure it.
 
-#### Article 19: Legitimate self-defense
+#### Article 18: Legitimate self-defense
 
 1. An act that would otherwise be punishable as a Delict is exempt if committed to ward off an immediate or ongoing attack on a legally protected interest.
 
 2. The exemption does not apply if the defensive action is clearly disproportionate to the nature of the attack.
 
-#### Article 20: Informed consent
+#### Article 19: Informed consent
 
 1. An act that would otherwise be punishable as a Delict is exempt if committed with the informed consent of the individual whose legally protected interests are affected.
 
 2. Consent must be given voluntarily, explicitly, and clearly, either prior to or during the act. Post-act consent is valid only if the actor could reasonably assume that consent would have been granted under the circumstances.
 
-#### Article 21: Acceptable risk
+#### Article 20: Acceptable risk
 
 1. An act that would otherwise be punishable as a Delict is exempt if it is conducted as part of a socially beneficial activity within the scope of one's employment, profession, or role, based on the information available at the time, even if it endangers or violates a legally protected interest, provided no alternative means to achieve the beneficial outcome are available.
 
@@ -177,13 +168,13 @@ Liability of the Legal Entity remains intact even if:
    
    c) The conduct clearly contradicts other legal regulations, public interest, ethical principles, or moral standards.
 
-#### Article 22: Lawful use of weapons
+#### Article 21: Lawful use of weapons
 
 An act is not considered a Delict if weapons are used within the boundaries established by Police Law.
 
 ## Chapter 2: Delicts punishable under this law
 
-#### Article 23: Categorization of Delicts
+#### Article 22: Categorization of Delicts
 
 ##### Section 1: Crimes
 1. Crimes represent the most severe category of delicts and shall be governed, prosecuted, and penalized in accordance with the Criminal Law.
@@ -202,14 +193,23 @@ An act is not considered a Delict if weapons are used within the boundaries esta
 
 3. Delicts falling under the jurisdiction of Law Enforcement shall be processed in accordance with the Administrative Process Law as further specified in this Law. In instances where such delicts are subject to Court review, the Court shall follow the rules for the Disciplinary Process.
 
-#### Article 24: Definition and Scope of Misdemeanors
+#### Article 23: Definition and Scope of Misdemeanors
 1. A Misdemeanor is defined as any delict specifically categorized as such under the provisions of this Law.
 2. In cases where it is unequivocally established that an act constitutes a delict, but there is ambiguity regarding its specific classification, the act shall default to being treated as a Misdemeanor.
 
-#### Article 25: Definition and Scope of Disciplinary Offenses
+#### Article 24: Definition and Scope of Disciplinary Offenses
 1. The State shall exercise disciplinary jurisdiction over all government agents or volunteers engaged in public projects who are either physically present within its territorial boundaries or are involved in tasks that are integral to and directly associated with the settlement.
 Such individuals shall be referred to as persons "on active duty" for the purposes of this Law.
 2. A Disciplinary Offense is defined as a delict committed by a person "on active duty," as outlined in this Law.
+
+#### Article 25: Concurrent commission of multiple Delicts
+
+##### Section 1: General Principle
+In instances where multiple Delicts are committed through a single act, prosecution shall proceed solely for the Delict subject to the most severe penalty.
+
+##### Section 2: Crimes and other Delicts
+1. Where an act constitutes a Crime and also another Delict, in general, only the Crime shall be prosecuted according to the Criminal Law. 
+2. In certain specific cases where this Law stipulates otherwise, committing crimes also results in the responsibility for other types of Delict.
 
 ### Title 2: Sanctions for Administrative Offenses
 
