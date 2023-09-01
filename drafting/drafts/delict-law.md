@@ -311,11 +311,53 @@ c) Termination of Employment.
 1. Where practicable, the perpetrator will be reassigned to a training role to address the skill deficiencies revealed by their Disciplinary Offense, or they may be subjected to psychological treatment along with lighter duties.
 2. The overarching aim of any Temporary or Permanent Reassignment is the rehabilitation and full functional restoration of the perpetrator, as opposed to punitive measures.
 
+#### Article 36: Termination of Employment
+1. The Administrative Organ may terminate the employment or other relationship of an Agent with their respective Agency if the Agent's conduct:
+
+   a) Demonstrates repeated, flagrant violations of established protocols or basic prudence or a constant alarming lack of basic skill required for the job;
+
+   b) Poses an immediate and significant risk to the interests of Liberland or their Agency, already having caused significant level of damage to them; and
+
+   c) Indicates a low likelihood of behavioral improvement, demonstrated by a stated or implicit unwillingness to make the required changes.
+
+2. Termination of employment shall only be invoked when it is unequivocally evident that no lesser disciplinary measure will suffice to protect the assets or interests at risk due to the Agent's conduct. The primary objective of this disciplinary measure is to safeguard the interests and assets of Liberland, rather than to serve as a punitive action against the Agent.
+
+### Title 4: Record of Delicts
+
+#### Article 37: Keeping records of Delicts
+
+##### Section 1: Record-Keeping Authority
+
+1. The Ministry of Justice shall maintain a comprehensive record of all Delicts, including details of the perpetrators, sanctions imposed, severity, and other relevant circumstances.
+2. Such records shall contain personal data and shall be governed by the provisions of the Information Law. After the prescribed period, these records shall be not discarded; rather they shall be archived, to be at the disposal of historians in an anonymised form and the Judiciary.
+
+##### Section 2: Retention Period
+1. Records of Delicts, in general, shall be retained for a period of ten years following the complete fulfilment of the imposed sanctions.
+2. Records pertaining to Crimes shall be retained for a period ranging from ten to thirty years following the complete fulfilment of the imposed sanctions.
+3. Records of Crimes against humanity, terrorism and war crimes shall be retained indefinitely.
+
+#### Article 38: Privacy Considerations
+
+##### Section 1: Confidentiality
+1. Information regarding sanctions shall generally be confidential, shared only between the perpetrator and the Administrative Organ, unless the perpetrator provides prior, informed consent for its disclosure.
+2. Information concerning other individuals involved in the record, such as witnesses, shall be subject to the same confidentiality provisions.
+
+##### Section X2.2: Exceptions
+Exceptions to these confidentiality provisions include the general legal authority granted to the Judiciary under the Information Law and specific legal licenses as defined by this Law.
+
+#### Article 39: Legal Licenses for Information Disclosure
+
+##### Section 1: Urgent Need
+1. When approached by an individual or an Agent in situations deemed urgent—where the release of specific information could likely avert significant harm to the life, liberty, or property of identified persons—the Administrative Organ in possession of said information shall assess the validity and urgency of the need.
+2. Should the Administrative Organ determine that the need is both valid and urgent, and that failure to disclose would render them at least partially culpable for ensuing significant danger or harm if they were a private entity, the Administrative Organ shall release the pertinent information to the requesting Agent or individual.
+3. In cases where full disclosure may not be justified, but partial or anonymized information could mitigate some level of risk, the Administrative Organ shall release portions of the relevant information as dictated by the immediate needs of the situation.
+
+
 ## Chapter 3: Misdemeanors
 
 ### Title 1: Misdemeanors against the Settlement Effort
 
-#### Article 1: Acting in Detriment of the Settlement Effort
+#### Article 36: Acting in Detriment of the Settlement Effort
 
 1. Any individual who consciously acts, either directly or indirectly, to obstruct or sabotage the settlement efforts in Liberland shall be subject to a penalty of 500 to 10,000 LLM from their account.
   
