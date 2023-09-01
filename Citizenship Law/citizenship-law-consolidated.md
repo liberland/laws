@@ -147,7 +147,7 @@ A Liberland National who possesses no other citizenship except for their Citizen
 #### Article 16: Withdrawing the Voluntary Tax
 Every Liberland Citizen shall have the right to request the return of their voluntary tax or a portion thereof, thereby participating in Liberland's state social system. One-tenth of the LLM remaining in the Citizen's voluntary tax balance may be withdrawn in a given year in total. The blockchain shall process the withdrawal in proportional instalments.
 
-### Article 17: Suspension of Certain Political Rights
+#### Article 17: Suspension of Certain Political Rights
 1. While participating in the state social system, the Citizen shall not be able to vote in elections or partake in direct democracy.
 2. Participation in the state social system shall not impede candidacy for or holding any political office, including but not limited to the office of a Member of Congress, a Minister or the Prime Minister, a Judge, a Senator, the President or a Vice-President, or an Agent.
 3. If a Citizen participating in the state social system is a member of Congress, they shall not be allowed to use their own political balance of LLM to participate in voting in Congress while partaking in Liberland's Social System, but shall retain the use of LLM delegated to them by their voters. They may also apply for re-election, although they themselves will not be able to vote.
