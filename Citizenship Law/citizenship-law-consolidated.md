@@ -179,9 +179,9 @@ A Citizen may initiate the process for voluntary termination of their Citizenshi
 
    b) Demonstrates through their actions that:
 
-      i. Their values are fundamentally incompatible with the principles of Liberland, or
+       i. Their values are fundamentally incompatible with the principles of Liberland, or
 
-      ii. They are engaged in acts of open betrayal against Liberland.
+       ii. They are engaged in acts of open betrayal against Liberland.
 
 ##### Section 2: Procedural Steps for Irregular Termination
 1. Where a guilty verdict for a Delict that allows for the potential termination of Citizenship gains legal effect, and the Court suspects that one of the grounds for Irregular Termination might be present, the Court shall refer the case to the Citizenship Commission for further review.
