@@ -44,7 +44,7 @@ A Citizen shall have the following rights:
 ##### Section 1: Non-Discrimination in Citizenship Access
 No individual shall be precluded from obtaining Citizenship or availing themselves of associated functions and services based on criteria such as gender, sex, sexual orientation, race, nationality, origin, religion, disability, or socioeconomic background.
 
-#### Section 2: Equal Treatment for Partial Citizenship Rights
+##### Section 2: Equal Treatment for Partial Citizenship Rights
 All individuals within the jurisdiction of Liberland, including Government entities, shall accord equal treatment to persons who possess non-political rights of Citizenship without holding the corresponding political rights as they would to full Citizens —with the sole exception of participation in democratic processes.  All forms of discrimination against such individuals based on the absence of full Citizenship is expressly prohibited.
 
 ### Title 2: Acquiring Citizenship
