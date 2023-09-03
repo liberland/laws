@@ -322,35 +322,70 @@ c) Termination of Employment.
 
 2. Termination of employment shall only be invoked when it is unequivocally evident that no lesser disciplinary measure will suffice to protect the assets or interests at risk due to the Agent's conduct. The primary objective of this disciplinary measure is to safeguard the interests and assets of Liberland, rather than to serve as a punitive action against the Agent.
 
-### Title 4: Record of Delicts
+#### Title 4: Record of Delicts and Information Disclosure
 
-#### Article 37: Keeping records of Delicts
+#### Article 37: Record-Keeping and Data Retention
 
-##### Section 1: Record-Keeping Authority
+##### Section 1: Authority for Record-Keeping
+1. The Ministry of Justice is responsible for maintaining a comprehensive record of all Delicts, including the identification of perpetrators, the sanctions imposed, the severity of the Delicts, and other relevant circumstances.
+2. These records will contain personal data and will therefore be governed by the Information Law. After the prescribed retention period, these records will not be discarded but will be archived in an anonymized form for use by historians and the Judiciary.
 
-1. The Ministry of Justice shall maintain a comprehensive record of all Delicts, including details of the perpetrators, sanctions imposed, severity, and other relevant circumstances.
-2. Such records shall contain personal data and shall be governed by the provisions of the Information Law. After the prescribed period, these records shall be not discarded; rather they shall be archived, to be at the disposal of historians in an anonymised form and the Judiciary.
+##### Section 2: Duration of Record Retention
+1. Records of Delicts will generally be kept for ten years after the fullness of the sanction has been served.
+2. Records of Crimes will be kept for a period ranging from ten to thirty years after the fullness of the sanction has been served.
+3. Records of Crimes against humanity and war crimes will be kept indefinitely, as will records of any Delict that resulted in inclusion in the Public Blacklist for as long as that sanction remains in effect.
 
-##### Section 2: Retention Period
-1. Records of Delicts, in general, shall be retained for a period of ten years following the complete fulfilment of the imposed sanctions.
-2. Records pertaining to Crimes shall be retained for a period ranging from ten to thirty years following the complete fulfilment of the imposed sanctions.
-3. Records of Crimes against humanity, terrorism and war crimes shall be retained indefinitely.
+#### Article 38: Information Contained in Records
 
-#### Article 38: Privacy Considerations
+1. The record of all Delicts will include the following information about the case:
+  
+   a) **Identification of the perpetrator**
+  
+   b) **Legal Classification**: Type of offence and form of culpability, including information of applicable principles of liability for Delicts and, where present, exemptions from liability for Delicts;
+ 
+   c) **Penalty**: Type and extent of the penalty, including the punishment where the offence was a Crime or the primary sanction or protective measure if imposed, or information on conditional suspension of penalty;
+   
+   d) **Enforcement Data**: Details on the execution of any activity ban or secondary sanction, if imposed, and data of any enforcement of the primary or secondary sanction;
+ 
+   e) **Court or Administrative Organ**: Identification and location of the first-level and appellate administrative bodies that processed the offense
+ 
+   f) **Decision Details**: Case number, issue date, and effective date of the decision at both first-level and appellate proceedings
+  
+   g) **Appeal Proceedings**: Identification and location of the authority that made the final decision in review proceedings, if these took place.
 
-##### Section 1: Confidentiality
-1. Information regarding sanctions shall generally be confidential, shared only between the perpetrator and the Administrative Organ, unless the perpetrator provides prior, informed consent for its disclosure.
-2. Information concerning other individuals involved in the record, such as witnesses, shall be subject to the same confidentiality provisions.
+   h) **Supreme Court Case**: Information regarding the proceedings of the case at the Supreme Court, should it have taken place.
 
-##### Section X2.2: Exceptions
-Exceptions to these confidentiality provisions include the general legal authority granted to the Judiciary under the Information Law and specific legal licenses as defined by this Law.
+2. The record of all Delicts will also include copies of all the relevant documents from the case file that had lead to the making of the original decisions.
 
-#### Article 39: Legal Licenses for Information Disclosure
+#### Article 39: Confidentiality and Exceptions
 
-##### Section 1: Urgent Need
-1. When approached by an individual or an Agent in situations deemed urgent—where the release of specific information could likely avert significant harm to the life, liberty, or property of identified persons—the Administrative Organ in possession of said information shall assess the validity and urgency of the need.
-2. Should the Administrative Organ determine that the need is both valid and urgent, and that failure to disclose would render them at least partially culpable for ensuing significant danger or harm if they were a private entity, the Administrative Organ shall release the pertinent information to the requesting Agent or individual.
-3. In cases where full disclosure may not be justified, but partial or anonymized information could mitigate some level of risk, the Administrative Organ shall release portions of the relevant information as dictated by the immediate needs of the situation.
+##### Section 1: General Confidentiality
+1. Information in the record of Delicts will generally be confidential and will only be shared between the perpetrator and the Government, unless the perpetrator provides prior, informed consent for its disclosure.
+2. Information concerning other individuals involved in the record, such as witnesses, will also be subject to the same confidentiality provisions. If consent is not provided, the names and other identifying information will be redacted before the information is released.
+
+##### Section 2: Legal Exceptions for Disclosure
+1. Exceptions to these confidentiality provisions include the general legal authority granted to the Judiciary under the Information Law and specific legal licenses as defined by this Law.
+2. In cases where full disclosure may not be justified, but partial or anonymized information could mitigate some level of risk, the Ministry of Justice will release portions of the relevant information as dictated by the immediate needs of the situation.
+
+#### Article 40: Legal Licenses for Information Disclosure
+
+##### Section 1: Query by the Data Subject
+1. The Data Subject has the right to query the Ministry of Justice to obtain either full or partial information about a case they were involved in, as it is kept in the record of all Delicts.
+2. The Data Subject also has the right to request copies of all or some of the documents that are relevant to their specific case.
+
+##### Section 2: Urgent Need for Disclosure
+1. In situations that are deemed urgent, where the release of specific information could likely prevent significant harm to the life, liberty, or property of identified individuals, the Ministry of Justice is responsible for assessing the validity and urgency of the need for disclosure.
+2. If the Ministry of Justice determines that the need is both valid and urgent, and that failure to disclose would make them at least partially responsible for any ensuing significant danger or harm, the Ministry will release the relevant information to the requesting Agent or individual. In doing so, the Ministry will make every effort to protect the privacy of all individuals whose information is being disclosed.
+
+##### Section 3: International Cooperation
+1. When a different State's organ or an international organization submits a qualified request for the disclosure of information, and that information is directly likely to improve the chances of identifying or apprehending the perpetrator of a crime that, if committed in Liberland, would be classified as a Crime, the Ministry of Justice will disclose the required information to the extent necessary for fulfilling the intended purpose of the disclosure.
+
+#### Article 41: System for Disclosure
+The Ministry of Justice is responsible for establishing and maintaining an online system for the disclosure of data. This system will include a generator for official, signed disclosure documentation.
+
+#### Article 42: Notification to Data Subjects
+1. The Ministry of Justice will inform data subjects about any information disclosure and its circumstances. Where possible, this will occur before the release, and the data subject will be given eight days to object to the release. The release will then take the form of an Administrative Order.
+2. If the release is found to be unjustified, the Ministry of Justice will be responsible for paying damages to those unlawfully disadvantaged by the release of information.
 
 
 ## Chapter 3: Misdemeanors
