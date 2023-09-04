@@ -101,7 +101,49 @@ The Security Commission shall be composed of four Commissioners, each appointed 
 2) The Security Academy shall be led by a Rector, who shall be nominated by the Minister of Interior and appointed by the President. The Security Academy shall operate as a division of the Security Agency.
 3) The Security Academy shall be responsible for providing the necessary education and training to police personnel to prepare them for roles as senior staff officers. Additionally, the Academy shall oversee scientific research related to security matters.
 
-#### Article 5: Weapons
+#### Article 5: Law Enforcement Personnel
+
+1) Unless a special law specifies otherwise, Law Enforcement Agencies shall employ the following types of personnel as Agents:
+   
+   a) Officers: Trained professionals in security and modern democratic policing, directly responsible for fulfilling the tasks of Law Enforcement as outlined in this Law. These agents shall generally serve as Law Enforcement Officers.
+   
+   b) Clerical Agents: Support Officers with back-office and front-office duties that do not require security training.
+   
+   c) Technical Agents: Responsible for maintaining the technical readiness of equipment, real estate, tools, and information security at all levels.
+   
+   d) Other Agents: Employed as required to fulfill the tasks of the Agency.
+
+2) The priority to protect the life and health of a Law Enforcement Agent shall be equal to that of other individuals. Protection of an Agent's property shall be secondary to protecting the property of others.
+
+#### Article 6: Ranks in Law Enforcement
+
+##### Section 1: Ranks of Law Enforcement Officers
+1) Law Enforcement Officers shall be organized hierarchically, with lower ranks performing tasks under the supervision and direction of higher ranks. The ranks shall be:
+   
+   a) Officer (Agent Level 2);
+   
+   b) Constable: Guides and mentors junior Agents, leads a basic unit or post within the Agency (Agent Level 3);
+   
+   c) Captain: Organizes Agents at the operational level, heads the Agency within a given district and oversees 3-4 basic units or posts (Agent Level 4);
+   
+   d) Major: Coordinates several Districts or heads the Cantonal level of the Agency (Agent Level 5);
+   
+   e) Commander: The highest rank, coordinates all districts and Cantonal Agencies (Agent Level 6).
+
+##### Section 2: Ranks of Other Agents
+1) Other Agents active in Law Enforcement agencies shall be organized in the following ranks:
+   
+   a) Administration Professional: Responsible for routine administration (EQF 5, Agent Level 2);
+   
+   b) Administration Specialist: Performs specialized tasks (EQF 6, Agent Level 3);
+   
+   c) Coordinator: Organizes the work of Administrative Agents (EQF 7, Agent Level 4);
+   
+   d) Director: Responsible for top-level management and coordination (EQF 7, Agent Level 5).
+
+Is this format more aligned with your requirements?
+
+#### Article 7: Weapons
 
 ##### Section 1: Weapons of Law Enforcement Officers
 1) Law Enforcement Officers, agents of Law Enforcement Agencies directly discharging police duties, shall be equipped with sidearms, other weapons, and defensive and offensive equipment. They shall receive thorough training in the use of these weapons and equipment, as well as in combat tactics and strategy, particularly for urban combat or combat in other environments prevalent in their assigned District.
@@ -159,45 +201,6 @@ The Liberland Community Watch, henceforth the "Watch", shall be an Agency under 
 1) A Watch Post or Cantonal Watch may exercise its authority beyond its designated jurisdiction when necessary to protect life, physical well-being, and property within its jurisdiction, including residents and visitors, or to combat organized crime.
 2) When a Watch Post or Cantonal Watch seeks to extend its authority into another jurisdiction, it shall notify the relevant Watch Post or Cantonal Watch. The notified entity shall provide full cooperation if the extension of authority is justified.
 3) If the notified Watch Post or Cantonal Watch deems the extension of authority unjustified, it shall promptly inform the Commander, who shall make an expedited decision to permit or prohibit the extension.
-
-#### Article 11: Watch Personnel
-1) The Watch, including the Cantonal Watch and individual Watch Posts, shall employ the following personnel as Agents
-
-   a) Watchmen or Watchwomen, trained professionals in security and modern democratic policing, directly responsible for fulfilling the tasks of the Watch as outlined in this Law; these agents shall as a rule serve as Law Enforcement Officers.
-
-   b) Clerical Agents, supporting Security Professionals with back office and front office duties not requiring security training;
-
-   c) Technical Agents, maintaining technical readiness of equipment, real estate, tools, and information security at all levels; and
-
-   d) Other Agents as required to fulfill the tasks of the Security Agency.
-
-2) The priority to protect the life and health of a Watch Agent shall be equal to that of other individuals. Protection of an Agent's property shall be secondary to protecting others' property.
-
-#### Article 12: Ranks in the Watch
-
-##### Section 1  Ranks of Watchmen and Watchwomen
-Watchmen and Watchwomen shall be organized hierarchically, with lower ranks performing tasks under the supervision and direction of higher ranks. The ranks shall be:
-   
-   a) Watchman/Watchwoman (Agent Level 2);
-
-   b) Constable, guiding and mentoring junior Agents, leading a Watch Post (Agent Level 3);
-
-   c) Captain, organizing Agents at the operational level, heading the Watch for a district and 3-4 Watch Posts (Agent Level 4);
-
-   d) Major, coordinating several Districts or heading the Cantonal Watch (Agent Level 5); and
-
-   e) Commander, the highest rank, coordinating all districts and Cantonal Watches (Agent Level 6).
-
-##### Section 2: Ranks of other Agents  
-1) Other Agents of the Watch shall be organized in the following ranks:
-
-   a) Administration Professional, responsible for routine administration (EQF 5, Agent Level 2);
-
-   b) Administration Specialist, performing specialized tasks (EQF 6, Agent Level 3);
-
-   c) Coordinator, organizing the work of Administrative Agents (EQF 7, Agent Level 4); and
-
-   d) Director, responsible for top-level management and coordination (EQF 7, Agent Level 5).
 
 #### Article 13: Liberland Guard
 The Liberland Guard shall consist of special Watch Posts assigned specifically to protect State Property and State Officials. State Guard Agents may also be assigned to fulfil the regular tasks of the Watch where necessary. Watchmen and Watchwomen assigned to this duty shall be referred to as Guardsmen and Guardswomen.
