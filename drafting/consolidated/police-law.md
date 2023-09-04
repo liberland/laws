@@ -154,27 +154,33 @@ Is this format more aligned with your requirements?
 Other Agents of Law Enforcement Agencies shall be equipped with sidearms and trained in their use for self-protection. They shall also be trained in combat tactics concerning combat in environments prevalent in their assigned District.
 
 ### Title 2: Policing Liberland
-#### Article 6: Liberland Community Watch
-##### Section 1: Authority of the Watch
-The Liberland Community Watch, henceforth the "Watch", shall be an Agency under the Ministry of Interior. The purpose of this Agency shall be to serve as Liberland's primary police force and the only general-purpose police Liberland shall know. As such, the responsibilities and duties of the Watch shall be to:
+#### Article 8: Liberland Community Watch
 
-   a) protect the property of individuals, including their life, health, and belongings;  
+##### Section 1: Role and Responsibilities of the Watch
+The Liberland Community Watch, henceforth known as the "Watch," shall operate as an Agency under the Ministry of Interior. Its primary role shall be to serve as Liberland's main police force, and it shall be the only general-purpose police force in Liberland. The responsibilities and duties of the Watch shall include:
 
-   b) prevent delicts, suppress and stop ongoing delicts, and investigate all delicts;  
+a) Protecting individual property, including life, health, and belongings;
 
-   c) apprehend suspects;  
+b) Preventing delicts, suppressing and stopping ongoing delicts, and investigating all delicts;
 
-   d) address other affairs concerning the maintenance of public safety and order.
+c) Apprehending suspects;
 
-##### Section 2: Congressional Oversight
-1) Congress shall have direct oversight over all aspects of the Watch. It shall be empowered to conduct ad hoc and regular investigations, demand witness presence and testimony, or require the production of records.
-2) Congress shall have the power to remove any agent of the Wathc from office by its Decision and reorganize the functioning of the Security Agency at any level by means of a decision.
+d) Addressing other matters related to the maintenance of public safety and order.
 
-##### Section 3: Commander
-1) The head of the Watch shall be the Commander of the Watch of Liberland (hereinafter referred to as the "Commander"), nominated by the Minister of Interior and appointed by the President. All Age
-2) The Commander shall be responsible for the regular management and direction of the Security Agency operations, as well as the supervision and direction of the Security personnel.
+##### Section 2: Oversight by Congress
+1. Congress shall exercise direct oversight over all aspects of the Watch. This oversight shall include the power to conduct both ad hoc and regular investigations, summon witnesses and demand testimony, and require the production of records.
 
-#### Article 7: Watch Post
+2. Congress shall also have the authority to remove any agent of the Watch from office through its Decision and may reorganize the functioning of the Security Agency at any level by means of a decision.
+
+##### Section 3: Leadership of the Watch
+1. The head of the Watch shall be known as the Commander of the Watch of Liberland (hereinafter referred to as the "Commander"). The Commander shall be nominated by the Minister of Interior and appointed by the President.
+
+2. The Commander shall be responsible for the regular management and direction of the Security Agency's operations, as well as the supervision and direction of the Security personnel.
+
+##### Section 4: Officers of the Watch
+The officers serving in the Watch shall be referred to as Watchmen. Unless a special law specifies otherwise, they shall be the agents generally responsible for all Law Enforcement tasks in Liberland.
+
+#### Article 9: Watch Post
 
 ##### Section 1: Watch Post Organization 
 1) The smallest organizational unit of the Watch shall be designated as a Watch Post. Each Watch Post shall be composed of personnel and equipment allocated to a specific District pursuant to the provisions of the Security Plan. A Watch Post shall be headed by a Constable, who shall be a Watchman or a Watchwoman, and shall be assigned a number of Agents under the Constable's command.
@@ -186,18 +192,18 @@ The Liberland Community Watch, henceforth the "Watch", shall be an Agency under 
 1) The primary responsibilities of Agents assigned to a specific Watch Post shall provide security for all residences, offices, shops, public places and business establishments within their assigned District. Agents shall assess the general condition and situation of residents, employees and other denizens, and where this is requested, they will provide advice on crime prevention measures.
 2) In addition to their primary duties, Agents of a Watch Post shall offer community services, including but not limited to providing directions to individuals and serving as a repository for lost-and-found items.
 
-#### Article 8: District Watch
+#### Article 10: District Watch
 1) In accordance with the Security Plan, a Watch District shall be established, consisting of three or four Watch Posts, or more in exceptional circumstances.
 2) The primary responsibilities of the Watch District shall include coordinating the operations of the Watch Posts within the District, providing guidance and support, and addressing issues that are more effectively resolved at a higher level.
 3) A Watch District shall be led by a Captain, who shall be a Watchman or Watchwoman, and shall also serve as the head of a Watch Post within the District. The Captain of the Cantonal Watch shall be responsible for the regular management and direction of District Watch operations and for directing and supervising District Watch personnel.
 
-#### Article 9: Cantonal Watch
+#### Article 11: Cantonal Watch
 1) In the event that Liberland is divided into Cantons or similar organizational units, a Cantonal Watch shall be established within each Canton as an intermediate unit of the Watch. The Cantonal Watch shall be led by the Major of the Cantonal Watch, who shall be nominated by the Minister of Interior and appointed by the President. The Major of the Cantonal Watch shall be responsible for the regular management and direction of Cantonal Watch operations and for directing and supervising Cantonal Watch personnel.
 2) The Cantonal Watch shall serve as the direct supervisory authority over the Watch Posts within its respective Canton and it shall be responsible for coordinating the activities of the Watch Posts within its Canton and for achieving the objectives of the Watch within the Canton.
 3) Each Cantonal Watch shall maintain close contact and active cooperation with the Cantonal Security Agencies of all other Cantons.1. If Liberland becomes divided into Cantons or similar organizational units, the Cantonal Watch shall be established as the mid-level unit of the Watch.
 4) Similar to the Watch Posts, the Cantonal Watch of each Canton shall be required to maintain close contact and active cooperation with the Cantonal Security Agencies of all other Cantons.
 
-#### Article 10: Extension of Watch Authority
+#### Article 12: Extension of Watch Authority
 1) A Watch Post or Cantonal Watch may exercise its authority beyond its designated jurisdiction when necessary to protect life, physical well-being, and property within its jurisdiction, including residents and visitors, or to combat organized crime.
 2) When a Watch Post or Cantonal Watch seeks to extend its authority into another jurisdiction, it shall notify the relevant Watch Post or Cantonal Watch. The notified entity shall provide full cooperation if the extension of authority is justified.
 3) If the notified Watch Post or Cantonal Watch deems the extension of authority unjustified, it shall promptly inform the Commander, who shall make an expedited decision to permit or prohibit the extension.
