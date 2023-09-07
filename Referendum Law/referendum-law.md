@@ -28,7 +28,7 @@ NOW, THEREFORE, BE IT ENACTED by the Citizens and the Government of Liberland.
 
 ### Title 1: Referendum
 
-#### Article 1: Primary Instrument of Democracy
+#### Article 1: Primary instrument of democracy
 
 ##### Section 1: Purpose of the Referendum
 1. The Referendum, the primary instrument of democracy in Liberland, shall empower Citizens to make collective decisions. 
@@ -53,7 +53,7 @@ NOW, THEREFORE, BE IT ENACTED by the Citizens and the Government of Liberland.
 ##### Section 2: Participation in the Referendum
 The Referendum shall be open to participation by all Citizens 15 years of age or older.
 
-##### Section 3: Referendum Supremacy
+##### Section 3: Referendum supremacy
 1. The Referendum shall be the decision-making process of the highest authority within Liberland and the Government; therefore, no other decision-making process shall have the authority to overturn a Referendum decision once it is made.
 2. As the Executive Power must remain accountable to the Legislative Power, the Referendum may supersede and replace any other decision-making process within the Legislative or Executive branches of the Government.
 3. However, to remain conform with the separation of powers stipulated under Art. 14 of the Constitution, a Referendum shall not directly overturn a judicial decision, nor shall it be able to directly intervene in any way with an ongoing Case submitted to a Court.
@@ -65,7 +65,7 @@ The Referendum shall be open to participation by all Citizens 15 years of age or
 1. Conform with Art. 73 of the Constitution, the Positive Referendum shall serve for the enactment, the amendment, and the repealing of the legislative instruments stipulated for the Referendum by this law.
 2. Taking the option given by the Constitution in Art. 73 Section 2/2, voting in the Positive Referendum shall generally be conducted using voting instruments, which Citizens shall be able to purchase on the open market.
 
-##### Section 2: Types and Scope of Negative Referendum
+##### Section 2: Types and scope of Negative Referendum
 1. The purpose of the Negative Referendum shall be to repeal legal instruments currently having legal effects in Liberland.
 2. There shall be two forms of Negative Referendum, namely:
    
@@ -81,24 +81,24 @@ The Referendum shall be open to participation by all Citizens 15 years of age or
    
        iv. an individual minister.
 
-#### Article 3: Voting Instrument
+#### Article 3: Voting instrument
 
-##### Section 1: Liberland Merit and Voting Rules
+##### Section 1: Liberland Merit and voting rules
 1. The only form of voting instrument permitted for use in the Positive Referendum shall be politically pooled Liberland Merit (LLM).
 2. LLM shall be usable in an open number of concurrent referenda and shall not require any cooldown period after voting in one referendum in order to be used in another referendum.
 
-##### Section 2: Political Pooling and Liquidity Restrictions
+##### Section 2: Political Pooling and liquidity restrictions
 1. Political pooling shall involve at least restricting the liquidity of LLM, such that they cannot be transferred to a different wallet for the duration of the political pooling.
 2. Political pooling will be reversible, but only at the rate of 10 percent per year, collectable in twelve instalments, each releasing one-twelfth of one-tenth of the Citizen’s politically pooled LLM balance.
 
 ### Title 2: Positive Referendum Process
 
-#### Article 4: Sponsor and Types of Proposals
+#### Article 4: Sponsor and types of Proposals
 1. Any Citizen can become a Sponsor and submit proposals for new or changed voting instruments or decisions they want to see enacted by the Referendum, henceforth “Proposal”. A Proposal submitted by a Citizen shall be known as a Citizen Proposal.
 2. In addition, Congress in its entirety can vote on submitting a Proposal, which shall then be known as a Congress Proposal.
 3. There shall be no difference between the process of how a Citizen Proposal- and Congress-Proposal-originated referendum, but in conformity with Art. 79 Section 1/2 of the Constitution, they shall differ in ways how the voting requirement is tallied.
 
-#### Article 5: Initiation and Submission of Proposals for Positive Referenda
+#### Article 5: Initiation and submission of Proposals for Positive Referenda
 
 ##### Section 1: Drafting of Proposal
 1. To initiate a Positive Referendum, the Sponsor shall draft a Proposal in its final form. The draft shall be prepared to a professional standard.
@@ -109,19 +109,19 @@ The Referendum shall be open to participation by all Citizens 15 years of age or
 2. The Sponsor shall also provide a detailed Reasoning for each provision of the Proposal.
 3. Both the Regulatory Impact Assessment (RIA) and the Explanation of individual articles (Reasoning) shall comply with the requirements set forth in the Legislative Rules of the Government.
 
-##### Section 3: Submission Procedure
+##### Section 3: Submission procedure
 1. The Sponsor shall submit the Proposal under their own name using the designated form provided by the Government.
 2. The Sponsor shall pay the transaction fee and any additional fees as stipulated by the system at the time of submission.
 
-##### Section 4: Additional Information to be Provided
+##### Section 4: Additional information to be provided
 1. The Sponsor shall specify the category of the legal instrument being proposed, whether it be a law, regulation, or decision.
 2. If the Proposal serves as an amendment, the Sponsor shall identify the existing legal instrument or specific section thereof that the Proposal aims to amend.
 
-##### Section 5: Quality Control and Cancellation
+##### Section 5: Quality control and Cancellation
 1. Should the Proposal lack the requisite quality or omit the required Regulatory Impact Assessment, Reasoning or additional information as required by this law, Congress shall exercise its constitutional authority under Article 82 of the Constitution to cancel the Referendum, regardless of the merit of the Proposal’s content.
 2. Insufficient quality or omission of the mandatory RIA or Reasoning  may also constitute a valid ground for cancellation initiated by the Senate.
 
-#### Article 6: Voting Rules
+#### Article 6: Voting rules
 1. All Citizens whom the law allows to participate in politics shall have the right to vote using their Liberland Merit (LLM).
 2. Each citizen is permitted to vote with only one single LLM balance and may vote only once per referendum.
 3. In the event that a Citizen attempts to vote twice, the most recent vote shall supersede the earlier one.
@@ -139,7 +139,7 @@ The Referendum shall be open to participation by all Citizens 15 years of age or
 
 #### Article 8: Tallying and Voting Requirements
 
-##### Section 1: Tallying the Votes
+##### Section 1: Tallying the votes
 The outcome of the Referendum shall be determined based on the vote count at the moment the Referendum Period ends, that is, the last second of the last minute of the last hour of the last day of the Referendum Period for the given Referendum.
 
 ##### Section 2: Voting Requirements for Congress Proposals
@@ -168,7 +168,7 @@ The Voting Requirement for the passing of a Congress Proposal through a Referend
 3. This option to shorten the Enactment Period can be combined with the shortening of the Referendum Period and will likewise be accepted by the system when invoked, alone or in combination with the shortening of the Referendum Period.
 4. Just like when the Referendum Period is shortened, a Referendum with a shortened Enactment Period will be tallied according to the rules for tallying Referenda based on Popular Proposals.
 
-### Title 3: Negative Referendum Process
+### Title 3: Negative Referendum process
 
 #### Article 10: Initiation of a Negative Referendum
 
@@ -206,11 +206,11 @@ The Voting Requirement for the passing of a Congress Proposal through a Referend
    
        ii. The official has habitually or severely acted against the life, liberty, or property of others, in violation of the Non-Aggression Principle as defined in Article 7 of the Constitution, and such actions have provably caused damage.
 
-##### Section 3: Quality Control and Cancellation
+##### Section 3: Quality control and Cancellation
 1. Negative Referendum Proposals that lack one or more of the required elements or are of manifestly unprofessional quality shall be subject to cancellation by Congress pursuant to Article 82 of the Constitution.
 2. Such deficiencies may also serve as grounds for cancellation initiated by the Senate.
 
-#### Article 11: Duration and Conditions of a Negative Referendum
+#### Article 11: Duration and conditions of a Negative Referendum
 1. Upon submitting the Proposal, it becomes a Referendum at the beginning of the next Referendum Period.
 2. Unlike the Positive Referendum, the Negative Referendum shall run indefinitely until either the legislative instrument loses legal force by other means or the official is replaced on their position or until it succeeds.
 
@@ -232,9 +232,9 @@ In order for a Proposal within a Negative Referendum to be deemed successful, it
 Where an official is dismissed by a Dismissal, they shall immediately cease to hold the function from which they have been dismissed. This doesn’t in any way affect their future eligibility for a function, including the same function that they had been dismissed from.
 To protect the integrity of the judicial system, a dismissed Judge shall remain in function for as long as necessary according to the rules of their Court to finish their actively assigned cases. The Court shall not assign any more new cases to them, and it may, at its discretion, replace them even as regards the active cases.
 
-### Title 5: Institutions and Final Provisions
+### Title 5: Institutions and final Provisions
 
-#### Article 14: Blockchain System
+#### Article 14: Blockchain system
 
 ##### Section 1: Implementation of the Referendum
 1. The conduct of Referenda shall be facilitated through electronic means, utilizing a public blockchain system designed to accommodate governance functions.
@@ -275,7 +275,7 @@ To protect the integrity of the judicial system, a dismissed Judge shall remain 
    
     j) The Referendum and Enactment Periods during which the Referendum is or was active.
 
-#### Article 15: Legal Force
+#### Article 15: Legal force
 This Law takes legal force under the following conditions:
 
    a) A Developed Settlement, as defined in the Order of the President of Liberland No. 3/2023: Program of the Provisional Government, has been established in the land and enjoys a stable existence for at least two months in a row;
