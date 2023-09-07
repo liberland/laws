@@ -1,169 +1,199 @@
-# Referendum Law
+# Interim Referendum Law
 
 ## Preamble
 
-WHEREAS, the Referendum of all Citizens is the primary instrument of Legislative Power in Liberland, embodying the principle that citizens themselves directly wield legislative power, complemented by elements of representative democracy and corporate governance;
+WHEREAS, the Constitution of Liberland, under Article 72 Section 1, provides for exceptional derogations from the Non-Aggression Principle, allowing for non-consensual democratic processes when circumstances necessitate;
 
-WHEREAS, the use of voting instruments, the Liberland Merits (LLM), and the organization of the referendum through electronic means, specifically blockchain technology, are essential for ensuring transparency, speed, and security in the voting process;
+WHEREAS, Article 72 Section 2/1 of the Constitution mandates the use of direct democracy as the standard modus operandi for legislative activities, empowering Citizens to directly influence state affairs;
 
-WHEREAS, compliance with Article 25 of the International Covenant on Civil and Political Rights of 1955 is necessary, requiring genuine periodic elections by universal and equal suffrage, held by secret ballot, guaranteeing the free expression of the will of the electors;
+WHEREAS, Art. 73 Section 1 of the Constitution designates the Referendum of all Citizens as the primary legislative instrument, encapsulating the principle of direct citizen involvement in governance, augmented by elements of representative democracy and corporate governance;
 
-WHEREAS, the use of a referendum where each citizen holds one vote is crucial for removing unwanted laws and regulations and dismissing officials, ensuring democratic legitimacy of all laws and regulations and preventing government overreach;
+WHEREAS, the Constitution, under Art. 74, underscores the importance of legislative initiative being vested in individual Citizens, and under Art. 79, also in Congress; thereby fostering an inclusive legislative process;
 
-WHEREAS, the empowerment of both the representative organ (Congress) and each and every citizen with legislative initiative is vital for a robust and inclusive legislative process;
+WHEREAS, the utilization of Liberland Merits (LLM) as voting instruments and the deployment of blockchain technology for referendum organization are essential for ensuring transparency, speed, and security in the electoral process;
 
-NOW, THEREFORE, BE IT ENACTED by the Parliament of Liberland.
-   
+WHEREAS, Article 73 Section 2 of the Constitution mandates the formulation of a Referendum Law that establishes clear and reasonable guidelines for referendum organization and the adoption or rejection of proposals;
+
+WHEREAS, Article 75 of the Constitution mandates that the foundational principles and operational aspects governing the voting requirements for the successful passage of legislative bills shall be delineated in the Referendum Law;
+
+WHEREAS, Article 79 Section 1/2 prescribes that Laws and other motions proposed by Congress shall be easier to pass through the Referendum than popular proposals and that the Referendum Law shall set up the details;
+
+WHEREAS, adherence to Article 25 of the International Covenant on Civil and Political Rights of 1955 is imperative, ensuring the conduct of genuine, periodic elections characterized by universal and equal suffrage, and safeguarded by secret balloting;
+
+WHEREAS, Article 76 of the Constitution advocates for a referendum mechanism that allows each Citizen a single vote, crucial for the removal of undesirable laws and regulations and the dismissal of officials, thereby upholding the democratic legitimacy of all legislative acts;
+
+NOW, THEREFORE, BE IT ENACTED by the Citizens and the Government of Liberland.
+
+## Interim Referendum Law
+
 ### Title 1: Referendum
 
 #### Article 1: Primary Instrument of Democracy
+
 ##### Section 1: Purpose of the Referendum
-1. The Referendum, as the primary instrument of democracy in Liberland, shall empower Citizens to make collective decisions and to enact 
+1. The Referendum, the primary instrument of democracy in Liberland, shall empower Citizens to make collective decisions. 
+2. To that end, the Citizens may, using the Referendum, enact, repeal and amend the following instruments of legislation: 
+   a) Instruments prescribed by the Art. 79 Section 1/1 of the Constitution, namely:
+      i.   Laws;
+      ii.  Other types of Regulations where the Citizen or Congress proposing the bill, henceforth “Sponsor,” finds it necessary to overwrite the standard hierarchy of norms; and
+      iii. Other motions for action under this Constitution or existing Regulations, which shall take the form of Referendum Decisions.
+   b) The instrument of internal ratification for the international treaties of the highest importance, as stipulated by Art. 79 Section 2 of the Constitution.
+   c) Constitutional Amendments according to Art. 80 of the Constitution, where
+      i.  Congress proposes them; and 
+      ii. The result of the Referendum fulfils the voting requirement of Art 80 Section 3 of the Constitution.
 
-   a) Constitutional Ammendments, 
+##### Section 2: Participation in the Referendum
+The Referendum shall be open to participation by all Citizens 15 years of age or older.
 
-   b) Laws
+##### Section 3: Referendum Supremacy
+1. The Referendum shall be the decision-making process of the highest authority within Liberland and the Government; therefore, no other decision-making process shall have the authority to overturn a Referendum decision once it is made.
+2. As the Executive Power must remain accountable to the Legislative Power, the Referendum may supersede and replace any other decision-making process within the Legislative or Executive branches of the Government.
+3. However, to remain conform with the separation of powers stipulated under Art. 14 of the Constitution, a Referendum shall not directly overturn a judicial decision, nor shall it be able to directly intervene in any way with an ongoing Case submitted to a Court.
+4. The Referendum shall only influence the workings of the Senate through Constitutional Amendments and international Treaties and to the extent to which Art. 76/2 of the Constitution permits this.
 
-   c) other types of Regulations
+#### Article 2: Forms of the Referendum
 
-   d) decisions in individual cases, including ones about the blockchain system; and 
+##### Section 1: Positive Referendum
+1. Conform with Art. 73 of the Constitution, the Positive Referendum shall serve for the enactment, the amendment, and the repealing of the legislative instruments stipulated for the Referendum by this law.
+2. Taking the option given by the Constitution in Art. 73 Section 2/2, voting in the Positive Referendum shall generally be conducted using voting instruments, which Citizens shall be able to purchase on the open market.
 
-   e) to ratify the international treaties of the highest importance. 
+##### Section 2: Types and Scope of Negative Referendum
+1. The purpose of the Negative Referendum shall be to repeal legal instruments currently having legal effects in Liberland.
+2. There shall be two forms of Negative Referendum, namely:
+   a) The Public Veto conform with Art. 76/1 of the Constitution shall have the power to remove the legal effect from any of the legal instruments currently having legal effect in Liberland; and
+   b) The Dismissal conform with Art. 76/2 of the Constitution shall have the power to end the legal effect of the decision to Appoint an official, thereby removing them from office, where that decision to Appoint has been made by:
+      i.  President or the Vice-President,
+      ii. Congress,
+      iii.Senate, or
+      iv. an individual minister.
 
-2. The Referendum shall be open to participation by all citizens.
-
-##### Section 2: Supremacy of the Referendum
-1. The Referendum shall be the paramount decision-making process within Liberland and the Government, and no other decision-making process shall have the authority to overturn a Referendum decision.
-2. As the Executive Power is accountable to the Legislative Power, the Referendum may supersede and replace any other decision-making process within the Legislative or Executive branches of the Government.
-3. However, the Referendum shall not directly overturn a judicial decision. Instead, it may shape matters within the Judiciary by enacting Laws. The Referendum shall only influence the Guardians of the Republic through Constitutional Amendments and to the extent that Dismissal, as prescribed by the Constitution, permits.
-
-#### Article 2: Blockchain System
-##### Section 1: Implementation of the Referendum
-1. The Referendum shall be conducted through electronic communications using a public blockchain system capable of hosting governance, henceforth the "Blockchain".
-2. The system shall be sufficiently decentralized and secure to minimize risks of unauthorized tampering of all kinds, and user-friendly enough to ensure that the vast majority of Citizens can operate it with ease.
-
-##### Section 2: Government procures the Blockchain
-The Government shall ensure the establishment or adoption of a system capable of meeting the requirements of this Law and shall provide for its regular maintenance.
-
-#### Article 3: Voting Instruments
-##### Section 1: Voting Mechanism
-1. Voting in the Referendum shall generally be conducted using Liberland Merits (LLM) as voting instruments, which Citizens shall be able to purchase on the open market.
-2. The Public Veto, a special form of the Referendum as prescribed by the Constitution, shall also be organized for matters required therein. The Public Veto shall include the options of voting on Dismissal of Judges, the President, and the Vice-Presidents.
-
-##### Section 2: Politically Pooled LLM
-The only form of LLM permitted for use in Referenda shall be politically pooled LLM. Political pooling involves restricting the liquidity of LLM, such that they cannot be transferred to a different wallet for the duration of the political pooling.
-
-#### Article 4: Referendum Period
-The Referendum Period shall be 14 days. At the end of the Referendum period in which a Proposal has been converted into a Referendum, the Proposal is either Approved or Rejected based on whether a sufficient amount of voting instruments were cast for acceptance, henceforth "Voting Requirement".
-
-### Title 2: Proposals
-
-#### Article 5: Making Proposals
-
-##### Section 1: Submission of Proposals
-
-To initiate a Referendum, a proposal must be submitted using the Blockchain system as prescribed by this Law.
-
-##### Section 2: Citizen Proposals
-
-Any Citizen may submit a Proposal in the system, in which case the origin of the Proposal shall be registered as "Citizen."
-
-##### Section 3: Congress Proposals
-
-The Congress may collectively submit a Proposal in the system, in which case the origin of the Proposal shall be registered as"Congress." 
-
-#### Article 6: Endorsing Proposals
-
-Any Citizen may support any Proposal by pledging their voting instrument into it. A Citizen can use the same voting instrument in multiple referenda active at the same time.
-
-#### Article 7: View of Proposals
-
-The system shall provide a view in which all active Proposals are listed. This view shall include the following data:
-
-   a) Name of the Proposal;
-   
-   b) Origin of the Proposal;
-   
-   c) Link to the personal page of the Citizen or Congress Member who made the Proposal;
-   
-   d) Rate of Endorsement;
-   
-   e) Proposed Enactment Period; and
-   
-   f) Date on which the Proposal was made.
-
-#### Article 8: Converting Proposals into Referenda
-
-##### Section 1: Selection Algorithm
-
-The system shall incorporate an algorithm that selects a Proposal at the beginning of each Referendum Period to be converted into a Referendum.
-
-##### Section 2: Cycling Between Origins
-
-The algorithm will alternate between the Citizen and Congress Origins, starting with the Congress Origin, so that in odd Periods, a Proposal is selected from the Citizen Origin and in even Periods, a Proposal is selected from the Congress Origin.
-
-##### Section 3: Selection Criteria
-
-The algorithm shall always select the most endorsed Proposal per given Origin for conversion.
-
-### Title 3: Voting on Referenda
-
-#### Article 9: Voting
-
-All Citizens shall have the right to vote using their LLM. Citizens may vote multiple times for the same Referendum, with each subsequent vote replacing the previous one.
-
-#### Article 10: Deciding Referenda
-
-1. The system shall determine the outcome of the Referendum based on the vote count at the moment the Referendum Period ends, comparing the result with the Voting Requirement required for approval based on the given origin.
-2. If the Voting Requirement is reached, the Referendum concludes with the Approval of the Proposal, and the Enactment Period begins.
-3. If the Voting Requirement is not reached, the Referendum concludes with the Rejection of the Proposal, which is then discarded.
-
-#### Article 11: Voting Requirement
-
-The following shall be the Referendum voting requirements for the general Referendum required for the Referendum to Adopt the Proposal:
-
-   a) For the origin Citizen, the Voting Requirement shall be calculated as the number of votes against divided by the square root of the turnout must be smaller than the number of votes approve divided by the square root of the electorate, henceforth referred to as "Super-Majority Approve".
-   
-   b) For the origin Congress, the Voting Requirement shall be calculated as the simple majority of the votes cast, henceforth referred to as "Simple Majority".
-   
-#### Article 12: View of Voting
-
-The system shall provide a view in which all active Referenda are listed. This view shall include the following data:
-
-   a) Name of the Referendum;
-   
-   b) Origin of the Referendum;
-   
-   c) Link to the personal page of the Citizen or Congress Member who made the original Proposal;
-   
-   d) Voting Requirement required for the Adoption of a Proposal;
-   
-   e) Current Votes; and
-   
-   f) Relevant Referendum Period.
-
-#### Article 13: Enactment Period
-
-The Proposal shall gain legal force after its Enactment Period has run its course. The Proposal may be vetoed during that time by the Senate using Cancellation or by Citizens using Public Veto.
-
-### Title 4: Public Veto
-
-#### Article 14: Proposing a Public Veto
-
-1. A Public Veto may be proposed by a Citizen by bonding 1000 LLM into the Proposal. The Proposal shall be admissible on a:
-
-   a) Regulation or an Adopted Referendum in the Enactment Period phase; or
-   
-   b) An elected official, a Judge, Vice-President, or the President.
-
-2. Upon submitting the Proposal, it becomes a Referendum at the beginning of the next Referendum Period.
-
-#### Article 15: Voting on a Public Veto
-
-Voting on a Public Veto is conducted in the same manner as voting on a general Referendum, but each Citizen may only use one LLM for each Public Veto. The voting requirement shall be 50 percent plus one vote to effect the Public Veto.
-
-### Title 5: Final Provision
-
-#### Article 16: Legal Force
-
-This Law takes legal force at the end of a standard Enactment Period following its adoption in the Referendum.
+#### Article 3: Voting Instrument
+Section 1: Liberland Merit and Voting Rules
+The only form of voting instrument permitted for use in the Positive Referendum shall be politically pooled Liberland Merit (LLM).
+LLM shall be usable in an open number of concurrent referenda and shall not require any cooldown period after voting in one referendum in order to be used in another referendum.
+Section 2: Political Pooling and Liquidity Restrictions
+Political pooling shall involve at least restricting the liquidity of LLM, such that they cannot be transferred to a different wallet for the duration of the political pooling.
+Political pooling will be reversible, but only at the rate of 10 percent per year, collectable in twelve instalments, each releasing one-twelfth of one-tenth of the Citizen’s politically pooled LLM balance.
+Title 2: Positive Referendum Process
+Article 4: Sponsor and Types of Proposals
+Any Citizen can become a Sponsor and submit proposals for new or changed voting instruments or decisions they want to see enacted by the Referendum, henceforth “Proposal”. A Proposal submitted by a Citizen shall be known as a Citizen Proposal.
+In addition, Congress in its entirety can vote on submitting a Proposal, which shall then be known as a Congress Proposal.
+There shall be no difference between the process of how a Citizen Proposal- and Congress-Proposal-originated referendum, but in conformity with Art. 79 Section 1/2 of the Constitution, they shall differ in ways how the voting requirement is tallied.
+Article 5: Initiation and Submission of Proposals for Positive Referenda
+Section 1: Drafting of Proposal
+To initiate a Positive Referendum, the Sponsor shall draft a Proposal in its final form. The draft shall be prepared to a professional standard.
+Furthermore, the draft shall adhere strictly to the Legislative Rules of the Government, both in content and form.
+Section 2: Inclusion of Regulatory Impact Assessment and Reasoning
+The Sponsor shall incorporate a comprehensive Regulatory Impact Assessment into the draft.
+The Sponsor shall also provide a detailed Reasoning for each provision of the Proposal.
+Both the Regulatory Impact Assessment (RIA) and the Explanation of individual articles (Reasoning) shall comply with the requirements set forth in the Legislative Rules of the Government.
+Section 3: Submission Procedure
+The Sponsor shall submit the Proposal under their own name using the designated form provided by the Government.
+The Sponsor shall pay the transaction fee and any additional fees as stipulated by the system at the time of submission.
+Section 4: Additional Information to be Provided
+The Sponsor shall specify the category of the legal instrument being proposed, whether it be a law, regulation, or decision.
+If the Proposal serves as an amendment, the Sponsor shall identify the existing legal instrument or specific section thereof that the Proposal aims to amend.
+Section 5: Quality Control and Cancellation
+Should the Proposal lack the requisite quality or omit the required Regulatory Impact Assessment, Reasoning or additional information as required by this law, Congress shall exercise its constitutional authority under Article 82 of the Constitution to cancel the Referendum, regardless of the merit of the Proposal’s content.
+Insufficient quality or omission of the mandatory RIA or Reasoning  may also constitute a valid ground for cancellation initiated by the Senate.
+Article 6: Voting Rules
+All Citizens whom the law allows to participate in politics shall have the right to vote using their Liberland Merit (LLM).
+Each citizen is permitted to vote with only one single LLM balance and may vote only once per referendum.
+In the event that a Citizen attempts to vote twice, the most recent vote shall supersede the earlier one.
+Article 7: Referendum Period
+Section 1: Regular Referendum Period
+The system shall establish Referendum Periods, each of which will last for 14 days. A new Referendum will start immediately after the previous Referendum Period ends.
+Multiple Referenda may run concurrently within one Referendum Period.
+A Referendum will take place during the Referendum Period immediately following the period in which the Sponsor submitted their Proposal.
+Section 2: Shortened Referendum Period
+Referenda originating from Congress may include a motion in their Proposal to shorten the Referendum Period to a minimum of three days. 
+This motion must be justified by an urgent and present need where the life, liberty, and property of identifiable individuals are objectively at a high level of risk in the event of a delay. If included, this motion will be accepted; however, the resulting Referendum will be tallied as if it were based on a Popular Proposal.
+Article 8: Tallying and Voting Requirements
+Section 1: Tallying the Votes
+The outcome of the Referendum shall be determined based on the vote count at the moment the Referendum Period ends, that is, the last second of the last minute of the last hour of the last day of the Referendum Period for the given Referendum.
+Section 2: Voting Requirements for Congress Proposals
+The Voting Requirement for the passing of a Congress Proposal through a Referendum shall be to receive at least 50 percent plus one voting instrument indicating the voter desire that the Proposal should pass, henceforth “Approve” than there are voting instruments indicating the voter desire that the Proposal should fail, henceforth “Against”, upon the moment the votes are tallied.
+Section 3: Voting Requirements for Citizen Proposals
+The Voting Requirement for the passing of a Citizen Proposal through a Referendum shall be calculated by:
+Dividing the votes for Approve by the square root of the total electorate,
+Dividing the votes for Against by the square root of the actual turnout for this Referendum, and
+Comparing the products of the two calculations.
+Where the product from under 1., e.g., the votes approve divided by the square root of the total electorate, is higher by at least one than the product from under 2., e.g., the votes against, divided by the square root of the actual turnout for this Referendum; the Citizen Referendum shall succeed.
+Article 9: Enactment Period
+Section 1: Regular Enactment Period
+The Proposal will become legally binding after the completion of its Enactment Period. This period serves as the unified legisvacant period for all legal instruments enacted in Liberland and will last for an additional 14 days following the end of the Referendum Period.
+During the Enactment Period, the Proposal may be vetoed by the Senate, just as it can be vetoed during the duration of the Referendum.
+Section 2: Shortened Enactment Period
+Referenda initiated by Congress may include a motion in their Proposals to either shorten this Enactment Period or eliminate it entirely.
+This motion must be justified by an urgent and present need where the life, liberty, and property of identifiable individuals are objectively at a high level of risk in the event of a delay. 
+This option to shorten the Enactment Period can be combined with the shortening of the Referendum Period and will likewise be accepted by the system when invoked, alone or in combination with the shortening of the Referendum Period.
+Just like when the Referendum Period is shortened, a Referendum with a shortened Enactment Period will be tallied according to the rules for tallying Referenda based on Popular Proposals.
+Title 3: Negative Referendum Process
+Article 10: Initiation of a Negative Referendum
+Section 1: Proposing a Public Veto
+A Citizen may initiate a Negative Referendum in the form of a Public Veto utilizing the tools furnished by the Government.
+The Citizen shall specify:
+The category of the legislative instrument targeted for revocation;
+The year and number of the legislative instrument as recorded in the official government repository, serving as unique identifiers;
+A reasoned justification for the revocation;
+Supporting evidence and documentation that demonstrates the legislative instrument’s continued legal force:
+Poses a significant, clearly identified risk for Liberland or for the life, liberty, and property of identifiable individuals;
+Results in habitual violations of the Non-Aggression Principle as defined in Article 7 of the Constitution;
+Significantly undermines the classically liberal political orientation of Liberland.
+Section 2: Proposing a Dismissal
+A Citizen may also initiate a Negative Referendum in the form of a Dismissal using the Government-provided tools.
+The Citizen shall specify:
+The category of the official targeted for dismissal;
+The unique identifier of the official such as their LibID, publicly known Liberland Blockchain address or name and birth date in combination with their official address;
+A reasoned justification for the dismissal;
+References to evidence or documentation that clearly substantiates:
+The official’s continued tenure poses a significant, clearly identified and present risk for Liberland or for the life, liberty, and property of identifiable individuals;
+The official has habitually or severely acted against the life, liberty, or property of others, in violation of the Non-Aggression Principle as defined in Article 7 of the Constitution, and such actions have provably caused damage.
+Section 3: Quality Control and Cancellation
+Negative Referendum Proposals that lack one or more of the required elements or are of manifestly unprofessional quality shall be subject to cancellation by Congress pursuant to Article 82 of the Constitution.
+Such deficiencies may also serve as grounds for cancellation initiated by the Senate.
+Article 11: Duration and Conditions of a Negative Referendum
+Upon submitting the Proposal, it becomes a Referendum at the beginning of the next Referendum Period.
+Unlike the Positive Referendum, the Negative Referendum shall run indefinitely until either the legislative instrument loses legal force by other means or the official is replaced on their position or until it succeeds.
+Article 12: Voting on a Negative Referendum
+Voting on a Negative Referendum  is conducted in the same manner as voting on a general Referendum; however, each Citizen has only one vote instead of their Voting Instrument balance.
+Like when voting in a Positive Referendum, one can vote in multiple Negative Referenda running concurrently; where one votes twice in one Negative Referendum, only the last voting attempt shall be counted;
+Article 13: Voting Requirement for a Negative Referendum
+In order for a Proposal within a Negative Referendum to be deemed successful, it shall require a minimum of 50 percent plus one vote of the total possible votes.
+Article 14: Consequences of a Negative Referendum decision that passes
+Section 1: Consequences of a Public Veto
+Where a piece of legislature is repealed, it shall lose legal force immediately. Where there are provisions in lower legislature dependent on this piece of legislature, these shall likewise lose legal force.
+The Minister of Justice will ensure that this is administered and the decision is published without delay and complete with all the consequences.
+Where the Minister of Justice should delay or publish incorrect or incomplete information, the Sponsor may seek administrative recourse or, where this isn’t granted, a judicial recourse.
+Section 2: Consequences of a Dismissal
+Where an official is dismissed by a Dismissal, they shall immediately cease to hold the function from which they have been dismissed. This doesn’t in any way affect their future eligibility for a function, including the same function that they had been dismissed from.
+To protect the integrity of the judicial system, a dismissed Judge shall remain in function for as long as necessary according to the rules of their Court to finish their actively assigned cases. The Court shall not assign any more new cases to them, and it may, at its discretion, replace them even as regards the active cases.
+Title 5: Institutions and Final Provisions
+Article 14: Blockchain System
+Section 1: Implementation of the Referendum
+The conduct of Referenda shall be facilitated through electronic means, utilizing a public blockchain system designed to accommodate governance functions.
+The blockchain system shall adhere to internationally accepted standards concerning election security, privacy, identification, and transparency in vote counting.
+The Government is responsible for either establishing or adopting a system that fulfills the requirements set forth by the Constitution and this Law, and shall ensure its regular maintenance.
+The system shall be designed to be sufficiently decentralized and secure to mitigate risks of unauthorized interference, while maintaining user-friendliness to facilitate ease of use by the majority of Citizens.
+Section 2: User-friendly Interface
+The system shall feature an intuitive user interface that enables Citizens to:
+Propose Referenda;
+Cast votes in Referenda;
+View real-time progress of ongoing Referendum and Enactment Periods, including any shortened durations;
+Access historical data of past and present Referenda.
+The interface shall display, at a minimum, the following information for each Referendum:
+Name of the proposed legislative instrument;
+Required documentation, including Regulatory Impact Assessment (RIA), Reasoning, and any additional documentation for Positive Referenda;
+Typological classification of the proposed legislative instrument for Positive Referenda;
+Specific identification of the legislative instrument, or its part, subject to amendment or repeal for Amendments or Repeals;
+Necessary information as required by this Law for Negative Referenda, including, but not limited to the rationale for initiating a Public Veto or Dismissal;
+Origin of the Referendum;
+Identification of the Sponsor;
+Voting requirements for the adoption of a Proposal;
+Current vote counts;
+The Referendum and Enactment Periods during which the Referendum is or was active.
+Article 15: Legal Force
+This Law takes legal force under the following conditions:
+A Developed Settlement, as defined in the Order of the President of Liberland No. 3/2023: Program of the Provisional Government, has been established in the land and enjoys a stable existence for at least two months in a row;
+At least 100 Citizens live permanently in the land; and
+At least 65 percent of all Citizens who are eligible to vote have onboarded themselves onto the blockchain.
