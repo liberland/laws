@@ -28,7 +28,7 @@ Ready for recommendations on technicalities, and issues regarding single section
 * [Criminal Law](https://github.com/liberland/laws/blob/Laws-Current/drafting/consolidated/criminal-law.md)
 * [Police Law](drafting/consolidated/police-law.md)
 * [Judicial Process Law](drafting/consolidated/judical-process-law.md)
-* [Referendum Law](drafting/consolidated/referendum-law.md)
+* [Referendum Law](https://github.com/liberland/laws/blob/Laws-Current/Referendum%20Law/referendum-law.md)
 * [Border Law](https://github.com/liberland/laws/blob/Laws-Current/drafting/consolidated/border_law.md)
 
 ## Drafting
