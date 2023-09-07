@@ -184,11 +184,11 @@ The Voting Requirement for the passing of a Congress Proposal through a Referend
    
     d) Supporting evidence and documentation that demonstrates the legislative instrument’s continued legal force:
    
-      i.   Poses a significant, clearly identified risk for Liberland or for the life, liberty, and property of identifiable individuals;
+       i.   Poses a significant, clearly identified risk for Liberland or for the life, liberty, and property of identifiable individuals;
    
-      ii.  Results in habitual violations of the Non-Aggression Principle as defined in Article 7 of the Constitution;
+       ii.  Results in habitual violations of the Non-Aggression Principle as defined in Article 7 of the Constitution;
    
-      iii. Significantly undermines the classically liberal political orientation of Liberland.
+       iii. Significantly undermines the classically liberal political orientation of Liberland.
 
 ##### Section 2: Proposing a Dismissal
 1. A Citizen may also initiate a Negative Referendum in the form of a Dismissal using the Government-provided tools.
@@ -202,9 +202,9 @@ The Voting Requirement for the passing of a Congress Proposal through a Referend
    
     d) References to evidence or documentation that clearly substantiates:
    
-      i.  The official’s continued tenure poses a significant, clearly identified and present risk for Liberland or for the life, liberty, and property of identifiable individuals;
+       i.  The official’s continued tenure poses a significant, clearly identified and present risk for Liberland or for the life, liberty, and property of identifiable individuals;
    
-      ii. The official has habitually or severely acted against the life, liberty, or property of others, in violation of the Non-Aggression Principle as defined in Article 7 of the Constitution, and such actions have provably caused damage.
+       ii. The official has habitually or severely acted against the life, liberty, or property of others, in violation of the Non-Aggression Principle as defined in Article 7 of the Constitution, and such actions have provably caused damage.
 
 ##### Section 3: Quality Control and Cancellation
 1. Negative Referendum Proposals that lack one or more of the required elements or are of manifestly unprofessional quality shall be subject to cancellation by Congress pursuant to Article 82 of the Constitution.
@@ -278,8 +278,8 @@ To protect the integrity of the judicial system, a dismissed Judge shall remain 
 #### Article 15: Legal Force
 This Law takes legal force under the following conditions:
 
-    a) A Developed Settlement, as defined in the Order of the President of Liberland No. 3/2023: Program of the Provisional Government, has been established in the land and enjoys a stable existence for at least two months in a row;
+   a) A Developed Settlement, as defined in the Order of the President of Liberland No. 3/2023: Program of the Provisional Government, has been established in the land and enjoys a stable existence for at least two months in a row;
     
-    b) At least 100 Citizens live permanently in the land; and
+   b) At least 100 Citizens live permanently in the land; and
     
-    c) At least 65 percent of all Citizens who are eligible to vote have onboarded themselves onto the blockchain.
+   c) At least 65 percent of all Citizens who are eligible to vote have onboarded themselves onto the blockchain.
