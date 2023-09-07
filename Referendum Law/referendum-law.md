@@ -232,7 +232,7 @@ In order for a Proposal within a Negative Referendum to be deemed successful, it
 Where an official is dismissed by a Dismissal, they shall immediately cease to hold the function from which they have been dismissed. This doesn’t in any way affect their future eligibility for a function, including the same function that they had been dismissed from.
 To protect the integrity of the judicial system, a dismissed Judge shall remain in function for as long as necessary according to the rules of their Court to finish their actively assigned cases. The Court shall not assign any more new cases to them, and it may, at its discretion, replace them even as regards the active cases.
 
-### Title 5: Institutions and final Provisions
+### Title 4: Institutions and final Provisions
 
 #### Article 14: Blockchain system
 
