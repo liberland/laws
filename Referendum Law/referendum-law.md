@@ -91,7 +91,7 @@ The Referendum shall be open to participation by all Citizens 15 years of age or
 1. Political pooling shall involve at least restricting the liquidity of LLM, such that they cannot be transferred to a different wallet for the duration of the political pooling.
 2. Political pooling will be reversible, but only at the rate of 10 percent per year, collectable in twelve instalments, each releasing one-twelfth of one-tenth of the Citizen’s politically pooled LLM balance.
 
-### Title 2: Positive Referendum Process
+### Title 2: Positive Referendum process
 
 #### Article 4: Sponsor and types of Proposals
 1. Any Citizen can become a Sponsor and submit proposals for new or changed voting instruments or decisions they want to see enacted by the Referendum, henceforth “Proposal”. A Proposal submitted by a Citizen shall be known as a Citizen Proposal.
