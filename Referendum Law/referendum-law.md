@@ -36,19 +36,19 @@ NOW, THEREFORE, BE IT ENACTED by the Citizens and the Government of Liberland.
    
    a) Instruments prescribed by the Art. 79 Section 1/1 of the Constitution, namely:
    
-      i.   Laws;
+       i.   Laws;
    
-      ii.  Other types of Regulations where the Citizen or Congress proposing the bill, henceforth “Sponsor,” finds it necessary to overwrite the standard hierarchy of norms; and
-   
-      iii. Other motions for action under this Constitution or existing Regulations, which shall take the form of Referendum Decisions.
+       ii.  Other types of Regulations where the Citizen or Congress proposing the bill, henceforth “Sponsor,” finds it necessary to overwrite the standard hierarchy of norms; and
+    
+       iii. Other motions for action under this Constitution or existing Regulations, which shall take the form of Referendum Decisions.
    
    b) The instrument of internal ratification for the international treaties of the highest importance, as stipulated by Art. 79 Section 2 of the Constitution.
    
    c) Constitutional Amendments according to Art. 80 of the Constitution, where
    
-      i.  Congress proposes them; and
+       i.  Congress proposes them; and
    
-      ii. The result of the Referendum fulfils the voting requirement of Art 80 Section 3 of the Constitution.
+       ii. The result of the Referendum fulfils the voting requirement of Art 80 Section 3 of the Constitution.
 
 ##### Section 2: Participation in the Referendum
 The Referendum shall be open to participation by all Citizens 15 years of age or older.
