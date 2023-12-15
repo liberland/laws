@@ -1,5 +1,5 @@
 # Charter of [Your Company Name]
-## Title 1: Basic Company information
+### Title 1: Basic Company information
 #### Article 1: Trade Name
 1. **Official Name:** The Liberland Company herein shall be officially named "[Your Company Name]", hereinafter referred to as "the Company."
 2. **Use of other Registered Names:** The Company is authorised to conduct business under its Official name and its other legally registered names, provided these are registered and published in the official Liberland Company Registry.
@@ -22,103 +22,131 @@
    c. [Additional Addresses as applicable]
 
 #### Article 3: Accessibility by electronic communications
-**Electronic communications accessibility:** In addition to the Registered Office and additional Registered Addresses, authorised representatives of the Company will be accessible using methods of electronic communication.
-**Specification on the website:** The forms of electronic communication will be specified without delay on the Company website [website].
+1. **Electronic communications accessibility:** In addition to the Registered Office and additional Registered Addresses, authorised representatives of the Company will be accessible using methods of electronic communication.
+2. **Specification on the website:** The forms of electronic communication will be specified without delay on the Company website [website].
 
 #### Article 4: Registered Agent
-Requirement for a Registered Agent: If the Company does not have, or at any point fails to maintain, a Registered Office or its Registered Address within the territory of Liberland, the Company shall immediately appoint a Registered Agent who shall maintain a physical address within the territory of Liberland.
-Role of the Registered Agent: If appointed, the Registered Agent shall be responsible for receiving, handling and keeping all legal mail and all legal documents on behalf of the Company.
+1. **Requirement for a Registered Agent:** If the Company does not have, or at any point fails to maintain, a Registered Office or its Registered Address within the territory of Liberland, the Company shall immediately appoint a Registered Agent who shall maintain a physical address within the territory of Liberland.
+2. **Role of the Registered Agent:** If appointed, the Registered Agent shall be responsible for receiving, handling and keeping all legal mail and all legal documents on behalf of the Company.
 
-Nature of business
-Primary business activities: The Company shall engage in the following business activities: [describe the business activities].
-Scope of activities: In addition to the specified primary business activities, the Company is authorised to conduct any other lawful activities which are inherently connected to and/or complement the primary business activities of the Company under the premise that such activities are permissible for a limited liability company under the laws of Liberland.
+#### Article 5: Nature of business
+1. **Primary business activities:** The Company shall engage in the following business activities: [describe the business activities].
+2. **Scope of activities:** In addition to the specified primary business activities, the Company is authorised to conduct any other lawful activities which are inherently connected to and/or complement the primary business activities of the Company under the premise that such activities are permissible for a limited liability company under the laws of Liberland.
 
-Duration
-Perpetual existence: The Company is established to exist perpetually/ for the duration of [number of fiscal years] / until the condition of [condition] is fulfilled.
-Conditions for Dissolution: 
-[fulfilment of Condition in alinea 1: passage of time for temporary Companies, fulfilment of conditions for conditional ones, etc.]
-Notwithstanding its perpetual existence, the Company may be dissolved in accordance with the applicable laws of Liberland.
-Alternatively, the Company may be dissolved through a decision made by its Members.
+#### Article 6: Duration
+1. **Perpetual existence:** The Company is established to exist perpetually/ for the duration of [number of fiscal years] / until the condition of [condition] is fulfilled.
+2. **Conditions for Dissolution:**
 
-Title 2: Capital, Shares and Shareholders
-Capital
-Initial capital: The initial capital of the Company shall be set at [value] [currency].
-Detailed composition of capital:
-A comprehensive breakdown of the Company's capital shall be provided in the Annex to this Charter.
-Each component of the capital shall be specifically itemised in the said Annex for clarity and detailed reference.
+   a. [fulfilment of Condition in alinea 1: passage of time for temporary Companies, fulfilment of conditions for conditional ones, etc.]
 
-Shares
-Section 1: Distribution of Shares
+   b. Notwithstanding its perpetual existence, the Company may be dissolved in accordance with the applicable laws of Liberland.
+
+   c. Alternatively, the Company may be dissolved through a decision made by its Members.
+
+### Title 2: Capital, Shares and Shareholders
+#### Article 7: Capital
+1. **Initial capital:** The initial capital of the Company shall be set at [value] [currency].
+2. **Detailed composition of capital:**
+
+    a. A comprehensive breakdown of the Company's capital shall be provided in the Annex to this Charter.
+
+    b. Each component of the capital shall be specifically itemised in the said Annex for clarity and detailed reference.
+
+#### Article 8: Shares
+##### Section 1: Distribution of Shares
 The capital of the Company shall be apportioned into [number] Shares, each having a nominal value of [value].
-Section 2: Ordinary Shares
-Ordinary Share: Holders of Ordinary Shares are entitled to one vote per share at the company's general meetings and are eligible to receive dividends subsequent to the distribution to holders of Preferential Shares.
-At minimum one Ordinary Share: The Company is mandated to issue a minimum of one Ordinary Share.
-Section 3: Preferential Shares
-Preferential Share: Out of the total shares issued, [number] shall be designated as preferred shares. Holders of Preferential Shares are entitled to receive dividends prior to the holders of Ordinary Shares.
-[Optional Clause: The Preferential Shares shall be categorised into a hierarchical structure denoted by alphabetical order (e.g., A, B, C, etc.), with dividend distribution commencing with holders of Preferential Share Class A, followed sequentially by subsequent classes.]
-[Optional Clause: Holders of Preferential Shares shall either be precluded from voting at the Company's general meetings or shall have a reduced voting power of 1/x per share.]
 
-Shareholders
-Initial shareholders: The initial shareholders of the Company and their respective membership interests are as follows:
-[Shareholder 1 Name], holding [Percentage]% of the membership interest, valued at [value].
-[Shareholder 2 Name], holding [Percentage]% of the membership interest, valued at [value].
-[Further details of additional shareholders as applicable].
-Shareholder rights: The specific rights attributed to the shareholders of the Company are:
-[List specific rights of shareholders].
-Equality and classification of Shares: Unless otherwise specified, all shares in the Company shall be equal in value, effect, and shall confer upon their holders equal rights. Alternatively, a system of general shares and various special shares may be established, with:
+##### Section 2: Ordinary Shares
+1. **Ordinary Share:** Holders of Ordinary Shares are entitled to one vote per share at the company's general meetings and are eligible to receive dividends subsequent to the distribution to holders of Preferential Shares.
+2. **At minimum one Ordinary Share:** The Company is mandated to issue a minimum of one Ordinary Share.
+
+##### Section 3: Preferential Shares
+1. **Preferential Share:** Out of the total shares issued, [number] shall be designated as preferred shares. Holders of Preferential Shares are entitled to receive dividends prior to the holders of Ordinary Shares.
+2. [Optional Clause: The Preferential Shares shall be categorised into a hierarchical structure denoted by alphabetical order (e.g., A, B, C, etc.), with dividend distribution commencing with holders of Preferential Share Class A, followed sequentially by subsequent classes.]
+3. [Optional Clause: Holders of Preferential Shares shall either be precluded from voting at the Company's general meetings or shall have a reduced voting power of 1/x per share.]
+
+#### Article 9: Shareholders
+1. **Initial shareholders:** The initial shareholders of the Company and their respective membership interests are as follows:
+
+   a. [Shareholder 1 Name], holding [Percentage]% of the membership interest, valued at [value].
+
+   b. [Shareholder 2 Name], holding [Percentage]% of the membership interest, valued at [value].
+
+   c. [Further details of additional shareholders as applicable].
+2. **Shareholder rights:** The specific rights attributed to the shareholders of the Company are:
+
+    a. [List specific rights of shareholders].
+   
+4. **Equality and classification of Shares:** Unless otherwise specified, all shares in the Company shall be equal in value, effect, and shall confer upon their holders equal rights. Alternatively, a system of general shares and various special shares may be established, with:
 [Details of the system and categories of shares, if applicable; listed per share].
-Share acquisition prerequisite: The prerequisite for acquiring shares in the Company shall be Liberland E-Residency or Citizenship, or a Company the UBOs and Principals of which are Liberland E-Residents or Citizens.
+5. **Share acquisition prerequisite:** The prerequisite for acquiring shares in the Company shall be Liberland E-Residency or Citizenship, or a Company the UBOs and Principals of which are Liberland E-Residents or Citizens.
 
- Shareholder responsibility for Company debts
-Liability for Company debts: Each Shareholder's liability for the debts of the Company shall be limited to the extent of the unpaid portion of their respective share in the Company.
-Additional liability in Liberland Merit (LLM):
-In addition to the above, each Shareholder shall be liable to the extent of their entire politically pooled Liberland Merit (LLM) balance.
-This liability is subject to the limitations imposed by the release schedule of the Liberland Merit (LLM).
+#### Article 10 Shareholder responsibility for Company debts
+1. **Liability for Company debts:** Each Shareholder's liability for the debts of the Company shall be limited to the extent of the unpaid portion of their respective share in the Company.
+2. **Additional liability in Liberland Merit (LLM):** In addition to the above, each Shareholder shall be liable to the extent of their entire politically pooled Liberland Merit (LLM) balance. This liability is subject to the limitations imposed by the release schedule of the Liberland Merit (LLM).
 
-Issuing Share Certificates
-Issuance upon full payment: The Company shall issue Share Certificates to each shareholder upon their official recognition as a shareholder and subsequent to the full payment of their share.
-Complimentary first Share Certificate:
-The first Share Certificate issued to any shareholder shall be provided free of charge; additionally, one Share Certificate per year shall likewise be provided free of charge.
-Subsequently, Share Certificates shall be accordingly issued to each and every shareholder for a charge reflecting the real costs of the operation, including the material and the work.
+#### Article 11: Issuing Share Certificates
+1. **Issuance upon full payment:** The Company shall issue Share Certificates to each shareholder upon their official recognition as a shareholder and subsequent to the full payment of their share.
+2. **Complimentary first Share Certificate:**
 
-Contents and execution of share certificates
-Specifications of a Share Certificate: Each share certificate issued by the Company must specify:
-The total number of shares the certificate represents.
-All other legally required elements (name of the shareholder, shareholder's LL ID number, etc.).
+    a. The first Share Certificate issued to any shareholder shall be provided free of charge; additionally, one Share Certificate per year shall likewise be provided free of charge.
 
-Required Affixations on Share Certificates: Every share certificate must have affixed to it:
-[if applicable: The official seal of the Company.]; and
-The signature of a Principal of the Company.
+    b. Subsequently, Share Certificates shall be accordingly issued to each and every shareholder for a charge reflecting the real costs of the operation, including the material and the work.
 
-Transfer of Membership
+#### Article 12: Contents and execution of share certificates
+1. **Specifications of a Share Certificate:** Each share certificate issued by the Company must specify:
+
+    a. The total number of shares the certificate represents.
+
+    b. All other legally required elements (name of the shareholder, shareholder's LL ID number, etc.).
+3. **Required Affixations on Share Certificates:** Every share certificate must have affixed to it:
+
+    a. [if applicable: The official seal of the Company.]; and
+
+    b. The signature of a Principal of the Company.
+
+#### Article 13: Transfer of Membership
 Transfer of membership in the Company shall be executed exclusively through the transfer of shares.
 
-Title 3: Statutory Organ
-Statutory Organ
-Composition of the Statutory Organ: The Statutory Organ of the Company shall comprise the following designated individuals, who individually shall be referred to as the Principals of the Company:
-[Insert Name and Position of Statutory Organ Member 1]
-[Insert Name and Position of Statutory Organ Member 2]
-[Include additional members as necessary, with relevant details].
-Authority of Individual Principals: Each Principal, as a member of the Statutory Organ, is vested with the authority to individually represent the Company. [Optional: in accordance with the following provisions:
+### Title 3: Statutory Organ
+#### Article 14: Statutory Organ
+1. **Composition of the Statutory Organ:** The Statutory Organ of the Company shall comprise the following designated individuals, who individually shall be referred to as the Principals of the Company:
+
+    a. [Insert Name and Position of Statutory Organ Member 1]
+
+    b. [Insert Name and Position of Statutory Organ Member 2]
+
+    c. [Include additional members as necessary, with relevant details].
+
+2. Authority of Individual Principals: Each Principal, as a member of the Statutory Organ, is vested with the authority to individually represent the Company. [Optional: in accordance with the following provisions:
 Optional: Specify rules for joint signatures or other limitations, if applicable].
 
-Appointing and dismissing Principals
+#### Article 15: Appointing and dismissing Principals
 The appointment or dismissal of Principals shall be executed through the amendment of this Charter. Therefore, sole authority to appoint or dismiss Principals is vested in the Shareholder Meeting.
 The Shareholder Meeting retains exclusive rights to:
-Increase or decrease the number of Principals.
-Amend or modify the powers and responsibilities assigned to existing Principals.
-The Company shall maintain the appointment of at least one Principal at all times.
+ 
+    a. Increase or decrease the number of Principals.
 
-Responsibilities and powers of the Statutory Organs
-Governance of Day-to-Day Operations: The Statutory Organ shall govern the day-to-day operations of the Company. It shall be responsible for ensuring that the Company efficiently performs its functions and generates profits in the course of its operations.
-Establishment of Bylaws:
-The Statutory Organ is authorised to establish such bylaws as are clearly necessary for the orderly facilitation of the Company's routine, day-to-day operations.
-These bylaws must remain within the framework of this Charter and comply with bylaws issued by the Shareholder Meeting.
+    b. Amend or modify the powers and responsibilities assigned to existing Principals.
 
-Eligibility for Statutory Organ Membership
+    c. The Company shall maintain the appointment of at least one Principal at all times.
+
+#### Article 16: Responsibilities and powers of the Statutory Organs
+
+1. **Governance of Day-to-Day Operations:** The Statutory Organ shall govern the day-to-day operations of the Company. It shall be responsible for ensuring that the Company efficiently performs its functions and generates profits in the course of its operations.
+
+2. **Establishment of Bylaws:**
+
+    a. The Statutory Organ is authorised to establish such bylaws as are clearly necessary for the orderly facilitation of the Company's routine, day-to-day operations.
+
+    b. These bylaws must remain within the framework of this Charter and comply with bylaws issued by the Shareholder Meeting.
+
+#### Article 17: Eligibility for Statutory Organ Membership
 To be eligible for membership in the Statutory Organ, the following prerequisites must be met:
-The individual must possess either the status of Liberland E-Residency or Citizenship; and
-The individual must express full and informed consent to accept the appointment to the Statutory Organ.
+
+    a. The individual must possess either the status of Liberland E-Residency or Citizenship; and
+
+    b. The individual must express full and informed consent to accept the appointment to the Statutory Organ.
 
 Fiduciary duty
 Fiduciary duty to the Shareholders: Members of the Statutory Organ and the Organ as a whole shall bear the fiduciary duty to the Shareholders, making well-considered and prudent decisions and always acting on their behalf. They shall bear the following responsibilities:
