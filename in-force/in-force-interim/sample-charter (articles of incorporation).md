@@ -1,25 +1,25 @@
 # Charter of [Your Company Name]
 ## Title 1: Basic Company information
 #### Article 1: Trade Name
-**Official Name:** The Liberland Company herein shall be officially named "[Your Company Name]", hereinafter referred to as "the Company."
-**Use of other Registered Names:** The Company is authorised to conduct business under its Official name and its other legally registered names, provided these are registered and published in the official Liberland Company Registry.
-**List of other  Registered Names:** The list of registered names for the Company, besides its Official name, shall exclusively include the following:
+1. **Official Name:** The Liberland Company herein shall be officially named "[Your Company Name]", hereinafter referred to as "the Company."
+2. **Use of other Registered Names:** The Company is authorised to conduct business under its Official name and its other legally registered names, provided these are registered and published in the official Liberland Company Registry.
+3. **List of other  Registered Names:** The list of registered names for the Company, besides its Official name, shall exclusively include the following:
 
-a. [Insert Registered Name 1]
+    a. [Insert Registered Name 1]
 
-b. [Insert Registered Name 2]
+    b. [Insert Registered Name 2]
 
-c. [Additional Registered Names as applicable]
+    c. [Additional Registered Names as applicable]
 
 #### Article 2: Registered Office
-**Primary Registered Office:** The principal registered office of the Company shall be located at [Your Business Address], where an authorised representative of the Company will be accessible within business hours, subject to possible exceptions.
-**Additional Registered Addresses:** In addition to the primary registered office, the Company shall maintain other registered addresses, which include the following:
+1. **Primary Registered Office:** The principal registered office of the Company shall be located at [Your Business Address], where an authorised representative of the Company will be accessible within business hours, subject to possible exceptions.
+2. **Additional Registered Addresses:** In addition to the primary registered office, the Company shall maintain other registered addresses, which include the following:
 
-a. [Insert Address 1]
+   a. [Insert Address 1]
 
-b. [Insert Address 2]
+   b. [Insert Address 2]
 
-c. [Additional Addresses as applicable]
+   c. [Additional Addresses as applicable]
 
 #### Article 3: Accessibility by electronic communications
 **Electronic communications accessibility:** In addition to the Registered Office and additional Registered Addresses, authorised representatives of the Company will be accessible using methods of electronic communication.
