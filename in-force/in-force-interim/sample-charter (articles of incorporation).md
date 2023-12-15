@@ -201,24 +201,24 @@ The Company shall adopt two primary processes for decision-making:
 #### Article 23: Hierarchy of decisions
 1. **Preference for Bylaws:**
 
-    a. When a matter can be addressed either through a bylaw or an ad-hoc decision, formulating a bylaw shall be the preferred approach.
+   a. When a matter can be addressed either through a bylaw or an ad-hoc decision, formulating a bylaw shall be the preferred approach.
 
-    b. Nonetheless, an ad-hoc decision, if subsequently codified into a bylaw, remains fully valid and effective, especially in urgent scenarios.
+   b. Nonetheless, an ad-hoc decision, if subsequently codified into a bylaw, remains fully valid and effective, especially in urgent scenarios.
    
 3. **Hierarchy of Bylaws:**
 
-    a. The bylaws of the Company shall be structured hierarchically.
+   a. The bylaws of the Company shall be structured hierarchically.
 
-    b. The Charter shall be regarded as the supreme bylaw and the foremost organisational document, subject only to the overarching jurisdiction of applicable Law.
+   b. The Charter shall be regarded as the supreme bylaw and the foremost organisational document, subject only to the overarching jurisdiction of applicable Law.
 
 #### Article 24: Dissolution
 1. **Conditions for Dissolution:** The Company may be dissolved under the following circumstances:
    
-    a. Decision made by the Shareholder Meeting reaching the quorum of ⅔ majority of all members possessing a Share-based vote, not just present members participating in the vote;
+   a. Decision made by the Shareholder Meeting reaching the quorum of ⅔ majority of all members possessing a Share-based vote, not just present members participating in the vote;
 
-    b. As mandated by this Charter; or
+   b. As mandated by this Charter; or
 
-    c. As directed by the Law.
+   c. As directed by the Law.
    
 3. **Distribution of Assets upon Dissolution:** In the event of dissolution, the assets of the Company shall be distributed in the following order:
 
