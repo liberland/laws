@@ -150,73 +150,107 @@ To be eligible for membership in the Statutory Organ, the following prerequisite
 
 #### Article 18: Fiduciary duty
 1. **Fiduciary duty to the Shareholders:** Members of the Statutory Organ and the Organ as a whole shall bear the fiduciary duty to the Shareholders, making well-considered and prudent decisions and always acting on their behalf. They shall bear the following responsibilities:
-    a. **Duty of Care:** This is the responsibility to inform oneself as completely as possible in order to exercise sound judgments that protect a beneficiary's interests. It can involve the thoughtful consideration of options and sensible decision-making that's based on a careful examination of available information.
-    b. **Duty of Loyalty:** This pertains to acting in the best interest of the beneficiary at all times, putting their well-being first and foremost. It includes the fiduciary's duty to excuse themselves from taking action when there's a conflict of interest with the beneficiary's welfare.
-    c. **Duty of Good Faith:** This duty pertains to always acting within the law to advance the interests of the beneficiary. At no time should the fiduciary take actions that are outside of legal constraints.
-    d. **Duty of Confidentiality:** A fiduciary must maintain the confidentiality of all information relating to the beneficiary. They must not use any form of it, whether written or spoken, for their personal gain that would damage the company in any way, especially reputational and by missed profit.
-    e. **Duty of Prudence:** Fiduciaries must administer matters and make decisions concerning the interests of beneficiaries with the highest degree of professional skill, caution, and critical awareness of risk.
-    f. **Duty to Disclose:** Fiduciaries must engage in completely forthright behaviour, disclosing any and all relevant information that could have an impact on their ability to carry out their duties as fiduciaries and/or on the well-being of a beneficiary's interests.
-2. **Personal financial responsibility for damages:** Breaches of this fiduciary duty shall result in personal financial responsibility, where the Principal in question, or the entire Statutory Organ, where applicable, are found in breach of their fiduciary duty and where this breach has led to any damages. 
-3. **Disciplinary responsibility:** Even without damages, however, members of the Statutory Organ found in breach of duty can expect sanctions including but not limited to being removed from their office.
+
+   a. **Duty of Care:** This is the responsibility to inform oneself as completely as possible in order to exercise sound judgments that protect a beneficiary's interests. It can involve the thoughtful consideration of options and sensible decision-making that's based on a careful examination of available information.
+
+   b. **Duty of Loyalty:** This pertains to acting in the best interest of the beneficiary at all times, putting their well-being first and foremost. It includes the fiduciary's duty to excuse themselves from taking action when there's a conflict of interest with the beneficiary's welfare.
+ 
+   c. **Duty of Good Faith:** This duty pertains to always acting within the law to advance the interests of the beneficiary. At no time should the fiduciary take actions that are outside of legal constraints.
+
+   d. **Duty of Confidentiality:** A fiduciary must maintain the confidentiality of all information relating to the beneficiary. They must not use any form of it, whether written or spoken, for their personal gain that would damage the company in any way, especially reputational and by missed profit.
+
+   e. **Duty of Prudence:** Fiduciaries must administer matters and make decisions concerning the interests of beneficiaries with the highest degree of professional skill, caution, and critical awareness of risk.
+
+   f. **Duty to Disclose:** Fiduciaries must engage in completely forthright behaviour, disclosing any and all relevant information that could have an impact on their ability to carry out their duties as fiduciaries and/or on the well-being of a beneficiary's interests.
+   
+3. **Personal financial responsibility for damages:** Breaches of this fiduciary duty shall result in personal financial responsibility, where the Principal in question, or the entire Statutory Organ, where applicable, are found in breach of their fiduciary duty and where this breach has led to any damages. 
+4. **Disciplinary responsibility:** Even without damages, however, members of the Statutory Organ found in breach of duty can expect sanctions including but not limited to being removed from their office.
 
 ### Title 4: Shareholder Meeting
 #### Article 19: Shareholder Meeting
 1. **Supreme Organ of the Company:** The Shareholder Meeting shall be recognised as the supreme organ of the Company, vested with comprehensive authority to modify any aspect of the Company's operations, including interventions into the Statutory organ’s regular authority.
 2. **Exclusive powers of the Shareholder Meeting:** The following powers shall be exclusively reserved for the Shareholder Meeting:
+
     a. **Amendment of the Charter:** The authority to amend, repeal, or replace this Charter.
+
     b. **Changes to the Statutory Organ:** The power to make any modifications to the Statutory Organ, including but not limited to appointing new members, dismissing members and issuing binding instructions to the Statutory Organ or its individual members.
+
     c. **Establishment of foundational Bylaws:** The capacity to set up bylaws that alter foundational aspects of the Company. This includes the adoption of bylaws that are not clearly necessary for facilitating the routine, day-to-day operation of the Company but are more permanent or extraordinary in their nature.
 
 #### Article 20: Decision-making by the Shareholder Meeting
 1. **Method of voting:** Decisions within the Shareholder Meeting shall be made by secret ballot. This shall occur
+
     a. In-person in a physical meeting or
+ 
     b. Per Rollam, using provably secure methods of electronic communication, subject to regular independent audits.
-2. **Voting rights of shareholders:** Each shareholder shall have voting rights in proportion to their shareholding in the Company and according to their share type during these votes.
+   
+3. **Voting rights of shareholders:** Each shareholder shall have voting rights in proportion to their shareholding in the Company and according to their share type during these votes.
 
 #### Article 21: Allocation and distribution of profits and losses
 1. **Allocation of profits and losses:** Profits and losses of the Company shall be allocated to the shareholders in exact proportion to their respective shares in the Company and in accordance with their share type and associated rights.
 2. **Distribution schedule:** Distribution of profits shall be made annually at the beginning of each Fiscal Year, per decision of the voting shareholders, and in accordance with any special rights of any particular share type.
 
-Title 5: Company decision-making
-Decision types
+### Title 5: Company decision-making
+#### Article 22: Decision types
 The Company shall adopt two primary processes for decision-making:
-Ad-hoc decisions To address immediate or anticipated issues; or
-Bylaws: Formal documents stipulating the future conduct of the Company and its representatives, including employees, contractors, and partners.
 
-Hierarchy of decisions
-Preference for Bylaws:
-When a matter can be addressed either through a bylaw or an ad-hoc decision, formulating a bylaw shall be the preferred approach.
-Nonetheless, an ad-hoc decision, if subsequently codified into a bylaw, remains fully valid and effective, especially in urgent scenarios.
-Hierarchy of Bylaws:
-The bylaws of the Company shall be structured hierarchically.
-The Charter shall be regarded as the supreme bylaw and the foremost organisational document, subject only to the overarching jurisdiction of applicable Law.
+   a. **Ad-hoc decisions** To address immediate or anticipated issues; or
+    
+   b. **Bylaws:** Formal documents stipulating the future conduct of the Company and its representatives, including employees, contractors, and partners.
 
-Dissolution
-Conditions for Dissolution: The Company may be dissolved under the following circumstances:
-Decision made by the Shareholder Meeting reaching the quorum of ⅔ majority of all members possessing a Share-based vote, not just present members participating in the vote;
-As mandated by this Charter; or
-As directed by the Law.
-Distribution of Assets upon Dissolution: In the event of dissolution, the assets of the Company shall be distributed in the following order:
-First, to creditors, including Shareholders who are creditors.
-Subsequently, to Shareholder in proportion to their respective capital contributions.
-Title 6: General Provisions
-Indemnification
-Indemnification: The Company shall indemnify any Shareholder, Principal, or agent of the Company to the fullest extent permitted by law.
-Scope of Indemnification: This indemnification covers expenses and liabilities incurred in connection with activities undertaken on behalf of the Company.
+#### Article 23: Hierarchy of decisions
+1. **Preference for Bylaws:**
 
-Amendments
-Amendment process: This Charter may be amended through a vote that secures the approval of [specify percentage] of the voting shareholder interests.
-Principles governing amendments: Any amendment process shall adhere to principles of fairness and transparency.
+    a. When a matter can be addressed either through a bylaw or an ad-hoc decision, formulating a bylaw shall be the preferred approach.
 
-Governing law
+    b. Nonetheless, an ad-hoc decision, if subsequently codified into a bylaw, remains fully valid and effective, especially in urgent scenarios.
+   
+3. **Hierarchy of Bylaws:**
+
+    a. The bylaws of the Company shall be structured hierarchically.
+
+    b. The Charter shall be regarded as the supreme bylaw and the foremost organisational document, subject only to the overarching jurisdiction of applicable Law.
+
+#### Article 24: Dissolution
+1. **Conditions for Dissolution:** The Company may be dissolved under the following circumstances:
+   
+    a. Decision made by the Shareholder Meeting reaching the quorum of ⅔ majority of all members possessing a Share-based vote, not just present members participating in the vote;
+
+    b. As mandated by this Charter; or
+
+    c. As directed by the Law.
+   
+3. **Distribution of Assets upon Dissolution:** In the event of dissolution, the assets of the Company shall be distributed in the following order:
+
+   a. First, to creditors, including Shareholders who are creditors.
+
+   b. Subsequently, to Shareholder in proportion to their respective capital contributions.
+
+### Title 6: General Provisions
+#### Article 25: Indemnification
+1. **Indemnification:** The Company shall indemnify any Shareholder, Principal, or agent of the Company to the fullest extent permitted by law.
+
+2. **Scope of Indemnification:** This indemnification covers expenses and liabilities incurred in connection with activities undertaken on behalf of the Company.
+
+#### Article 26: Amendments
+
+1. **Amendment process:** This Charter may be amended through a vote that secures the approval of [specify percentage] of the voting shareholder interests.
+
+2. **Principles governing amendments:** Any amendment process shall adhere to principles of fairness and transparency.
+
+#### Article 27: Governing law
 These Articles of Incorporation and the operations of the company shall be governed by and construed in accordance with the laws of Liberland.
-Dispute resolution
+
+#### Article 28: Dispute resolution
 Any disputes arising out of the company’s operations involving the company, its Shareholders, or Principals, shall be resolved through arbitration or mediation, as stipulated in the Operating Agreement.
-Fiscal year
+
+#### Article 29: Fiscal year
 The first Fiscal year starts with the Company's date of incorporation and lasts until the hereby specified date when the next fiscal year starts: [date].
-Recordkeeping
+
+#### Article 30: Recordkeeping
 The company shall maintain accurate and complete records of its business and affairs, as required by law and as necessary for the proper conduct of its business.
-Severability
+
+#### Article 31: Severability
 If any provision of these Articles is found to be invalid or unenforceable, such invalidity or unenforceability shall not affect the remaining provisions, which shall remain in full force and effect.
 
 In witness whereof, the undersigned have executed this Charter on this [Date].
