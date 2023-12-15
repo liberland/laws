@@ -148,34 +148,34 @@ To be eligible for membership in the Statutory Organ, the following prerequisite
 
     b. The individual must express full and informed consent to accept the appointment to the Statutory Organ.
 
-Fiduciary duty
-Fiduciary duty to the Shareholders: Members of the Statutory Organ and the Organ as a whole shall bear the fiduciary duty to the Shareholders, making well-considered and prudent decisions and always acting on their behalf. They shall bear the following responsibilities:
-Duty of Care: This is the responsibility to inform oneself as completely as possible in order to exercise sound judgments that protect a beneficiary's interests. It can involve the thoughtful consideration of options and sensible decision-making that's based on a careful examination of available information.
-Duty of Loyalty: This pertains to acting in the best interest of the beneficiary at all times, putting their well-being first and foremost. It includes the fiduciary's duty to excuse themselves from taking action when there's a conflict of interest with the beneficiary's welfare.
-Duty of Good Faith: This duty pertains to always acting within the law to advance the interests of the beneficiary. At no time should the fiduciary take actions that are outside of legal constraints.
-Duty of Confidentiality: A fiduciary must maintain the confidentiality of all information relating to the beneficiary. They must not use any form of it, whether written or spoken, for their personal gain that would damage the company in any way, especially reputational and by missed profit.
-Duty of Prudence: Fiduciaries must administer matters and make decisions concerning the interests of beneficiaries with the highest degree of professional skill, caution, and critical awareness of risk.
-Duty to Disclose: Fiduciaries must engage in completely forthright behaviour, disclosing any and all relevant information that could have an impact on their ability to carry out their duties as fiduciaries and/or on the well-being of a beneficiary's interests.
-Personal financial responsibility for damages: Breaches of this fiduciary duty shall result in personal financial responsibility, where the Principal in question, or the entire Statutory Organ, where applicable, are found in breach of their fiduciary duty and where this breach has led to any damages. 
-Disciplinary responsibility: Even without damages, however, members of the Statutory Organ found in breach of duty can expect sanctions including but not limited to being removed from their office.
+#### Article 18: Fiduciary duty
+1. **Fiduciary duty to the Shareholders:** Members of the Statutory Organ and the Organ as a whole shall bear the fiduciary duty to the Shareholders, making well-considered and prudent decisions and always acting on their behalf. They shall bear the following responsibilities:
+    a. **Duty of Care:** This is the responsibility to inform oneself as completely as possible in order to exercise sound judgments that protect a beneficiary's interests. It can involve the thoughtful consideration of options and sensible decision-making that's based on a careful examination of available information.
+    b. **Duty of Loyalty:** This pertains to acting in the best interest of the beneficiary at all times, putting their well-being first and foremost. It includes the fiduciary's duty to excuse themselves from taking action when there's a conflict of interest with the beneficiary's welfare.
+    c. **Duty of Good Faith:** This duty pertains to always acting within the law to advance the interests of the beneficiary. At no time should the fiduciary take actions that are outside of legal constraints.
+    d. **Duty of Confidentiality:** A fiduciary must maintain the confidentiality of all information relating to the beneficiary. They must not use any form of it, whether written or spoken, for their personal gain that would damage the company in any way, especially reputational and by missed profit.
+    e. **Duty of Prudence:** Fiduciaries must administer matters and make decisions concerning the interests of beneficiaries with the highest degree of professional skill, caution, and critical awareness of risk.
+    f. **Duty to Disclose:** Fiduciaries must engage in completely forthright behaviour, disclosing any and all relevant information that could have an impact on their ability to carry out their duties as fiduciaries and/or on the well-being of a beneficiary's interests.
+2. **Personal financial responsibility for damages:** Breaches of this fiduciary duty shall result in personal financial responsibility, where the Principal in question, or the entire Statutory Organ, where applicable, are found in breach of their fiduciary duty and where this breach has led to any damages. 
+3. **Disciplinary responsibility:** Even without damages, however, members of the Statutory Organ found in breach of duty can expect sanctions including but not limited to being removed from their office.
 
-Title 4: Shareholder Meeting
-Shareholder Meeting
-Supreme Organ of the Company: The Shareholder Meeting shall be recognised as the supreme organ of the Company, vested with comprehensive authority to modify any aspect of the Company's operations, including interventions into the Statutory organ’s regular authority.
-Exclusive powers of the Shareholder Meeting: The following powers shall be exclusively reserved for the Shareholder Meeting:
-Amendment of the Charter: The authority to amend, repeal, or replace this Charter.
-Changes to the Statutory Organ: The power to make any modifications to the Statutory Organ, including but not limited to appointing new members, dismissing members and issuing binding instructions to the Statutory Organ or its individual members.
-Establishment of foundational Bylaws: The capacity to set up bylaws that alter foundational aspects of the Company. This includes the adoption of bylaws that are not clearly necessary for facilitating the routine, day-to-day operation of the Company but are more permanent or extraordinary in their nature.
+### Title 4: Shareholder Meeting
+#### Article 19: Shareholder Meeting
+1. **Supreme Organ of the Company:** The Shareholder Meeting shall be recognised as the supreme organ of the Company, vested with comprehensive authority to modify any aspect of the Company's operations, including interventions into the Statutory organ’s regular authority.
+2. **Exclusive powers of the Shareholder Meeting:** The following powers shall be exclusively reserved for the Shareholder Meeting:
+    a. **Amendment of the Charter:** The authority to amend, repeal, or replace this Charter.
+    b. **Changes to the Statutory Organ:** The power to make any modifications to the Statutory Organ, including but not limited to appointing new members, dismissing members and issuing binding instructions to the Statutory Organ or its individual members.
+    c. **Establishment of foundational Bylaws:** The capacity to set up bylaws that alter foundational aspects of the Company. This includes the adoption of bylaws that are not clearly necessary for facilitating the routine, day-to-day operation of the Company but are more permanent or extraordinary in their nature.
 
-Decision-making by the Shareholder Meeting
-Method of voting: Decisions within the Shareholder Meeting shall be made by secret ballot. This shall occur
-In-person in a physical meeting or
-Per Rollam, using provably secure methods of electronic communication, subject to regular independent audits.
-Voting rights of shareholders: Each shareholder shall have voting rights in proportion to their shareholding in the Company and according to their share type during these votes.
+#### Article 20: Decision-making by the Shareholder Meeting
+1. **Method of voting:** Decisions within the Shareholder Meeting shall be made by secret ballot. This shall occur
+    a. In-person in a physical meeting or
+    b. Per Rollam, using provably secure methods of electronic communication, subject to regular independent audits.
+2. **Voting rights of shareholders:** Each shareholder shall have voting rights in proportion to their shareholding in the Company and according to their share type during these votes.
 
-Allocation and distribution of profits and losses
-Allocation of profits and losses: Profits and losses of the Company shall be allocated to the shareholders in exact proportion to their respective shares in the Company and in accordance with their share type and associated rights.
-Distribution schedule: Distribution of profits shall be made annually at the beginning of each Fiscal Year, per decision of the voting shareholders, and in accordance with any special rights of any particular share type.
+#### Article 21: Allocation and distribution of profits and losses
+1. **Allocation of profits and losses:** Profits and losses of the Company shall be allocated to the shareholders in exact proportion to their respective shares in the Company and in accordance with their share type and associated rights.
+2. **Distribution schedule:** Distribution of profits shall be made annually at the beginning of each Fiscal Year, per decision of the voting shareholders, and in accordance with any special rights of any particular share type.
 
 Title 5: Company decision-making
 Decision types
