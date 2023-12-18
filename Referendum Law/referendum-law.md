@@ -1,6 +1,7 @@
 # Interim Referendum Law
 
 ## Preamble
+In the spirit of upholding the democratic values and principles enshrined in the Constitution of Liberland, and in recognition of the unique and progressive governance model that combines direct democracy with elements of representative democracy and corporate governance, this Referendum Law is hereby proposed. It seeks to codify the constitutional provisions related to referenda, direct citizen involvement in the legislative process, and the use of innovative technologies in the democratic exercise, ensuring that the voices of all Citizens are heard, respected, and effectively translated into the legislative fabric of Liberland.
 
 WHEREAS, the Constitution of Liberland, under Article 72 Section 1, provides for exceptional derogations from the Non-Aggression Principle, allowing for non-consensual democratic processes when circumstances necessitate;
 
