@@ -75,11 +75,11 @@ The judiciary in Liberland shall be independent of the executive and legislative
    
    a. commits an act or omission resulting in:
    
-    i. Disrespect towards the court;
+     i. Disrespect towards the court;
    
-    ii. Interference with court proceedings; and
+     ii. Interference with court proceedings; and
    
-    iii. Undermining the authority of the court;
+     iii. Undermining the authority of the court;
          when such conduct leads to tangible consequences such as increased Court Costs, procedural delays, or other damages incurred by the State or other parties involved; or
    
    b. Engages in an act for which Contempt of Court is prescribed as a consequence in this Law;
@@ -279,256 +279,348 @@ Authorities responsible for the appointment of Judges must ensure that appointee
 ##### Section 3: Exceptional Circumstances
 1. In cases where qualified legal professionals are objectively scarce, the responsible authorities may appoint the most competent individuals available.
 2. Such authorities must notify the Ministry of Justice of these appointments. The Ministry of Justice reserves the right to reject such appointments without unnecessary delays in maximal 15 days after the notification if the reasons provided are insufficient or if the appointee clearly lacks the basic ability to perform their duties.
-Composition of Judicial Panels
-Section 1: Number of Judges and Decision-Making
-In cases presided over by multiple Judges, the Judicial Panel shall consist of an odd number of Judges.
-In general, all Judges on a Judicial Panel shall have equal decision-making power.
-In the event of a tie, one designated Judge on the Judicial Panel shall have the deciding vote.
-Section 2: Voting Procedure
-In general voting procedures, whether on a decision, order, warrant or a process measure, the Judge with the highest seniority shall cast their vote first, followed by the remaining Judges in descending order of seniority.
-In voting concerning criminal law, delicts, or any form of disciplinary action involving the determination of guilt or innocence, the most junior Judge shall cast their vote first. Voting shall then proceed in ascending order of seniority, culminating with the most senior Judge.
-Assigning Judges
-Each court shall establish rules according to which Judges are assigned to cases and shall respect those rules in all matters.
-No party shall be deprived of a Judge assigned to them, except 
-where the party gives their express permission or 
-in cases where objective circumstances beyond the Party’s or the Court’s control prevent this, for instance, the death or a serious illness of the Judge.
-Impartiality
-The Judge shall act impartially and in the interest of justice, upholding legitimately obtained private property and being mindful of the personal situations of the parties and their power differences.
-If a party suspects partiality, they may appeal to the court, which shall appoint three Judges to decide on the impartiality of the fellow Judge. A Judge in self-doubt of being partial may also initiate this process themselves.
-Partial Judges
-Section 1: General rules on Partiality
+
+#### Article 31: Composition of Judicial Panels
+##### Section 1: Number of Judges and Decision-Making
+1. In cases presided over by multiple Judges, the Judicial Panel shall consist of an odd number of Judges.
+2. In general, all Judges on a Judicial Panel shall have equal decision-making power.
+3. In the event of a tie, one designated Judge on the Judicial Panel shall have the deciding vote.
+
+##### Section 2: Voting Procedure
+1. In general voting procedures, whether on a decision, order, warrant or a process measure, the Judge with the highest seniority shall cast their vote first, followed by the remaining Judges in descending order of seniority.
+2. In voting concerning criminal law, delicts, or any form of disciplinary action involving the determination of guilt or innocence, the most junior Judge shall cast their vote first. Voting shall then proceed in ascending order of seniority, culminating with the most senior Judge.
+   
+#### Article 32: Assigning Judges
+1. Each court shall establish rules according to which Judges are assigned to cases and shall respect those rules in all matters.
+2. No party shall be deprived of a Judge assigned to them, except
+   
+    a. where the party gives their express permission or
+   
+    b. in cases where objective circumstances beyond the Party’s or the Court’s control prevent this, for instance, the death or a serious illness of the Judge.
+
+#### Article 33: Impartiality
+1. The Judge shall act impartially and in the interest of justice, upholding legitimately obtained private property and being mindful of the personal situations of the parties and their power differences.
+2. If a party suspects partiality, they may appeal to the court, which shall appoint three Judges to decide on the impartiality of the fellow Judge. A Judge in self-doubt of being partial may also initiate this process themselves.
+
+#### Article 34: Partial Judges
+##### Section 1: General rules on Partiality
 A Judge who has a personal connection to one or more of the parties or the object of the case shall be deemed partial where that connection is Judged sufficient to influence their decision-making.
-Section 2: Consequences for Partial Judges
-A partial Judge shall be replaced according to the rules of the court. 
-Partiality in itself shall not be counted against the Judge without it having led to unjust decisions or breaches of due process or without it having been found in aggravating circumstances, in particular that the Judge must have known that they were partial and has not reported it, or Judges accepting bribes or undue gifts or lending. Only judges found partial in aggravating circumstances might be considered for Disciplinary measures.
-Reporting Partiality in self-doubt will be an extenuating circumstance where Disciplinary measures are considered in case of aggravating circumstances.
-The Court or a higher Court, where applicable, shall re-examine a judicial decision made and a judicial process presided by a partial Judge, regardless of the procedural stage at which partiality has been established.
-Section 3: Prohibition of accepting bribes
-Judges are strictly prohibited from accepting any form of bribe, whether monetary or non-monetary, to influence their judgment, even if intended to favor the meritorious party. A Judge found having accepted a bribe shall be deemed Partial unless proven otherwise with an extreme level of certainty.
-Any accepted bribe shall be returned to the giver upon demand. 
-Both the recipient and giver of the bribe shall be liable for a Delict and the Judge shall be suspended from their duties and replaced and subject to strict disciplinary measures which may involve the Judge’s dismissal.
-Section 4: Restriction on accepting gifts and lending
-Gifts accepted from any party or their representative or any connected party shall be considered bribes. 
-Gifts accepted before the process starts may be grounds to declare partiality where these are judged as sufficient to possibly influence the Judge.
-A judge shall be partial for any case involving a party from whom they have borrowed, unless the borrowing is part of a regular, reciprocal exchange clearly unrelated to the case at hand.
-No communication outside the proper channels
+
+##### Section 2: Consequences for Partial Judges
+1. A partial Judge shall be replaced according to the rules of the court. 
+2. Partiality in itself shall not be counted against the Judge without it having led to unjust decisions or breaches of due process or without it having been found in aggravating circumstances, in particular that the Judge must have known that they were partial and has not reported it, or Judges accepting bribes or undue gifts or lending. Only judges found partial in aggravating circumstances might be considered for Disciplinary measures.
+3. Reporting Partiality in self-doubt will be an extenuating circumstance where Disciplinary measures are considered in case of aggravating circumstances.
+4. The Court or a higher Court, where applicable, shall re-examine a judicial decision made and a judicial process presided by a partial Judge, regardless of the procedural stage at which partiality has been established.
+
+##### Section 3: Prohibition of accepting bribes
+1. Judges are strictly prohibited from accepting any form of bribe, whether monetary or non-monetary, to influence their judgment, even if intended to favor the meritorious party. A Judge found having accepted a bribe shall be deemed Partial unless proven otherwise with an extreme level of certainty.
+2. Any accepted bribe shall be returned to the giver upon demand. 
+3. Both the recipient and giver of the bribe shall be liable for a Delict and the Judge shall be suspended from their duties and replaced and subject to strict disciplinary measures which may involve the Judge’s dismissal.
+
+##### Section 4: Restriction on accepting gifts and lending
+1. Gifts accepted from any party or their representative or any connected party shall be considered bribes. 
+2. Gifts accepted before the process starts may be grounds to declare partiality where these are judged as sufficient to possibly influence the Judge.
+3. A judge shall be partial for any case involving a party from whom they have borrowed, unless the borrowing is part of a regular, reciprocal exchange clearly unrelated to the case at hand.
+
+#### Article 35: No communication outside the proper channels
 After a case has commenced, there shall be, outside of legally prescribed forms of communication, no other communication between the Judge and the parties or between the court and other persons relevant to the case, such as witnesses, unless explicitly permitted by consent of all parties.
-Title 3: Judicial Decisions  
-Standards of decision-making
-The Judge shall base each statement in any Verdict on evidence and well-reasoned logic only and according to law and principles of justice. 
-A Judge may not refuse to render a final Verdict or any other decision prescribed by the judicial process rules applicable once assigned to a case. The decision becomes binding upon the court once signed by the Judge.
-Absolute Material Truth
-The judicial decision-making and judicial proceedings in their entirety shall adhere to the principle of absolute material truth. No legal provision shall be placed above the truth in the pursuit of justice.
-Therefore, no formal rules shall govern the admissibility or interpretation of evidence that would derogate from the best available practices of evaluation and interpretation of evidence. 
-All evidence, even if obtained in gross violation of law or ethics, shall be assessed objectively and based on its specific context and likelihood of accuracy. No evidence shall be made absolutely inadmissible on formal grounds or on principle.
-Consideration of Evidence
-In making judicial decisions, the Judge shall evaluate each piece of evidence individually, considering both its origins and its relevance to the claims it is intended to support. 
-The Judge is obligated to provide a reasoned explanation for their decisions, thoroughly evaluating the facts of the case according to their best judgment.
-The Verdict
-Section 1: Purpose of the Verdict
-The final decision in every case shall be the Verdict, issued by the Judge or the Judicial Panel.
-The purpose of the Verdict is to establish the rights and obligations of the Parties and, indirectly, others in accordance with the Constitution, International Law, the Law of Liberland and the principles of justice.
-Section 2: Form and Content
-The Verdict shall include the Judge's or Judicial Panel's findings of fact and conclusions of law, as well as any orders or directives for the Parties.
-The Verdict shall provide detailed reasoning for each decision and its components, based on:
-Applicable legal provisions;
-Doctrine; and
-Where necessary, commonly upheld principles of justice as are adhered to in civilized countries.
-Section 3: Issuing the Verdict
-The verbal form of the Verdict shall be issued on the last day of the process. Parties may generally assume that this form will stand, barring an appeal, and may act accordingly upon hearing it.
-The written form of the Verdict, which will not differ significantly from the verbal form, shall be delivered to the Parties within 5 days after the conclusion of the proceedings.
-Where possible, the Judge will try to provide an ex tempore Verdict, meaning that the Parties receive the written version of the Verdict on the same day as the verbal form of the Verdict is declared.
-In exceptional circumstances, such as force majeure or extreme complexity, extensions for issuing or drafting the written form may be necessary. Such extensions shall be communicated to the Parties without delay. The time to file an Appeal against the Verdict shall be extended by the number of days the delay took.
-Under no circumstances shall a Verdict be delivered later than 15 workdays after the last day of the process.
-Section 4: Right to Appeal
-All Parties have the right to appeal the Verdict.
-Appeals must be filed within 8 workdays after the written Verdict is delivered to the given Party.
-Section 5: Legal Force
-The Verdict gains legal force either after the expiration of the appeal period or once the appeal process has concluded and affirmed the Verdict. At this point, the parties shall be required to comply with the final Verdict. 
-Upon the Verdict gaining legal force, the Court shall promptly undertake all feasible measures to execute the decision. This may include issuing orders for the payment of damages, seizing collateral, redistributing pooled LLM balances, and by Judicial Directive ordering  specific actions or cessation thereof.
-A Party who is in found in disobedience to a Verdict or to one of the decision stated in it shall be subject to a penalty. The penalty shall range from 500 LLM to 50 000 LLM depending on the severity of the disobedience and its impact on others and their rights.
-Issuing Warrants
-A Judge may issue a warrant to 
-have privately owned premises searched, 
-have an item or a monetary amount seized, 
-arrest, restrict or dictate the movement of a person, in order to facilitate the effectiveness of a judiciary process about them, or
-regulate matters between the parties in a temporary fashion, in order to ensure the stability of the object of the judiciary process.
-permit law enforcement and intelligence agencies to access secure communications that would otherwise be deemed an invasion of privacy.
-A Judge may only issue a warrant upon probable cause supported by sufficiently specific evidence. A Warrant must be sufficiently specifically worded, describing the person or objects concerned, the place of application and the time window of intended application. 
-Types of Warrants
-Section 1: Warrants executed by Law Enforcement
+
+### Title 3: Judicial Decisions  
+#### Article 36: Standards of decision-making
+1. The Judge shall base each statement in any Verdict on evidence and well-reasoned logic only and according to law and principles of justice. 
+2. A Judge may not refuse to render a final Verdict or any other decision prescribed by the judicial process rules applicable once assigned to a case. The decision becomes binding upon the court once signed by the Judge.
+
+#### Article 37: Absolute Material Truth
+1. The judicial decision-making and judicial proceedings in their entirety shall adhere to the principle of absolute material truth. No legal provision shall be placed above the truth in the pursuit of justice.
+2. Therefore, no formal rules shall govern the admissibility or interpretation of evidence that would derogate from the best available practices of evaluation and interpretation of evidence. 
+3. All evidence, even if obtained in gross violation of law or ethics, shall be assessed objectively and based on its specific context and likelihood of accuracy. No evidence shall be made absolutely inadmissible on formal grounds or on principle.
+
+#### Article 38: Consideration of Evidence
+1. In making judicial decisions, the Judge shall evaluate each piece of evidence individually, considering both its origins and its relevance to the claims it is intended to support. 
+2. The Judge is obligated to provide a reasoned explanation for their decisions, thoroughly evaluating the facts of the case according to their best judgment.
+
+#### Article 39: The Verdict
+##### Section 1: Purpose of the Verdict
+1. The final decision in every case shall be the Verdict, issued by the Judge or the Judicial Panel.
+2. The purpose of the Verdict is to establish the rights and obligations of the Parties and, indirectly, others in accordance with the Constitution, International Law, the Law of Liberland and the principles of justice.
+
+##### Section 2: Form and Content
+1. The Verdict shall include the Judge's or Judicial Panel's findings of fact and conclusions of law, as well as any orders or directives for the Parties.
+2. The Verdict shall provide detailed reasoning for each decision and its components, based on:
+   
+    a. Applicable legal provisions;
+   
+    b. Doctrine; and
+   
+    c. Where necessary, commonly upheld principles of justice as are adhered to in civilized countries.
+
+##### Section 3: Issuing the Verdict
+1. The verbal form of the Verdict shall be issued on the last day of the process. Parties may generally assume that this form will stand, barring an appeal, and may act accordingly upon hearing it.
+2. The written form of the Verdict, which will not differ significantly from the verbal form, shall be delivered to the Parties within 5 days after the conclusion of the proceedings.
+3. Where possible, the Judge will try to provide an ex tempore Verdict, meaning that the Parties receive the written version of the Verdict on the same day as the verbal form of the Verdict is declared.
+4. In exceptional circumstances, such as force majeure or extreme complexity, extensions for issuing or drafting the written form may be necessary. Such extensions shall be communicated to the Parties without delay. The time to file an Appeal against the Verdict shall be extended by the number of days the delay took.
+5. Under no circumstances shall a Verdict be delivered later than 15 workdays after the last day of the process.
+
+##### Section 4: Right to Appeal
+1. All Parties have the right to appeal the Verdict.
+2. Appeals must be filed within 8 workdays after the written Verdict is delivered to the given Party.
+
+##### Section 5: Legal Force
+1. The Verdict gains legal force either after the expiration of the appeal period or once the appeal process has concluded and affirmed the Verdict. At this point, the parties shall be required to comply with the final Verdict. 
+2. Upon the Verdict gaining legal force, the Court shall promptly undertake all feasible measures to execute the decision. This may include issuing orders for the payment of damages, seizing collateral, redistributing pooled LLM balances, and by Judicial Directive ordering  specific actions or cessation thereof.
+3. A Party who is in found in disobedience to a Verdict or to one of the decision stated in it shall be subject to a penalty. The penalty shall range from 500 LLM to 50 000 LLM depending on the severity of the disobedience and its impact on others and their rights.
+
+#### Article 40: Issuing Warrants
+1. A Judge may issue a warrant to
+   
+    a. have privately owned premises searched,
+   
+    b. have an item or a monetary amount seized,
+   
+    c. arrest, restrict or dictate the movement of a person, in order to facilitate the effectiveness of a judiciary process about them, or
+   
+    d. regulate matters between the parties in a temporary fashion, in order to ensure the stability of the object of the judiciary process.
+   
+    e. permit law enforcement and intelligence agencies to access secure communications that would otherwise be deemed an invasion of privacy.
+   
+3. A Judge may only issue a warrant upon probable cause supported by sufficiently specific evidence. A Warrant must be sufficiently specifically worded, describing the person or objects concerned, the place of application and the time window of intended application. 
+#### Article 41: Types of Warrants
+##### Section 1: Warrants executed by Law Enforcement
 The following types of Warrants shall be executed by Law Enforcement:
-Search Warrants: A search warrant authorizes Law Enforcement Officers to search a specific location for specific items and to seize those items if found.
-Arrest Warrants: An arrest warrant authorizes Law Enforcement Officers to arrest a specific individual based on probable cause that the individual has committed a crime.
-Bench Warrants: A bench warrant is issued by a Judge when a defendant fails to appear in court as required. This authorizes Law Enforcement Officers to arrest the defendant and bring them to court.
-Section 2: Judicial Orders
-Judicial Orders, a distinct category of Warrant, shall be executed by Law Enforcement or other designated State organs. These Orders are crafted to temporarily alter the conditions of parties engaged in a legal dispute. This may involve the imposition of temporary prohibitions or mandates, with the objective of stabilizing the situation to facilitate effective legal adjudication.
-Judicial Orders shall not compel individuals to undertake actions within the scope of other Warrant Types. Non-compliance with these Orders shall be addressed through the application of Delict and corresponding sanctions, as opposed to the direct exertion of force or the threat thereof.
-Execution of Warrants
-Section 1: Process of execution for Warrants
-Organs responsible for the execution of Warrants, henceforth “Responsible Organs”, shall execute warrants in accordance with the terms of the warrant and applicable laws and regulations. When executing a warrant, the responsible organ shall identify themselves, present the warrant to the person subject to the warrant or the occupant of the place to be searched, and provide a receipt for any property seized.
-In exigent circumstances, where there is a risk of imminent harm to persons, destruction of evidence, or flight of a suspect, Law Enforcement Officers may take necessary actions without a warrant, provided that they subsequently obtain a warrant or present the circumstances to a Judge for review.
-Section 2: Reporting and oversight
-Responsible organs, in particular Law Enforcement Agencies, shall maintain records of all warrants issued and executed relevant to their activities, including the basis for the warrant, the items seized, and the outcome of any related proceedings.
-These records shall be subject to periodic review by an independent oversight body to ensure compliance with the law and the protection of individuals' rights.
-Issuance of Judicial Order
-Judicial Orders shall be binding exclusively on the parties involved in the dispute, who are obligated to comply with and, where applicable, execute the terms of the directive.
-Failure to comply with a Judicial Order may result in the imposition of sanctions, up to and including the forfeiture of all points or claims related to the case for the non-compliant party.
-The Judge might set up the specific parameters of the given  a Judicial Order to fit the situation it seeks to address, but it must fall in general into the purview of one of the following categories:
-Injunctive Orders: Short-term orders designed to either restrain or compel specific actions by a party to prevent harm to the opposing party or the integrity of the case.
-Disclosure Orders: Mandates requiring parties to disclose evidence pertinent to the case, including but not limited to documents, records, or sworn statements.
-Protective Orders: Orders aimed at preserving the confidentiality of sensitive information or safeguarding witnesses from undue influence or harassment.
-Procedural Timetable Orders: Orders delineating specific deadlines for various phases of the litigation process, such as discovery, motions, and trial proceedings.
-Asset Preservation Orders: Orders, where warranted, to freeze a party's assets to prevent their liquidation or transfer pending the case's resolution.
-Custodial and Visitation Orders: In family law matters, interim orders may be issued to regulate child custody or visitation arrangements to ensure a stable environment for minors involved.
-Bail and Bond Orders: In criminal matters, orders may be issued to stipulate the conditions for bail or bond to secure the defendant's appearance at subsequent legal proceedings.
-Witness Sequestration Orders: Orders, where appropriate, to isolate witnesses to preclude the possibility of mutual influence on testimonies.
-Delivery
-Section 1: Domestic Delivery Mechanisms
-For Parties within Liberland, electronic delivery shall be the primary method for transmitting case-related communications, including Judicial Decisions.
-In cases where electronic delivery is impractical, physical delivery to registered addresses within Liberland shall be employed.
-Delivery is deemed complete upon verified electronic transmission or upon receipt of registration from a reliable delivery service.
-The presumption of completed delivery may be contested by evidence demonstrating unforeseen and unavoidable delays.
-Section 2: International Delivery Mechanisms
-For foreign Parties, postal services or equivalent delivery mechanisms may be utilized where electronic delivery forms are found insufficient.
-When feasible, cooperation with foreign administrative agencies may be employed to facilitate delivery.
-Section 3: Exceptional Delivery Circumstances
+   
+    a. Search Warrants: A search warrant authorizes Law Enforcement Officers to search a specific location for specific items and to seize those items if found.
+
+    b. Arrest Warrants: An arrest warrant authorizes Law Enforcement Officers to arrest a specific individual based on probable cause that the individual has committed a crime.
+    
+    c. Bench Warrants: A bench warrant is issued by a Judge when a defendant fails to appear in court as required. This authorizes Law Enforcement Officers to arrest the defendant and bring them to court.
+
+##### Section 2: Judicial Orders
+1. Judicial Orders, a distinct category of Warrant, shall be executed by Law Enforcement or other designated State organs. These Orders are crafted to temporarily alter the conditions of parties engaged in a legal dispute. This may involve the imposition of temporary prohibitions or mandates, with the objective of stabilizing the situation to facilitate effective legal adjudication.
+2. Judicial Orders shall not compel individuals to undertake actions within the scope of other Warrant Types. Non-compliance with these Orders shall be addressed through the application of Delict and corresponding sanctions, as opposed to the direct exertion of force or the threat thereof.
+
+#### Article 42: Execution of Warrants
+##### Section 1: Process of execution for Warrants
+1. Organs responsible for the execution of Warrants, henceforth “Responsible Organs”, shall execute warrants in accordance with the terms of the warrant and applicable laws and regulations. When executing a warrant, the responsible organ shall identify themselves, present the warrant to the person subject to the warrant or the occupant of the place to be searched, and provide a receipt for any property seized.
+2. In exigent circumstances, where there is a risk of imminent harm to persons, destruction of evidence, or flight of a suspect, Law Enforcement Officers may take necessary actions without a warrant, provided that they subsequently obtain a warrant or present the circumstances to a Judge for review.
+
+##### Section 2: Reporting and oversight
+1. Responsible organs, in particular Law Enforcement Agencies, shall maintain records of all warrants issued and executed relevant to their activities, including the basis for the warrant, the items seized, and the outcome of any related proceedings.
+2. These records shall be subject to periodic review by an independent oversight body to ensure compliance with the law and the protection of individuals' rights.
+
+#### Article 43: Issuance of Judicial Order
+1. Judicial Orders shall be binding exclusively on the parties involved in the dispute, who are obligated to comply with and, where applicable, execute the terms of the directive.
+2. Failure to comply with a Judicial Order may result in the imposition of sanctions, up to and including the forfeiture of all points or claims related to the case for the non-compliant party.
+3. The Judge might set up the specific parameters of the given  a Judicial Order to fit the situation it seeks to address, but it must fall in general into the purview of one of the following categories:
+
+    a. Injunctive Orders: Short-term orders designed to either restrain or compel specific actions by a party to prevent harm to the opposing party or the integrity of the case.
+
+    b. Disclosure Orders: Mandates requiring parties to disclose evidence pertinent to the case, including but not limited to documents, records, or sworn statements.
+
+    c. Protective Orders: Orders aimed at preserving the confidentiality of sensitive information or safeguarding witnesses from undue influence or harassment.
+
+    d. Procedural Timetable Orders: Orders delineating specific deadlines for various phases of the litigation process, such as discovery, motions, and trial proceedings.
+
+    e. Asset Preservation Orders: Orders, where warranted, to freeze a party's assets to prevent their liquidation or transfer pending the case's resolution.
+
+    f. Custodial and Visitation Orders: In family law matters, interim orders may be issued to regulate child custody or visitation arrangements to ensure a stable environment for minors involved.
+ 
+    g. Bail and Bond Orders: In criminal matters, orders may be issued to stipulate the conditions for bail or bond to secure the defendant's appearance at subsequent legal proceedings.
+ 
+    h. Witness Sequestration Orders: Orders, where appropriate, to isolate witnesses to preclude the possibility of mutual influence on testimonies.
+   
+#### Article 44: Delivery
+##### Section 1: Domestic Delivery Mechanisms
+1. For Parties within Liberland, electronic delivery shall be the primary method for transmitting case-related communications, including Judicial Decisions.
+2. In cases where electronic delivery is impractical, physical delivery to registered addresses within Liberland shall be employed.
+3. Delivery is deemed complete upon verified electronic transmission or upon receipt of registration from a reliable delivery service.
+4. The presumption of completed delivery may be contested by evidence demonstrating unforeseen and unavoidable delays.
+
+##### Section 2: International Delivery Mechanisms
+1. For foreign Parties, postal services or equivalent delivery mechanisms may be utilized where electronic delivery forms are found insufficient.
+2. When feasible, cooperation with foreign administrative agencies may be employed to facilitate delivery.
+
+##### Section 3: Exceptional Delivery Circumstances
 In instances of consistent or prolonged delivery issues, the Court may opt for publicizing the delivery on its official website. Such public announcements shall be considered as finalized deliveries 10 days post-publication.
-Title 4: Jurisdiction of Courts
-Jurisdiction for State Courts
-Section 1: Jurisdiction for Natural Persons Residing in Liberland
-Courts in the quarter or canton where the defendant resides shall have jurisdiction over matters involving natural persons living in Liberland.
-In the absence of local courts, jurisdiction defaults to the General Court of the Free Republic of Liberland.
-Section 2: Jurisdiction for Natural Persons Residing Outside Liberland
+
+### Title 4: Jurisdiction of Courts
+#### Article 45: Jurisdiction for State Courts
+##### Section 1: Jurisdiction for Natural Persons Residing in Liberland
+1. Courts in the quarter or canton where the defendant resides shall have jurisdiction over matters involving natural persons living in Liberland.
+2. In the absence of local courts, jurisdiction defaults to the General Court of the Free Republic of Liberland.
+
+##### Section 2: Jurisdiction for Natural Persons Residing Outside Liberland
 For those living outside Liberland or in a Diaspora Village, jurisdiction is vested in:
-The court in the nearest Diaspora Village to their residence;
-The court in the closest quarter or canton within Liberland;
-The General Court of the Free Republic of Liberland, in cases where local courts are absent or jurisdiction is unclear.
-Section 3: Jurisdiction for Legal Entities
-Legal Entities are subject to jurisdiction based on the same principles as natural persons.
-The official address for determining jurisdiction shall be:
-The address under which the entity is registered in the Liberland registry,
-An alternative registered address, if no local Liberland registration exists.
-Selection of Jurisdiction
-Where an agreement is made between parties that selects jurisdiction, be that a selection of a State court, a Private Court, a foreign court or another institution of adjudication, arbitration or mediation, this shall be respected, overwriting the standard legal provision for determining jurisdiction. 
-A one-sided selection of jurisdiction when performed by the defendant and only in cases where the applicant must have been aware of it and had an a priori choice whether or not to enter into the relationship on which the case is directly based, shall be respected as if it was an agreement between parties.
-Handling Overburdened Courts
-Section 1: Recommendations for Alternate Courts
-If a State Court is overburdened, it may suggest to the Defendant that another State Court could expedite the case, where they have the permission of that State Court to do so.
-The State Court may also recommend Private Courts or, where applicable, foreign courts as alternatives, where they have their permission to do so.
-Section 2: Devolution of Jurisdiction
-If the Applicant agrees to the original Court's suggestion, the recommended Court shall assume jurisdiction.
-The decision to transfer jurisdiction is voluntary and solely at the discretion of the Defendant.
-Section 3: Written Agreement for Private or Foreign Courts
+    
+    a. The court in the nearest Diaspora Village to their residence;
+    
+    b. The court in the closest quarter or canton within Liberland;
+    
+    c. The General Court of the Free Republic of Liberland, in cases where local courts are absent or jurisdiction is unclear.
+
+##### Section 3: Jurisdiction for Legal Entities
+1. Legal Entities are subject to jurisdiction based on the same principles as natural persons.
+2. The official address for determining jurisdiction shall be:
+3. The address under which the entity is registered in the Liberland registry,
+4. An alternative registered address, if no local Liberland registration exists.
+
+#### Article 46: Selection of Jurisdiction
+1. Where an agreement is made between parties that selects jurisdiction, be that a selection of a State court, a Private Court, a foreign court or another institution of adjudication, arbitration or mediation, this shall be respected, overwriting the standard legal provision for determining jurisdiction. 
+2. A one-sided selection of jurisdiction when performed by the defendant and only in cases where the applicant must have been aware of it and had an a priori choice whether or not to enter into the relationship on which the case is directly based, shall be respected as if it was an agreement between parties.
+
+#### Article 47: Handling Overburdened Courts
+##### Section 1: Recommendations for Alternate Courts
+1. If a State Court is overburdened, it may suggest to the Defendant that another State Court could expedite the case, where they have the permission of that State Court to do so.
+2. The State Court may also recommend Private Courts or, where applicable, foreign courts as alternatives, where they have their permission to do so.
+
+##### Section 2: Devolution of Jurisdiction
+1. If the Applicant agrees to the original Court's suggestion, the recommended Court shall assume jurisdiction.
+2. The decision to transfer jurisdiction is voluntary and solely at the discretion of the Defendant.
+
+##### Section 3: Written Agreement for Private or Foreign Courts
 Transferring jurisdiction to a Private Court or a foreign court requires the Applicant’s written agreement.
-Chapter 4: General Court Process
-Title 1: Application and Response
-Application
-Section 1: Filing of Application
+
+## Chapter 4: General Court Process
+### Title 1: Application and Response
+#### Article 48: Application
+##### Section 1: Filing of Application
 A court proceeding shall commence upon the submission of an Application by the applicant to the appropriate court.
-Section 2: Contents of Application
-The Application shall detail the pertinent facts, the legal basis for the claim, and the relief sought by the applicant. It shall present to the Judge the case from the point of view of the Applicant and shall suggest how the Verdict should look from the Applicant’s point of view, including the individual remedies the Judge should apply.
-The Application shall identify all Defendants, defined as individuals or entities whose conduct the applicant seeks to alter through court intervention.
-Delivery
-Upon receipt of an Application, the court shall inform the Respondent or Respondents designated in the Application, directing them to respond to the claim within a designated timeframe or on a specified date where the response session is organized as an in-person event.
-Any subsequent submissions and communications by any Party shall be delivered to all the other Parties, without delay. 
-Response
-The Respondent shall answer the Application by submitting a Response, that is, a counter-Application, describing the facts of the case and the points of law and pleading before the court as to what should the Verdict be and the individual remedies. 
-The rules governing the contents and submission of the Response shall be exactly the same as the rules regarding the Application.
-Title 2: Modifying the Application and Withdrawal
-Modification of the Application
-Section 1: Right to Modify Application
+
+##### Section 2: Contents of Application
+1. The Application shall detail the pertinent facts, the legal basis for the claim, and the relief sought by the applicant. It shall present to the Judge the case from the point of view of the Applicant and shall suggest how the Verdict should look from the Applicant’s point of view, including the individual remedies the Judge should apply.
+2. The Application shall identify all Defendants, defined as individuals or entities whose conduct the applicant seeks to alter through court intervention.
+
+#### Article 49: Delivery
+1. Upon receipt of an Application, the court shall inform the Respondent or Respondents designated in the Application, directing them to respond to the claim within a designated timeframe or on a specified date where the response session is organized as an in-person event.
+2. Any subsequent submissions and communications by any Party shall be delivered to all the other Parties, without delay. 
+
+#### Article 50: Response
+1. The Respondent shall answer the Application by submitting a Response, that is, a counter-Application, describing the facts of the case and the points of law and pleading before the court as to what should the Verdict be and the individual remedies. 
+2. The rules governing the contents and submission of the Response shall be exactly the same as the rules regarding the Application.
+
+### Title 2: Modifying the Application and Withdrawal
+#### Article 51: Modification of the Application
+##### Section 1: Right to Modify Application
 The applicant may modify the Application at any time, which may result in changes to the case. If this leads to increased court costs, the applicant shall be responsible for paying these costs before the case can be amended.
-Section 2: Modification Costs
-If the modification causes damages to a respondent, and those damages arise solely or predominantly from the applicant's negligence or frivolous modifications, the applicant shall be liable for compensating the respondent(s) for the damages and any additional court costs.
-The case shall be amended upon the applicant's payment of the full court costs and damages to respondents, where applicable. Until full payment is made, the court shall proceed as if no modification was requested. Any court costs incurred during this time must also be paid before the change can take effect.
-If the applicant fails to pay the full amount of court costs and damages to respondents, where required, within five days after the modification is submitted, the modification shall be disregarded, and the case shall remain unchanged.
-Section 3: Malicious Modifications
+
+##### Section 2: Modification Costs
+1. If the modification causes damages to a respondent, and those damages arise solely or predominantly from the applicant's negligence or frivolous modifications, the applicant shall be liable for compensating the respondent(s) for the damages and any additional court costs.
+2. The case shall be amended upon the applicant's payment of the full court costs and damages to respondents, where applicable. Until full payment is made, the court shall proceed as if no modification was requested. Any court costs incurred during this time must also be paid before the change can take effect.
+3. If the applicant fails to pay the full amount of court costs and damages to respondents, where required, within five days after the modification is submitted, the modification shall be disregarded, and the case shall remain unchanged.
+
+##### Section 3: Malicious Modifications
 If the modification would cause significant damages or issues to the respondent(s), or if the modification is made solely or predominantly to harm the respondents directly, or if the Judge deems the modification to be entirely frivolous, the Judge may summarily dismiss the modification, and the case shall remain unchanged.
-Withdrawal of the Application
-The applicant may terminate the judicial process by withdrawing their Application. In non-controversial cases, they can do so at any time.
-In controversial cases, withdrawal is only permissible until the first respondent has been notified. After that point, the Judge shall in general permit the withdrawal to take place, but may reject it for the reason of upholding justice
-in case the withdrawal is clearly submitted for vexatious reasons, clearly intended to harm the other party beyond what is just; or
-the other parties reject the termination of the case.
-Any court costs incurred before the case is prematurely terminated shall remain the responsibility of the relevant parties.
-Title 3: Written Process
-Clarifications
-Section 1: Sending requests for clarification
-In the interest of judicial efficiency, the Judge shall endeavor to resolve the Case predominantly through written procedures, if possible, preventing the further steps of the General Process from taking place, including a formal Trial.
-To facilitate this objective, the Judge may issue written requests for clarification to any Party involved in the Case. These requests may pertain to aspects such as arguments, reasoning, or additional evidence required for comprehensive understanding and adjudication of the Case. The Judge will give a reasonable time for the Party to respond. 
-A non-responding Party will not be in contempt of the Court, but the Judge will be forced to make the decision without the Party giving their perspective.
-Section 2: Responding to requests for clarifications
-Requests for clarification shall be disseminated to all Parties in the Case, ensuring transparency and equal opportunity for response; all Parties, not just the Party addressed, may respond.
-Subsequent to the issuance of a clarification request, other Parties involved in the Case are likewise entitled to submit independent responses to the Judge or additional submissions pertinent to the clarification dialogue initiated by the Judge, or pleading for additional requests for clarifications.
-The maximal time for clarifications shall be 30 workdays from the submission of the first request, with the Judge being able to prolong this once by maximally another 30 workdays in case the case is objectively complicated or the Parties are uncooperative.
-The Verdict Proposal
-After the case is clear to them, the Judge will create a Verdict Proposal and distribute it to all Parties involved.
-The Verdict Proposal must meet all criteria for a Judicial Decision, including being well-reasoned and based on documented evidence.
-Response to Verdict Proposal
-Parties shall respond within 8 days of receiving the Verdict Proposal by either:
-Accepting the proposal without reservations, or
-Submitting their Reservations to the Judge, outlining their points of contention and suggested resolutions.
-Parties receive further 8 days to issue Comments to any submitted Reservations, which should signify whether they would have Reservations of their own were the Reservations accepted.
-If Reservations or Comments are submitted, the Judge shall share them with all other Parties.
-Finalizing the Verdict
-Section 1: Presenting the Verdict
-Within 8 workdays of receiving the last comment, the Judge shall address all Reservations and Comments, modifying the Verdict Proposal accordingly.
-The modified Verdict Proposal is then presented to all Parties for approval as the Verdict.
-Section 2: Agreement and Final Verdict
-If all Parties agree to the modified Verdict, it becomes the final Verdict.
-No appeals can be made against this Verdict, as full agreement implies the waiver of the right to appeal.
-Section 3: Disagreement and Next Steps
-If any Party rejects the Verdict, the process typically advances to the next phase, which is Trial for non-controversial cases and for controversial cases either Mediation or Trial.
-With unanimous agreement, Parties can opt to repeat the Written Process, allowing for further Recommendations and Comments. This cycle may continue as long as all Parties consent unanimously or until the Judge reasons based on evidence that continued prolongations are vexatious.
-Title 4: Non-Controversial Cases
-Simplified rules for non-controversial cases
-The Court may set up simplified, expedited process rules for non-controversial cases, while adhering to the principles of justice stipulated in this law. These may include but not be limited to streamlined processes and shortened timelines.
-These rules shall be made accessible and comprehensible for all parties before they initiate a non-controversial case.
-Reclassification
+
+#### Article 52: Withdrawal of the Application
+1. The applicant may terminate the judicial process by withdrawing their Application. In non-controversial cases, they can do so at any time.
+2. In controversial cases, withdrawal is only permissible until the first respondent has been notified. After that point, the Judge shall in general permit the withdrawal to take place, but may reject it for the reason of upholding justice
+
+    a. in case the withdrawal is clearly submitted for vexatious reasons, clearly intended to harm the other party beyond what is just; or
+
+    b. the other parties reject the termination of the case.
+   
+4. Any court costs incurred before the case is prematurely terminated shall remain the responsibility of the relevant parties.
+
+### Title 3: Written Process
+#### Article 53: Clarifications
+##### Section 1: Sending requests for clarification
+1. In the interest of judicial efficiency, the Judge shall endeavor to resolve the Case predominantly through written procedures, if possible, preventing the further steps of the General Process from taking place, including a formal Trial.
+2. To facilitate this objective, the Judge may issue written requests for clarification to any Party involved in the Case. These requests may pertain to aspects such as arguments, reasoning, or additional evidence required for comprehensive understanding and adjudication of the Case. The Judge will give a reasonable time for the Party to respond. 
+3. A non-responding Party will not be in contempt of the Court, but the Judge will be forced to make the decision without the Party giving their perspective.
+
+##### Section 2: Responding to requests for clarifications
+1. Requests for clarification shall be disseminated to all Parties in the Case, ensuring transparency and equal opportunity for response; all Parties, not just the Party addressed, may respond.
+2. Subsequent to the issuance of a clarification request, other Parties involved in the Case are likewise entitled to submit independent responses to the Judge or additional submissions pertinent to the clarification dialogue initiated by the Judge, or pleading for additional requests for clarifications.
+3. The maximal time for clarifications shall be 30 workdays from the submission of the first request, with the Judge being able to prolong this once by maximally another 30 workdays in case the case is objectively complicated or the Parties are uncooperative.
+
+#### Article 54: The Verdict Proposal
+1. After the case is clear to them, the Judge will create a Verdict Proposal and distribute it to all Parties involved.
+2. The Verdict Proposal must meet all criteria for a Judicial Decision, including being well-reasoned and based on documented evidence.
+
+#### Article 55: Response to Verdict Proposal
+1. Parties shall respond within 8 days of receiving the Verdict Proposal by either:
+
+    a. Accepting the proposal without reservations, or
+
+    b. Submitting their Reservations to the Judge, outlining their points of contention and suggested resolutions.
+
+    c. Parties receive further 8 days to issue Comments to any submitted Reservations, which should signify whether they would have Reservations of their own were the Reservations accepted.
+   
+3. If Reservations or Comments are submitted, the Judge shall share them with all other Parties.
+
+#### Article 56: Finalizing the Verdict
+##### Section 1: Presenting the Verdict
+1. Within 8 workdays of receiving the last comment, the Judge shall address all Reservations and Comments, modifying the Verdict Proposal accordingly.
+2. The modified Verdict Proposal is then presented to all Parties for approval as the Verdict.
+
+##### Section 2: Agreement and Final Verdict
+1. If all Parties agree to the modified Verdict, it becomes the final Verdict.
+2. No appeals can be made against this Verdict, as full agreement implies the waiver of the right to appeal.
+
+##### Section 3: Disagreement and Next Steps
+1. If any Party rejects the Verdict, the process typically advances to the next phase, which is Trial for non-controversial cases and for controversial cases either Mediation or Trial.
+2. With unanimous agreement, Parties can opt to repeat the Written Process, allowing for further Recommendations and Comments. This cycle may continue as long as all Parties consent unanimously or until the Judge reasons based on evidence that continued prolongations are vexatious.
+
+### Title 4: Non-Controversial Cases
+#### Article 57: Simplified rules for non-controversial cases
+1. The Court may set up simplified, expedited process rules for non-controversial cases, while adhering to the principles of justice stipulated in this law. These may include but not be limited to streamlined processes and shortened timelines.
+2. These rules shall be made accessible and comprehensible for all parties before they initiate a non-controversial case.
+
+#### Article 58: Reclassification
 The Court may reclassify a non-controversial case as controversial and exceptionally also vice versa. This can occur at the Court's discretion or upon a party's request.
-Title 5: Mediation in Controversial Cases
-Mediation
-Section 1: Definition of Mediation
-Mediation is a structured process where an impartial mediator assists disputing parties through specialized communication and negotiation techniques.
-The process is party-centered, focusing on the needs, rights, and interests of the parties involved and is, in general, undergone voluntarily, with each Party being able to stop at any time.
-The mediator's role is to facilitate constructive interaction and open communication, while also evaluating issues and norms without providing prescriptive advice, but not to enforce a Verdict or a resolution. The resolution will instead be agreed upon by the Parties as a matter of reaching a compromise.
-Section 2: Mediation instance
-Mediation takes place in mediation instances and according to their rules, which are outside the scope of this law, but may be legislated by a special law. 
-The Judge will only delegate the case to a provably professional Mediation instance which uses state of the art and standard mediation techniques and is free of major scandals. This instance may be based outside of Liberland.
-Where no applicable Mediation instance exists, the Judge may appoint themselves if they fulfil the qualification and otherwise, this step will be skipped.
-Proposal of Mediation
-In controversial cases, the Judge will always propose Mediation to the parties. The Parties may disagree, and if at least one Party disagree, in general, the case moves on to the Trial phase.
-Where a Party or more Parties disagree and the Judge sees that the Mediation is required for the advancement of Justice, the Judge may order the first Mediation session to take place and the Parties must attend and dutifully take part in good faith, or they are in contempt of the Court. 
-The Parties are obliged to evaluate the merits of the Mediation objectively and may, based on this evaluation, agree to participate in or reject further Mediation sessions. Upon rejection by at least one Party, the process moves to the Trial phase.
-Duties of the Mediation instance
-The Mediation instance is obligated to conduct the Mediation process in an orderly manner, adhering to the highest standards of mediation practice, as well as to the general principles of judiciary proceedings as set out in this law and by commonly accepted doctrine and practice.
-The Mediation instance shall meticulously document detailed minutes of all proceedings. Periodic reports, inclusive of these minutes, are to be submitted to the Court in a timely manner.
-In the event that the Mediation process culminates in a settlement, the Mediation instance is responsible for drafting the settlement document. This document must meet the formal and material standards applicable to Court documents and must accurately reflect the Mediation process as recorded in the minutes.
-Good Faith Participation
+
+### Title 5: Mediation in Controversial Cases
+#### Article 59: Mediation
+##### Section 1: Definition of Mediation
+1. Mediation is a structured process where an impartial mediator assists disputing parties through specialized communication and negotiation techniques.
+2. The process is party-centered, focusing on the needs, rights, and interests of the parties involved and is, in general, undergone voluntarily, with each Party being able to stop at any time.
+3. The mediator's role is to facilitate constructive interaction and open communication, while also evaluating issues and norms without providing prescriptive advice, but not to enforce a Verdict or a resolution. The resolution will instead be agreed upon by the Parties as a matter of reaching a compromise.
+
+##### Section 2: Mediation instance
+1. Mediation takes place in mediation instances and according to their rules, which are outside the scope of this law, but may be legislated by a special law. 
+2. The Judge will only delegate the case to a provably professional Mediation instance which uses state of the art and standard mediation techniques and is free of major scandals. This instance may be based outside of Liberland.
+3. Where no applicable Mediation instance exists, the Judge may appoint themselves if they fulfil the qualification and otherwise, this step will be skipped.
+
+#### Article 60: Proposal of Mediation
+1. In controversial cases, the Judge will always propose Mediation to the parties. The Parties may disagree, and if at least one Party disagree, in general, the case moves on to the Trial phase.
+2. Where a Party or more Parties disagree and the Judge sees that the Mediation is required for the advancement of Justice, the Judge may order the first Mediation session to take place and the Parties must attend and dutifully take part in good faith, or they are in contempt of the Court. 
+3. The Parties are obliged to evaluate the merits of the Mediation objectively and may, based on this evaluation, agree to participate in or reject further Mediation sessions. Upon rejection by at least one Party, the process moves to the
+Trial phase.
+
+#### Article 61: Duties of the Mediation instance
+1. The Mediation instance is obligated to conduct the Mediation process in an orderly manner, adhering to the highest standards of mediation practice, as well as to the general principles of judiciary proceedings as set out in this law and by commonly accepted doctrine and practice.
+2. The Mediation instance shall meticulously document detailed minutes of all proceedings. Periodic reports, inclusive of these minutes, are to be submitted to the Court in a timely manner.
+3. In the event that the Mediation process culminates in a settlement, the Mediation instance is responsible for drafting the settlement document. This document must meet the formal and material standards applicable to Court documents and must accurately reflect the Mediation process as recorded in the minutes.
+
+#### Article 62: Good Faith Participation
 Parties must engage in good faith during mediation. This includes active discussion, information exchange, and consideration of proposals.
-Settlement and Court approval
-Section 1: Submission and Court review of settlements
+
+#### Article 63: Settlement and Court approval
+##### Section 1: Submission and Court review of settlements
 All settlements achieved through mediation shall be presented to the Court for approval. The Court shall assess each settlement for consistency with the mediation process, formal accuracy, and adherence to principles of justice.
-Section 2: Issuance and compliance with Court recommendations
-If a settlement is deemed inadequate, the Court shall return it to the mediation entity with binding recommendations for modification, stipulating a revision period not exceeding fifteen working days. 
-Compliance with the Court’s binding recommendations shall result in the subsequent approval of the settlement. Settlements failing to incorporate the Court’s binding recommendations within the set timeframe shall be rejected. 
-The Court may also outright reject a settlement in cases of extreme formal deficiency, logical incongruence, blatant legal non-compliance, evident immorality, or substantial injustice, where there is no hope of resolving the issues during Court recommendations. 
-Section 3: Determination of Mediation outcomes
-Approved settlements shall possess the same legal efficacy as judgments in contested trials. 
-In instances where a settlement is partially achieved, not reached, or rejected by the Court, the matter shall proceed to the subsequent phase of Trial.
-Chapter 5: Trial
-Title 1: Pre-Trial Procedures
-Issuance of Court Summons
-Parties are summoned to Trial at least 7 days in advance, primarily through electronic communications.
-The summons document shall contain 
-the official name of the case 
-the accusation and charges,
-its individual identifier, e.g. number, 
-the indication of the parties specified and who is applicant and who is defendant, and
-the date and manner of the required court appearance.
-Summons documents are signed by the presiding Judge.
-Where all the attempts at summons repeatedly fails, the Trial will take place in their absence.
-Compliance with Court Summons
+
+##### Section 2: Issuance and compliance with Court recommendations
+1. If a settlement is deemed inadequate, the Court shall return it to the mediation entity with binding recommendations for modification, stipulating a revision period not exceeding fifteen working days. 
+2. Compliance with the Court’s binding recommendations shall result in the subsequent approval of the settlement. Settlements failing to incorporate the Court’s binding recommendations within the set timeframe shall be rejected. 
+3. The Court may also outright reject a settlement in cases of extreme formal deficiency, logical incongruence, blatant legal non-compliance, evident immorality, or substantial injustice, where there is no hope of resolving the issues during Court recommendations. 
+
+##### Section 3: Determination of Mediation outcomes
+1. Approved settlements shall possess the same legal efficacy as judgments in contested trials. 
+2. In instances where a settlement is partially achieved, not reached, or rejected by the Court, the matter shall proceed to the subsequent phase of Trial.
+
+## Chapter 5: Trial
+### Title 1: Pre-Trial Procedures
+#### Article 64: Issuance of Court Summons
+1. Parties are summoned to Trial at least 7 days in advance, primarily through electronic communications.
+2. The summons document shall contain 
+    a. the official name of the case 
+    b. the accusation and charges,
+    c. its individual identifier, e.g. number, 
+    d. the indication of the parties specified and who is applicant and who is defendant, and
+    e. the date and manner of the required court appearance.
+3. Summons documents are signed by the presiding Judge.
+4. Where all the attempts at summons repeatedly fails, the Trial will take place in their absence.
+
+#### Article 65: Compliance with Court Summons
 Parties must attend court and adhere to the appearance schedule.
 Continued non-compliance leads to liability for contempt of Court. Expressing disinterest or contempt also incurs this liability, even if compliance follows.
 Parties unable to attend due to exigent circumstances must inform the court in advance and request rescheduling.
