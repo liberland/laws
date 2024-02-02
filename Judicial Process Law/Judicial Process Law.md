@@ -611,216 +611,284 @@ All settlements achieved through mediation shall be presented to the Court for a
 ### Title 1: Pre-Trial Procedures
 #### Article 64: Issuance of Court Summons
 1. Parties are summoned to Trial at least 7 days in advance, primarily through electronic communications.
-2. The summons document shall contain 
-    a. the official name of the case 
+2. The summons document shall contain
+   
+    a. the official name of the case
+   
     b. the accusation and charges,
-    c. its individual identifier, e.g. number, 
+   
+    c. its individual identifier, e.g. number,
+   
     d. the indication of the parties specified and who is applicant and who is defendant, and
+   
     e. the date and manner of the required court appearance.
-3. Summons documents are signed by the presiding Judge.
-4. Where all the attempts at summons repeatedly fails, the Trial will take place in their absence.
+   
+4. Summons documents are signed by the presiding Judge.
+5. Where all the attempts at summons repeatedly fails, the Trial will take place in their absence.
 
 #### Article 65: Compliance with Court Summons
-Parties must attend court and adhere to the appearance schedule.
-Continued non-compliance leads to liability for contempt of Court. Expressing disinterest or contempt also incurs this liability, even if compliance follows.
-Parties unable to attend due to exigent circumstances must inform the court in advance and request rescheduling.
-Title 2: Order of the Trial
-Initiating the Trial Proceedings
-At the initiation of trial proceedings, the presiding Judge shall methodically outline the principal elements and historical context of the case under consideration.
-This exposition shall encompass an exhaustive overview of the case's nature, explicitly identify the distinct issues necessitating resolution, and provide an in-depth account of the procedural steps preceding the trial's commencement.
-Where the case involves unique procedural deviations that parties might reasonably perceive as atypical, the presiding Judge is mandated to disclose such deviations at the onset of the trial proceedings.
-Applicant's Case Presentation
-The applicant presents their case first, summarizing arguments, intended evidence, and sought relief in an opening statement.
-The applicant may in their presentation name and introduce witnesses, present and introduce the relevant documentary evidence, and make legal submissions to support their case.
-Respondent's Case Presentation
-The Respondent presents their case after the applicant concludes and they shall follow the same rules and enjoy the same freedom as an Applicant does in their presentation.
-Rebuttal and Rejoinder Procedures
-Upon the conclusion of the Respondent's presentation, the Applicant is entitled to submit a Rebuttal. This Rebuttal aims to address any new issues or evidence introduced by the Respondent, ensuring a comprehensive and fair consideration of all relevant aspects of the case.
-Following the Applicant's Rebuttal, the Respondent is granted the opportunity to present a Rejoinder. The purpose of the Rejoinder is to respond specifically to the points raised in the Applicant's Rebuttal and to introduce any additional arguments or evidence that are directly pertinent to the issues highlighted in the Rebuttal.
-Initiation and response to claims
-Following the opening statements and the Rebuttal and the Rejoinder, Parties shall have the opportunity to further initiate claims relevant to the Case.
-The opposing Party shall have the right to respond to these claims, either by accepting, denying, or providing a counterclaim.
-All claims and counterclaims must be clearly articulated and relevant to the Case at hand.
-Title 3: Evidence and Argumentation Procedures
-Presentation of Evidence
-Section 1: Duty to make claims supported by evidence
-Parties must support their claims with evidence, disclosed to both the Judge and the opposing party during the hearing. 
-The presentation should be clear enough for an uninformed observer to understand the argumentation and the supporting evidence. 
-Parties can submit evidence as they see fit, provided it is respecting the general principles of court proceedings and doesn’t endanger anyone or their property. 
-Section 2: Rights of the Judge regarding evidence presentation
-The presiding Judge retains the discretion to mandate the Parties to furnish supplementary evidence, should they deem a statement crucial to the case inadequately substantiated by existing evidence. 
-A Party may decline such a request; however, this refusal could potentially lead to the dismissal of their case. While this may prolong the duration of the Trial, it shall be invoked no more than once per hearing.
-The Judge may vary the evidence presentation procedure to ensure equal opportunity for all parties to present relevant material. 
-The Judge is empowered to reprimand a Party and where this is not respected to impose sanctions for Contempt of Court on claims that are repeatedly illogical, absurd, or unsubstantiated, particularly when such claims are evidently not proffered in good faith.
-Dismissal of Unsupported Claims
-The Judge may freely dismiss and ignore claims if they are presented without any supporting evidence.
-Matters of Law and Common Knowledge
-The Judge may accept without Parties providing evidence generally undisputed facts, such as that the Sun rises in the east, matters of law, or facts agreed upon by both parties. 
-Examination of Witnesses
-All Parties shall have the right and shall be given the opportunity to indicate, invite and examine witnesses before the Judge. Parties may examine both their witnesses and those invited by the counterparty.
-The names and addresses of all witnesses shall be recorded as part of the case record.
-Handling of Exhibits
-Parties shall have the right and opportunity to present material evidence as exhibits. Exhibits offered by any Party shall be accepted into evidence and appropriately marked and evaluated.
-Descriptions of exhibits, in the order they are received, shall be included in the case record.
-Experts, ancillary persons and material aids
-In addition to witnesses and evidence, parties may introduce into the trial other individuals and items, under the condition that these are either direct conveyors of evidentiary information or are to be utilized for the enhancement of extracting or interpreting such information from the existing evidence.
-The presentation of such individuals or items without prior registration with the court shall incur sanctions for  contempt of court.
-All proceedings before the court involving such individuals or items must be duly registered and recorded in the court's official records.
-Party collaboration
-Section 1: Disclosure of special considerations
-Parties to a proceeding shall actively and diligently engage in the process of evidence procurement and examination. This includes facilitating an effective and objective analysis of evidence, thereby enabling the Court to extract pertinent information for adjudication.
-Specifically, parties are obligated to disclose, without delay, any specialized requirements related to the examination of evidence. This encompasses, but is not limited to, the involvement of witnesses, the presentation of material evidence, the inclusion of expert testimony, the participation of ancillary individuals or entities, and the utilization of any necessary material aids.
-Failure to comply with this directive may result in sanctions for contempt of court, particularly in instances where non-compliance engenders procedural complications.
-Section 2: Judiciary license not to rectify party negligence
-In the event that comprehensive evidence examination is impeded due to a party's non-cooperation, the presiding judge shall retain the discretion to adjudicate based on the verifiable facts derived from the said evidence as it was presented. 
-In such circumstances, the judge is not obligated to compensate with extra effort for the non-compliant party's lack of cooperation.
-Title 4: Closing the Trial
-Closing Arguments
-After all presentations, rebuttals, and claims, parties may make closing arguments.
-The applicant goes first, summarizing key points and highlighting persuasive evidence or legal submissions.
-The respondent follows, summarizing their defense and addressing issues raised in the applicant's closing argument.
-Trial Extension
-The Judge may exceptionally extend the Trial for serious reasons, clearly communicated to the parties.
-Extensions may be party-requested or Judge-initiated, but only if necessary for high-quality decision-making.
-A case may be extended no more than twice, and only for just and efficient resolution.
-Upon extension, the Judge will promptly issue new summons for the extended hearing date which shall not be later than 15 days after the date of the previous hearing.
-Deliberation and the Verdict
-Once the main hearing has concluded, the presiding Judge or the Judicial Pannel shall deliberate on the evidence and arguments presented by the parties.
-The court shall consider the facts, the applicable law, and the principles of justice and fairness in reaching a decision on the Verdict. 
-The deliberations shall be conducted in such a way that the Verdict can be announced in a timely manner, but, where possible, the Judges shall strive for providing an ex tempore Verdict.
-After the decision has been made and documented, the Judge or Judicial Pannel shall return to the space in which the Trial is being conducted and announce the Verdict.
-Informing Parties and Addressing Administrative Matters
-Upon announcing the Verdict, the Judge or the presiding Judge of the Judicial Pannel shall  inform the Parties of their right to appeal the decision, the procedures for filing an appeal, and any relevant deadlines or time limits for doing so. This shall also be recorded in writing on the written form of the Verdict. 
-The Court shall also address any remaining procedural or administrative matters, including the allocation of costs and the submission of any additional documents or information required for the implementation of the Court's decision.
-Chapter 6: Appeal
-Appeals Process
+1. Parties must attend court and adhere to the appearance schedule.
+2. Continued non-compliance leads to liability for contempt of Court. Expressing disinterest or contempt also incurs this liability, even if compliance follows.
+3. Parties unable to attend due to exigent circumstances must inform the court in advance and request rescheduling.
 
-A party that is dissatisfied with the Court's decision may file an appeal by the Court where the decision has been made. An Appeal shall have the same formal and content requirements as an Application, but it must address a Verdict.
-The Appeal must claim a legal, processual or factual deficiency or deficiencies in a Verdict that was issued, but hasn’t yet gained legal force on the date of the Appeal’s delivery.
-Remedial Process
-Section 1: Correction of Errors in Decision
-Upon examining an appeal, the court may correct the original decision for:
-Mathematical errors,
-Mistaken person descriptions,
-Remedies based on unsubmitted issues that don't affect merits,
-Form imperfections not affecting merits,
-Value differentials less than 1 BTC or equivalent.
-The Court will dismiss clearly frivolous or meritless appeals.
-Section 2: Appeals against Remedial Decisions
-Where a decision is made in the Remedial Process either by correcting the original decision or to dismiss a clearly frivolous or meritless Appeal, the Court will set a time span for 8 working days for the Party  to lodge an Objection against that decision. 
-Where that Objection is logged, the original decision will not gain legal force and the Court will forward the original Appeal to the appropriate Court of Appeals.
-Referral to Court of Appeal
-If the appeal concerns matters other than those reserved for the Remedial Process and is not dismissed, the court prepares a statement and refers it to the appropriate Court of Appeal.
-The Court will refer the case to the Court of Appeal, which shall be a Court in the hierarchy of State courts one step above the current court.  In circumstances where multiple Courts exist at this hierarchical level, the assignment of jurisdiction among them shall be governed by the same criteria and principles as those applied in the determination of jurisdiction for Courts of first instance.
-Private Courts will refer to the Court of Appeal according to their own process law, and those Courts of Appeal can be located outside of Liberland or, conversely, can be State Courts. If that is the case, the Appeal will be adjudicated based on the law of Liberland.
-Where no other higher Court is available, the Appeal will be heard by the Supreme Court according to the process rules concerning Appeals.
-Review by the Appellate Court
-Upon receipt of the notice of appeal, the appellate court shall review the case record, including the lower court's decision, the evidence and arguments presented during the hearing, and any relevant procedural or evidentiary rulings.
-The appellate process shall adhere to the General Process framework, with a predominant reliance on written submissions. Mediation shall not form part of the appellate procedure. The convening of a Trial shall be an exceptional measure only, reserved solely for instances deemed critically necessary for the just resolution of the Appeal.
-The Appellate Court may request additional briefs or oral arguments from the parties to address specific issues or clarify particular points of law. 
-The scope of the Appellate Court's review will be limited by the grounds for appeal raised by the appellant. In addition, it is not permissible for a party to claim facts or present evidence during the appellate review that were clearly available and present during the time of the original process, but through the fault of the party, were not presented before the court.
-Appellate Verdict
-Section 1: Standard forms of the Appelate Verdict
+### Title 2: Order of the Trial
+#### Article 66: Initiating the Trial Proceedings
+1. At the initiation of trial proceedings, the presiding Judge shall methodically outline the principal elements and historical context of the case under consideration.
+2. This exposition shall encompass an exhaustive overview of the case's nature, explicitly identify the distinct issues necessitating resolution, and provide an in-depth account of the procedural steps preceding the trial's commencement.
+3. Where the case involves unique procedural deviations that parties might reasonably perceive as atypical, the presiding Judge is mandated to disclose such deviations at the onset of the trial proceedings.
+
+#### Article 67: Applicant's Case Presentation
+1. The applicant presents their case first, summarizing arguments, intended evidence, and sought relief in an opening statement.
+2. The applicant may in their presentation name and introduce witnesses, present and introduce the relevant documentary evidence, and make legal submissions to support their case.
+
+#### Article 68: Respondent's Case Presentation
+The Respondent presents their case after the applicant concludes and they shall follow the same rules and enjoy the same freedom as an Applicant does in their presentation.
+
+#### Article 69: Rebuttal and Rejoinder Procedures
+1. Upon the conclusion of the Respondent's presentation, the Applicant is entitled to submit a Rebuttal. This Rebuttal aims to address any new issues or evidence introduced by the Respondent, ensuring a comprehensive and fair consideration of all relevant aspects of the case.
+2. Following the Applicant's Rebuttal, the Respondent is granted the opportunity to present a Rejoinder. The purpose of the Rejoinder is to respond specifically to the points raised in the Applicant's Rebuttal and to introduce any additional arguments or evidence that are directly pertinent to the issues highlighted in the Rebuttal.
+
+#### Article 70: Initiation and response to claims
+1. Following the opening statements and the Rebuttal and the Rejoinder, Parties shall have the opportunity to further initiate claims relevant to the Case.
+2. The opposing Party shall have the right to respond to these claims, either by accepting, denying, or providing a counterclaim.
+3. All claims and counterclaims must be clearly articulated and relevant to the Case at hand.
+
+### Title 3: Evidence and Argumentation Procedures
+#### Article 71: Presentation of Evidence
+##### Section 1: Duty to make claims supported by evidence
+1. Parties must support their claims with evidence, disclosed to both the Judge and the opposing party during the hearing. 
+2. The presentation should be clear enough for an uninformed observer to understand the argumentation and the supporting evidence. 
+3. Parties can submit evidence as they see fit, provided it is respecting the general principles of court proceedings and doesn’t endanger anyone or their property. 
+
+##### Section 2: Rights of the Judge regarding evidence presentation
+1. The presiding Judge retains the discretion to mandate the Parties to furnish supplementary evidence, should they deem a statement crucial to the case inadequately substantiated by existing evidence. 
+   A Party may decline such a request; however, this refusal could potentially lead to the dismissal of their case. While this may prolong the duration of the Trial, it shall be invoked no more than once per hearing.
+2. The Judge may vary the evidence presentation procedure to ensure equal opportunity for all parties to present relevant material. 
+3. The Judge is empowered to reprimand a Party and where this is not respected to impose sanctions for Contempt of Court on claims that are repeatedly illogical, absurd, or unsubstantiated, particularly when such claims are evidently not proffered in good faith.
+
+#### Article 72: Dismissal of Unsupported Claims
+The Judge may freely dismiss and ignore claims if they are presented without any supporting evidence.
+
+#### Article 73: Matters of Law and Common Knowledge
+The Judge may accept without Parties providing evidence generally undisputed facts, such as that the Sun rises in the east, matters of law, or facts agreed upon by both parties. 
+
+#### Article 74: Examination of Witnesses
+1. All Parties shall have the right and shall be given the opportunity to indicate, invite and examine witnesses before the Judge. Parties may examine both their witnesses and those invited by the counterparty.
+2. The names and addresses of all witnesses shall be recorded as part of the case record.
+
+#### Article 75: Handling of Exhibits
+1. Parties shall have the right and opportunity to present material evidence as exhibits. Exhibits offered by any Party shall be accepted into evidence and appropriately marked and evaluated.
+2. Descriptions of exhibits, in the order they are received, shall be included in the case record.
+
+#### Article 76: Experts, ancillary persons and material aids
+1. In addition to witnesses and evidence, parties may introduce into the trial other individuals and items, under the condition that these are either direct conveyors of evidentiary information or are to be utilized for the enhancement of extracting or interpreting such information from the existing evidence.
+2. The presentation of such individuals or items without prior registration with the court shall incur sanctions for  contempt of court.
+3. All proceedings before the court involving such individuals or items must be duly registered and recorded in the court's official records.
+#### 77: Party collaboration
+##### Section 1: Disclosure of special considerations
+1. Parties to a proceeding shall actively and diligently engage in the process of evidence procurement and examination. This includes facilitating an effective and objective analysis of evidence, thereby enabling the Court to extract pertinent information for adjudication.
+2. Specifically, parties are obligated to disclose, without delay, any specialized requirements related to the examination of evidence. This encompasses, but is not limited to, the involvement of witnesses, the presentation of material evidence, the inclusion of expert testimony, the participation of ancillary individuals or entities, and the utilization of any necessary material aids.
+3. Failure to comply with this directive may result in sanctions for contempt of court, particularly in instances where non-compliance engenders procedural complications.
+
+##### Section 2: Judiciary license not to rectify party negligence
+1. In the event that comprehensive evidence examination is impeded due to a party's non-cooperation, the presiding judge shall retain the discretion to adjudicate based on the verifiable facts derived from the said evidence as it was presented. 
+2. In such circumstances, the judge is not obligated to compensate with extra effort for the non-compliant party's lack of cooperation.
+
+### Title 4: Closing the Trial
+#### Article 78: Closing Arguments
+1. After all presentations, rebuttals, and claims, parties may make closing arguments.
+2. The applicant goes first, summarizing key points and highlighting persuasive evidence or legal submissions.
+3. The respondent follows, summarizing their defense and addressing issues raised in the applicant's closing argument.
+
+#### Article 79: Trial Extension
+1. The Judge may exceptionally extend the Trial for serious reasons, clearly communicated to the parties.
+2. Extensions may be party-requested or Judge-initiated, but only if necessary for high-quality decision-making.
+3. A case may be extended no more than twice, and only for just and efficient resolution.
+4. Upon extension, the Judge will promptly issue new summons for the extended hearing date which shall not be later than 15 days after the date of the previous hearing.
+
+#### 80: Deliberation and the Verdict
+1. Once the main hearing has concluded, the presiding Judge or the Judicial Pannel shall deliberate on the evidence and arguments presented by the parties.
+2. The court shall consider the facts, the applicable law, and the principles of justice and fairness in reaching a decision on the Verdict. 
+3. The deliberations shall be conducted in such a way that the Verdict can be announced in a timely manner, but, where possible, the Judges shall strive for providing an ex tempore Verdict.
+4. After the decision has been made and documented, the Judge or Judicial Pannel shall return to the space in which the Trial is being conducted and announce the Verdict.
+
+#### 81: Informing Parties and Addressing Administrative Matters
+1. Upon announcing the Verdict, the Judge or the presiding Judge of the Judicial Pannel shall  inform the Parties of their right to appeal the decision, the procedures for filing an appeal, and any relevant deadlines or time limits for doing so. This shall also be recorded in writing on the written form of the Verdict. 
+2. The Court shall also address any remaining procedural or administrative matters, including the allocation of costs and the submission of any additional documents or information required for the implementation of the Court's decision.
+
+## Chapter 6: Appeal
+#### Article 82: Appeals Process
+1. A party that is dissatisfied with the Court's decision may file an appeal by the Court where the decision has been made. An Appeal shall have the same formal and content requirements as an Application, but it must address a Verdict.
+2. The Appeal must claim a legal, processual or factual deficiency or deficiencies in a Verdict that was issued, but hasn’t yet gained legal force on the date of the Appeal’s delivery.
+
+#### Article 83: Remedial Process
+##### Section 1: Correction of Errors in Decision
+1. Upon examining an appeal, the court may correct the original decision for:
+   
+    a. Mathematical errors,
+   
+    b. Mistaken person descriptions,
+   
+    c. Remedies based on unsubmitted issues that don't affect merits,
+   
+    d. Form imperfections not affecting merits,
+   
+    e. Value differentials less than 1 BTC or equivalent.
+   
+3. The Court will dismiss clearly frivolous or meritless appeals.
+
+##### Section 2: Appeals against Remedial Decisions
+1. Where a decision is made in the Remedial Process either by correcting the original decision or to dismiss a clearly frivolous or meritless Appeal, the Court will set a time span for 8 working days for the Party  to lodge an Objection against that decision. 
+2. Where that Objection is logged, the original decision will not gain legal force and the Court will forward the original Appeal to the appropriate Court of Appeals.
+
+#### Article 84: Referral to Court of Appeal
+1. If the appeal concerns matters other than those reserved for the Remedial Process and is not dismissed, the court prepares a statement and refers it to the appropriate Court of Appeal.
+2. The Court will refer the case to the Court of Appeal, which shall be a Court in the hierarchy of State courts one step above the current court.  In circumstances where multiple Courts exist at this hierarchical level, the assignment of jurisdiction among them shall be governed by the same criteria and principles as those applied in the determination of jurisdiction for Courts of first instance.
+3. Private Courts will refer to the Court of Appeal according to their own process law, and those Courts of Appeal can be located outside of Liberland or, conversely, can be State Courts. If that is the case, the Appeal will be adjudicated based on the law of Liberland.
+4. Where no other higher Court is available, the Appeal will be heard by the Supreme Court according to the process rules concerning Appeals.
+
+#### Article 85: Review by the Appellate Court
+1. Upon receipt of the notice of appeal, the appellate court shall review the case record, including the lower court's decision, the evidence and arguments presented during the hearing, and any relevant procedural or evidentiary rulings.
+2. The appellate process shall adhere to the General Process framework, with a predominant reliance on written submissions. Mediation shall not form part of the appellate procedure. The convening of a Trial shall be an exceptional measure only, reserved solely for instances deemed critically necessary for the just resolution of the Appeal.
+3. The Appellate Court may request additional briefs or oral arguments from the parties to address specific issues or clarify particular points of law. 
+4. The scope of the Appellate Court's review will be limited by the grounds for appeal raised by the appellant. In addition, it is not permissible for a party to claim facts or present evidence during the appellate review that were clearly available and present during the time of the original process, but through the fault of the party, were not presented before the court.
+
+#### Article 86: Appellate Verdict
+##### Section 1: Standard forms of the Appelate Verdict
 Upon examination of the case, the Court of Appeal shall render an Appelate Verdict in one of the following forms:
-Affirmation of the original Verdict: This occurs when the Verdict is deemed formally and materially correct, or when the Appeal lacks substantive grounds.
-Modification of the lower court's decision: Applicable in scenarios where practicality allows, typically in instances involving a singular error or a non-fundamental cluster of errors that do not undermine the entire Verdict.
-Return the Case to the first instance Court: The case is sent back for further proceedings, and obligatory recommendations for the first instance Court to adhere to in subsequent deliberations will be included.
-Section 2: Reversing the original Verdict
-If a decision is fundamentally flawed in form, substance, or both, to the point where it cannot promote justice, the Appellate Court shall have the authority to Reverse it. This reversal renders the decision ineffective, eliminating concerns of litispendence or res judicata. 
-Upon issuance of the Reversal Verdict, the Court will ask the Party whether it wishes to repeat the process. If the Party opts to continue the same case, the Appellate Court will either assign it to a different court than the one which produced the original Verdict or, if this is unfeasible, rehear the case itself at the first instance.
-Section 3: Formal and procedural consideration
-The appellate court's Verdict shall be accompanied by a written explanation of its reasoning, including its analysis of the legal issues, its evaluation of the lower court's factual findings, and any relevant procedural or evidentiary rulings. 
-The appellate Verdict shall be binding on all lower Courts from which Appeal would be in principle possible to this Court of Appeals, and also on the parties. 
-An Appeal against the Verdict of the Appellate Court is not permissible, and such a Verdict attains Legal Force upon the Delivery of its written form to a Party. However, should the outcome of the Appeal necessitate the reopening of the first instance process, the resulting Verdict from this reopened process shall be subject to the standard Appeals procedure.
-Chapter 7: Supreme Court Review
-Case Selection and Review Criteria
-The Supreme Court has the authority to review cases from all judicial and quasi-judicial bodies in Liberland, including State, private, and public courts, as well as Administrative Organs or organizations engaged in similar processes. The Court may also review organizations that should, but currently do not, use such processes. In ambiguous situations, the Court has the discretion to undertake a review.
-The initiation of a review may come from a petition by involved parties or be autonomously decided by the Court. There is no automatic right to a Supreme Court review; the choice rests solely with the justices.
-The Court prioritizes cases that question the validity of treaties or laws.
-Cases either in the appellate process or, in exceptional circumstances, in the first instance, may also be considered for review.
-Time Limitation for Case Review
-The Supreme Court generally will not review cases where the Verdict gained legal force more than ten years ago.
-Exceptions are made in extraordinary circumstances, such as strong indications of gross injustice with significant consequences for the parties, the justice system, or individual liberty in Liberland.
-Case Documentation and Party Notification
-The court that last adjudicated the case or is currently hearing it shall compile detailed documentation and promptly submit it to the Supreme Court.
-The applicant and other parties are notified and instructed to prepare an addendum to their application or response within 30 days. The applicant in the original process can reject the review, and then it will not take place.
-Supreme Court Process Structure
-The Supreme Court process generally follows the structure of the regular judicial process.
-Justices may choose to modify any phase of the process as they deem necessary, informing parties prior to the commencement of proceedings, and they will give sufficient reasoning. After the process has started, there shall be no more modifications.
-A decision to modify process rules for a certain case becomes precedent for the given type of case which binds further Supreme Court reviews and, where applicable, all the lower courts.
-Application Modification and Withdrawal
-Once notified of a Supreme Court review, applicants may not withdraw their applications.
-Any modifications to the application are subject to the Supreme Court’s discretion and sense of justice.
-Evidence and Decision Autonomy
-Unlike with the Appeals Process, the Supreme Court has the discretion to admit or dismiss any new facts and evidence, even if they were known during previous stages.
-The Supreme Court has complete autonomy in its decision-making and may disregard any aspect of the previous processes as it sees fit.
-Supreme Court Verdict
-The Supreme Court Verdict is final and not subject to appeal or any other form of legal recourse.
-The Verdict gains immediate legal force upon communication in writing to a Party.
-Chapter 8: Constitutional Control and Recourse
-Disregarding unconstitutional and illegal provisions
-When adjudicating a case, a Judge has the authority to invalidate any provision of a law if it is determined that there exists no reasonable interpretation that would make the provision consistent with both the letter and spirit of the Constitution. In doing so, the Judge provides the affected Party with the Constitutional Recourse they are entitled to.
-Similarly, a Judge is empowered to annul any provision within a Regulation that is found to be incongruent with either the Constitution or the applicable Laws of the Free Republic of Liberland, applying the same evaluative criteria as for statutory provisions.
-Minimalist approach
-Although a Judge possesses the authority to set aside an entire Law or Regulation through the exercise of Constitutional Recourse, the Judge shall always opt for the solution that fully resolves the constitutional or legal conflict while minimally altering the existing Law or Regulation. 
-Exceptions are possible only when all the possible minimalistic solutions are clearly unjust or patently absurd.
-Qualified Discrepancy
-The presiding Judge of the Court, where the Verdict with Recourse was issued, shall collaborate with the Judge who initially invoked the Recourse. They shall determine whether the identified constitutional or legal discrepancy substantially and negatively affects the dispensation of justice or individual liberty in the Free Republic of Liberland, termed as a "Qualified Discrepancy." 
+
+    a. Affirmation of the original Verdict: This occurs when the Verdict is deemed formally and materially correct, or when the Appeal lacks substantive grounds.
+    
+    b. Modification of the lower court's decision: Applicable in scenarios where practicality allows, typically in instances involving a singular error or a non-fundamental cluster of errors that do not undermine the entire Verdict.
+    
+    c. Return the Case to the first instance Court: The case is sent back for further proceedings, and obligatory recommendations for the first instance Court to adhere to in subsequent deliberations will be included.
+
+##### Section 2: Reversing the original Verdict
+1. If a decision is fundamentally flawed in form, substance, or both, to the point where it cannot promote justice, the Appellate Court shall have the authority to Reverse it. This reversal renders the decision ineffective, eliminating concerns of litispendence or res judicata. 
+2. Upon issuance of the Reversal Verdict, the Court will ask the Party whether it wishes to repeat the process. If the Party opts to continue the same case, the Appellate Court will either assign it to a different court than the one which produced the original Verdict or, if this is unfeasible, rehear the case itself at the first instance.
+
+##### Section 3: Formal and procedural consideration
+1. The appellate court's Verdict shall be accompanied by a written explanation of its reasoning, including its analysis of the legal issues, its evaluation of the lower court's factual findings, and any relevant procedural or evidentiary rulings. 
+2. The appellate Verdict shall be binding on all lower Courts from which Appeal would be in principle possible to this Court of Appeals, and also on the parties. 
+3. An Appeal against the Verdict of the Appellate Court is not permissible, and such a Verdict attains Legal Force upon the Delivery of its written form to a Party. However, should the outcome of the Appeal necessitate the reopening of the first instance process, the resulting Verdict from this reopened process shall be subject to the standard Appeals procedure.
+
+## Chapter 7: Supreme Court Review
+#### Article 87: Case Selection and Review Criteria
+1. The Supreme Court has the authority to review cases from all judicial and quasi-judicial bodies in Liberland, including State, private, and public courts, as well as Administrative Organs or organizations engaged in similar processes. The Court may also review organizations that should, but currently do not, use such processes. In ambiguous situations, the Court has the discretion to undertake a review.
+2. The initiation of a review may come from a petition by involved parties or be autonomously decided by the Court. There is no automatic right to a Supreme Court review; the choice rests solely with the justices.
+3. The Court prioritizes cases that question the validity of treaties or laws.
+4. Cases either in the appellate process or, in exceptional circumstances, in the first instance, may also be considered for review.
+
+#### Article 88: Time Limitation for Case Review
+1. The Supreme Court generally will not review cases where the Verdict gained legal force more than ten years ago.
+2. Exceptions are made in extraordinary circumstances, such as strong indications of gross injustice with significant consequences for the parties, the justice system, or individual liberty in Liberland.
+
+#### Article 89: Case Documentation and Party Notification
+1. The court that last adjudicated the case or is currently hearing it shall compile detailed documentation and promptly submit it to the Supreme Court.
+2. The applicant and other parties are notified and instructed to prepare an addendum to their application or response within 30 days. The applicant in the original process can reject the review, and then it will not take place.
+
+#### Article 90: Supreme Court Process Structure
+1. The Supreme Court process generally follows the structure of the regular judicial process.
+2. Justices may choose to modify any phase of the process as they deem necessary, informing parties prior to the commencement of proceedings, and they will give sufficient reasoning. After the process has started, there shall be no more modifications.
+3. A decision to modify process rules for a certain case becomes precedent for the given type of case which binds further Supreme Court reviews and, where applicable, all the lower courts.
+
+#### Article 91: Application Modification and Withdrawal
+1. Once notified of a Supreme Court review, applicants may not withdraw their applications.
+2. Any modifications to the application are subject to the Supreme Court’s discretion and sense of justice.
+
+#### Article 92: Evidence and Decision Autonomy
+1. Unlike with the Appeals Process, the Supreme Court has the discretion to admit or dismiss any new facts and evidence, even if they were known during previous stages.
+2. The Supreme Court has complete autonomy in its decision-making and may disregard any aspect of the previous processes as it sees fit.
+
+#### Article 93: Supreme Court Verdict
+1. The Supreme Court Verdict is final and not subject to appeal or any other form of legal recourse.
+2. The Verdict gains immediate legal force upon communication in writing to a Party.
+
+## Chapter 8: Constitutional Control and Recourse
+#### Article 94: Disregarding unconstitutional and illegal provisions
+1. When adjudicating a case, a Judge has the authority to invalidate any provision of a law if it is determined that there exists no reasonable interpretation that would make the provision consistent with both the letter and spirit of the Constitution. In doing so, the Judge provides the affected Party with the Constitutional Recourse they are entitled to.
+2. Similarly, a Judge is empowered to annul any provision within a Regulation that is found to be incongruent with either the Constitution or the applicable Laws of the Free Republic of Liberland, applying the same evaluative criteria as for statutory provisions.
+
+#### Article 95: Minimalist approach
+1. Although a Judge possesses the authority to set aside an entire Law or Regulation through the exercise of Constitutional Recourse, the Judge shall always opt for the solution that fully resolves the constitutional or legal conflict while minimally altering the existing Law or Regulation. 
+2. Exceptions are possible only when all the possible minimalistic solutions are clearly unjust or patently absurd.
+
+#### Article 96: Qualified Discrepancy
+1. The presiding Judge of the Court, where the Verdict with Recourse was issued, shall collaborate with the Judge who initially invoked the Recourse. They shall determine whether the identified constitutional or legal discrepancy substantially and negatively affects the dispensation of justice or individual liberty in the Free Republic of Liberland, termed as a "Qualified Discrepancy." 
 Should the presiding Judge be the one who invoked the Recourse, they shall undertake this assessment independently.
-Upon determination of a Qualified Discrepancy, the Judges shall collaboratively draft and submit a petition for legislative correction to Congress. If the discrepancy involves a Regulation's inconsistency with a Law or the Constitution, the petition is directed to the body that promulgated the Regulation.
-Repeal or amendment process
-Upon receipt of a petition identifying a Qualified Discrepancy, the Issuing Authority shall draft an amendment or a new Law or Regulation to rectify the identified issue. Extensive consultation with the petitioning Judges shall be conducted throughout this process.
-The proposed resolution shall only be deemed valid if there is mutual agreement between the Issuing Authority and the consulting Judges that the Qualified Discrepancy has been adequately addressed.
-If the Qualified Discrepancy remains unresolved 20 days after the petition's delivery, the following actions shall automatically occur:
-The Law or Regulation in question shall revert to its state as of the date the petition was drafted.
-The Qualified Discrepancy as agreed during the last round of consultation before the time limit passes shall be applied upon the Law or Regulation.
-Qualified Discrepancy on Recourse where minimalism wasn’t applied
-In instances where the Issuing Authority believes that the exercise of Recourse deviates from the principle of minimalism, they shall formally communicate their concerns to the Judges, accompanied by recommendations for rectification.
-Upon receipt of such notification, Judges are required to re-evaluate the Qualified Discrepancy in accordance with the provided recommendations. Alternatively, Judges must furnish a comprehensive justification affirming the alignment of their original decision with the minimalistic approach mandated by this Law.
-If, following this revision, Congress or the issuing regulatory body continues to regard the Qualified Discrepancy as non-compliant with this Law, they reserve the right to annul the Qualified Discrepancy on the grounds of non-conformity.
-In situations of persistent disagreement, the Judges who adjudicated the Qualified Discrepancy are authorized to refer the matter to the Supreme Court for a conclusive interpretation of this provision. The Supreme Court is obliged to treat these referrals with the highest level of priority, prioritizing disputes related to Laws over those concerning Regulations.
-Supreme Court Constitutional Control
-Section 1: Supreme Court Review
-The Supreme Court is empowered to review any proposed Law, Regulation or Decision, henceforth “Proposal”, during its drafting phase, and where applicable, its referendum stage, or enactment period. 
-The Court shall scrutinize the Proposal for its compatibility with the Constitution.
-For legislative proposals and Regulations or Decisions passing the Referendum, the Referendum or Enactment period shall be paused for the duration of this review.
-The Supreme Court will generally prioritize the examination of Laws over Regulations and Decisions.
-Section 2: Binding recommendations
-If the Supreme Court identifies a discrepancy during the drafting phase, it shall issue Binding Recommendations to the drafting body.
-The proposed Law, Regulation or Decision shall not be allowed to continue its legislative proces, unless and until all Binding Recommendations are fully addressed.
-The Binding Recommendations shall constitute a precedent for any subsequent similar proposals and the Supreme Court will ensure that Proposals with similar flaws receive similar treatment and especially that they won’t be allowed to pass without undergoing Supreme Court Review.
-Section 3: Consultations
-The Issuing Authority shall have the right and the duty to consult with the justices of the Supreme Court to ensure compliance. The Supreme Court shall give response in 15 days after an invitation to consultation. 
-The Supreme Court shall state beforehand the requirements for the content and form of such an invitation.
-Section 4: Declaration of Constitutionality
-In every case, the Supreme Court, once consulted and once it is satisfied with the solution, shall issue a Declaration of Constitutionality, which will release the instrument from further Supreme Court Review, provided it won’t further change.
-Proposals that obtained a Declaration of Constitutionality shall continue the process from the point where the process had been paused for the Constitutional Review.
-Chapter 9: Private Courts
-Stated Objectives
-The primary mandate of Private Courts in Liberland shall be to uphold and safeguard property rights as delineated in Book 1 of this Constitution and to provide equitable administration of justice according to the general principles of justice outlined in this law and in the appropriate doctrine, such as those are upheld by State Courts.
-Ancillary objectives, such as safeguarding the integrity of a particular community, may be pursued provided they do not supersede the primary mandate.
-Special consideration of Private Court Delictual jurisdiction
-In matters of delicts, State Courts capable of assuming Appelate Jurisdiction and the Supreme Court reserve the right to assert State jurisdiction, superseding any existing contractual obligations between a Party and a Private Court, should the pursuit of justice necessitate such action.
-Besides having no jurisdiction in Criminal matters, Private Courts are precluded from adjudicating delictual matters involving penalties or damages exceeding 5 BTC. 
-Cases where State jurisdiction is asserted or where it must be assumed due to the size of the possible penalty, the Private Court shall transfer the Case without delay to a State Court of the asserting Court’s choosing or to the State Court of general jurisdiction of the Defendant, which shall restart the proceedings. 
-While Private Courts retain the right to issue decisions regarding court costs incurred up until the point of transfer, this right applies only insofar as the Private Court acted in good faith in the pursuit of the case and could not have reasonably anticipated the necessity for the transfer of jurisdiction.
-Constitutional Adherence
+2. Upon determination of a Qualified Discrepancy, the Judges shall collaboratively draft and submit a petition for legislative correction to Congress. If the discrepancy involves a Regulation's inconsistency with a Law or the Constitution, the petition is directed to the body that promulgated the Regulation.
+
+#### Article 97: Repeal or amendment process
+1. Upon receipt of a petition identifying a Qualified Discrepancy, the Issuing Authority shall draft an amendment or a new Law or Regulation to rectify the identified issue. Extensive consultation with the petitioning Judges shall be conducted throughout this process.
+2. The proposed resolution shall only be deemed valid if there is mutual agreement between the Issuing Authority and the consulting Judges that the Qualified Discrepancy has been adequately addressed.
+3. If the Qualified Discrepancy remains unresolved 20 days after the petition's delivery, the following actions shall automatically occur:
+   
+    a. The Law or Regulation in question shall revert to its state as of the date the petition was drafted.
+   
+    b. The Qualified Discrepancy as agreed during the last round of consultation before the time limit passes shall be applied upon the Law or Regulation.
+
+#### Article 98: Qualified Discrepancy on Recourse where minimalism wasn’t applied
+1. In instances where the Issuing Authority believes that the exercise of Recourse deviates from the principle of minimalism, they shall formally communicate their concerns to the Judges, accompanied by recommendations for rectification.
+2. Upon receipt of such notification, Judges are required to re-evaluate the Qualified Discrepancy in accordance with the provided recommendations. Alternatively, Judges must furnish a comprehensive justification affirming the alignment of their original decision with the minimalistic approach mandated by this Law.
+3. If, following this revision, Congress or the issuing regulatory body continues to regard the Qualified Discrepancy as non-compliant with this Law, they reserve the right to annul the Qualified Discrepancy on the grounds of non-conformity.
+4. In situations of persistent disagreement, the Judges who adjudicated the Qualified Discrepancy are authorized to refer the matter to the Supreme Court for a conclusive interpretation of this provision. The Supreme Court is obliged to treat these referrals with the highest level of priority, prioritizing disputes related to Laws over those concerning Regulations.
+
+#### Article 99: Supreme Court Constitutional Control
+##### Section 1: Supreme Court Review
+1. The Supreme Court is empowered to review any proposed Law, Regulation or Decision, henceforth “Proposal”, during its drafting phase, and where applicable, its referendum stage, or enactment period. 
+2. The Court shall scrutinize the Proposal for its compatibility with the Constitution.
+3. For legislative proposals and Regulations or Decisions passing the Referendum, the Referendum or Enactment period shall be paused for the duration of this review.
+4. The Supreme Court will generally prioritize the examination of Laws over Regulations and Decisions.
+
+##### Section 2: Binding recommendations
+1. If the Supreme Court identifies a discrepancy during the drafting phase, it shall issue Binding Recommendations to the drafting body.
+2. The proposed Law, Regulation or Decision shall not be allowed to continue its legislative proces, unless and until all Binding Recommendations are fully addressed.
+3. The Binding Recommendations shall constitute a precedent for any subsequent similar proposals and the Supreme Court will ensure that Proposals with similar flaws receive similar treatment and especially that they won’t be allowed to pass without undergoing Supreme Court Review.
+
+##### Section 3: Consultations
+1. The Issuing Authority shall have the right and the duty to consult with the justices of the Supreme Court to ensure compliance. The Supreme Court shall give response in 15 days after an invitation to consultation. 
+2. The Supreme Court shall state beforehand the requirements for the content and form of such an invitation.
+
+##### Section 4: Declaration of Constitutionality
+1. In every case, the Supreme Court, once consulted and once it is satisfied with the solution, shall issue a Declaration of Constitutionality, which will release the instrument from further Supreme Court Review, provided it won’t further change.
+2. Proposals that obtained a Declaration of Constitutionality shall continue the process from the point where the process had been paused for the Constitutional Review.
+
+## Chapter 9: Private Courts
+#### Article 100: Stated Objectives
+1. The primary mandate of Private Courts in Liberland shall be to uphold and safeguard property rights as delineated in Book 1 of this Constitution and to provide equitable administration of justice according to the general principles of justice outlined in this law and in the appropriate doctrine, such as those are upheld by State Courts.
+2. Ancillary objectives, such as safeguarding the integrity of a particular community, may be pursued provided they do not supersede the primary mandate.
+
+#### Article 101: Special consideration of Private Court Delictual jurisdiction
+1. In matters of delicts, State Courts capable of assuming Appelate Jurisdiction and the Supreme Court reserve the right to assert State jurisdiction, superseding any existing contractual obligations between a Party and a Private Court, should the pursuit of justice necessitate such action.
+2. Besides having no jurisdiction in Criminal matters, Private Courts are precluded from adjudicating delictual matters involving penalties or damages exceeding 5 BTC. 
+3. Cases where State jurisdiction is asserted or where it must be assumed due to the size of the possible penalty, the Private Court shall transfer the Case without delay to a State Court of the asserting Court’s choosing or to the State Court of general jurisdiction of the Defendant, which shall restart the proceedings. 
+4. While Private Courts retain the right to issue decisions regarding court costs incurred up until the point of transfer, this right applies only insofar as the Private Court acted in good faith in the pursuit of the case and could not have reasonably anticipated the necessity for the transfer of jurisdiction.
+
+#### Article 102: Constitutional Adherence
 Private Courts are obligated to operate in strict compliance with the rights and freedoms enshrined in the Constitution, in the same way as State Courts are.
-Regulatory Standards
-The State retains the prerogative to impose minimum operational standards on Private Courts, encompassing aspects of fairness, equality, and accessibility to legal recourse.
-Private Courts are mandated to disclose, in a public manner, the legal frameworks or rules under which they operate.
-Mutual Recognition
-Private Courts are obligated to recognize and enforce judgments rendered by State Courts and other Private Courts. 
-This doesn’t preclude Private Courts from adjudicating appeals or similar processes regarding decision of other Private Courts. 
-Supreme Court Oversight
+
+#### Article 103: Regulatory Standards
+1. The State retains the prerogative to impose minimum operational standards on Private Courts, encompassing aspects of fairness, equality, and accessibility to legal recourse.
+2. Private Courts are mandated to disclose, in a public manner, the legal frameworks or rules under which they operate.
+
+#### Article 104: Mutual Recognition
+1. Private Courts are obligated to recognize and enforce judgments rendered by State Courts and other Private Courts. 
+2. This doesn’t preclude Private Courts from adjudicating appeals or similar processes regarding decision of other Private Courts. 
+
+#### Article 105: Supreme Court Oversight
 All Private Courts shall recognize the Supreme Court as the ultimate appellate and general judicial authority, and its jurisprudence shall be binding upon all Private Courts.
-Sanctions and Penalties
-Any decision rendered in contravention of Book 1 of the Constitution or in violation of any rights and freedoms guaranteed by the Constitution shall be deemed null and void.
-The act of rendering a decision that is unconstitutional in bad faith shall constitute a Misdemeanor of the Court. If such an act is not the result of the Court’s systemic failure but attributed to an individual Judge, the penalty imposed shall range from 5,000 to 50,000 Liberland Merit (LLM).
-A Private Court or its Judge shall be deemed to have committed a Misdemeanor in cases of:
-Negation of the principles of Mutual Recognition or Supreme Court Oversight, with penalties ranging from 500 to 20,000 LLM, contingent upon the motive behind the action and the severity of its impact on the Parties involved.
-Non-compliance with other provisions of this Law, with penalties ranging from 250 to 10,000 LLM, based on the gravity of the infraction and its consequences for the Parties.
-Persistent non-compliance by a Private Court may lead to its disestablishment. Parties affected by the actions of the said Private Court within the preceding three years are entitled to initiate an appeal process within 20 days following the receipt of notice regarding such disestablishment.
-Chapter 10: Final Provisions
-Legal Force
+
+#### Article 106: Sanctions and Penalties
+1. Any decision rendered in contravention of Book 1 of the Constitution or in violation of any rights and freedoms guaranteed by the Constitution shall be deemed null and void.
+2. The act of rendering a decision that is unconstitutional in bad faith shall constitute a Misdemeanor of the Court. If such an act is not the result of the Court’s systemic failure but attributed to an individual Judge, the penalty imposed shall range from 5,000 to 50,000 Liberland Merit (LLM).
+3. A Private Court or its Judge shall be deemed to have committed a Misdemeanor in cases of:
+   
+    a. Negation of the principles of Mutual Recognition or Supreme Court Oversight, with penalties ranging from 500 to 20,000 LLM, contingent upon the motive behind the action and the severity of its impact on the Parties involved.
+
+    b. Non-compliance with other provisions of this Law, with penalties ranging from 250 to 10,000 LLM, based on the gravity of the infraction and its consequences for the Parties.
+   
+5. Persistent non-compliance by a Private Court may lead to its disestablishment. Parties affected by the actions of the said Private Court within the preceding three years are entitled to initiate an appeal process within 20 days following the receipt of notice regarding such disestablishment.
+## Chapter 10: Final Provisions
+
+#### Article 107: Legal Force
 This law gains legal force on ... and shall remain valid until it is repealed.
