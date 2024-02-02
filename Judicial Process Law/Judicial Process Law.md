@@ -31,9 +31,12 @@ Every individual in Liberland has the right to a fair and public hearing within 
 1. When a final Verdict in a given in a case between given parties and there is no longer the possibility for a regular Appeal, there can be no further Judiciary Process started, where
 
    a. the claim is based on the same transaction or the same situation that was at issue in the first action;
+   
    b. the plaintiff seeks a different remedy, or further remedy, than was obtained in the first action; or
+   
    c. the claim is of such nature as could have been joined in the first action.
-2. A Judiciary Process can likewise not be started where the matter concerns solely issues of fact or law that have already been determined by a judge or jury as part of an earlier case.
+   
+3. A Judiciary Process can likewise not be started where the matter concerns solely issues of fact or law that have already been determined by a judge or jury as part of an earlier case.
 
 #### Article 6: Litispendence
 1. A Judiciary process will not be started when there is already a case pending in the exact same subject matter between the same Parties. 
@@ -58,7 +61,9 @@ The judiciary in Liberland shall be independent of the executive and legislative
 #### Article 10: Process Economy
 1. Every decision within a process, as well as the overall setup of the process, shall be structured to minimize costs, unless the parties explicitly agree to a different arrangement.
 2. Parties involved in a judicial proceeding have the right to seek recourse if they believe that this principle of cost minimization is not being adhered to. Complaints regarding potential breaches of this principle shall be:
+   
    a. Reviewed promptly by the relevant judicial authority; and
+   
    b. Addressed through appropriate measures to rectify any identified inefficiencies or excesses in the judicial process.
 
 #### Article 11: Honour of the Court
@@ -66,17 +71,23 @@ The judiciary in Liberland shall be independent of the executive and legislative
 2. Where they comply with the expected standard of behaviour and professionalism, mistreatment of court personnel shall be classified as Contempt of Court.
 
 #### Article 12: Contempt of Court
-1. A party, or any individual engaged in the Judicial Process, excluding the Judge, who 
+1. A party, or any individual engaged in the Judicial Process, excluding the Judge, who
+   
    a. commits an act or omission resulting in:
+   
     i. Disrespect towards the court;
+   
     ii. Interference with court proceedings; and
+   
     iii. Undermining the authority of the court;
          when such conduct leads to tangible consequences such as increased Court Costs, procedural delays, or other damages incurred by the State or other parties involved; or
+   
    b. Engages in an act for which Contempt of Court is prescribed as a consequence in this Law;
    shall be found in Contempt of Court.
-2. Any individual adjudged in Contempt of Court shall be subject to a penalty. The penalty shall range from 150 LLM to 5000 LLM, commensurate with the gravity, contextual circumstances, and underlying motives of the contemptuous act.
-3. First-time offenders will generally be subject to penalties at the lower spectrum of the aforementioned range. However, in cases where a first-time offender demonstrates a clear intent to refrain from future violations, and the resultant damage is relatively minor, an admonition may be issued in lieu of a pecuniary sanction.
-4. Should an offender be found guilty of repeated serious Contempt of Court committed under aggravating circumstances or with serious consequences, and where further sanctions seem unlikely to lead to improvement in conduct, the Court may summarily dismiss the offender's case due to aggravated Contempt of Court.
+   
+3. Any individual adjudged in Contempt of Court shall be subject to a penalty. The penalty shall range from 150 LLM to 5000 LLM, commensurate with the gravity, contextual circumstances, and underlying motives of the contemptuous act.
+4. First-time offenders will generally be subject to penalties at the lower spectrum of the aforementioned range. However, in cases where a first-time offender demonstrates a clear intent to refrain from future violations, and the resultant damage is relatively minor, an admonition may be issued in lieu of a pecuniary sanction.
+5. Should an offender be found guilty of repeated serious Contempt of Court committed under aggravating circumstances or with serious consequences, and where further sanctions seem unlikely to lead to improvement in conduct, the Court may summarily dismiss the offender's case due to aggravated Contempt of Court.
 
 #### Article 13: Judicial remedies
 1. Courts in Liberland are empowered to provide a range of appropriate and effective remedies to safeguard and enforce the rights and interests of parties involved in legal disputes. These remedies include, but are not limited to, monetary compensation, injunctive relief, and declaratory relief.
@@ -89,12 +100,16 @@ The judiciary in Liberland shall be independent of the executive and legislative
 2. When a party requests the service of a translator and/or interpreter, the Judge shall arrange that at the expense of the requesting party.
 
 ##### Section 2: Protection of a party with an impairment
-1. When the protection of a party with an impairment, such as a party with a sensory impairment, 
-   a. requires interpretation or transcription to make the process understandable for that party, and 
-   b. the use of legal counsel is insufficient, or 
+1. When the protection of a party with an impairment, such as a party with a sensory impairment,
+   
+   a. requires interpretation or transcription to make the process understandable for that party, and
+   
+   b. the use of legal counsel is insufficient, or
+   
    c. the party can prove that they have insufficient means to obtain such legal counsel,
-      The judge shall waive the requirement for the party to cover the expenses for translation or interpretation services. 
-2. Additionally, the Judge shall make any necessary accommodations to allow the party to present their case reasonably.
+      The judge shall waive the requirement for the party to cover the expenses for translation or interpretation services.
+   
+3. Additionally, the Judge shall make any necessary accommodations to allow the party to present their case reasonably.
 
 ## Chapter 2: Types of Judicial Process
 #### Article 15: General Process
@@ -104,8 +119,11 @@ The judicial procedure for resolving private law disputes between parties is est
 1. Special Processes, which are derived from the General Process, shall be established for judicial and administrative proceedings that necessitate distinct procedures. These procedures are to be specified either in this law or in special laws.
 2. The purpose of these Special Processes is to cater to specific procedural needs that the General Process does not adequately address, thereby ensuring both efficiency and fairness in specialized contexts.
 3. Each Special Process will:
+   
    a. Be assigned a unique name; and
+   
    b. have its particular distinctions and procedural framework explicitly detailed in a law.
+   
 #### Article 17: Delict Process
 1. The Delict Process shall be established as a Special Process involving a dispute between Liberland and another party, where the private party is alleged to be in non-compliance with the legal system, and Liberland acts as the public accuser.
 2. This process will apply special procedural rules aimed at protecting the victims, ensuring the consequent application of the principle “innocent until proven guilty”, and ensuring a higher standard of justice than the standard procedural rules.
@@ -131,27 +149,37 @@ The judicial procedure for resolving private law disputes between parties is est
 2. Absent such mutual consent or clear acknowledgment, Private Courts shall not assume jurisdiction and the matter will be deferred to the appropriate State Court.
    
 #### Article 20: Disciplinary Process
-1. A Disciplinary Process is hereby established, whereby 
+1. A Disciplinary Process is hereby established, whereby
+   
    a. a State Court is authorized to adjudicate cases between the State of Liberland, any of its branches or organizations, or
-   b. a Private Court is authorized to adjudicate cases between the community organizing the Private Court, or their respective representatives, 
+
+   b. a Private Court is authorized to adjudicate cases between the community organizing the Private Court, or their respective representatives,
+   
       as the accusing party, and a private entity or individual bearing a previously voluntarily assumed disciplinary responsibility to the accuser as the defendant.
-2. The Disciplinary Process shall address cases concerning alleged non-compliance by the private party with rules, laws, or traditions set by the State, its branches, organizations, or the community that established the Private Court.
-3. This process is applicable in instances where the alleged non-compliance does not fall under the category of other Delict types as defined in law.
+   
+3. The Disciplinary Process shall address cases concerning alleged non-compliance by the private party with rules, laws, or traditions set by the State, its branches, organizations, or the community that established the Private Court.
+4. This process is applicable in instances where the alleged non-compliance does not fall under the category of other Delict types as defined in law.
 
 ## Chapter 3: Core Concepts
 ### Title 1: Parties
 #### Article 21: Applicant and Defendant
 ##### Section 1: Fundamental Parties
 The fundamental Parties to any judicial proceeding shall be the Applicant and the Defendant.
+
    a. The Applicant shall be the party initiating the legal action; and
+   
    b. The Defendant shall be the party against whom the legal action is initiated.
 
 ##### Section 2: Multiple Applicants or Defendants
 1. In cases involving multiple Applicants or Defendants, the Court shall endeavor to address each party individually, wherever feasible.
 2. In situations where individual treatment of parties is impossible or clearly very impractical and incurring unproportionally high costs, the Court shall exercise its discretion in deciding whose location or circumstances to prioritize for procedural steps or decisions. The Court's decision shall be guided by the following criteria, applied in the order listed:
+   
    a. Priority is given to protecting the more vulnerable party, as objectively determined by the Court. The criteria for vulnerability shall be explicitly stated in the Court's decision. In cases of equal standing, the Defendant is presumed to be the more vulnerable party.
+   
    b. Consideration is given to the party with the most at stake in the dispute, encompassing all related cases, regardless of their nature (disciplinary, civil, criminal).
+   
    c. In disputes between a natural person and a legal entity, preference is given to the natural person.
+   
    d. If none of the above criteria are applicable, precedence is given to the first Applicant or Defendant in instances where additional parties joined the case subsequently.
 
 #### Article 22: Involvement of Non-Principal Parties
@@ -175,12 +203,19 @@ The fundamental Parties to any judicial proceeding shall be the Applicant and th
 #### Article 26: Substitution of Parties
 ##### Section 1: Grounds for Substitution
 A party may be substituted in a judicial proceeding under the following circumstances:
+
    a. Death of a party, 
+   
    b. Succession of a party that is an entity;   
+   
    c. Insolvency or bankruptcy of a party;
+   
    d. Assignment or transfer of interest;
+   
    e. Merger or acquisition affecting a party that is an entity;
+   
    f. Other circumstances as deemed appropriate by the Court.
+   
 ##### Section 2: Procedure for Substitution
 1. A motion for substitution must be filed by the substituting party or the remaining party, detailing the grounds for substitution.
 2. Notice of the motion shall be served to all parties involved in the case.
@@ -200,6 +235,7 @@ The substitution of a party shall not affect the prior proceedings of the case, 
 2. If the last Applicant withdraws, the case will terminate in favour of the Defendant. If no Defendants are present, the case will simply end, but the obligation to pay Court costs persists.
 3. Withdrawal by the last defending Party will generally lead to full acknowledgement of the Applicant's claims, subject to the Judge's discretion in cases where the Applicant's claims are manifestly unreasonable or unjust.
 4. Withdrawal may result in liability of the withdrawing Party for costs incurred by other Parties on the same side directly as a result of the withdrawal. This will be determined by the Judge before the withdrawal is approved and the withdrawing Party can take back their withdrawal when faced with those costs.
+   
 ##### Section 3: Repeated Case and Formal Considerations
 1. Withdrawal does not preclude the Parties from initiating a new action on the same matter before it is adjudicated. Repeated withdrawal and re-application may be dismissed as vexatious if the intent is clearly to delay or disrupt the proceedings.
 2. Requests for withdrawal must be submitted in writing and may be subject to the Court's discretion to ensure fairness and the administration of justice.
@@ -207,8 +243,11 @@ The substitution of a party shall not affect the prior proceedings of the case, 
 #### Article 28: Third-Party Intervention
 ##### Section 1: Right to Intervene
 A third party may seek to join in an ongoing judicial proceeding under the following conditions:
+
    a. The third-party claims an interest relating to the subject matter of the case;
+   
    b. The disposition of the case may impair the third party's ability to protect that interest; and
+   
    c. The third party's interest is not adequately represented by the existing parties.
 
 ##### Section 2: Procedure for Intervention
