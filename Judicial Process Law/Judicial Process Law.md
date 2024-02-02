@@ -97,126 +97,149 @@ The judiciary in Liberland shall be independent of the executive and legislative
 2. Additionally, the Judge shall make any necessary accommodations to allow the party to present their case reasonably.
 
 ## Chapter 2: Types of Judicial Process
-General Process
+#### Article 15: General Process
 The judicial procedure for resolving private law disputes between parties is established as the standard method for conducting both judicial proceedings and other processes in all Courts and institutions of the State of Liberland, reflecting the classically liberal principles of the State. The procedure, as described in this Law, shall be known as the General Process.
-Special Processes
-Special Processes, which are derived from the General Process, shall be established for judicial and administrative proceedings that necessitate distinct procedures. These procedures are to be specified either in this law or in special laws.
-The purpose of these Special Processes is to cater to specific procedural needs that the General Process does not adequately address, thereby ensuring both efficiency and fairness in specialized contexts.
-Each Special Process will:
-Be assigned a unique name; and
-have its particular distinctions and procedural framework explicitly detailed in a law.
-Delict Process
-The Delict Process shall be established as a Special Process involving a dispute between Liberland and another party, where the private party is alleged to be in non-compliance with the legal system, and Liberland acts as the public accuser.
-This process will apply special procedural rules aimed at protecting the victims, ensuring the consequent application of the principle “innocent until proven guilty”, and ensuring a higher standard of justice than the standard procedural rules.
-The detailed procedural framework of the Delict Process shall be outlined in a specific law.
-Criminal Process
-Section 1: Criminal Process
-The Criminal Process shall be a special case of the Delict Process where the object of the process is the innocence or guilt and the punishment for a Crime, as defined by the Constitution.
-Criminal cases shall not be adjudicated by any Private Court. Any regulation, judicial decision, international treaty or contractual agreements that attempt to override this provision shall be null and void.
-Section 2: Temporary adoption of the Croatian Criminal Process
-Until a court and criminal police system meeting modern standards of criminal justice and police work can be established, Liberland shall accept the criminal jurisdiction of Croatian courts in matters related to Crimes.
-Liberland shall not establish its own Criminal Process or criminal Courts for the time being, and neither shall it adjudicate Crimes itself, deferring instead to Croatian criminal law and the Croatian criminal justice system.
-Liberland shall retain in full the authority to process and punish all other Delicts and disciplinary matters and shall establish organs to prosecute their perpetrators, including general and specialized Courts.
-Private Courts and alternative dispute resolution
-Section 1: Power of the Private Courts
-Private courts, arbitration, mediation, and other alternative dispute resolution mechanisms may be established and operated within the territory of Liberland, subject to the general principles and minimum requirements set forth in this law.
-Private courts shall have the power to resolve disputes between willing parties in accordance with the agreed-upon rules and procedures, provided that they do not violate the fundamental principles of justice and fairness enshrined in this law and the Constitution of Liberland.
-Section 2: Jurisdiction of the Private Courts
-Jurisdiction of Private Courts shall be established exclusively on the basis of informed consent, mutually accorded by all parties to a dispute. This consent must typically originate from a contractual relationship or be explicitly declared by a party, in such a manner that the jurisdictional basis can be assumed to be unequivocally understood and acknowledged by the other party. 
-Absent such mutual consent or clear acknowledgment, Private Courts shall not assume jurisdiction and the matter will be deferred to the appropriate State Court.
-Disciplinary Process
-A Disciplinary Process is hereby established, whereby 
-a State Court is authorized to adjudicate cases between the State of Liberland, any of its branches or organizations, or
-a Private Court is authorized to adjudicate cases between the community organizing the Private Court, or their respective representatives, 
-as the accusing party, and a private entity or individual bearing a previously voluntarily assumed disciplinary responsibility to the accuser as the defendant.
-The Disciplinary Process shall address cases concerning alleged non-compliance by the private party with rules, laws, or traditions set by the State, its branches, organizations, or the community that established the Private Court.
-This process is applicable in instances where the alleged non-compliance does not fall under the category of other Delict types as defined in law.
-Chapter 3: Core Concepts
-Title 1: Parties
-Applicant and Defendant
-Section 1: Fundamental Parties
+
+#### Article 16: Special Processes
+1. Special Processes, which are derived from the General Process, shall be established for judicial and administrative proceedings that necessitate distinct procedures. These procedures are to be specified either in this law or in special laws.
+2. The purpose of these Special Processes is to cater to specific procedural needs that the General Process does not adequately address, thereby ensuring both efficiency and fairness in specialized contexts.
+3. Each Special Process will:
+   a. Be assigned a unique name; and
+   b. have its particular distinctions and procedural framework explicitly detailed in a law.
+#### Article 17: Delict Process
+1. The Delict Process shall be established as a Special Process involving a dispute between Liberland and another party, where the private party is alleged to be in non-compliance with the legal system, and Liberland acts as the public accuser.
+2. This process will apply special procedural rules aimed at protecting the victims, ensuring the consequent application of the principle “innocent until proven guilty”, and ensuring a higher standard of justice than the standard procedural rules.
+3. The detailed procedural framework of the Delict Process shall be outlined in a specific law.
+
+#### Article 18: Criminal Process
+##### Section 1: Criminal Process
+1. The Criminal Process shall be a special case of the Delict Process where the object of the process is the innocence or guilt and the punishment for a Crime, as defined by the Constitution.
+2. Criminal cases shall not be adjudicated by any Private Court. Any regulation, judicial decision, international treaty or contractual agreements that attempt to override this provision shall be null and void.
+
+##### Section 2: Temporary adoption of the Croatian Criminal Process
+1. Until a court and criminal police system meeting modern standards of criminal justice and police work can be established, Liberland shall accept the criminal jurisdiction of Croatian courts in matters related to Crimes.
+2. Liberland shall not establish its own Criminal Process or criminal Courts for the time being, and neither shall it adjudicate Crimes itself, deferring instead to Croatian criminal law and the Croatian criminal justice system.
+3. Liberland shall retain in full the authority to process and punish all other Delicts and disciplinary matters and shall establish organs to prosecute their perpetrators, including general and specialized Courts.
+
+#### Article 19: Private Courts and alternative dispute resolution
+##### Section 1: Power of the Private Courts
+1. Private courts, arbitration, mediation, and other alternative dispute resolution mechanisms may be established and operated within the territory of Liberland, subject to the general principles and minimum requirements set forth in this law.
+2. Private courts shall have the power to resolve disputes between willing parties in accordance with the agreed-upon rules and procedures, provided that they do not violate the fundamental principles of justice and fairness enshrined in this law and the Constitution of Liberland.
+
+##### Section 2: Jurisdiction of the Private Courts
+1. Jurisdiction of Private Courts shall be established exclusively on the basis of informed consent, mutually accorded by all parties to a dispute. This consent must typically originate from a contractual relationship or be explicitly declared by a party, in such a manner that the jurisdictional basis can be assumed to be unequivocally understood and acknowledged by the other party. 
+2. Absent such mutual consent or clear acknowledgment, Private Courts shall not assume jurisdiction and the matter will be deferred to the appropriate State Court.
+   
+#### Article 20: Disciplinary Process
+1. A Disciplinary Process is hereby established, whereby 
+   a. a State Court is authorized to adjudicate cases between the State of Liberland, any of its branches or organizations, or
+   b. a Private Court is authorized to adjudicate cases between the community organizing the Private Court, or their respective representatives, 
+      as the accusing party, and a private entity or individual bearing a previously voluntarily assumed disciplinary responsibility to the accuser as the defendant.
+2. The Disciplinary Process shall address cases concerning alleged non-compliance by the private party with rules, laws, or traditions set by the State, its branches, organizations, or the community that established the Private Court.
+3. This process is applicable in instances where the alleged non-compliance does not fall under the category of other Delict types as defined in law.
+
+## Chapter 3: Core Concepts
+### Title 1: Parties
+#### Article 21: Applicant and Defendant
+##### Section 1: Fundamental Parties
 The fundamental Parties to any judicial proceeding shall be the Applicant and the Defendant.
-The Applicant shall be the party initiating the legal action; and
-The Defendant shall be the party against whom the legal action is initiated.
-Section 2: Multiple Applicants or Defendants
-In cases involving multiple Applicants or Defendants, the Court shall endeavor to address each party individually, wherever feasible.
-In situations where individual treatment of parties is impossible or clearly very impractical and incurring unproportionally high costs, the Court shall exercise its discretion in deciding whose location or circumstances to prioritize for procedural steps or decisions. The Court's decision shall be guided by the following criteria, applied in the order listed:
-Priority is given to protecting the more vulnerable party, as objectively determined by the Court. The criteria for vulnerability shall be explicitly stated in the Court's decision. In cases of equal standing, the Defendant is presumed to be the more vulnerable party.
-Consideration is given to the party with the most at stake in the dispute, encompassing all related cases, regardless of their nature (disciplinary, civil, criminal).
-In disputes between a natural person and a legal entity, preference is given to the natural person.
-If none of the above criteria are applicable, precedence is given to the first Applicant or Defendant in instances where additional parties joined the case subsequently.
-Involvement of Non-Principal Parties
-Judicial proceedings may frequently involve parties who do not qualify as either Applicants or Defendants. Such parties shall be aligned with the side that has summoned them to the proceedings or the side for whose benefit they are acting.
-In instances where a party's alignment is not clearly discernable, such party shall be deemed neutral for the purposes of the proceedings.
-Competency for natural persons
-Natural persons are normally presumed to possess the competency to represent themselves in court proceedings. This presumption shall stand unless and until a contrary determination is made by the Court, following due process.
-Natural persons diagnosed by reputable medical institutions with conditions that substantially impair their ability to comprehend or make informed decisions in legal contexts shall be presumed incompetent for self-representation. This presumption of incompetence shall similarly apply to individuals under the age of fifteen years.
-In instances where a natural person is adjudged incapable of self-representation, the Court shall appoint a legal representative for such individual. The costs associated with this legal representation shall be borne by the individual in question, except in the case of minors, wherein financial responsibility shall fall upon their parents or legal guardians. 
-Parents or legal guardians may also serve as the legal representatives for persons who do not possess the competency to represent themselves in court proceedings.
-Competency for Legal Entities
-Legal Entities shall be represented by natural persons designated in their foundational documents as responsible for their representation. 
-In cases of ambiguity, the natural person occupying the highest position in the Legal Entity’s management hierarchy shall act as its representative.
-Legal Representation
-A Party, be it an individual or an entity or a group of Parties, shall have the right to appoint a chosen representative to act in their stead before the Court. Such an appointment must be formalized in writing.
-A representative can be given general powers to represent the Party for the entirety of the process and for all process actions, or specific powers for a particular action or a set of action or a section of the process.
-The Court shall extend equal respect and consideration to all appointed representatives, irrespective of their designated role or title.
-Substitution of Parties
-Section 1: Grounds for Substitution
+   a. The Applicant shall be the party initiating the legal action; and
+   b. The Defendant shall be the party against whom the legal action is initiated.
+
+##### Section 2: Multiple Applicants or Defendants
+1. In cases involving multiple Applicants or Defendants, the Court shall endeavor to address each party individually, wherever feasible.
+2. In situations where individual treatment of parties is impossible or clearly very impractical and incurring unproportionally high costs, the Court shall exercise its discretion in deciding whose location or circumstances to prioritize for procedural steps or decisions. The Court's decision shall be guided by the following criteria, applied in the order listed:
+   a. Priority is given to protecting the more vulnerable party, as objectively determined by the Court. The criteria for vulnerability shall be explicitly stated in the Court's decision. In cases of equal standing, the Defendant is presumed to be the more vulnerable party.
+   b. Consideration is given to the party with the most at stake in the dispute, encompassing all related cases, regardless of their nature (disciplinary, civil, criminal).
+   c. In disputes between a natural person and a legal entity, preference is given to the natural person.
+   d. If none of the above criteria are applicable, precedence is given to the first Applicant or Defendant in instances where additional parties joined the case subsequently.
+
+#### Article 22: Involvement of Non-Principal Parties
+1. Judicial proceedings may frequently involve parties who do not qualify as either Applicants or Defendants. Such parties shall be aligned with the side that has summoned them to the proceedings or the side for whose benefit they are acting.
+2. In instances where a party's alignment is not clearly discernable, such party shall be deemed neutral for the purposes of the proceedings.
+
+#### Article 23: Competency for natural persons
+1. Natural persons are normally presumed to possess the competency to represent themselves in court proceedings. This presumption shall stand unless and until a contrary determination is made by the Court, following due process.
+2. Natural persons diagnosed by reputable medical institutions with conditions that substantially impair their ability to comprehend or make informed decisions in legal contexts shall be presumed incompetent for self-representation. This presumption of incompetence shall similarly apply to individuals under the age of fifteen years.
+3. In instances where a natural person is adjudged incapable of self-representation, the Court shall appoint a legal representative for such individual. The costs associated with this legal representation shall be borne by the individual in question, except in the case of minors, wherein financial responsibility shall fall upon their parents or legal guardians. 
+4. Parents or legal guardians may also serve as the legal representatives for persons who do not possess the competency to represent themselves in court proceedings.
+
+#### Article 24: Competency for Legal Entities
+1. Legal Entities shall be represented by natural persons designated in their foundational documents as responsible for their representation. 
+2. In cases of ambiguity, the natural person occupying the highest position in the Legal Entity’s management hierarchy shall act as its representative.
+
+#### Article 25: Legal Representation
+1. A Party, be it an individual or an entity or a group of Parties, shall have the right to appoint a chosen representative to act in their stead before the Court. Such an appointment must be formalized in writing.
+2. A representative can be given general powers to represent the Party for the entirety of the process and for all process actions, or specific powers for a particular action or a set of action or a section of the process.
+3. The Court shall extend equal respect and consideration to all appointed representatives, irrespective of their designated role or title.
+#### Article 26: Substitution of Parties
+##### Section 1: Grounds for Substitution
 A party may be substituted in a judicial proceeding under the following circumstances:
-Death of a party, 
-Succession of a party that is an entity;
-Insolvency or bankruptcy of a party;
-Assignment or transfer of interest;
-Merger or acquisition affecting a party that is an entity;
-Other circumstances as deemed appropriate by the Court.
-Section 2: Procedure for Substitution
-A motion for substitution must be filed by the substituting party or the remaining party, detailing the grounds for substitution.
-Notice of the motion shall be served to all parties involved in the case.
-The Court shall evaluate the motion and may require evidence or additional information before granting or rejecting substitution.
-Upon approval, the substituting party shall assume all rights and responsibilities of the original party from the point of substitution.
-Section 3: Effect of Substitution
+   a. Death of a party, 
+   b. Succession of a party that is an entity;   
+   c. Insolvency or bankruptcy of a party;
+   d. Assignment or transfer of interest;
+   e. Merger or acquisition affecting a party that is an entity;
+   f. Other circumstances as deemed appropriate by the Court.
+##### Section 2: Procedure for Substitution
+1. A motion for substitution must be filed by the substituting party or the remaining party, detailing the grounds for substitution.
+2. Notice of the motion shall be served to all parties involved in the case.
+3. The Court shall evaluate the motion and may require evidence or additional information before granting or rejecting substitution.
+4. Upon approval, the substituting party shall assume all rights and responsibilities of the original party from the point of substitution.
+
+##### Section 3: Effect of Substitution
 The substitution of a party shall not affect the prior proceedings of the case, nor shall it necessitate the repetition of any completed procedural steps, unless otherwise ordered by the Court.
-Withdrawal
-Section 1: Rules for Withdrawal
-Any party may withdraw their application, defence, or participation at any stage, subject to the Court's approval.
-A party may withdraw their application, defence, or participation before the delivery of documents to any other party by simply informing the Judge.
-Section 2: Consequences of Withdrawal
-If a Party on one side withdraws while other Parties on that side remain, the process will continue. The withdrawing Party is not exempt from the consequences of the final Decision or other measures taken by the Court.
-If the last Applicant withdraws, the case will terminate in favour of the Defendant. If no Defendants are present, the case will simply end, but the obligation to pay Court costs persists.
-Withdrawal by the last defending Party will generally lead to full acknowledgement of the Applicant's claims, subject to the Judge's discretion in cases where the Applicant's claims are manifestly unreasonable or unjust.
-Withdrawal may result in liability of the withdrawing Party for costs incurred by other Parties on the same side directly as a result of the withdrawal. This will be determined by the Judge before the withdrawal is approved and the withdrawing Party can take back their withdrawal when faced with those costs.
-Section 3: Repeated Case and Formal Considerations
-Withdrawal does not preclude the Parties from initiating a new action on the same matter before it is adjudicated. Repeated withdrawal and re-application may be dismissed as vexatious if the intent is clearly to delay or disrupt the proceedings.
-Requests for withdrawal must be submitted in writing and may be subject to the Court's discretion to ensure fairness and the administration of justice.
-Third-Party Intervention
-Section 1: Right to Intervene
+
+#### Article 27: Withdrawal
+##### Section 1: Rules for Withdrawal
+1. Any party may withdraw their application, defence, or participation at any stage, subject to the Court's approval.
+2. A party may withdraw their application, defence, or participation before the delivery of documents to any other party by simply informing the Judge.
+
+##### Section 2: Consequences of Withdrawal
+1. If a Party on one side withdraws while other Parties on that side remain, the process will continue. The withdrawing Party is not exempt from the consequences of the final Decision or other measures taken by the Court.
+2. If the last Applicant withdraws, the case will terminate in favour of the Defendant. If no Defendants are present, the case will simply end, but the obligation to pay Court costs persists.
+3. Withdrawal by the last defending Party will generally lead to full acknowledgement of the Applicant's claims, subject to the Judge's discretion in cases where the Applicant's claims are manifestly unreasonable or unjust.
+4. Withdrawal may result in liability of the withdrawing Party for costs incurred by other Parties on the same side directly as a result of the withdrawal. This will be determined by the Judge before the withdrawal is approved and the withdrawing Party can take back their withdrawal when faced with those costs.
+##### Section 3: Repeated Case and Formal Considerations
+1. Withdrawal does not preclude the Parties from initiating a new action on the same matter before it is adjudicated. Repeated withdrawal and re-application may be dismissed as vexatious if the intent is clearly to delay or disrupt the proceedings.
+2. Requests for withdrawal must be submitted in writing and may be subject to the Court's discretion to ensure fairness and the administration of justice.
+
+#### Article 28: Third-Party Intervention
+##### Section 1: Right to Intervene
 A third party may seek to join in an ongoing judicial proceeding under the following conditions:
-The third-party claims an interest relating to the subject matter of the case;
-The disposition of the case may impair the third party's ability to protect that interest; and
-The third party's interest is not adequately represented by the existing parties.
-Section 2: Procedure for Intervention
-A motion for joining must be filed by the third party, detailing the nature of their interest and the grounds for the joining. They shall indicate which side they wish to join: Applicant, Defendant or as a neutral, and shall reason out why they are making this motion.
-Notice of the motion shall be served to all existing parties.
-The Court shall evaluate the motion and may require evidence or additional information before granting the right to join.
-Section 3: Role and Responsibilities
+   a. The third-party claims an interest relating to the subject matter of the case;
+   b. The disposition of the case may impair the third party's ability to protect that interest; and
+   c. The third party's interest is not adequately represented by the existing parties.
+
+##### Section 2: Procedure for Intervention
+1. A motion for joining must be filed by the third party, detailing the nature of their interest and the grounds for the joining. They shall indicate which side they wish to join: Applicant, Defendant or as a neutral, and shall reason out why they are making this motion.
+2. Notice of the motion shall be served to all existing parties.
+3. The Court shall evaluate the motion and may require evidence or additional information before granting the right to join.
+
+##### Section 3: Role and Responsibilities
 Once the right to join is granted, the joining party shall be bound by the same rules, rights, and responsibilities as if they were an original party to the case on their respective side.
-Title 2: Judges
-Role of the Judge
-Section 1: Judicial Authority
-The Judge serves as the official conduit through which a court exercises its functions in matters related to the judicial process.
-A Judge or panel of Judges presides over any judicial process and renders the final decision to resolve any dispute, question, or other matter presented before the court.
-Section 2: The Judge Knows the Law
-A Judge presiding over a court proceeding is presumed to be knowledgeable in all aspects of Law relevant to making decisions in that proceeding, unless proven otherwise.
-The Judge also serves as the final arbiter in determining the correct procedure for every situation that arises before the court.
-Qualifications of the Judge
-Section 1: General Qualifications
+
+### Title 2: Judges
+#### Article 29: Role of the Judge
+##### Section 1: Judicial Authority
+1. The Judge serves as the official conduit through which a court exercises its functions in matters related to the judicial process.
+2. A Judge or panel of Judges presides over any judicial process and renders the final decision to resolve any dispute, question, or other matter presented before the court.
+
+##### Section 2: The Judge Knows the Law
+1. A Judge presiding over a court proceeding is presumed to be knowledgeable in all aspects of Law relevant to making decisions in that proceeding, unless proven otherwise.
+2. The Judge also serves as the final arbiter in determining the correct procedure for every situation that arises before the court.
+
+#### Article 30: Qualifications of the Judge
+##### Section 1: General Qualifications
 Authorities responsible for the appointment of Judges must ensure that appointees possess the necessary legal knowledge and competence to perform judicial duties in the specific context of the Court, panel, or types of processes they are expected to adjudicate.
-Section 2: Invalid Appointments and Sanctions
-Appointments made with knowledge or suspicion that the appointee lacks the necessary legal qualifications shall be deemed invalid.
-Such invalid appointments shall incur disciplinary and other sanctions, regardless of any other positive attributes the individual may possess.
-Section 3: Exceptional Circumstances
-In cases where qualified legal professionals are objectively scarce, the responsible authorities may appoint the most competent individuals available.
-Such authorities must notify the Ministry of Justice of these appointments. The Ministry of Justice reserves the right to reject such appointments without unnecessary delays in maximal 15 days after the notification if the reasons provided are insufficient or if the appointee clearly lacks the basic ability to perform their duties.
+
+##### Section 2: Invalid Appointments and Sanctions
+1. Appointments made with knowledge or suspicion that the appointee lacks the necessary legal qualifications shall be deemed invalid.
+2. Such invalid appointments shall incur disciplinary and other sanctions, regardless of any other positive attributes the individual may possess.
+
+##### Section 3: Exceptional Circumstances
+1. In cases where qualified legal professionals are objectively scarce, the responsible authorities may appoint the most competent individuals available.
+2. Such authorities must notify the Ministry of Justice of these appointments. The Ministry of Justice reserves the right to reject such appointments without unnecessary delays in maximal 15 days after the notification if the reasons provided are insufficient or if the appointee clearly lacks the basic ability to perform their duties.
 Composition of Judicial Panels
 Section 1: Number of Judges and Decision-Making
 In cases presided over by multiple Judges, the Judicial Panel shall consist of an odd number of Judges.
