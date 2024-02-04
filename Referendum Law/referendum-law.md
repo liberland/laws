@@ -23,7 +23,6 @@ WHEREAS, Article 76 of the Constitution advocates for a referendum mechanism tha
 
 NOW, THEREFORE, BE IT ENACTED by the Citizens and the Government of Liberland.
 
-# Interim Referendum Law
 ## Chapter 1: General Provisions
 #### Article 1: Purpose of the Referendum
 1. The Referendum, the primary instrument of democracy in Liberland, shall empower Citizens to make collective decisions. 
